@@ -1,0 +1,41 @@
+[TC_WOTC_MWR_MINIUZI_T1 X2WeaponTemplate]
+FriendlyName="<font color='#ECECEC'><b>Mini Uzi</b></font>"
+FriendlyNamePlural="<font color='#ECECEC'><b>Mini Uzis</b></font>"
+AbilityDescName="machine pistol"
+BriefSummary="The Mini Uzi is an Israeli open-bolt, blowback-operated machine pistol; this one being a smaller version of the Uzi introduced in 1980. The Mini Uzi dimensions is 600 mm (23.62 in) long or 360 mm (14.17 in) long with the stock folded. Its barrel length is 197 mm (7.76 in), its muzzle velocity is 375 m/s (1230 f/s) and its effective range is 100 m. It has a greater automatic rate of fire of 950 rounds per minute due to the shorter bolt. Its weight is approximately 2.7 kg (6.0 lb)."
+TacticalText="<Bullet/>Type: Machine Pistol\n<Bullet/>Firing Profile: Full-Auto\n<Bullet/>Action: Blowback, Open Bolt\n<Bullet/>Cartridge: 9×19mm Parabellum\n<Bullet/>Origin: Israel\n<Bullet/>Tier: Conventional"
+
+[TC_WOTC_MWR_MINIUZI_T2 X2WeaponTemplate]
+FriendlyName="<font color='#27AAE1'><b>CQMP-P5</b></font>"
+FriendlyNamePlural="<font color='#27AAE1'><b>CQMPs</b></font>"
+AbilityDescName="machine pistol"
+BriefSummary="The Mini Uzi is an Israeli open-bolt, blowback-operated machine pistol; this one being a smaller version of the Uzi introduced in 1980. The Mini Uzi dimensions is 600 mm (23.62 in) long or 360 mm (14.17 in) long with the stock folded. Its barrel length is 197 mm (7.76 in), its muzzle velocity is 375 m/s (1230 f/s) and its effective range is 100 m. It has a greater automatic rate of fire of 950 rounds per minute due to the shorter bolt. Its weight is approximately 2.7 kg (6.0 lb).\nLike it unminiturized brother, the CQMP-P5 improves upon and fixes several problems that plagued the Mini Uzi: the delay firing issue with the open-bolt design, and particle contamination in the receiver when left cocked. The upgrade also gave the Mini-Xeni a hefty boost in performance, which will no doubt be useful for our soldiers."
+TacticalText="<Bullet/>Type: Machine Pistol\n<Bullet/>Firing Profile: Full-Auto\n<Bullet/>Action: Blowback, Open Bolt\n<Bullet/>Cartridge: 9×19mm Parabellum\n<Bullet/>Origin: Israel\n<Bullet/>Tier: Magnetic"
+
+[TC_WOTC_MWR_MINIUZI_T3 X2WeaponTemplate]
+FriendlyName="<font color='#CF4517'><b>CQMPX-P10</b></font>"
+FriendlyNamePlural="<font color='#CF4517'><b>CQMPXs</b></font>"
+AbilityDescName="machine pistol"
+BriefSummary="The Mini Uzi is an Israeli open-bolt, blowback-operated machine pistol; this one being a smaller version of the Uzi introduced in 1980. The Mini Uzi dimensions is 600 mm (23.62 in) long or 360 mm (14.17 in) long with the stock folded. Its barrel length is 197 mm (7.76 in), its muzzle velocity is 375 m/s (1230 f/s) and its effective range is 100 m. It has a greater automatic rate of fire of 950 rounds per minute due to the shorter bolt. Its weight is approximately 2.7 kg (6.0 lb).\n The CQMPX-P10 follows its subcompact brother in the upgrade process. The gas operated firing mechanism is replaced with a custom-made one powered with elerium, further increasing the stopping power, while lowering the kickback of the Uzi."
+TacticalText="<Bullet/>Type: Machine Pistol\n<Bullet/>Firing Profile: Full-Auto\n<Bullet/>Action: Blowback, Open Bolt\n<Bullet/>Cartridge: 9×19mm Parabellum\n<Bullet/>Origin: Israel\n<Bullet/>Tier: Beam"
+
+[TC_WOTC_TMP_MWR_MINIUZI_T1 X2WeaponTemplate]
+FriendlyName="<font color='#ECECEC'><b>Mini Uzi</b></font>"
+FriendlyNamePlural="<font color='#ECECEC'><b>Mini Uzis</b></font>"
+AbilityDescName="machine pistol"
+BriefSummary="The Mini Uzi is an Israeli open-bolt, blowback-operated machine pistol; this one being a smaller version of the Uzi introduced in 1980. The Mini Uzi dimensions is 600 mm (23.62 in) long or 360 mm (14.17 in) long with the stock folded. Its barrel length is 197 mm (7.76 in), its muzzle velocity is 375 m/s (1230 f/s) and its effective range is 100 m. It has a greater automatic rate of fire of 950 rounds per minute due to the shorter bolt. Its weight is approximately 2.7 kg (6.0 lb)."
+TacticalText="<Bullet/>Type: Machine Pistol\n<Bullet/>Firing Profile: Full-Auto\n<Bullet/>Action: Blowback, Open Bolt\n<Bullet/>Cartridge: 9×19mm Parabellum\n<Bullet/>Origin: Israel\n<Bullet/>Tier: Conventional"
+
+[TC_WOTC_TMP_MWR_MINIUZI_T2 X2WeaponTemplate]
+FriendlyName="<font color='#27AAE1'><b>CQMP-P5</b></font>"
+FriendlyNamePlural="<font color='#27AAE1'><b>CQMPs</b></font>"
+AbilityDescName="machine pistol"
+BriefSummary="The Mini Uzi is an Israeli open-bolt, blowback-operated machine pistol; this one being a smaller version of the Uzi introduced in 1980. The Mini Uzi dimensions is 600 mm (23.62 in) long or 360 mm (14.17 in) long with the stock folded. Its barrel length is 197 mm (7.76 in), its muzzle velocity is 375 m/s (1230 f/s) and its effective range is 100 m. It has a greater automatic rate of fire of 950 rounds per minute due to the shorter bolt. Its weight is approximately 2.7 kg (6.0 lb).\nLike it unminiturized brother, the CQMP-P5 improves upon and fixes several problems that plagued the Mini Uzi: the delay firing issue with the open-bolt design, and particle contamination in the receiver when left cocked. The upgrade also gave the Mini-Xeni a hefty boost in performance, which will no doubt be useful for our soldiers."
+TacticalText="<Bullet/>Type: Machine Pistol\n<Bullet/>Firing Profile: Full-Auto\n<Bullet/>Action: Blowback, Open Bolt\n<Bullet/>Cartridge: 9×19mm Parabellum\n<Bullet/>Origin: Israel\n<Bullet/>Tier: Magnetic"
+
+[TC_WOTC_TMP_MWR_MINIUZI_T3 X2WeaponTemplate]
+FriendlyName="<font color='#CF4517'><b>CQMPX-P10</b></font>"
+FriendlyNamePlural="<font color='#CF4517'><b>CQMPXs</b></font>"
+AbilityDescName="machine pistol"
+BriefSummary="The Mini Uzi is an Israeli open-bolt, blowback-operated machine pistol; this one being a smaller version of the Uzi introduced in 1980. The Mini Uzi dimensions is 600 mm (23.62 in) long or 360 mm (14.17 in) long with the stock folded. Its barrel length is 197 mm (7.76 in), its muzzle velocity is 375 m/s (1230 f/s) and its effective range is 100 m. It has a greater automatic rate of fire of 950 rounds per minute due to the shorter bolt. Its weight is approximately 2.7 kg (6.0 lb).\n The CQMPX-P10 follows its subcompact brother in the upgrade process. The gas operated firing mechanism is replaced with a custom-made one powered with elerium, further increasing the stopping power, while lowering the kickback of the Uzi."
+TacticalText="<Bullet/>Type: Machine Pistol\n<Bullet/>Firing Profile: Full-Auto\n<Bullet/>Action: Blowback, Open Bolt\n<Bullet/>Cartridge: 9×19mm Parabellum\n<Bullet/>Origin: Israel\n<Bullet/>Tier: Beam"

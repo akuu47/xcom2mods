@@ -1,0 +1,11 @@
+﻿[mod]
+publishedFileId=1124274560
+Title=Increased Cover
+Description=Vanilla cover:
+Low: 20
+High: 40
+
+Modded
+Low: 30
+High: 45
+RequiresXPACK=true

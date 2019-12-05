@@ -1,0 +1,20 @@
+[mod]
+publishedFileId=1561966168
+Title=Templar Reflect on Parry
+Description=A simple little mod that allows Templar's Reflect to trigger on Parry.
+
+This mod also slightly changes the way Deflect and Reflect chances are handled. Before, the game rolls for Reflect first, if it fails, it does not roll for Deflect at all. The only time it rolls for Deflect is when you have exactly 1 Focus (or not learned Reflect yet). This means that at high Focus you never see a Deflect happen, only Reflect.
+I have changed it to (imo) a more intuitive way - The game first rolls for Deflect, if it succeeds, then it rolls for possible Reflect. 
+This nerfs Reflect slightly, but is easily compensated by triggering Reflect on Parry.
+
+I've also added 2 new ini settings:
+
+bCanDeflectMelee = false
+bCanDeflectArea = false
+
+By default these are set to false as in vanilla, but you can change it so Deflect acts more like a "Parry on rng", deflecting melee and area attacks too. 
+You can also change ini settings for Deflect, Reflect and Reflect on Parry specifically in the same config file (XComParryReflect.ini).
+RequiresXPACK=true
+tags= gameplay, wotc
+contentImage=
+

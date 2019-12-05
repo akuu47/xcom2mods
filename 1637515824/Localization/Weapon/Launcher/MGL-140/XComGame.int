@@ -1,0 +1,13 @@
+[MD_WOTC_GL_MGL140_STD_T1 X2GrenadeLauncherTemplate]
+FriendlyName="M32 MGL"
+FriendlyNamePlural="M32 MGLs"
+AbilityDescName="revolver grenade launcher"
+BriefSummary="Designated as the \"M32 Multi-shot Grenade Launcher\" by the United States Marine Corp, the M32 (MGL-140) is a revolver-style grenade launcher that fires up to 6 shells."
+TacticalText="<Bullet/>Type: Grenade Launcher\n<Bullet/>Firing Profile: Single\n<Bullet/>Action: Double-Action\n<Bullet/>Cartridge: 40x46mm or 40x51mm Grenades\n<Bullet/>Origin: United States\n<Bullet/>Tier: Conventional"
+
+[MD_WOTC_GL_MGL140_STD_T2 X2GrenadeLauncherTemplate]
+FriendlyName="XMGL-145"
+FriendlyNamePlural="X36 MGLs"
+AbilityDescName="revolver grenade launcher"
+BriefSummary="Designated as the \"M32 Multi-shot Grenade Launcher\" by the United States Marine Corp, the M32 (MGL-140) is a revolver-style grenade launcher that fires up to 6 shells."
+TacticalText="<Bullet/>Type: Grenade Launcher\n<Bullet/>Firing Profile: Single\n<Bullet/>Action: Double-Action\n<Bullet/>Cartridge: 40x46mm or 40x51mm Grenades\n<Bullet/>Origin: United States\n<Bullet/>Tier: Magnetic"

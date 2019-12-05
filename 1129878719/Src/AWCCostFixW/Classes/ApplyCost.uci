@@ -1,0 +1,65 @@
+//---------------------------------------------------------------------------------------
+//  FILE:   ApplyCost.uci
+//  AUTHOR:  Mr. Nice
+//           
+//---------------------------------------------------------------------------------------
+
+`include(AWCCostFixW\Src\ModConfigMenuAPI\MCM_API_CfgHelpers.uci)
+
+simulated function ApplyCost(XComGameStateContext_Ability AbilityContext, XComGameState_Ability kAbility, XComGameState_BaseObject AffectState, XComGameState_Item AffectWeapon, XComGameState NewGameState)
+{
+	local XComGameState_Unit ModifiedUnitState;
+	local int i, iPointsToTake, PathIndex, FarthestTile;
+	local UnitValue ImplacableValue;
+
+	ModifiedUnitState = XComGameState_Unit(AffectState);
+	if (bFreeCost || ModifiedUnitState.GetMyTemplate().bIsCosmetic || (`CHEATMGR != none && `CHEATMGR.bUnlimitedActions))
+	return;
+	ModifiedUnitState.GetUnitValue(class'X2Effect_Implacable'.default.ImplacableThisTurnValue, ImplacableValue);
+	if (
+		!`GETMCMVAR(FIX_IMPLACABLE_CONSUMPTION)
+		|| !ConsumeAllPoints(kAbility, ModifiedUnitState)
+		|| ImplacableValue.fValue == 0
+		|| ModifiedUnitState.ActionPoints.Find('move')==INDEX_NONE
+		)
+	{
+		super.ApplyCost(AbilityContext, kAbility, AffectState, AffectWeapon, NewGameState);
+		return;
+	}
+
+	if (X2AbilityTarget_MovingMelee(kAbility.GetMyTemplate().AbilityTargetStyle)!=none)
+	{
+		PathIndex = AbilityContext.GetMovePathIndex(ModifiedUnitState.ObjectID);
+		iPointsToTake = 1;
+			
+		for(i = AbilityContext.InputContext.MovementPaths[PathIndex].MovementTiles.Length - 1; i >= 0; --i)
+		{
+			if(AbilityContext.InputContext.MovementPaths[PathIndex].MovementTiles[i] == ModifiedUnitState.TileLocation)
+			{
+				FarthestTile = i;
+				break;
+			}
+		}
+		for (i = 0; i < AbilityContext.InputContext.MovementPaths[PathIndex].CostIncreases.Length; ++i)
+		{
+			if (AbilityContext.InputContext.MovementPaths[PathIndex].CostIncreases[i] <= FarthestTile)
+				iPointsToTake++;
+		}
+	}
+	if(iPointsToTake>=ModifiedUnitState.NumAllActionPoints())
+		ModifiedUnitState.ActionPoints.length=0;
+	else
+	{
+		ModifiedUnitState.ActionPoints.length=0;
+		ModifiedUnitState.ActionPoints[0]='move';
+		AbilityContext.PostBuildVisualizationFn.AddItem(kAbility.DidNotConsumeAll_PostBuildVisualization);
+	}
+}
+
+defaultproperties
+{
+	AllowedTypes(0)="reaper"
+	AllowedTypes(1)="standard"
+	AllowedTypes(2)="runandgun"
+	AllowedTypes(3)="skirmisherinterrupt"
+}

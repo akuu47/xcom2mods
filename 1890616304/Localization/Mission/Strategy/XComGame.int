@@ -1,0 +1,27 @@
+[TurretFall X2SitRepTemplate]
+FriendlyName="TurretFall"
+Description="With the Defense Matrix available, XCom can skydrop and deploy turrets anywhere on the battlefield."
+
+[CounterOps X2SitRepTemplate]
+FriendlyName="Counter Operations"
+Description="Resistance saboteurs have made it harder for the aliens to send in tougher troops in large numbers."
+
+[PtD_GiveTurret_Effect X2SitRepEffect_GrantAbilities]
+FriendlyName="TurretFall"
+Description=" XCom can skydrop and deploy turrets anywhere on the battlefield"
+
+[PodSizeMaxThreeEffect X2SitRepEffect_ModifyPodSize]
+FriendlyName="Patrol Reduction"
+Description="ADVENT groups are limited to three enemies per squad"
+
+[ForceLevelDecreasedbyTwoEffect X2SitRepEffect_ModifyForceLevel]
+FriendlyName="Slow Response"
+Description="ADVENT has deployed lesser enemies."
+
+[WMO_StrongPodAllRNFChance_Easy X2SitRepEffect_ModifyKismetVariable]
+FriendlyName="Very Low Critical Reinforcements"
+Description="ADVENT and Aliens will not send in strong enemies unless absolutely necessary."
+
+[WMO_OpenPodRNFChance_Easy X2SitRepEffect_ModifyKismetVariable]
+FriendlyName="Very Low Alien Reinforcements"
+Description="Alien forces will occasionally reinforce this sector."

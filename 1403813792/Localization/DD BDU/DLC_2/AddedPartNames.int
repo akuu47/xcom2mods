@@ -1,0 +1,40 @@
+[X2DownloadableContentInfo_AddedPartNames]
+
+;
+; ALIEN HUNTERS
+;
+
+
+.TorsoTemplate="Serpent_DLC2_DD_BDU_Full_M"
+.TorsoName="Diamond Dogs BDU"
+
+.TorsoTemplate="Serpent_DLC2_DD_BDU_Full_F"
+.TorsoName="Diamond Dogs BDU"
+
+
+.TorsoTemplate="SerpentMk2_DLC2_DD_BDU_Full_M"
+.TorsoName="Diamond Dogs BDU"
+
+.TorsoTemplate="SerpentMk2_DLC2_DD_BDU_Full_F"
+.TorsoName="Diamond Dogs BDU"
+
+
+.TorsoTemplate="Rage_DLC2_DD_BDU_Full_M"
+.TorsoName="Diamond Dogs BDU"
+
+.TorsoTemplate="Rage_DLC2_DD_BDU_Full_F"
+.TorsoName="Diamond Dogs BDU"
+
+
+.TorsoTemplate="RageMk2_DLC2_DD_BDU_Full_M"
+.TorsoName="Diamond Dogs BDU"
+
+.TorsoTemplate="RageMk2_DLC2_DD_BDU_Full_F"
+.TorsoName="Diamond Dogs BDU"
+
+
+.TorsoTemplate="Icarus_DLC2_DD_BDU_Full_M"
+.TorsoName="Diamond Dogs BDU"
+
+.TorsoTemplate="Icarus_DLC2_DD_BDU_Full_F"
+.TorsoName="Diamond Dogs BDU"

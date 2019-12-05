@@ -1,0 +1,69 @@
+;
+; Arms
+;
+
+[CNV_WotC_RPR_MGSV_CCCPSovietSneaking_Arm_Left_M X2BodyPartTemplate]
+DisplayName="CCCP Sneaking Suit - Left Arm"
+
+[MPL_WotC_RPR_MGSV_CCCPSovietSneaking_Arm_Left_M X2BodyPartTemplate]
+DisplayName="CCCP Sneaking Suit - Left Arm"
+
+[MPW_WotC_RPR_MGSV_CCCPSovietSneaking_Arm_Left_M X2BodyPartTemplate]
+DisplayName="CCCP Sneaking Suit - Left Arm"
+
+
+[CNV_WotC_RPR_MGSV_CCCPSovietSneaking_Arm_Right_M X2BodyPartTemplate]
+DisplayName="CCCP Sneaking Suit - Right Arm"
+
+[MPL_WotC_RPR_MGSV_CCCPSovietSneaking_Arm_Right_M X2BodyPartTemplate]
+DisplayName="CCCP Sneaking Suit - Right Arm"
+
+[MPW_WotC_RPR_MGSV_CCCPSovietSneaking_Arm_Right_M X2BodyPartTemplate]
+DisplayName="CCCP Sneaking Suit - Right Arm"
+
+;
+; Arms
+;
+
+[CNV_WotC_SKR_MGSV_CCCPSovietSneaking_Arm_Left_M X2BodyPartTemplate]
+DisplayName="CCCP Sneaking Suit - Left Arm"
+
+[MPL_WotC_SKR_MGSV_CCCPSovietSneaking_Arm_Left_M X2BodyPartTemplate]
+DisplayName="CCCP Sneaking Suit - Left Arm"
+
+[MPW_WotC_SKR_MGSV_CCCPSovietSneaking_Arm_Left_M X2BodyPartTemplate]
+DisplayName="CCCP Sneaking Suit - Left Arm"
+
+
+[CNV_WotC_SKR_MGSV_CCCPSovietSneaking_Arm_Right_M X2BodyPartTemplate]
+DisplayName="CCCP Sneaking Suit - Right Arm"
+
+[MPL_WotC_SKR_MGSV_CCCPSovietSneaking_Arm_Right_M X2BodyPartTemplate]
+DisplayName="CCCP Sneaking Suit - Right Arm"
+
+[MPW_WotC_SKR_MGSV_CCCPSovietSneaking_Arm_Right_M X2BodyPartTemplate]
+DisplayName="CCCP Sneaking Suit - Right Arm"
+
+
+;
+; Arms
+;
+
+[CNV_WotC_TMP_MGSV_CCCPSovietSneaking_Arm_Left_M X2BodyPartTemplate]
+DisplayName="CCCP Sneaking Suit - Left Arm"
+
+[MPL_WotC_TMP_MGSV_CCCPSovietSneaking_Arm_Left_M X2BodyPartTemplate]
+DisplayName="CCCP Sneaking Suit - Left Arm"
+
+[MPW_WotC_TMP_MGSV_CCCPSovietSneaking_Arm_Left_M X2BodyPartTemplate]
+DisplayName="CCCP Sneaking Suit - Left Arm"
+
+
+[CNV_WotC_TMP_MGSV_CCCPSovietSneaking_Arm_Right_M X2BodyPartTemplate]
+DisplayName="CCCP Sneaking Suit - Right Arm"
+
+[MPL_WotC_TMP_MGSV_CCCPSovietSneaking_Arm_Right_M X2BodyPartTemplate]
+DisplayName="CCCP Sneaking Suit - Right Arm"
+
+[MPW_WotC_TMP_MGSV_CCCPSovietSneaking_Arm_Right_M X2BodyPartTemplate]
+DisplayName="CCCP Sneaking Suit - Right Arm"

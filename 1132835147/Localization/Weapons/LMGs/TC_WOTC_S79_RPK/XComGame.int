@@ -1,0 +1,20 @@
+[TC_WOTC_S79_RPK_T1 X2WeaponTemplate]
+FriendlyName="<font color='#ECECEC'><b>RPK</b></font>"
+FriendlyNamePlural="<font color='#ECECEC'><b>RPKs</b></font>"
+AbilityDescName="light machinegun"
+BriefSummary="The RPK (Ruchnoy Pulemjot Kalashnikova) is parallel to the AK-47/AKM designwise, although it was refitted internally to enchance its range and accuracy, among other things. It uses standard 7.62x39mm 40-round box magazine, but it can be upgraded to a 75-round drum magazine. This particular version has a rail mounted to the side so that its possible to mount optics. This replaced the RPD when the Red Army began standarizing its small arms inventory. The RPK was eventually replaced by the RPK-74, but remains as an absolute favorite among Red Army veterans, insurgents, and PMCs, due to its low cost. Basically, the RPKn is the AK-47/AKM on steroids."
+TacticalText="<Bullet/>Type: Light Machinegun\n<Bullet/>Firing Profile: Full-Auto\n<Bullet/>Action: Gas-Operated, Rotating Bolt, Closed Bolt\n<Bullet/>Cartridge: 7.62x39mm\n<Bullet/>Origin: Soviet Union\n<Bullet/>Tier: Conventional"
+
+[TC_WOTC_S79_RPK_T2 X2WeaponTemplate]
+FriendlyName="<font color='#27AAE1'><b>RVKMG-61</b></font>"
+FriendlyNamePlural="<font color='#27AAE1'><b>RVKMG-61s</b></font>"
+AbilityDescName="light machinegun"
+BriefSummary="The RPK (Ruchnoy Pulemjot Kalashnikova) is parallel to the AK-47/AKM designwise, although it was refitted internally to enchance its range and accuracy, among other things. It uses standard 7.62x39mm 40-round box magazine, but it can be upgraded to a 75-round drum magazine. This particular version has a rail mounted to the side so that its possible to mount optics. This replaced the RPD when the Red Army began standarizing its small arms inventory. The RPK was eventually replaced by the RPK-74, but remains as an absolute favorite among Red Army veterans, insurgents, and PMCs, due to its low cost. Basically, the RPKn is the AK-47/AKM on steroids. /nThe RVKMG-61 carries the same upgrades as the RVK-47, due to its similar design layout. The gas operated mechanism is replaced with a more powerful magnetic mechanism made from small crystals of elerium. The upgrade enhanced the ballistic profile of the weapon, allowing the projectile to hit harder with better accuracy and precision."
+TacticalText="<Bullet/>Type: Light Machinegun\n<Bullet/>Firing Profile: Full-Auto\n<Bullet/>Action: Gas-Operated, Rotating Bolt, Closed Bolt\n<Bullet/>Cartridge: 7.62x39mm\n<Bullet/>Origin: Soviet Union\n<Bullet/>Tier: Magnetic"
+
+[TC_WOTC_S79_RPK_T3 X2WeaponTemplate]
+FriendlyName="<font color='#CF4517'><b>RVKMG-61/203X</b></font>"
+FriendlyNamePlural="<font color='#CF4517'><b>RVKMG-61/203Xs</b></font>"
+AbilityDescName="light machinegun"
+BriefSummary="The RPK (Ruchnoy Pulemjot Kalashnikova) is parallel to the AK-47/AKM designwise, although it was refitted internally to enchance its range and accuracy, among other things. It uses standard 7.62x39mm 40-round box magazine, but it can be upgraded to a 75-round drum magazine. This particular version has a rail mounted to the side so that its possible to mount optics. This replaced the RPD when the Red Army began standarizing its small arms inventory. The RPK was eventually replaced by the RPK-74, but remains as an absolute favorite among Red Army veterans, insurgents, and PMCs, due to its low cost. Basically, the RPKn is the AK-47/AKM on steroids./nThe barrel of the RVKMG-61/203X is re-ported with alien alloy, drastically altering the weapon damage and accuracy to match that of a beam-based weapon."
+TacticalText="<Bullet/>Type: Light Machinegun\n<Bullet/>Firing Profile: Full-Auto\n<Bullet/>Action: Gas-Operated, Rotating Bolt, Closed Bolt\n<Bullet/>Cartridge: 7.62x39mm\n<Bullet/>Origin: Soviet Union\n<Bullet/>Tier: Beam"

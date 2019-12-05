@@ -1,0 +1,92 @@
+LOG FILE
+
+Release Version 3.000 (Summer Weekday Update):
+[list]
+	[*]Added Insurgency: Sandstorm attachments to some weapons!
+	[*]Added the G11, FN FAL, Honey Badger, H&K CAWS, and SVU!
+	[*]New models for the SVD and M9, both from Call of Duty: Modern Warfare Remastered!
+	[*]New textures for Stoy79's and Millenia and Co.'s weapons!
+	[*]Underbarrel support for most Assault Rifles and Battle Rifles.
+	[*]New UI icons.
+	[*]More attachment models for the M16A4.
+	[*]Fixed several bugs with the attachment config.
+	[*]Removed the XM16E1.
+[/list]
+
+Release Version 2.011:
+[list]
+	[*]Fixed a bug where the assault rifles/SMGs had missing textures but aren't jet black.
+	[*]Fixed a bug where the M4A1 SOPMOD was missing it's foregrip.
+[/list]
+
+Release Version 2.010:
+[list]
+	[*]Removed all non-conventional IW weapons.
+[/list]
+
+Release Version 2.000 (1 Year Anniversary Update):
+[list]
+	[*][b]Added the R3KT, UMP45, M21 'All Ghillie Up' variant, and the VSS Vintorez![/b]
+	[*][b]Added several new attachments for several weapons: M82A1, R700, M40A3, and others![/b]
+	[*]Replaced the ugly Screendoor glass with the OG version.
+	[*]Other minor fixes.
+[/list]
+
+Release Version 1.100:
+[list]
+	[*]NEW FEATURES
+	[list]
+		[*]Normal maps for the scope lens.
+		[*]New UnitWeapon_M Material.
+		[*]MWR weapons use specular color maps now.
+	[/list]
+	[*]BUG FIXES
+	[list]
+		[*]Fixed an issue where the M14 Battleworn rifle had bad smoothing.
+		[*]Proper PBR:Microsurface/Roughness implementation for the IW weapons and attachments: NV4, R3K, EBR-800, ERAD, Glocks, Oni, Rack-9, VPR, Widowmaker!
+		[*]Fixed some glossy IW weapons!
+		[*]Under the hood material fixes and consolidation.
+		[*]Fixed the left_hand bone on the M1014.
+		[*]Various other fixes.
+	[/list]
+	[*]MISC
+	[list]
+		[*]Renamed IW_NV4.upk to IW_NV4_00_Main.upk, in anticipation of the new NV4 variants.
+		[*]Renamed IW_EBR800.upk to IW_EBR800_00_Main.upk, in anticipation of the new EBR-800 variants.
+		[*]Renamed IW_Rack9.upk to IW_Rack9_00_Main.upk, in anticipation of the Rack-9 Smoothbore variant.
+		[*]Renamed MWR_M40A3.upk to MWR_M40A3_00_Main.upk, in anticipation of the M40A3 attachment variants.
+		[*]Renamed MWR_R700.upk to MWR_R700_00_Main.upk, in anticipation of R700 attachment variants.
+		[*]Renamed MWR_M82A1.upk to MWR_M82A1_00_Main.upk, in anticipation of the M82A1 attachment variants.
+	[/list]
+[/list]
+
+Release Version 1.021
+[list]
+	[*]Reduced the volume of the R3K, ERAD, and EBR800 firing sounds.
+	[*]Fixed an issue where the R3K's sound wasn't affected by the SFX slider.
+	[*]Adjusted the R3K's fire rate to properly fire 3 round bursts.
+[/list]
+
+Release Version 1.020
+[list]
+	[*]AUG and R3K now use the Skirmisher's Bullpup animations (Firing, Reloading).
+	[*]Jackhammer now uses the bullpups reload animation.
+	[*]M1014 now uses different firing animations.
+	[*]Better machine pistol firing animations.
+	[*]Various other fixes.
+[/list]
+
+Release Version 1.010
+[list]
+	[*]The EBR-800 and ERAD weapons have been redone. Now the model is complete on both sides.
+[/list]
+
+Release Version 1.001
+[list]
+	[*]Increased the volume of the firing sound for the M82.
+[/list]
+
+Release Version 1.000
+[list]
+	[*]Initial Release.
+[/list]

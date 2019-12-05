@@ -1,0 +1,5 @@
+﻿[mod]
+publishedFileId=1535761480
+Title=All Equipments in Skirmish
+Description=Allow you to use ALL equipments in Skirmish instead of a predefined list. Also removes the squad size limits.
+RequiresXPACK=true

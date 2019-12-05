@@ -1,0 +1,93 @@
+[X2DownloadableContentInfo_AddedPartNames]
+
+;
+; REAPER
+;
+
+.TorsoTemplate="CNV_WotC_RPR_MGO3_LRR_Scout_Uniform_Torso_M"
+.TorsoName="LRR Concealment - Torso"
+
+.TorsoTemplate="MPL_WotC_RPR_MGO3_LRR_Scout_Uniform_Torso_M"
+.TorsoName="LRR Concealment - Torso"
+
+.TorsoTemplate="MPW_WotC_RPR_MGO3_LRR_Scout_Uniform_Torso_M"
+.TorsoName="LRR Concealment - Torso"
+
+
+.TorsoTemplate="CNV_WotC_RPR_MGO3_LRR_Scout_Uniform_Torso_F"
+.TorsoName="LRR Concealment - Torso"
+
+.TorsoTemplate="MPL_WotC_RPR_MGO3_LRR_Scout_Uniform_Torso_F"
+.TorsoName="LRR Concealment - Torso"
+
+.TorsoTemplate="MPW_WotC_RPR_MGO3_LRR_Scout_Uniform_Torso_F"
+.TorsoName="LRR Concealment - Torso"
+
+
+.LegsTemplate="CNV_WotC_RPR_MGO3_LRR_Scout_Uniform_Legs_M"
+.LegsName="LRR Concealment - Legs"
+
+.LegsTemplate="CNV_WotC_RPR_MGO3_LRR_Scout_Uniform_Legs_F"
+.LegsName="LRR Concealment - Legs"
+
+
+;
+; SKIRMISHER
+;
+
+.TorsoTemplate="CNV_WotC_SKR_MGO3_LRR_Scout_Uniform_Torso_M"
+.TorsoName="LRR Concealment - Torso"
+
+.TorsoTemplate="MPL_WotC_SKR_MGO3_LRR_Scout_Uniform_Torso_M"
+.TorsoName="LRR Concealment - Torso"
+
+.TorsoTemplate="MPW_WotC_SKR_MGO3_LRR_Scout_Uniform_Torso_M"
+.TorsoName="LRR Concealment - Torso"
+
+
+.TorsoTemplate="CNV_WotC_SKR_MGO3_LRR_Scout_Uniform_Torso_F"
+.TorsoName="LRR Concealment - Torso"
+
+.TorsoTemplate="MPL_WotC_SKR_MGO3_LRR_Scout_Uniform_Torso_F"
+.TorsoName="LRR Concealment - Torso"
+
+.TorsoTemplate="MPW_WotC_SKR_MGO3_LRR_Scout_Uniform_Torso_F"
+.TorsoName="LRR Concealment - Torso"
+
+
+.LegsTemplate="CNV_WotC_SKR_MGO3_LRR_Scout_Uniform_Legs_M"
+.LegsName="LRR Concealment - Legs"
+
+.LegsTemplate="CNV_WotC_SKR_MGO3_LRR_Scout_Uniform_Legs_F"
+.LegsName="LRR Concealment - Legs"
+
+
+;
+; TEMPLAR
+;
+
+.TorsoTemplate="CNV_WotC_TMP_MGO3_LRR_Scout_Uniform_Torso_M"
+.TorsoName="LRR Concealment - Torso"
+
+.TorsoTemplate="MPL_WotC_TMP_MGO3_LRR_Scout_Uniform_Torso_M"
+.TorsoName="LRR Concealment - Torso"
+
+.TorsoTemplate="MPW_WotC_TMP_MGO3_LRR_Scout_Uniform_Torso_M"
+.TorsoName="LRR Concealment - Torso"
+
+
+.TorsoTemplate="CNV_WotC_TMP_MGO3_LRR_Scout_Uniform_Torso_F"
+.TorsoName="LRR Concealment - Torso"
+
+.TorsoTemplate="MPL_WotC_TMP_MGO3_LRR_Scout_Uniform_Torso_F"
+.TorsoName="LRR Concealment - Torso"
+
+.TorsoTemplate="MPW_WotC_TMP_MGO3_LRR_Scout_Uniform_Torso_F"
+.TorsoName="LRR Concealment - Torso"
+
+
+.LegsTemplate="CNV_WotC_TMP_MGO3_LRR_Scout_Uniform_Legs_M"
+.LegsName="LRR Concealment - Legs"
+
+.LegsTemplate="CNV_WotC_TMP_MGO3_LRR_Scout_Uniform_Legs_F"
+.LegsName="LRR Concealment - Legs"

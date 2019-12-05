@@ -1,0 +1,41 @@
+[TC_WOTC_CTM_HONEYBADGER_T1 X2WeaponTemplate]
+FriendlyName="<font color='#ECECEC'><b>Honey Badger</b></font>"
+FriendlyNamePlural="<font color='#ECECEC'><b>Honey Badgers</b></font>"
+AbilityDescName="personal defense weapon"
+BriefSummary="An assault rifle noted for it use of caseless rounds. Technically, the project was completed in the 1990s and was a success. However, due to the shift in geopolitics and a lack of contracts, the weapon never went into full production."
+TacticalText="<Bullet/>Type: Personal Defense Weapon\n<Bullet/>Firing Profile: Full-Auto\n<Bullet/>Action: Gas-Operated, Rotating Bolt (direct impingement)\n<Bullet/>Cartridge: .300 AAC Blackout\n<Bullet/>Origin: United States\n<Bullet/>Tier: Conventional"
+
+[TC_WOTC_CTM_HONEYBADGER_T2 X2WeaponTemplate]
+FriendlyName="<font color='#27AAE1'><b>MS-300</b></font>"
+FriendlyNamePlural="<font color='#27AAE1'><b>MS-300</b></font>"
+AbilityDescName="personal defense weapon"
+BriefSummary="An assault rifle noted for it use of caseless rounds. Technically, the project was completed in the 1990s and was a success. However, due to the shift in geopolitics and a lack of contracts, the weapon never went into full production."
+TacticalText="<Bullet/>Type: Personal Defense Weapon\n<Bullet/>Firing Profile: Full-Auto\n<Bullet/>Action: Gas-Operated, Rotating Bolt (direct impingement)\n<Bullet/>Cartridge: .300 AAC Blackout\n<Bullet/>Origin: United States\n<Bullet/>Tier: Magnetic"
+
+[TC_WOTC_CTM_HONEYBADGER_T3 X2WeaponTemplate]
+FriendlyName="<font color='#CF4517'><b>XMS-300 'Wolverine'</b></font>"
+FriendlyNamePlural="<font color='#CF4517'><b>XMS-300 'Wolverine's</b></font>"
+AbilityDescName="personal defense weapon"
+BriefSummary="An assault rifle noted for it use of caseless rounds. Technically, the project was completed in the 1990s and was a success. However, due to the shift in geopolitics and a lack of contracts, the weapon never went into full production."
+TacticalText="<Bullet/>Type: Personal Defense Weapon\n<Bullet/>Firing Profile: Full-Auto\n<Bullet/>Action: Gas-Operated, Rotating Bolt (direct impingement)\n<Bullet/>Cartridge: .300 AAC Blackout\n<Bullet/>Origin: United States\n<Bullet/>Tier: Beam"
+
+[TC_WOTC_SKR_CTM_HONEYBADGER_T1 X2WeaponTemplate]
+FriendlyName="<font color='#ECECEC'><b>Honey Badger</b></font>"
+FriendlyNamePlural="<font color='#ECECEC'><b>Honey Badgers</b></font>"
+AbilityDescName="personal defense weapon"
+BriefSummary="An assault rifle noted for it use of caseless rounds. Technically, the project was completed in the 1990s and was a success. However, due to the shift in geopolitics and a lack of contracts, the weapon never went into full production."
+TacticalText="<Bullet/>Type: Personal Defense Weapon\n<Bullet/>Firing Profile: Full-Auto\n<Bullet/>Action: Gas-Operated, Rotating Bolt (direct impingement)\n<Bullet/>Cartridge: .300 AAC Blackout\n<Bullet/>Origin: United States\n<Bullet/>Tier: Conventional"
+
+[TC_WOTC_SKR_CTM_HONEYBADGER_T2 X2WeaponTemplate]
+FriendlyName="<font color='#27AAE1'><b>MS-300</b></font>"
+FriendlyNamePlural="<font color='#27AAE1'><b>MS-300</b></font>"
+AbilityDescName="personal defense weapon"
+BriefSummary="An assault rifle noted for it use of caseless rounds. Technically, the project was completed in the 1990s and was a success. However, due to the shift in geopolitics and a lack of contracts, the weapon never went into full production."
+TacticalText="<Bullet/>Type: Personal Defense Weapon\n<Bullet/>Firing Profile: Full-Auto\n<Bullet/>Action: Gas-Operated, Rotating Bolt (direct impingement)\n<Bullet/>Cartridge: .300 AAC Blackout\n<Bullet/>Origin: United States\n<Bullet/>Tier: Magnetic"
+
+[TC_WOTC_SKR_CTM_HONEYBADGER_T3 X2WeaponTemplate]
+FriendlyName="<font color='#CF4517'><b>XMS-300 'Wolverine'</b></font>"
+FriendlyNamePlural="<font color='#CF4517'><b>XMS-300 'Wolverine's</b></font>"
+AbilityDescName="personal defense weapon"
+BriefSummary="An assault rifle noted for it use of caseless rounds. Technically, the project was completed in the 1990s and was a success. However, due to the shift in geopolitics and a lack of contracts, the weapon never went into full production."
+TacticalText="<Bullet/>Type: Personal Defense Weapon\n<Bullet/>Firing Profile: Full-Auto\n<Bullet/>Action: Gas-Operated, Rotating Bolt (direct impingement)\n<Bullet/>Cartridge: .300 AAC Blackout\n<Bullet/>Origin: United States\n<Bullet/>Tier: Beam"

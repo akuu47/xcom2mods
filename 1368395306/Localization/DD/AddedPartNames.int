@@ -1,0 +1,86 @@
+[X2DownloadableContentInfo_AddedPartNames]
+
+;
+; SOLDIER
+;
+
+.TorsoTemplate="CNV_WotC_SLD_MGSV_DD_BattleDress_Torso_M"
+.TorsoName="DD Battle Dress - Torso"
+
+.TorsoTemplate="LPL_WotC_SLD_MGSV_DD_BattleDress_Torso_M"
+.TorsoName="DD Battle Dress - Torso"
+
+.TorsoTemplate="MPL_WotC_SLD_MGSV_DD_BattleDress_Torso_M"
+.TorsoName="DD Battle Dress - Torso"
+
+.TorsoTemplate="HPL_WotC_SLD_MGSV_DD_BattleDress_Torso_M"
+.TorsoName="DD Battle Dress - Torso"
+
+.TorsoTemplate="LPW_WotC_SLD_MGSV_DD_BattleDress_Torso_M"
+.TorsoName="DD Battle Dress - Torso"
+
+.TorsoTemplate="MPW_WotC_SLD_MGSV_DD_BattleDress_Torso_M"
+.TorsoName="DD Battle Dress - Torso"
+
+.TorsoTemplate="HPW_WotC_SLD_MGSV_DD_BattleDress_Torso_M"
+.TorsoName="DD Battle Dress - Torso"
+
+
+.TorsoTemplate="CNV_WotC_SLD_MGSV_DD_BattleDress_Torso_F"
+.TorsoName="DD Battle Dress - Torso"
+
+.TorsoTemplate="LPL_WotC_SLD_MGSV_DD_BattleDress_Torso_F"
+.TorsoName="DD Battle Dress - Torso"
+
+.TorsoTemplate="MPL_WotC_SLD_MGSV_DD_BattleDress_Torso_F"
+.TorsoName="DD Battle Dress - Torso"
+
+.TorsoTemplate="HPL_WotC_SLD_MGSV_DD_BattleDress_Torso_F"
+.TorsoName="DD Battle Dress - Torso"
+
+.TorsoTemplate="LPW_WotC_SLD_MGSV_DD_BattleDress_Torso_F"
+.TorsoName="DD Battle Dress - Torso"
+
+.TorsoTemplate="MPW_WotC_SLD_MGSV_DD_BattleDress_Torso_F"
+.TorsoName="DD Battle Dress - Torso"
+
+.TorsoTemplate="HPW_WotC_SLD_MGSV_DD_BattleDress_Torso_F"
+.TorsoName="DD Battle Dress - Torso"
+
+
+.LegsTemplate="CNV_WotC_SLD_MGSV_DD_BattleDress_Legs_M"
+.LegsName="DD Battle Dress - Legs"
+
+.LegsTemplate="LPL_WotC_SLD_MGSV_DD_BattleDress_Legs_M"
+.LegsName="DD Battle Dress - Legs"
+
+.LegsTemplate="MPL_WotC_SLD_MGSV_DD_BattleDress_Legs_M"
+.LegsName="DD Battle Dress - Legs"
+
+.LegsTemplate="HPL_WotC_SLD_MGSV_DD_BattleDress_Legs_M"
+.LegsName="DD Battle Dress - Legs"
+
+.LegsTemplate="LPW_WotC_SLD_MGSV_DD_BattleDress_Legs_M"
+.LegsName="DD Battle Dress - Legs"
+
+.LegsTemplate="MPW_WotC_SLD_MGSV_DD_BattleDress_Legs_M"
+.LegsName="DD Battle Dress - Legs"
+
+
+.LegsTemplate="CNV_WotC_SLD_MGSV_DD_BattleDress_Legs_F"
+.LegsName="DD Battle Dress - Legs"
+
+.LegsTemplate="LPL_WotC_SLD_MGSV_DD_BattleDress_Legs_F"
+.LegsName="DD Battle Dress - Legs"
+
+.LegsTemplate="MPL_WotC_SLD_MGSV_DD_BattleDress_Legs_F"
+.LegsName="DD Battle Dress - Legs"
+
+.LegsTemplate="HPL_WotC_SLD_MGSV_DD_BattleDress_Legs_F"
+.LegsName="DD Battle Dress - Legs"
+
+.LegsTemplate="LPW_WotC_SLD_MGSV_DD_BattleDress_Legs_F"
+.LegsName="DD Battle Dress - Legs"
+
+.LegsTemplate="MPW_WotC_SLD_MGSV_DD_BattleDress_Legs_F"
+.LegsName="DD Battle Dress - Legs"

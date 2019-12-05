@@ -1,0 +1,29 @@
+[RescueVIP]
+TimerExpiredTitle = "Timer Expired"
+TimerExpiredMessage1 = "ADVENT will begin reinforcing this sector indefinitely!"
+TimerExpiredMessage2 = "Get out while you still can!"
+
+[ExtractVIP]
+TimerExpiredTitle = "Timer Expired"
+TimerExpiredMessage1 = "ADVENT will begin reinforcing this sector indefinitely!"
+TimerExpiredMessage2 = "Get out while you still can!"
+
+[NeutralizeTarget]
+TimerExpiredTitle = "Timer Expired"
+TimerExpiredMessage1 = "ADVENT will begin reinforcing this sector indefinitely!"
+TimerExpiredMessage2 = "Get out while you still can!"
+
+[ProtectDevice]
+TimerPrepTitle		= "Preparation Phase"
+TimerPrepSubtitle	= "Turns until initial reinforcements arrive"
+
+TimerWaveTitle		= "Combat Phase"
+TimerWaveSubtitle	= "Turns until Device completes decryption protocol"
+
+CombatWaveStartTitle	= "// DATATAP_01 \\\\"
+CombatWaveStartMessage1	= "Intercepted encrypted data!"
+CombatWaveStartMessage2	= "Performing decryption protocol... Please wait..."
+
+SweepStartTitle		= "// DATATAP_01 \\\\"
+SweepStartMessage1	= "Verifying integrity of decrypted data... complete!"
+SweepStartMessage2	= "Sending info to [REDACTED]... complete!"

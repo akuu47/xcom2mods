@@ -1,0 +1,9 @@
+[MissionTimers]
+TurnsUntilEVACArrivesTitle		= "Survive"
+TurnsUntilEVACArrivesSubtitle	= "Turns until Skyranger arrives at LZ"
+
+TurnsUntilEVACLeavesTitle		= "Escape"
+TurnsUntilEVACLeavesSubtitle	= "Turns until Skyranger must evade LZ"
+
+[SeqAct_HQWoundKillStaff]
+m_strUnitWounded="<XGParam:StrValue0/!UnitName/> was wounded and must spend <XGParam:StrValue1/!Time/> in Infirmary!"

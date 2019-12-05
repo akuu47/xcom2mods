@@ -1,0 +1,30 @@
+[MD_WOTC_MWR_GND_FRAG_M67_STD_T1 X2GrenadeTemplate]
+FriendlyName="M67 Frag Grenade"
+FriendlyNamePlural="M67 Frag Grenades"
+BriefSummary="Standard-issue fragmentation grenade that blasts enemies with shrapnel in a small area of effect. Effective at removing enemy armor."
+TacticalText="<Bullet/> Frag grenades are useful for removing, or \"shredding\" enemy armor.<br><Bullet/> Frag grenades are effective at damaging low-level ADVENT foes, but tougher enemies will shrug them off.<br><Bullet/> Grenades can destroy targets' equipment, so relying on grenades too much will reduce our salvage opportunities."
+ThrownAbilityName="Throw M67 Frag Grenade"
+ThrownAbilityHelpText="Toss a M67 at target area. Shreds armor."
+LaunchedAbilityname="Launch M67 Frag Grenade"
+LaunchedAbilityHelpText="Launch a M67 at target area. Shreds armor."
+
+[MD_WOTC_MWR_GND_FRAG_M67_STD_T2 X2GrenadeTemplate]
+FriendlyName="M67-A Plasma Grenade"
+FriendlyNamePlural="M67-A Plasma Grenades"
+BriefSummary="An upgraded frag grenade augmented by alien energy pulse tech, the M67-A does more damage than the conventional M67 Frag Grenade, and is more effective at shredding enemy armor."
+TacticalText="<Bullet/> Plasma grenades improve on the frag grenade's damage and armor shredding capabilities."
+ThrownAbilityName="Throw M67-A Plasma Grenade"
+ThrownAbilityHelpText="Toss a M67-A at target area. Shreds armor."
+LaunchedAbilityname="Launch M67-A Plasma Grenade"
+LaunchedAbilityHelpText="Launch a M67-A at target area. Shreds armor."
+
+
+[MD_WOTC_IW_GND_FRAG_STD_T2 X2GrenadeTemplate]
+FriendlyName="M164 Plasma Grenade"
+FriendlyNamePlural="M67-A Plasma Grenades"
+BriefSummary="The M164 uses a combination of both conventional and alien technology to bring the next generation of tossable fragmentation grenades. It shreds more armor and does greater damage than its predecessors."
+TacticalText="<Bullet/> Plasma grenades improve on the frag grenade's damage and armor shredding capabilities."
+ThrownAbilityName="Throw M164 Plasma Grenade"
+ThrownAbilityHelpText="Throw a M164 at target area. Shreds armor."
+LaunchedAbilityname="Launch M164 Plasma Grenade"
+LaunchedAbilityHelpText="Launch a M164 at target area. Shreds armor."

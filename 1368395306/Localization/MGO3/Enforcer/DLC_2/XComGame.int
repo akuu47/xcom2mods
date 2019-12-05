@@ -1,0 +1,236 @@
+
+; ============================================================================================================================
+;
+;	Alien Hunters
+;
+; ============================================================================================================================
+
+
+;
+; Torso Accessories
+;
+
+[LgtMk1_DLC2_MGSV_Enforcer_CVT_Torso_M X2BodyPartTemplate]
+DisplayName="Carrier Vest"
+
+[LgtMk2_DLC2_MGSV_Enforcer_CVT_Torso_M X2BodyPartTemplate]
+DisplayName="Carrier Vest"
+
+[MedMk1_DLC2_MGSV_Enforcer_CVT_Torso_M X2BodyPartTemplate]
+DisplayName="Carrier Vest"
+
+[HvyMk1_DLC2_MGSV_Enforcer_CVT_Torso_M X2BodyPartTemplate]
+DisplayName="Carrier Vest"
+
+[HvyMk2_DLC2_MGSV_Enforcer_CVT_Torso_M X2BodyPartTemplate]
+DisplayName="Carrier Vest"
+
+
+[LgtMk1_DLC2_MGSV_Enforcer_CVT_Torso_F X2BodyPartTemplate]
+DisplayName="Carrier Vest"
+
+[LgtMk2_DLC2_MGSV_Enforcer_CVT_Torso_F X2BodyPartTemplate]
+DisplayName="Carrier Vest"
+
+[MedMk1_DLC2_MGSV_Enforcer_CVT_Torso_F X2BodyPartTemplate]
+DisplayName="Carrier Vest"
+
+[HvyMk1_DLC2_MGSV_Enforcer_CVT_Torso_F X2BodyPartTemplate]
+DisplayName="Carrier Vest"
+
+[HvyMk2_DLC2_MGSV_Enforcer_CVT_Torso_F X2BodyPartTemplate]
+DisplayName="Carrier Vest"
+
+
+[LgtMk1_DLC2_MGSV_Enforcer_HMV_Torso_M X2BodyPartTemplate]
+DisplayName="Heavy Magazine Vest"
+
+[LgtMk2_DLC2_MGSV_Enforcer_HMV_Torso_M X2BodyPartTemplate]
+DisplayName="Heavy Magazine Vest"
+
+[MedMk1_DLC2_MGSV_Enforcer_HMV_Torso_M X2BodyPartTemplate]
+DisplayName="Heavy Magazine Vest"
+
+[HvyMk1_DLC2_MGSV_Enforcer_HMV_Torso_M X2BodyPartTemplate]
+DisplayName="Heavy Magazine Vest"
+
+[HvyMk2_DLC2_MGSV_Enforcer_HMV_Torso_M X2BodyPartTemplate]
+DisplayName="Heavy Magazine Vest"
+
+
+[LgtMk1_DLC2_MGSV_Enforcer_HMV_Torso_F X2BodyPartTemplate]
+DisplayName="Heavy Magazine Vest"
+
+[LgtMk2_DLC2_MGSV_Enforcer_HMV_Torso_F X2BodyPartTemplate]
+DisplayName="Heavy Magazine Vest"
+
+[MedMk1_DLC2_MGSV_Enforcer_HMV_Torso_F X2BodyPartTemplate]
+DisplayName="Heavy Magazine Vest"
+
+[HvyMk1_DLC2_MGSV_Enforcer_HMV_Torso_F X2BodyPartTemplate]
+DisplayName="Heavy Magazine Vest"
+
+[HvyMk2_DLC2_MGSV_Enforcer_HMV_Torso_F X2BodyPartTemplate]
+DisplayName="Heavy Magazine Vest"
+
+
+[LgtMk1_DLC2_MGSV_Enforcer_HPC_Torso_M X2BodyPartTemplate]
+DisplayName="Heavy Plated Chest"
+
+[LgtMk2_DLC2_MGSV_Enforcer_HPC_Torso_M X2BodyPartTemplate]
+DisplayName="Heavy Plated Chest"
+
+[MedMk1_DLC2_MGSV_Enforcer_HPC_Torso_M X2BodyPartTemplate]
+DisplayName="Heavy Plated Chest"
+
+[HvyMk1_DLC2_MGSV_Enforcer_HPC_Torso_M X2BodyPartTemplate]
+DisplayName="Heavy Plated Chest"
+
+[HvyMk2_DLC2_MGSV_Enforcer_HPC_Torso_M X2BodyPartTemplate]
+DisplayName="Heavy Plated Chest"
+
+
+[LgtMk1_DLC2_MGSV_Enforcer_HPC_Torso_F X2BodyPartTemplate]
+DisplayName="Heavy Plated Chest"
+
+[LgtMk2_DLC2_MGSV_Enforcer_HPC_Torso_F X2BodyPartTemplate]
+DisplayName="Heavy Plated Chest"
+
+[MedMk1_DLC2_MGSV_Enforcer_HPC_Torso_F X2BodyPartTemplate]
+DisplayName="Heavy Plated Chest"
+
+[HvyMk1_DLC2_MGSV_Enforcer_HPC_Torso_F X2BodyPartTemplate]
+DisplayName="Heavy Plated Chest"
+
+[HvyMk2_DLC2_MGSV_Enforcer_HPC_Torso_F X2BodyPartTemplate]
+DisplayName="Heavy Plated Chest"
+
+
+
+[LgtMk1_DLC2_MGSV_Enforcer_IVT_Torso_M X2BodyPartTemplate]
+DisplayName="Interwoven Vest"
+
+[LgtMk2_DLC2_MGSV_Enforcer_IVT_Torso_M X2BodyPartTemplate]
+DisplayName="Interwoven Vest"
+
+[MedMk1_DLC2_MGSV_Enforcer_IVT_Torso_M X2BodyPartTemplate]
+DisplayName="Interwoven Vest"
+
+[HvyMk1_DLC2_MGSV_Enforcer_IVT_Torso_M X2BodyPartTemplate]
+DisplayName="Interwoven Vest"
+
+[HvyMk2_DLC2_MGSV_Enforcer_IVT_Torso_M X2BodyPartTemplate]
+DisplayName="Interwoven Vest"
+
+
+[LgtMk1_DLC2_MGSV_Enforcer_IVT_Torso_F X2BodyPartTemplate]
+DisplayName="Interwoven Vest"
+
+[LgtMk2_DLC2_MGSV_Enforcer_IVT_Torso_F X2BodyPartTemplate]
+DisplayName="Interwoven Vest"
+
+[MedMk1_DLC2_MGSV_Enforcer_IVT_Torso_F X2BodyPartTemplate]
+DisplayName="Interwoven Vest"
+
+[HvyMk1_DLC2_MGSV_Enforcer_IVT_Torso_F X2BodyPartTemplate]
+DisplayName="Interwoven Vest"
+
+[HvyMk2_DLC2_MGSV_Enforcer_IVT_Torso_F X2BodyPartTemplate]
+DisplayName="Interwoven Vest"
+
+
+
+[LgtMk1_DLC2_MGSV_Enforcer_RBV_Torso_M X2BodyPartTemplate]
+DisplayName="Rigid Blast Vest"
+
+[LgtMk2_DLC2_MGSV_Enforcer_RBV_Torso_M X2BodyPartTemplate]
+DisplayName="Rigid Blast Vest"
+
+[MedMk1_DLC2_MGSV_Enforcer_RBV_Torso_M X2BodyPartTemplate]
+DisplayName="Rigid Blast Vest"
+
+[HvyMk1_DLC2_MGSV_Enforcer_RBV_Torso_M X2BodyPartTemplate]
+DisplayName="Rigid Blast Vest"
+
+[HvyMk2_DLC2_MGSV_Enforcer_RBV_Torso_M X2BodyPartTemplate]
+DisplayName="Rigid Blast Vest"
+
+
+[LgtMk1_DLC2_MGSV_Enforcer_RBV_Torso_F X2BodyPartTemplate]
+DisplayName="Rigid Blast Vest"
+
+[LgtMk2_DLC2_MGSV_Enforcer_RBV_Torso_F X2BodyPartTemplate]
+DisplayName="Rigid Blast Vest"
+
+[MedMk1_DLC2_MGSV_Enforcer_RBV_Torso_F X2BodyPartTemplate]
+DisplayName="Rigid Blast Vest"
+
+[HvyMk1_DLC2_MGSV_Enforcer_RBV_Torso_F X2BodyPartTemplate]
+DisplayName="Rigid Blast Vest"
+
+[HvyMk2_DLC2_MGSV_Enforcer_RBV_Torso_F X2BodyPartTemplate]
+DisplayName="Rigid Blast Vest"
+
+
+[LgtMk1_DLC2_MGSV_Enforcer_HBG_Thighs_A_M X2BodyPartTemplate]
+DisplayName="Hardend Battle Gear - Thighs A"
+
+[LgtMk2_DLC2_MGSV_Enforcer_HBG_Thighs_A_M X2BodyPartTemplate]
+DisplayName="Hardend Battle Gear - Thighs A"
+
+[MedMk1_DLC2_MGSV_Enforcer_HBG_Thighs_A_M X2BodyPartTemplate]
+DisplayName="Hardend Battle Gear - Thighs A"
+
+[HvyMk1_DLC2_MGSV_Enforcer_HBG_Thighs_A_M X2BodyPartTemplate]
+DisplayName="Hardend Battle Gear - Thighs A"
+
+[HvyMk2_DLC2_MGSV_Enforcer_HBG_Thighs_A_M X2BodyPartTemplate]
+DisplayName="Hardend Battle Gear - Thighs A"
+
+
+[LgtMk1_DLC2_MGSV_Enforcer_HBG_Thighs_A_F X2BodyPartTemplate]
+DisplayName="Hardend Battle Gear - Thighs A"
+
+[LgtMk2_DLC2_MGSV_Enforcer_HBG_Thighs_A_F X2BodyPartTemplate]
+DisplayName="Hardend Battle Gear - Thighs A"
+
+[MedMk1_DLC2_MGSV_Enforcer_HBG_Thighs_A_F X2BodyPartTemplate]
+DisplayName="Hardend Battle Gear - Thighs A"
+
+[HvyMk1_DLC2_MGSV_Enforcer_HBG_Thighs_A_F X2BodyPartTemplate]
+DisplayName="Hardend Battle Gear - Thighs A"
+
+[HvyMk2_DLC2_MGSV_Enforcer_HBG_Thighs_A_F X2BodyPartTemplate]
+DisplayName="Hardend Battle Gear - Thighs A"
+
+
+[LgtMk1_DLC2_MGSV_Enforcer_HBG_Thighs_B_M X2BodyPartTemplate]
+DisplayName="Hardend Battle Gear - Thighs B"
+
+[LgtMk2_DLC2_MGSV_Enforcer_HBG_Thighs_B_M X2BodyPartTemplate]
+DisplayName="Hardend Battle Gear - Thighs B"
+
+[MedMk1_DLC2_MGSV_Enforcer_HBG_Thighs_B_M X2BodyPartTemplate]
+DisplayName="Hardend Battle Gear - Thighs B"
+
+[HvyMk1_DLC2_MGSV_Enforcer_HBG_Thighs_B_M X2BodyPartTemplate]
+DisplayName="Hardend Battle Gear - Thighs B"
+
+[HvyMk2_DLC2_MGSV_Enforcer_HBG_Thighs_B_M X2BodyPartTemplate]
+DisplayName="Hardend Battle Gear - Thighs B"
+
+
+[LgtMk1_DLC2_MGSV_Enforcer_HBG_Thighs_B_F X2BodyPartTemplate]
+DisplayName="Hardend Battle Gear - Thighs B"
+
+[LgtMk2_DLC2_MGSV_Enforcer_HBG_Thighs_B_F X2BodyPartTemplate]
+DisplayName="Hardend Battle Gear - Thighs B"
+
+[MedMk1_DLC2_MGSV_Enforcer_HBG_Thighs_B_F X2BodyPartTemplate]
+DisplayName="Hardend Battle Gear - Thighs B"
+
+[HvyMk1_DLC2_MGSV_Enforcer_HBG_Thighs_B_F X2BodyPartTemplate]
+DisplayName="Hardend Battle Gear - Thighs B"
+
+[HvyMk2_DLC2_MGSV_Enforcer_HBG_Thighs_B_F X2BodyPartTemplate]
+DisplayName="Hardend Battle Gear - Thighs B"

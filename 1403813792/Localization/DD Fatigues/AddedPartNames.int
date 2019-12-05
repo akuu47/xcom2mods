@@ -1,0 +1,223 @@
+[X2DownloadableContentInfo_AddedPartNames]
+
+;
+; SOLDIER
+;
+
+.TorsoTemplate="CNV_WotC_SLD_MGSV_DD_Fatigues_Torso_A1_M"
+.TorsoName="Diamond Dogs Fatigues - Torso A"
+
+.TorsoTemplate="LPL_WotC_SLD_MGSV_DD_Fatigues_Torso_A1_M"
+.TorsoName="Diamond Dogs Fatigues - Torso A"
+
+.TorsoTemplate="MPL_WotC_SLD_MGSV_DD_Fatigues_Torso_A1_M"
+.TorsoName="Diamond Dogs Fatigues - Torso A"
+
+.TorsoTemplate="HPL_WotC_SLD_MGSV_DD_Fatigues_Torso_A1_M"
+.TorsoName="Diamond Dogs Fatigues - Torso A"
+
+.TorsoTemplate="LPW_WotC_SLD_MGSV_DD_Fatigues_Torso_A1_M"
+.TorsoName="Diamond Dogs Fatigues - Torso A"
+
+.TorsoTemplate="MPW_WotC_SLD_MGSV_DD_Fatigues_Torso_A1_M"
+.TorsoName="Diamond Dogs Fatigues - Torso A"
+
+.TorsoTemplate="HPW_WotC_SLD_MGSV_DD_Fatigues_Torso_A1_M"
+.TorsoName="Diamond Dogs Fatigues - Torso A"
+
+
+
+.TorsoTemplate="CNV_WotC_SLD_MGSV_DD_Fatigues_Torso_A2_M"
+.TorsoName="Diamond Dogs Fatigues - Torso B"
+
+.TorsoTemplate="LPL_WotC_SLD_MGSV_DD_Fatigues_Torso_A2_M"
+.TorsoName="Diamond Dogs Fatigues - Torso B"
+
+.TorsoTemplate="MPL_WotC_SLD_MGSV_DD_Fatigues_Torso_A2_M"
+.TorsoName="Diamond Dogs Fatigues - Torso B"
+
+.TorsoTemplate="HPL_WotC_SLD_MGSV_DD_Fatigues_Torso_A2_M"
+.TorsoName="Diamond Dogs Fatigues - Torso B"
+
+.TorsoTemplate="LPW_WotC_SLD_MGSV_DD_Fatigues_Torso_A2_M"
+.TorsoName="Diamond Dogs Fatigues - Torso B"
+
+.TorsoTemplate="MPW_WotC_SLD_MGSV_DD_Fatigues_Torso_A2_M"
+.TorsoName="Diamond Dogs Fatigues - Torso B"
+
+.TorsoTemplate="HPW_WotC_SLD_MGSV_DD_Fatigues_Torso_A2_M"
+.TorsoName="Diamond Dogs Fatigues - Torso B"
+
+
+
+.TorsoTemplate="CNV_WotC_SLD_MGSV_DD_Fatigues_Torso_A3_M"
+.TorsoName="Diamond Dogs Fatigues - Torso C"
+
+.TorsoTemplate="LPL_WotC_SLD_MGSV_DD_Fatigues_Torso_A3_M"
+.TorsoName="Diamond Dogs Fatigues - Torso C"
+
+.TorsoTemplate="MPL_WotC_SLD_MGSV_DD_Fatigues_Torso_A3_M"
+.TorsoName="Diamond Dogs Fatigues - Torso C"
+
+.TorsoTemplate="HPL_WotC_SLD_MGSV_DD_Fatigues_Torso_A3_M"
+.TorsoName="Diamond Dogs Fatigues - Torso C"
+
+.TorsoTemplate="LPW_WotC_SLD_MGSV_DD_Fatigues_Torso_A3_M"
+.TorsoName="Diamond Dogs Fatigues - Torso C"
+
+.TorsoTemplate="MPW_WotC_SLD_MGSV_DD_Fatigues_Torso_A3_M"
+.TorsoName="Diamond Dogs Fatigues - Torso C"
+
+.TorsoTemplate="HPW_WotC_SLD_MGSV_DD_Fatigues_Torso_A3_M"
+.TorsoName="Diamond Dogs Fatigues - Torso C"
+
+
+
+.TorsoTemplate="CNV_WotC_SLD_MGSV_DD_Fatigues_Torso_A_F"
+.TorsoName="Diamond Dogs Fatigues - Torso"
+
+.TorsoTemplate="LPL_WotC_SLD_MGSV_DD_Fatigues_Torso_A_F"
+.TorsoName="Diamond Dogs Fatigues - Torso"
+
+.TorsoTemplate="MPL_WotC_SLD_MGSV_DD_Fatigues_Torso_A_F"
+.TorsoName="Diamond Dogs Fatigues - Torso"
+
+.TorsoTemplate="HPL_WotC_SLD_MGSV_DD_Fatigues_Torso_A_F"
+.TorsoName="Diamond Dogs Fatigues - Torso"
+
+.TorsoTemplate="LPW_WotC_SLD_MGSV_DD_Fatigues_Torso_A_F"
+.TorsoName="Diamond Dogs Fatigues - Torso"
+
+.TorsoTemplate="MPW_WotC_SLD_MGSV_DD_Fatigues_Torso_A_F"
+.TorsoName="Diamond Dogs Fatigues - Torso"
+
+.TorsoTemplate="HPW_WotC_SLD_MGSV_DD_Fatigues_Torso_A_F"
+.TorsoName="Diamond Dogs Fatigues - Torso"
+
+
+.TorsoTemplate="CNV_WotC_SLD_MGSV_DD_Fatigues_Torso_B1_M"
+.TorsoName="Diamond Dogs Fatigues - Torso A [Backpack]"
+
+.TorsoTemplate="LPL_WotC_SLD_MGSV_DD_Fatigues_Torso_B1_M"
+.TorsoName="Diamond Dogs Fatigues - Torso A [Backpack]"
+
+.TorsoTemplate="MPL_WotC_SLD_MGSV_DD_Fatigues_Torso_B1_M"
+.TorsoName="Diamond Dogs Fatigues - Torso A [Backpack]"
+
+.TorsoTemplate="HPL_WotC_SLD_MGSV_DD_Fatigues_Torso_B1_M"
+.TorsoName="Diamond Dogs Fatigues - Torso A [Backpack]"
+
+.TorsoTemplate="LPW_WotC_SLD_MGSV_DD_Fatigues_Torso_B1_M"
+.TorsoName="Diamond Dogs Fatigues - Torso A [Backpack]"
+
+.TorsoTemplate="MPW_WotC_SLD_MGSV_DD_Fatigues_Torso_B1_M"
+.TorsoName="Diamond Dogs Fatigues - Torso A [Backpack]"
+
+.TorsoTemplate="HPW_WotC_SLD_MGSV_DD_Fatigues_Torso_B1_M"
+.TorsoName="Diamond Dogs Fatigues - Torso A [Backpack]"
+
+
+
+.TorsoTemplate="CNV_WotC_SLD_MGSV_DD_Fatigues_Torso_B2_M"
+.TorsoName="Diamond Dogs Fatigues - Torso B [Backpack]"
+
+.TorsoTemplate="LPL_WotC_SLD_MGSV_DD_Fatigues_Torso_B2_M"
+.TorsoName="Diamond Dogs Fatigues - Torso B [Backpack]"
+
+.TorsoTemplate="MPL_WotC_SLD_MGSV_DD_Fatigues_Torso_B2_M"
+.TorsoName="Diamond Dogs Fatigues - Torso B [Backpack]"
+
+.TorsoTemplate="HPL_WotC_SLD_MGSV_DD_Fatigues_Torso_B2_M"
+.TorsoName="Diamond Dogs Fatigues - Torso B [Backpack]"
+
+.TorsoTemplate="LPW_WotC_SLD_MGSV_DD_Fatigues_Torso_B2_M"
+.TorsoName="Diamond Dogs Fatigues - Torso B [Backpack]"
+
+.TorsoTemplate="MPW_WotC_SLD_MGSV_DD_Fatigues_Torso_B2_M"
+.TorsoName="Diamond Dogs Fatigues - Torso B [Backpack]"
+
+.TorsoTemplate="HPW_WotC_SLD_MGSV_DD_Fatigues_Torso_B2_M"
+.TorsoName="Diamond Dogs Fatigues - Torso B [Backpack]"
+
+
+
+.TorsoTemplate="CNV_WotC_SLD_MGSV_DD_Fatigues_Torso_B3_M"
+.TorsoName="Diamond Dogs Fatigues - Torso C [Backpack]"
+
+.TorsoTemplate="LPL_WotC_SLD_MGSV_DD_Fatigues_Torso_B3_M"
+.TorsoName="Diamond Dogs Fatigues - Torso C [Backpack]"
+
+.TorsoTemplate="MPL_WotC_SLD_MGSV_DD_Fatigues_Torso_B3_M"
+.TorsoName="Diamond Dogs Fatigues - Torso C [Backpack]"
+
+.TorsoTemplate="HPL_WotC_SLD_MGSV_DD_Fatigues_Torso_B3_M"
+.TorsoName="Diamond Dogs Fatigues - Torso C [Backpack]"
+
+.TorsoTemplate="LPW_WotC_SLD_MGSV_DD_Fatigues_Torso_B3_M"
+.TorsoName="Diamond Dogs Fatigues - Torso C [Backpack]"
+
+.TorsoTemplate="MPW_WotC_SLD_MGSV_DD_Fatigues_Torso_B3_M"
+.TorsoName="Diamond Dogs Fatigues - Torso C [Backpack]"
+
+.TorsoTemplate="HPW_WotC_SLD_MGSV_DD_Fatigues_Torso_B3_M"
+.TorsoName="Diamond Dogs Fatigues - Torso C [Backpack]"
+
+
+.TorsoTemplate="CNV_WotC_SLD_MGSV_DD_Fatigues_Torso_B_F"
+.TorsoName="Diamond Dogs Fatigues - Torso [Backpack]"
+
+.TorsoTemplate="LPL_WotC_SLD_MGSV_DD_Fatigues_Torso_B_F"
+.TorsoName="Diamond Dogs Fatigues - Torso [Backpack]"
+
+.TorsoTemplate="MPL_WotC_SLD_MGSV_DD_Fatigues_Torso_B_F"
+.TorsoName="Diamond Dogs Fatigues - Torso [Backpack]"
+
+.TorsoTemplate="HPL_WotC_SLD_MGSV_DD_Fatigues_Torso_B_F"
+.TorsoName="Diamond Dogs Fatigues - Torso [Backpack]"
+
+.TorsoTemplate="LPW_WotC_SLD_MGSV_DD_Fatigues_Torso_B_F"
+.TorsoName="Diamond Dogs Fatigues - Torso [Backpack]"
+
+.TorsoTemplate="MPW_WotC_SLD_MGSV_DD_Fatigues_Torso_B_F"
+.TorsoName="Diamond Dogs Fatigues - Torso [Backpack]"
+
+.TorsoTemplate="HPW_WotC_SLD_MGSV_DD_Fatigues_Torso_B_F"
+.TorsoName="Diamond Dogs Fatigues - Torso [Backpack]"
+
+
+.LegsTemplate="CNV_WotC_SLD_MGSV_DD_Fatigues_Legs_M"
+.LegsName="Diamond Dogs Fatigues - Legs"
+
+.LegsTemplate="LPL_WotC_SLD_MGSV_DD_Fatigues_Legs_M"
+.LegsName="Diamond Dogs Fatigues - Legs"
+
+.LegsTemplate="MPL_WotC_SLD_MGSV_DD_Fatigues_Legs_M"
+.LegsName="Diamond Dogs Fatigues - Legs"
+
+.LegsTemplate="HPL_WotC_SLD_MGSV_DD_Fatigues_Legs_M"
+.LegsName="Diamond Dogs Fatigues - Legs"
+
+.LegsTemplate="LPW_WotC_SLD_MGSV_DD_Fatigues_Legs_M"
+.LegsName="Diamond Dogs Fatigues - Legs"
+
+.LegsTemplate="MPW_WotC_SLD_MGSV_DD_Fatigues_Legs_M"
+.LegsName="Diamond Dogs Fatigues - Legs"
+
+
+.LegsTemplate="CNV_WotC_SLD_MGSV_DD_Fatigues_Legs_F"
+.LegsName="Diamond Dogs Fatigues - Legs"
+
+.LegsTemplate="LPL_WotC_SLD_MGSV_DD_Fatigues_Legs_F"
+.LegsName="Diamond Dogs Fatigues - Legs"
+
+.LegsTemplate="MPL_WotC_SLD_MGSV_DD_Fatigues_Legs_F"
+.LegsName="Diamond Dogs Fatigues - Legs"
+
+.LegsTemplate="HPL_WotC_SLD_MGSV_DD_Fatigues_Legs_F"
+.LegsName="Diamond Dogs Fatigues - Legs"
+
+.LegsTemplate="LPW_WotC_SLD_MGSV_DD_Fatigues_Legs_F"
+.LegsName="Diamond Dogs Fatigues - Legs"
+
+.LegsTemplate="MPW_WotC_SLD_MGSV_DD_Fatigues_Legs_F"
+.LegsName="Diamond Dogs Fatigues - Legs"

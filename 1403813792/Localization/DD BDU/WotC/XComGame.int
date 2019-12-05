@@ -1,0 +1,605 @@
+
+; ============================================================================================================================
+;
+;	Reaper
+;
+; ============================================================================================================================
+
+;
+; Torso Accessories
+;
+
+[CNV_WotC_RPR_MGSV_DD_BDU_TorsoDeco_CRG_M X2BodyPartTemplate]
+DisplayName="Chest Rig"
+
+[MPL_WotC_RPR_MGSV_DD_BDU_TorsoDeco_CRG_M X2BodyPartTemplate]
+DisplayName="Chest Rig"
+
+[MPW_WotC_RPR_MGSV_DD_BDU_TorsoDeco_CRG_M X2BodyPartTemplate]
+DisplayName="Chest Rig"
+
+
+[CNV_WotC_RPR_MGSV_DD_BDU_TorsoDeco_CRG_F X2BodyPartTemplate]
+DisplayName="Chest Rig"
+
+[MPL_WotC_RPR_MGSV_DD_BDU_TorsoDeco_CRG_F X2BodyPartTemplate]
+DisplayName="Chest Rig"
+
+[MPW_WotC_RPR_MGSV_DD_BDU_TorsoDeco_CRG_F X2BodyPartTemplate]
+DisplayName="Chest Rig"
+
+
+[CNV_WotC_RPR_MGSV_DD_BDU_TorsoDeco_PVT_M X2BodyPartTemplate]
+DisplayName="Plate Vest"
+
+[MPL_WotC_RPR_MGSV_DD_BDU_TorsoDeco_PVT_M X2BodyPartTemplate]
+DisplayName="Plate Vest"
+
+[MPW_WotC_RPR_MGSV_DD_BDU_TorsoDeco_PVT_M X2BodyPartTemplate]
+DisplayName="Plate Vest"
+
+
+[CNV_WotC_RPR_MGSV_DD_BDU_TorsoDeco_PVT_F X2BodyPartTemplate]
+DisplayName="Plate Vest"
+
+[MPL_WotC_RPR_MGSV_DD_BDU_TorsoDeco_PVT_F X2BodyPartTemplate]
+DisplayName="Plate Vest"
+
+[MPW_WotC_RPR_MGSV_DD_BDU_TorsoDeco_PVT_F X2BodyPartTemplate]
+DisplayName="Plate Vest"
+
+
+[CNV_WotC_RPR_MGSV_DD_BDU_TorsoDeco_TVT_M X2BodyPartTemplate]
+DisplayName="Tactical Vest"
+
+[MPL_WotC_RPR_MGSV_DD_BDU_TorsoDeco_TVT_M X2BodyPartTemplate]
+DisplayName="Tactical Vest"
+
+[MPW_WotC_RPR_MGSV_DD_BDU_TorsoDeco_TVT_M X2BodyPartTemplate]
+DisplayName="Tactical Vest"
+
+
+[CNV_WotC_RPR_MGSV_DD_BDU_TorsoDeco_TVT_F X2BodyPartTemplate]
+DisplayName="Tactical Vest"
+
+[MPL_WotC_RPR_MGSV_DD_BDU_TorsoDeco_TVT_F X2BodyPartTemplate]
+DisplayName="Tactical Vest"
+
+[MPW_WotC_RPR_MGSV_DD_BDU_TorsoDeco_TVT_F X2BodyPartTemplate]
+DisplayName="Tactical Vest"
+
+;
+; Left Arm
+;
+
+
+[CNV_WotC_RPR_MGSV_DD_BDU_Forearm_Left_Watch_M X2BodyPartTemplate]
+DisplayName="Watch"
+
+[MPL_WotC_RPR_MGSV_DD_BDU_Forearm_Left_Watch_M X2BodyPartTemplate]
+DisplayName="Watch"
+
+[MPW_WotC_RPR_MGSV_DD_BDU_Forearm_Left_Watch_M X2BodyPartTemplate]
+DisplayName="Watch"
+
+
+[CNV_WotC_RPR_MGSV_DD_BDU_Forearm_Left_Watch_F X2BodyPartTemplate]
+DisplayName="Watch"
+
+[MPL_WotC_RPR_MGSV_DD_BDU_Forearm_Left_Watch_F X2BodyPartTemplate]
+DisplayName="Watch"
+
+[MPW_WotC_RPR_MGSV_DD_BDU_Forearm_Left_Watch_F X2BodyPartTemplate]
+DisplayName="Watch"
+
+
+;
+; Right Arm
+;
+
+
+[CNV_WotC_RPR_MGSV_DD_BDU_Forearm_Right_Watch_M X2BodyPartTemplate]
+DisplayName="Watch"
+
+[MPL_WotC_RPR_MGSV_DD_BDU_Forearm_Right_Watch_M X2BodyPartTemplate]
+DisplayName="Watch"
+
+[MPW_WotC_RPR_MGSV_DD_BDU_Forearm_Right_Watch_M X2BodyPartTemplate]
+DisplayName="Watch"
+
+
+[CNV_WotC_RPR_MGSV_DD_BDU_Forearm_Right_Watch_F X2BodyPartTemplate]
+DisplayName="Watch"
+
+[MPL_WotC_RPR_MGSV_DD_BDU_Forearm_Right_Watch_F X2BodyPartTemplate]
+DisplayName="Watch"
+
+[MPW_WotC_RPR_MGSV_DD_BDU_Forearm_Right_Watch_F X2BodyPartTemplate]
+DisplayName="Watch"
+
+;
+; Thighs
+;
+
+[CNV_WotC_RPR_MGSV_DD_BDU_Thighs_A_M X2BodyPartTemplate]
+DisplayName="Diamond Dogs - BDU - Equipment [Default]"
+
+[MPL_WotC_RPR_MGSV_DD_BDU_Thighs_A_M X2BodyPartTemplate]
+DisplayName="Diamond Dogs - BDU - Equipment [Default]"
+
+[MPW_WotC_RPR_MGSV_DD_BDU_Thighs_A_M X2BodyPartTemplate]
+DisplayName="Diamond Dogs - BDU - Equipment [Default]"
+
+
+[CNV_WotC_RPR_MGSV_DD_BDU_Thighs_A_F X2BodyPartTemplate]
+DisplayName="Diamond Dogs - BDU - Equipment [Default]"
+
+[MPL_WotC_RPR_MGSV_DD_BDU_Thighs_A_F X2BodyPartTemplate]
+DisplayName="Diamond Dogs - BDU - Equipment [Default]"
+
+[MPW_WotC_RPR_MGSV_DD_BDU_Thighs_A_F X2BodyPartTemplate]
+DisplayName="Diamond Dogs - BDU - Equipment [Default]"
+
+
+[CNV_WotC_RPR_MGSV_DD_BDU_Thighs_B_M X2BodyPartTemplate]
+DisplayName="Diamond Dogs - BDU - Equipment [No Pistol Holster]"
+
+[MPL_WotC_RPR_MGSV_DD_BDU_Thighs_B_M X2BodyPartTemplate]
+DisplayName="Diamond Dogs - BDU - Equipment [No Pistol Holster]"
+
+[MPW_WotC_RPR_MGSV_DD_BDU_Thighs_B_M X2BodyPartTemplate]
+DisplayName="Diamond Dogs - BDU - Equipment [No Pistol Holster]"
+
+
+[CNV_WotC_RPR_MGSV_DD_BDU_Thighs_B_F X2BodyPartTemplate]
+DisplayName="Diamond Dogs - BDU - Equipment [No Pistol Holster]"
+
+[MPL_WotC_RPR_MGSV_DD_BDU_Thighs_B_F X2BodyPartTemplate]
+DisplayName="Diamond Dogs - BDU - Equipment [No Pistol Holster]"
+
+[MPW_WotC_RPR_MGSV_DD_BDU_Thighs_B_F X2BodyPartTemplate]
+DisplayName="Diamond Dogs - BDU - Equipment [No Pistol Holster]"
+
+
+[CNV_WotC_RPR_MGSV_DD_BDU_Thighs_C1_M X2BodyPartTemplate]
+DisplayName="Diamond Dogs - BDU - Equipment [OxyTank]"
+
+[MPL_WotC_RPR_MGSV_DD_BDU_Thighs_C1_M X2BodyPartTemplate]
+DisplayName="Diamond Dogs - BDU - Equipment [OxyTank]"
+
+[MPW_WotC_RPR_MGSV_DD_BDU_Thighs_C1_M X2BodyPartTemplate]
+DisplayName="Diamond Dogs - BDU - Equipment [OxyTank]"
+
+
+[CNV_WotC_RPR_MGSV_DD_BDU_Thighs_C1_F X2BodyPartTemplate]
+DisplayName="Diamond Dogs - BDU - Equipment [OxyTank]"
+
+[MPL_WotC_RPR_MGSV_DD_BDU_Thighs_C1_F X2BodyPartTemplate]
+DisplayName="Diamond Dogs - BDU - Equipment [OxyTank]"
+
+[MPW_WotC_RPR_MGSV_DD_BDU_Thighs_C1_F X2BodyPartTemplate]
+DisplayName="Diamond Dogs - BDU - Equipment [OxyTank]"
+
+
+[CNV_WotC_RPR_MGSV_DD_BDU_Thighs_C2_M X2BodyPartTemplate]
+DisplayName="Diamond Dogs - BDU - Equipment [OxyTank][No Mask]"
+
+[MPL_WotC_RPR_MGSV_DD_BDU_Thighs_C2_M X2BodyPartTemplate]
+DisplayName="Diamond Dogs - BDU - Equipment [OxyTank][No Mask]"
+
+[MPW_WotC_RPR_MGSV_DD_BDU_Thighs_C2_M X2BodyPartTemplate]
+DisplayName="Diamond Dogs - BDU - Equipment [OxyTank][No Mask]"
+
+
+[CNV_WotC_RPR_MGSV_DD_BDU_Thighs_C2_F X2BodyPartTemplate]
+DisplayName="Diamond Dogs - BDU - Equipment [OxyTank][No Mask]"
+
+[MPL_WotC_RPR_MGSV_DD_BDU_Thighs_C2_F X2BodyPartTemplate]
+DisplayName="Diamond Dogs - BDU - Equipment [OxyTank][No Mask]"
+
+[MPW_WotC_RPR_MGSV_DD_BDU_Thighs_C2_F X2BodyPartTemplate]
+DisplayName="Diamond Dogs - BDU - Equipment [OxyTank][No Mask]"
+
+
+; ============================================================================================================================
+;
+;	Skirmisher
+;
+; ============================================================================================================================
+
+;
+; Torso Accessories
+;
+
+[CNV_WotC_SKR_MGSV_DD_BDU_TorsoDeco_CRG_M X2BodyPartTemplate]
+DisplayName="Chest Rig"
+
+[MPL_WotC_SKR_MGSV_DD_BDU_TorsoDeco_CRG_M X2BodyPartTemplate]
+DisplayName="Chest Rig"
+
+[MPW_WotC_SKR_MGSV_DD_BDU_TorsoDeco_CRG_M X2BodyPartTemplate]
+DisplayName="Chest Rig"
+
+
+[CNV_WotC_SKR_MGSV_DD_BDU_TorsoDeco_CRG_F X2BodyPartTemplate]
+DisplayName="Chest Rig"
+
+[MPL_WotC_SKR_MGSV_DD_BDU_TorsoDeco_CRG_F X2BodyPartTemplate]
+DisplayName="Chest Rig"
+
+[MPW_WotC_SKR_MGSV_DD_BDU_TorsoDeco_CRG_F X2BodyPartTemplate]
+DisplayName="Chest Rig"
+
+
+[CNV_WotC_SKR_MGSV_DD_BDU_TorsoDeco_PVT_M X2BodyPartTemplate]
+DisplayName="Plate Vest"
+
+[MPL_WotC_SKR_MGSV_DD_BDU_TorsoDeco_PVT_M X2BodyPartTemplate]
+DisplayName="Plate Vest"
+
+[MPW_WotC_SKR_MGSV_DD_BDU_TorsoDeco_PVT_M X2BodyPartTemplate]
+DisplayName="Plate Vest"
+
+
+[CNV_WotC_SKR_MGSV_DD_BDU_TorsoDeco_PVT_F X2BodyPartTemplate]
+DisplayName="Plate Vest"
+
+[MPL_WotC_SKR_MGSV_DD_BDU_TorsoDeco_PVT_F X2BodyPartTemplate]
+DisplayName="Plate Vest"
+
+[MPW_WotC_SKR_MGSV_DD_BDU_TorsoDeco_PVT_F X2BodyPartTemplate]
+DisplayName="Plate Vest"
+
+
+[CNV_WotC_SKR_MGSV_DD_BDU_TorsoDeco_TVT_M X2BodyPartTemplate]
+DisplayName="Tactical Vest"
+
+[MPL_WotC_SKR_MGSV_DD_BDU_TorsoDeco_TVT_M X2BodyPartTemplate]
+DisplayName="Tactical Vest"
+
+[MPW_WotC_SKR_MGSV_DD_BDU_TorsoDeco_TVT_M X2BodyPartTemplate]
+DisplayName="Tactical Vest"
+
+
+[CNV_WotC_SKR_MGSV_DD_BDU_TorsoDeco_TVT_F X2BodyPartTemplate]
+DisplayName="Tactical Vest"
+
+[MPL_WotC_SKR_MGSV_DD_BDU_TorsoDeco_TVT_F X2BodyPartTemplate]
+DisplayName="Tactical Vest"
+
+[MPW_WotC_SKR_MGSV_DD_BDU_TorsoDeco_TVT_F X2BodyPartTemplate]
+DisplayName="Tactical Vest"
+
+;
+; Left Arm
+;
+
+
+[CNV_WotC_SKR_MGSV_DD_BDU_Forearm_Left_Watch_M X2BodyPartTemplate]
+DisplayName="Watch"
+
+[MPL_WotC_SKR_MGSV_DD_BDU_Forearm_Left_Watch_M X2BodyPartTemplate]
+DisplayName="Watch"
+
+[MPW_WotC_SKR_MGSV_DD_BDU_Forearm_Left_Watch_M X2BodyPartTemplate]
+DisplayName="Watch"
+
+
+[CNV_WotC_SKR_MGSV_DD_BDU_Forearm_Left_Watch_F X2BodyPartTemplate]
+DisplayName="Watch"
+
+[MPL_WotC_SKR_MGSV_DD_BDU_Forearm_Left_Watch_F X2BodyPartTemplate]
+DisplayName="Watch"
+
+[MPW_WotC_SKR_MGSV_DD_BDU_Forearm_Left_Watch_F X2BodyPartTemplate]
+DisplayName="Watch"
+
+
+;
+; Right Arm
+;
+
+
+[CNV_WotC_SKR_MGSV_DD_BDU_Forearm_Right_Watch_M X2BodyPartTemplate]
+DisplayName="Watch"
+
+[MPL_WotC_SKR_MGSV_DD_BDU_Forearm_Right_Watch_M X2BodyPartTemplate]
+DisplayName="Watch"
+
+[MPW_WotC_SKR_MGSV_DD_BDU_Forearm_Right_Watch_M X2BodyPartTemplate]
+DisplayName="Watch"
+
+
+[CNV_WotC_SKR_MGSV_DD_BDU_Forearm_Right_Watch_F X2BodyPartTemplate]
+DisplayName="Watch"
+
+[MPL_WotC_SKR_MGSV_DD_BDU_Forearm_Right_Watch_F X2BodyPartTemplate]
+DisplayName="Watch"
+
+[MPW_WotC_SKR_MGSV_DD_BDU_Forearm_Right_Watch_F X2BodyPartTemplate]
+DisplayName="Watch"
+
+;
+; Thighs
+;
+
+[CNV_WotC_SKR_MGSV_DD_BDU_Thighs_A_M X2BodyPartTemplate]
+DisplayName="Diamond Dogs - BDU - Equipment [Default]"
+
+[MPL_WotC_SKR_MGSV_DD_BDU_Thighs_A_M X2BodyPartTemplate]
+DisplayName="Diamond Dogs - BDU - Equipment [Default]"
+
+[MPW_WotC_SKR_MGSV_DD_BDU_Thighs_A_M X2BodyPartTemplate]
+DisplayName="Diamond Dogs - BDU - Equipment [Default]"
+
+
+[CNV_WotC_SKR_MGSV_DD_BDU_Thighs_A_F X2BodyPartTemplate]
+DisplayName="Diamond Dogs - BDU - Equipment [Default]"
+
+[MPL_WotC_SKR_MGSV_DD_BDU_Thighs_A_F X2BodyPartTemplate]
+DisplayName="Diamond Dogs - BDU - Equipment [Default]"
+
+[MPW_WotC_SKR_MGSV_DD_BDU_Thighs_A_F X2BodyPartTemplate]
+DisplayName="Diamond Dogs - BDU - Equipment [Default]"
+
+
+[CNV_WotC_SKR_MGSV_DD_BDU_Thighs_B_M X2BodyPartTemplate]
+DisplayName="Diamond Dogs - BDU - Equipment [No Pistol Holster]"
+
+[MPL_WotC_SKR_MGSV_DD_BDU_Thighs_B_M X2BodyPartTemplate]
+DisplayName="Diamond Dogs - BDU - Equipment [No Pistol Holster]"
+
+[MPW_WotC_SKR_MGSV_DD_BDU_Thighs_B_M X2BodyPartTemplate]
+DisplayName="Diamond Dogs - BDU - Equipment [No Pistol Holster]"
+
+
+[CNV_WotC_SKR_MGSV_DD_BDU_Thighs_B_F X2BodyPartTemplate]
+DisplayName="Diamond Dogs - BDU - Equipment [No Pistol Holster]"
+
+[MPL_WotC_SKR_MGSV_DD_BDU_Thighs_B_F X2BodyPartTemplate]
+DisplayName="Diamond Dogs - BDU - Equipment [No Pistol Holster]"
+
+[MPW_WotC_SKR_MGSV_DD_BDU_Thighs_B_F X2BodyPartTemplate]
+DisplayName="Diamond Dogs - BDU - Equipment [No Pistol Holster]"
+
+
+[CNV_WotC_SKR_MGSV_DD_BDU_Thighs_C1_M X2BodyPartTemplate]
+DisplayName="Diamond Dogs - BDU - Equipment [OxyTank]"
+
+[MPL_WotC_SKR_MGSV_DD_BDU_Thighs_C1_M X2BodyPartTemplate]
+DisplayName="Diamond Dogs - BDU - Equipment [OxyTank]"
+
+[MPW_WotC_SKR_MGSV_DD_BDU_Thighs_C1_M X2BodyPartTemplate]
+DisplayName="Diamond Dogs - BDU - Equipment [OxyTank]"
+
+
+[CNV_WotC_SKR_MGSV_DD_BDU_Thighs_C1_F X2BodyPartTemplate]
+DisplayName="Diamond Dogs - BDU - Equipment [OxyTank]"
+
+[MPL_WotC_SKR_MGSV_DD_BDU_Thighs_C1_F X2BodyPartTemplate]
+DisplayName="Diamond Dogs - BDU - Equipment [OxyTank]"
+
+[MPW_WotC_SKR_MGSV_DD_BDU_Thighs_C1_F X2BodyPartTemplate]
+DisplayName="Diamond Dogs - BDU - Equipment [OxyTank]"
+
+
+[CNV_WotC_SKR_MGSV_DD_BDU_Thighs_C2_M X2BodyPartTemplate]
+DisplayName="Diamond Dogs - BDU - Equipment [OxyTank][No Mask]"
+
+[MPL_WotC_SKR_MGSV_DD_BDU_Thighs_C2_M X2BodyPartTemplate]
+DisplayName="Diamond Dogs - BDU - Equipment [OxyTank][No Mask]"
+
+[MPW_WotC_SKR_MGSV_DD_BDU_Thighs_C2_M X2BodyPartTemplate]
+DisplayName="Diamond Dogs - BDU - Equipment [OxyTank][No Mask]"
+
+
+[CNV_WotC_SKR_MGSV_DD_BDU_Thighs_C2_F X2BodyPartTemplate]
+DisplayName="Diamond Dogs - BDU - Equipment [OxyTank][No Mask]"
+
+[MPL_WotC_SKR_MGSV_DD_BDU_Thighs_C2_F X2BodyPartTemplate]
+DisplayName="Diamond Dogs - BDU - Equipment [OxyTank][No Mask]"
+
+[MPW_WotC_SKR_MGSV_DD_BDU_Thighs_C2_F X2BodyPartTemplate]
+DisplayName="Diamond Dogs - BDU - Equipment [OxyTank][No Mask]"
+
+
+; ============================================================================================================================
+;
+;	Templar
+;
+; ============================================================================================================================
+
+;
+; Torso Accessories
+;
+
+[CNV_WotC_TMP_MGSV_DD_BDU_TorsoDeco_CRG_M X2BodyPartTemplate]
+DisplayName="Chest Rig"
+
+[MPL_WotC_TMP_MGSV_DD_BDU_TorsoDeco_CRG_M X2BodyPartTemplate]
+DisplayName="Chest Rig"
+
+[MPW_WotC_TMP_MGSV_DD_BDU_TorsoDeco_CRG_M X2BodyPartTemplate]
+DisplayName="Chest Rig"
+
+
+[CNV_WotC_TMP_MGSV_DD_BDU_TorsoDeco_CRG_F X2BodyPartTemplate]
+DisplayName="Chest Rig"
+
+[MPL_WotC_TMP_MGSV_DD_BDU_TorsoDeco_CRG_F X2BodyPartTemplate]
+DisplayName="Chest Rig"
+
+[MPW_WotC_TMP_MGSV_DD_BDU_TorsoDeco_CRG_F X2BodyPartTemplate]
+DisplayName="Chest Rig"
+
+
+[CNV_WotC_TMP_MGSV_DD_BDU_TorsoDeco_PVT_M X2BodyPartTemplate]
+DisplayName="Plate Vest"
+
+[MPL_WotC_TMP_MGSV_DD_BDU_TorsoDeco_PVT_M X2BodyPartTemplate]
+DisplayName="Plate Vest"
+
+[MPW_WotC_TMP_MGSV_DD_BDU_TorsoDeco_PVT_M X2BodyPartTemplate]
+DisplayName="Plate Vest"
+
+
+[CNV_WotC_TMP_MGSV_DD_BDU_TorsoDeco_PVT_F X2BodyPartTemplate]
+DisplayName="Plate Vest"
+
+[MPL_WotC_TMP_MGSV_DD_BDU_TorsoDeco_PVT_F X2BodyPartTemplate]
+DisplayName="Plate Vest"
+
+[MPW_WotC_TMP_MGSV_DD_BDU_TorsoDeco_PVT_F X2BodyPartTemplate]
+DisplayName="Plate Vest"
+
+
+[CNV_WotC_TMP_MGSV_DD_BDU_TorsoDeco_TVT_M X2BodyPartTemplate]
+DisplayName="Tactical Vest"
+
+[MPL_WotC_TMP_MGSV_DD_BDU_TorsoDeco_TVT_M X2BodyPartTemplate]
+DisplayName="Tactical Vest"
+
+[MPW_WotC_TMP_MGSV_DD_BDU_TorsoDeco_TVT_M X2BodyPartTemplate]
+DisplayName="Tactical Vest"
+
+
+[CNV_WotC_TMP_MGSV_DD_BDU_TorsoDeco_TVT_F X2BodyPartTemplate]
+DisplayName="Tactical Vest"
+
+[MPL_WotC_TMP_MGSV_DD_BDU_TorsoDeco_TVT_F X2BodyPartTemplate]
+DisplayName="Tactical Vest"
+
+[MPW_WotC_TMP_MGSV_DD_BDU_TorsoDeco_TVT_F X2BodyPartTemplate]
+DisplayName="Tactical Vest"
+
+;
+; Left Arm
+;
+
+
+[CNV_WotC_TMP_MGSV_DD_BDU_Forearm_Left_Watch_M X2BodyPartTemplate]
+DisplayName="Watch"
+
+[MPL_WotC_TMP_MGSV_DD_BDU_Forearm_Left_Watch_M X2BodyPartTemplate]
+DisplayName="Watch"
+
+[MPW_WotC_TMP_MGSV_DD_BDU_Forearm_Left_Watch_M X2BodyPartTemplate]
+DisplayName="Watch"
+
+
+[CNV_WotC_TMP_MGSV_DD_BDU_Forearm_Left_Watch_F X2BodyPartTemplate]
+DisplayName="Watch"
+
+[MPL_WotC_TMP_MGSV_DD_BDU_Forearm_Left_Watch_F X2BodyPartTemplate]
+DisplayName="Watch"
+
+[MPW_WotC_TMP_MGSV_DD_BDU_Forearm_Left_Watch_F X2BodyPartTemplate]
+DisplayName="Watch"
+
+
+;
+; Right Arm
+;
+
+
+[CNV_WotC_TMP_MGSV_DD_BDU_Forearm_Right_Watch_M X2BodyPartTemplate]
+DisplayName="Watch"
+
+[MPL_WotC_TMP_MGSV_DD_BDU_Forearm_Right_Watch_M X2BodyPartTemplate]
+DisplayName="Watch"
+
+[MPW_WotC_TMP_MGSV_DD_BDU_Forearm_Right_Watch_M X2BodyPartTemplate]
+DisplayName="Watch"
+
+
+[CNV_WotC_TMP_MGSV_DD_BDU_Forearm_Right_Watch_F X2BodyPartTemplate]
+DisplayName="Watch"
+
+[MPL_WotC_TMP_MGSV_DD_BDU_Forearm_Right_Watch_F X2BodyPartTemplate]
+DisplayName="Watch"
+
+[MPW_WotC_TMP_MGSV_DD_BDU_Forearm_Right_Watch_F X2BodyPartTemplate]
+DisplayName="Watch"
+
+;
+; Thighs
+;
+
+[CNV_WotC_TMP_MGSV_DD_BDU_Thighs_A_M X2BodyPartTemplate]
+DisplayName="Diamond Dogs - BDU - Equipment [Default]"
+
+[MPL_WotC_TMP_MGSV_DD_BDU_Thighs_A_M X2BodyPartTemplate]
+DisplayName="Diamond Dogs - BDU - Equipment [Default]"
+
+[MPW_WotC_TMP_MGSV_DD_BDU_Thighs_A_M X2BodyPartTemplate]
+DisplayName="Diamond Dogs - BDU - Equipment [Default]"
+
+
+[CNV_WotC_TMP_MGSV_DD_BDU_Thighs_A_F X2BodyPartTemplate]
+DisplayName="Diamond Dogs - BDU - Equipment [Default]"
+
+[MPL_WotC_TMP_MGSV_DD_BDU_Thighs_A_F X2BodyPartTemplate]
+DisplayName="Diamond Dogs - BDU - Equipment [Default]"
+
+[MPW_WotC_TMP_MGSV_DD_BDU_Thighs_A_F X2BodyPartTemplate]
+DisplayName="Diamond Dogs - BDU - Equipment [Default]"
+
+
+[CNV_WotC_TMP_MGSV_DD_BDU_Thighs_B_M X2BodyPartTemplate]
+DisplayName="Diamond Dogs - BDU - Equipment [No Pistol Holster]"
+
+[MPL_WotC_TMP_MGSV_DD_BDU_Thighs_B_M X2BodyPartTemplate]
+DisplayName="Diamond Dogs - BDU - Equipment [No Pistol Holster]"
+
+[MPW_WotC_TMP_MGSV_DD_BDU_Thighs_B_M X2BodyPartTemplate]
+DisplayName="Diamond Dogs - BDU - Equipment [No Pistol Holster]"
+
+
+[CNV_WotC_TMP_MGSV_DD_BDU_Thighs_B_F X2BodyPartTemplate]
+DisplayName="Diamond Dogs - BDU - Equipment [No Pistol Holster]"
+
+[MPL_WotC_TMP_MGSV_DD_BDU_Thighs_B_F X2BodyPartTemplate]
+DisplayName="Diamond Dogs - BDU - Equipment [No Pistol Holster]"
+
+[MPW_WotC_TMP_MGSV_DD_BDU_Thighs_B_F X2BodyPartTemplate]
+DisplayName="Diamond Dogs - BDU - Equipment [No Pistol Holster]"
+
+
+[CNV_WotC_TMP_MGSV_DD_BDU_Thighs_C1_M X2BodyPartTemplate]
+DisplayName="Diamond Dogs - BDU - Equipment [OxyTank]"
+
+[MPL_WotC_TMP_MGSV_DD_BDU_Thighs_C1_M X2BodyPartTemplate]
+DisplayName="Diamond Dogs - BDU - Equipment [OxyTank]"
+
+[MPW_WotC_TMP_MGSV_DD_BDU_Thighs_C1_M X2BodyPartTemplate]
+DisplayName="Diamond Dogs - BDU - Equipment [OxyTank]"
+
+
+[CNV_WotC_TMP_MGSV_DD_BDU_Thighs_C1_F X2BodyPartTemplate]
+DisplayName="Diamond Dogs - BDU - Equipment [OxyTank]"
+
+[MPL_WotC_TMP_MGSV_DD_BDU_Thighs_C1_F X2BodyPartTemplate]
+DisplayName="Diamond Dogs - BDU - Equipment [OxyTank]"
+
+[MPW_WotC_TMP_MGSV_DD_BDU_Thighs_C1_F X2BodyPartTemplate]
+DisplayName="Diamond Dogs - BDU - Equipment [OxyTank]"
+
+
+[CNV_WotC_TMP_MGSV_DD_BDU_Thighs_C2_M X2BodyPartTemplate]
+DisplayName="Diamond Dogs - BDU - Equipment [OxyTank][No Mask]"
+
+[MPL_WotC_TMP_MGSV_DD_BDU_Thighs_C2_M X2BodyPartTemplate]
+DisplayName="Diamond Dogs - BDU - Equipment [OxyTank][No Mask]"
+
+[MPW_WotC_TMP_MGSV_DD_BDU_Thighs_C2_M X2BodyPartTemplate]
+DisplayName="Diamond Dogs - BDU - Equipment [OxyTank][No Mask]"
+
+
+[CNV_WotC_TMP_MGSV_DD_BDU_Thighs_C2_F X2BodyPartTemplate]
+DisplayName="Diamond Dogs - BDU - Equipment [OxyTank][No Mask]"
+
+[MPL_WotC_TMP_MGSV_DD_BDU_Thighs_C2_F X2BodyPartTemplate]
+DisplayName="Diamond Dogs - BDU - Equipment [OxyTank][No Mask]"
+
+[MPW_WotC_TMP_MGSV_DD_BDU_Thighs_C2_F X2BodyPartTemplate]
+DisplayName="Diamond Dogs - BDU - Equipment [OxyTank][No Mask]"

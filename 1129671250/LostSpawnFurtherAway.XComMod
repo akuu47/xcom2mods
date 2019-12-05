@@ -1,0 +1,5 @@
+﻿[mod]
+publishedFileId=1129671250
+Title=Lost Spawn Further Away
+Description=Makes Lost Spawn 30 tiles instead of 18 tiles away from the player.
+RequiresXPACK=true

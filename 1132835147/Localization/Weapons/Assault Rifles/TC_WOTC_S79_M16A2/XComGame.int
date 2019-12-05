@@ -1,0 +1,41 @@
+[TC_WOTC_S79_M16A2_T1 X2WeaponTemplate]
+FriendlyName="<font color='#ECECEC'><b>M16A2</b></font>"
+FriendlyNamePlural="<font color='#ECECEC'><b>M16A2s</b></font>"
+AbilityDescName="assault rifle"
+BriefSummary="The Colt M16A2 is the result of the USMC's combat experience with the XM16E1 and M16A1 rifles during the Vietnam War. It was officially adopted by the Marines in the early 1980s with the United States Army following suit in the late 1980s. Several changes were made to the M16A2 rifle: a new rifled barrel, an adjustable rearsight, a modified flash suppressor that also acts as a recoil compensator, a new front grip, and a new stock made from thermoset polymers. The action is also modified to fire in 3 round bursts to prevent soldiers from 'spraying' bullets while under fire and to conserve ammo."
+TacticalText="<Bullet/>Type: Assault Rifle\n<Bullet/>Firing Profile: Burst\n<Bullet/>Action: Gas-Operated, Rotating Bolt (direct impingement)\n<Bullet/>Cartridge: 5.56x45mm NATO\n<Bullet/>Origin: United States\n<Bullet/>Tier: Conventional"
+
+[TC_WOTC_S79_M16A2_T2 X2WeaponTemplate]
+FriendlyName="<font color='#27AAE1'><b>MRS-16R2</b></font>"
+FriendlyNamePlural="<font color='#27AAE1'><b>MRS-16R2s</b></font>"
+AbilityDescName="assault rifle"
+BriefSummary="BriefSummary="The Colt M16A2 is the result of the USMC's combat experience with the XM16E1 and M16A1 rifles during the Vietnam War. It was officially adopted by the Marines in the early 1980s with the United States Army following suit in the late 1980s. Several changes were made to the M16A2 rifle: a new rifled barrel, an adjustable rearsight, a modified flash suppressor that also acts as a recoil compensator, a new front grip, and a new stock made from thermoset polymers. The action is also modified to fire in 3 round bursts to prevent soldiers from 'spraying' bullets while under fire and to conserve ammo.\n With magnetic research completed, the MRS-16R2 rifle contains a new rifled barrel that increases the range and stopping power of each bullet."
+TacticalText="<Bullet/>Type: Assault Rifle\n<Bullet/>Firing Profile: Burst\n<Bullet/>Action: Gas-Operated, Rotating Bolt (direct impingement)\n<Bullet/>Cartridge: 5.56x45mm NATO\n<Bullet/>Origin: United States\n<Bullet/>Tier: Magnetic"
+
+[TC_WOTC_S79_M16A2_T3 X2WeaponTemplate]
+FriendlyName="<font color='#CF4517'><b>NV16/I02</b></font>"
+FriendlyNamePlural="<font color='#CF4517'><b>NV16/I01s</b></font>"
+AbilityDescName="assault rifle"
+BriefSummary="The first of its kind, the Colt Model 603, or XM16E1, is a 30 round 5.56x45mm assault rifle capable of firing in single shot or automatic mode. This was issued to the US Marines during the beginning of the Vietnam war, to field test the weapon. This version was discarded as soon as the M16A1 were in full production, but how it survived all these years is uncertain. This rifle can accept attachments, including the replacement of the stock with a retractable one.\n The high pressure gas in the direct impingement design of the M16A2 is replaced with a more powerful and cleaner alternative. As a result, the NV16/I02 has better range and stopping power than its predecessors."
+TacticalText="<Bullet/>Type: Assault Rifle\n<Bullet/>Firing Profile: Burst\n<Bullet/>Action: Gas-Operated, Rotating Bolt (direct impingement)\n<Bullet/>Cartridge: 5.56x45mm NATO\n<Bullet/>Origin: United States\n<Bullet/>Tier: Beam"
+
+[TC_WOTC_SKR_S79_M16A2_T1 X2WeaponTemplate]
+FriendlyName="<font color='#ECECEC'><b>M16A2</b></font>"
+FriendlyNamePlural="<font color='#ECECEC'><b>M16A2s</b></font>"
+AbilityDescName="assault rifle"
+BriefSummary="The Colt M16A2 is the result of the USMC's combat experience with the XM16E1 and M16A1 rifles during the Vietnam War. It was officially adopted by the Marines in the early 1980s with the United States Army following suit in the late 1980s. Several changes were made to the M16A2 rifle: a new rifled barrel, an adjustable rearsight, a modified flash suppressor that also acts as a recoil compensator, a new front grip, and a new stock made from thermoset polymers. The action is also modified to fire in 3 round bursts to prevent soldiers from 'spraying' bullets while under fire and to conserve ammo."
+TacticalText="<Bullet/>Type: Assault Rifle\n<Bullet/>Firing Profile: Burst\n<Bullet/>Action: Gas-Operated, Rotating Bolt (direct impingement)\n<Bullet/>Cartridge: 5.56x45mm NATO\n<Bullet/>Origin: United States\n<Bullet/>Tier: Conventional"
+
+[TC_WOTC_SKR_S79_M16A2_T2 X2WeaponTemplate]
+FriendlyName="<font color='#27AAE1'><b>MRS-16R2</b></font>"
+FriendlyNamePlural="<font color='#27AAE1'><b>MRS-16R2s</b></font>"
+AbilityDescName="assault rifle"
+BriefSummary="BriefSummary="The Colt M16A2 is the result of the USMC's combat experience with the XM16E1 and M16A1 rifles during the Vietnam War. It was officially adopted by the Marines in the early 1980s with the United States Army following suit in the late 1980s. Several changes were made to the M16A2 rifle: a new rifled barrel, an adjustable rearsight, a modified flash suppressor that also acts as a recoil compensator, a new front grip, and a new stock made from thermoset polymers. The action is also modified to fire in 3 round bursts to prevent soldiers from 'spraying' bullets while under fire and to conserve ammo.\n With magnetic research completed, the MRS-16R2 rifle contains a new rifled barrel that increases the range and stopping power of each bullet."
+TacticalText="<Bullet/>Type: Assault Rifle\n<Bullet/>Firing Profile: Burst\n<Bullet/>Action: Gas-Operated, Rotating Bolt (direct impingement)\n<Bullet/>Cartridge: 5.56x45mm NATO\n<Bullet/>Origin: United States\n<Bullet/>Tier: Magnetic"
+
+[TC_WOTC_SKR_S79_M16A2_T3 X2WeaponTemplate]
+FriendlyName="<font color='#CF4517'><b>NV16/I02</b></font>"
+FriendlyNamePlural="<font color='#CF4517'><b>NV16/I01s</b></font>"
+AbilityDescName="assault rifle"
+BriefSummary="The first of its kind, the Colt Model 603, or XM16E1, is a 30 round 5.56x45mm assault rifle capable of firing in single shot or automatic mode. This was issued to the US Marines during the beginning of the Vietnam war, to field test the weapon. This version was discarded as soon as the M16A1 were in full production, but how it survived all these years is uncertain. This rifle can accept attachments, including the replacement of the stock with a retractable one.\n The high pressure gas in the direct impingement design of the M16A2 is replaced with a more powerful and cleaner alternative. As a result, the NV16/I02 has better range and stopping power than its predecessors."
+TacticalText="<Bullet/>Type: Assault Rifle\n<Bullet/>Firing Profile: Burst\n<Bullet/>Action: Gas-Operated, Rotating Bolt (direct impingement)\n<Bullet/>Cartridge: 5.56x45mm NATO\n<Bullet/>Origin: United States\n<Bullet/>Tier: Beam"

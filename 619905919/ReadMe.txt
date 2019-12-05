@@ -1,0 +1,1 @@
+﻿Placing characters in your pool with the last name Uniform will allow their appearance (armor and colors) to be automatically chosen when creating non-pool characters. These characters will not show up as regular soldiers.

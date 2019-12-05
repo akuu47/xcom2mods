@@ -1,0 +1,176 @@
+[X2DownloadableContentInfo_AddedPartNames]
+
+.LegsTemplate="KevJillOutfit_Legs_T"
+.LegsName="Jill Valentine - Casual - Legs - A"
+
+.LegsTemplate="KevJillOutfit_LegsB_T"
+.LegsName="Jill Valentine - Casual - Legs - B"
+
+.TorsoTemplate="KevJillOutfit_Torso_T"
+.TorsoName="Jill Valentine - Casual - Shirt + Accessories"
+
+.TorsoTemplate="KevJillOutfit_Torso_B_T"
+.TorsoName="Jill Valentine - Casual - Shirt + No Accessories"
+
+
+
+.LegsTemplate="LtPltedJillOutfit_Legs_T"
+.LegsName="Jill Valentine - Casual - Legs - A"
+
+.LegsTemplate="LtPltedJillOutfit_LegsB_T"
+.LegsName="Jill Valentine - Casual - Legs - B"
+
+.TorsoTemplate="LtPltedJillOutfit_Torso_T"
+.TorsoName="Jill Valentine - Casual - Shirt + Accessories"
+
+.TorsoTemplate="LtPltedJillOutfit_Torso_B_T"
+.TorsoName="Jill Valentine - Casual - Shirt + No Accessories"
+
+
+.LegsTemplate="MdPltedJillOutfit_Legs_T"
+.LegsName="Jill Valentine - Casual - Legs - A"
+
+.LegsTemplate="MdPltedJillOutfit_LegsB_T"
+.LegsName="Jill Valentine - Casual - Legs - B"
+
+.TorsoTemplate="MdPltedJillOutfit_Torso_T"
+.TorsoName="Jill Valentine - Casual - Shirt + Accessories"
+
+.TorsoTemplate="MdPltedJillOutfit_Torso_B_T"
+.TorsoName="Jill Valentine - Casual - Shirt + No Accessories"
+
+
+.LegsTemplate="HvyPlatedJillOutfit_Legs_T"
+.LegsName="Jill Valentine - Casual - Legs - A"
+
+.LegsTemplate="HvyPlatedJillOutfit_LegsB_T"
+.LegsName="Jill Valentine - Casual - Legs - B"
+
+.TorsoTemplate="HvyPlatedJillOutfit_Torso_T"
+.TorsoName="Jill Valentine - Casual - Shirt + Accessories"
+
+.TorsoTemplate="HvyPlatedJillOutfit_Torso_B_T"
+.TorsoName="Jill Valentine - Casual - Shirt + No Accessories"
+
+
+.LegsTemplate="LgtPoweredJillOutfit_Legs_T"
+.LegsName="Jill Valentine - Casual - Legs - A"
+
+.LegsTemplate="LgtPoweredJillOutfit_LegsB_T"
+.LegsName="Jill Valentine - Casual - Legs - B"
+
+.TorsoTemplate="LgtPoweredJillOutfit_Torso_T"
+.TorsoName="Jill Valentine - Casual - Shirt + Accessories"
+
+.TorsoTemplate="LgtPoweredJillOutfit_Torso_B_T"
+.TorsoName="Jill Valentine - Casual - Shirt + No Accessories"
+
+
+.LegsTemplate="MdPoweredJillOutfit_Legs_T"
+.LegsName="Jill Valentine - Casual - Legs - A"
+
+.LegsTemplate="MdPoweredJillOutfit_LegsB_T"
+.LegsName="Jill Valentine - Casual - Legs - B"
+
+.TorsoTemplate="MdPoweredJillOutfit_Torso_T"
+.TorsoName="Jill Valentine - Casual - Shirt + Accessories"
+
+.TorsoTemplate="MdPoweredJillOutfit_Torso_B_T"
+.TorsoName="Jill Valentine - Casual - Shirt + No Accessories"
+
+
+.LegsTemplate="HvyPoweredJillOutfit_Legs_T"
+.LegsName="Jill Valentine - Casual - Legs - A"
+
+.LegsTemplate="HvyPoweredJillOutfit_LegsB_T"
+.LegsName="Jill Valentine - Casual - Legs - B"
+
+.TorsoTemplate="HvyPoweredJillOutfit_Torso_T"
+.TorsoName="Jill Valentine - Casual - Shirt + Accessories"
+
+.TorsoTemplate="HvyPoweredJillOutfit_Torso_B_T"
+.TorsoName="Jill Valentine - Casual - Shirt + No Accessories"
+
+;
+;Reaper Soldier Cosmetics
+;
+
+.LegsTemplate="RPR_KevJillOutfit_Legs_T"
+.LegsName="Jill Valentine - Casual - Legs - A"
+
+.LegsTemplate="RPR_KevJillOutfit_LegsB_T"
+.LegsName="Jill Valentine - Casual - Legs - B"
+
+.TorsoTemplate="RPR_KevJillOutfit_Torso_T"
+.TorsoName="Jill Valentine - Casual - Shirt + Accessories"
+
+.TorsoTemplate="RPR_KevJillOutfit_Torso_B_T"
+.TorsoName="Jill Valentine - Casual - Shirt + No Accessories"
+
+.TorsoTemplate="RPR_MdPltedJillOutfit_Torso_T"
+.TorsoName="Jill Valentine - Casual - Shirt + Accessories"
+
+.TorsoTemplate="RPR_MdPltedJillOutfit_Torso_B_T"
+.TorsoName="Jill Valentine - Casual - Shirt + No Accessories"
+
+.TorsoTemplate="RPR_MdPoweredJillOutfit_Torso_T"
+.TorsoName="Jill Valentine - Casual - Shirt + Accessories"
+
+.TorsoTemplate="RPR_MdPoweredJillOutfit_Torso_B_T"
+.TorsoName="Jill Valentine - Casual - Shirt + No Accessories"
+
+;
+;Skirmisher Soldier Cosmetics
+;
+
+.LegsTemplate="SKR_KevJillOutfit_Legs_T"
+.LegsName="Jill Valentine - Casual - Legs - A"
+
+.LegsTemplate="SKR_KevJillOutfit_LegsB_T"
+.LegsName="Jill Valentine - Casual - Legs - B"
+
+.TorsoTemplate="SKR_KevJillOutfit_Torso_T"
+.TorsoName="Jill Valentine - Casual - Shirt + Accessories"
+
+.TorsoTemplate="SKR_KevJillOutfit_Torso_B_T"
+.TorsoName="Jill Valentine - Casual - Shirt + No Accessories"
+
+.TorsoTemplate="SKR_MdPltedJillOutfit_Torso_T"
+.TorsoName="Jill Valentine - Casual - Shirt + Accessories"
+
+.TorsoTemplate="SKR_MdPltedJillOutfit_Torso_B_T"
+.TorsoName="Jill Valentine - Casual - Shirt + No Accessories"
+
+.TorsoTemplate="SKR_MdPoweredJillOutfit_Torso_T"
+.TorsoName="Jill Valentine - Casual - Shirt + Accessories"
+
+.TorsoTemplate="SKR_MdPoweredJillOutfit_Torso_B_T"
+.TorsoName="Jill Valentine - Casual - Shirt + No Accessories"
+
+;
+;Templar Soldier Cosmetics
+;
+
+.LegsTemplate="TMP_KevJillOutfit_Legs_T"
+.LegsName="Jill Valentine - Casual - Legs - A"
+
+.LegsTemplate="TMP_KevJillOutfit_LegsB_T"
+.LegsName="Jill Valentine - Casual - Legs - B"
+
+.TorsoTemplate="TMP_KevJillOutfit_Torso_T"
+.TorsoName="Jill Valentine - Casual - Shirt + Accessories"
+
+.TorsoTemplate="TMP_KevJillOutfit_Torso_B_T"
+.TorsoName="Jill Valentine - Casual - Shirt + No Accessories"
+
+.TorsoTemplate="TMP_MdPltedJillOutfit_Torso_T"
+.TorsoName="Jill Valentine - Casual - Shirt + Accessories"
+
+.TorsoTemplate="TMP_MdPltedJillOutfit_Torso_B_T"
+.TorsoName="Jill Valentine - Casual - Shirt + No Accessories"
+
+.TorsoTemplate="TMP_MdPoweredJillOutfit_Torso_T"
+.TorsoName="Jill Valentine - Casual - Shirt + Accessories"
+
+.TorsoTemplate="TMP_MdPoweredJillOutfit_Torso_B_T"
+.TorsoName="Jill Valentine - Casual - Shirt + No Accessories"

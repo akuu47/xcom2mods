@@ -1,0 +1,23 @@
+History of Changes:
+
+Release ver: 1.011:
+[list]
+     [*]Adjusted OPN_Aliens_Leaders to be less brutal for missions that use them.
+	 [*]Added RNF.ChanceSpawnStrongPod to UMS_WMO_TriggeredReinforcements.umap for sitreps to interact with the value.
+[/list]
+
+Release ver: 1.010:
+[list]
+     [*]Fixed some formatting issues with the Kismet logs.
+	 [*]Added UMS_WMO_TriggeredReinforcements.umap for special handling of reinforcements.
+[/list]
+
+Release ver: 1.001:
+[list]
+     [*]Fixed a bug where the Relays never spawned in the mission.
+[/list]
+
+Release ver: 1.000:
+[list]
+     [*]Initial Release.
+[/list]

@@ -1,0 +1,62 @@
+[TC_WOTC_CTM_FNFAL_T1 X2WeaponTemplate]
+FriendlyName="<font color='#ECECEC'><b>FN FAL</b></font>"
+FriendlyNamePlural="<font color='#ECECEC'><b>FN FALs</b></font>"
+AbilityDescName="battle rifle"
+BriefSummary="The FAL (Fusil Automatique Léger) (Translation: Light Automatic Rifle) is a Belgian semi-automatic 7.62x51mm battle rifle by Fabrique Nationale de Herstal. The Sturmgewehr 44 was the firearm that showed the world that bolt-action rifles are dead, and selective-fire rifles were the future. FN began created several prototype rifles, chambered for the new .30 Light Rifle cartridge, the predecessor to the 7.62x51mm NATO. The FAL was deployed in 1953 during the Cold War for NATO and it's allies with the exception of the United States. It eventually got the nickname, 'The Right Arm of the Free World'. United States, however, adopted the M14 as the new primary battle rifle until 1963, when it was replaced by the M16s. Meanwhile, the FN FAL has been in production beyond the M14's lifetime, until 1988, with millions of weapons manufactured and distributed."
+TacticalText="<Bullet/>Type: Battle Rifle\n<Bullet/>Firing Profile: Semi-Auto\n<Bullet/>Action: Roller-delayed Blowback\n<Bullet/>Cartridge: 7.62x51mm NATO\n<Bullet/>Origin: Belgium\n<Bullet/>Tier: Conventional"
+
+[TC_WOTC_CTM_FNFAL_T2 X2WeaponTemplate]
+FriendlyName="<font color='#27AAE1'><b>FAL MARS</b></font>"
+FriendlyNamePlural="<font color='#27AAE1'><b>FAL MARSes</b></font>"
+AbilityDescName="battle rifle"
+BriefSummary="The FAL (Fusil Automatique Léger) (Translation: Light Automatic Rifle) is a Belgian semi-automatic 7.62x51mm battle rifle by Fabrique Nationale de Herstal. The Sturmgewehr 44 was the firearm that showed the world that bolt-action rifles are dead, and selective-fire rifles were the future. FN began created several prototype rifles, chambered for the new .30 Light Rifle cartridge, the predecessor to the 7.62x51mm NATO. The FAL was deployed in 1953 during the Cold War for NATO and it's allies with the exception of the United States. It eventually got the nickname, 'The Right Arm of the Free World'. United States, however, adopted the M14 as the new primary battle rifle until 1963, when it was replaced by the M16s. Meanwhile, the FN FAL has been in production beyond the M14's lifetime, until 1988, with millions of weapons manufactured and distributed."
+TacticalText="<Bullet/>Type: Battle Rifle\n<Bullet/>Firing Profile: Semi-Auto\n<Bullet/>Action: Roller-delayed Blowback\n<Bullet/>Cartridge: 7.62x51mm NATO\n<Bullet/>Origin: West Germany\n<Bullet/>Tier: Magnetic"
+
+[TC_WOTC_CTM_FNFAL_T3 X2WeaponTemplate]
+FriendlyName="<font color='#CF4517'><b>FAL HPFA</b></font>"
+FriendlyNamePlural="<font color='#CF4517'><b>FAL HPFAs</b></font>"
+AbilityDescName="battle rifle"
+BriefSummary="The FAL (Fusil Automatique Léger) (Translation: Light Automatic Rifle) is a Belgian semi-automatic 7.62x51mm battle rifle by Fabrique Nationale de Herstal. The Sturmgewehr 44 was the firearm that showed the world that bolt-action rifles are dead, and selective-fire rifles were the future. FN began created several prototype rifles, chambered for the new .30 Light Rifle cartridge, the predecessor to the 7.62x51mm NATO. The FAL was deployed in 1953 during the Cold War for NATO and it's allies with the exception of the United States. It eventually got the nickname, 'The Right Arm of the Free World'. United States, however, adopted the M14 as the new primary battle rifle until 1963, when it was replaced by the M16s. Meanwhile, the FN FAL has been in production beyond the M14's lifetime, until 1988, with millions of weapons manufactured and distributed."
+TacticalText="<Bullet/>Type: Battle Rifle\n<Bullet/>Firing Profile: Semi-Auto\n<Bullet/>Action: Roller-delayed Blowback\n<Bullet/>Cartridge: 7.62x51mm NATO\n<Bullet/>Origin: West Germany\n<Bullet/>Tier: Beam"
+
+[TC_WOTC_RPR_CTM_FNFAL_T1 X2WeaponTemplate]
+FriendlyName="<font color='#ECECEC'><b>FN FAL</b></font>"
+FriendlyNamePlural="<font color='#ECECEC'><b>G3s</b></font>"
+AbilityDescName="battle rifle"
+BriefSummary="The FAL (Fusil Automatique Léger) (Translation: Light Automatic Rifle) is a Belgian semi-automatic 7.62x51mm battle rifle by Fabrique Nationale de Herstal. The Sturmgewehr 44 was the firearm that showed the world that bolt-action rifles are dead, and selective-fire rifles were the future. FN began created several prototype rifles, chambered for the new .30 Light Rifle cartridge, the predecessor to the 7.62x51mm NATO. The FAL was deployed in 1953 during the Cold War for NATO and it's allies with the exception of the United States. It eventually got the nickname, 'The Right Arm of the Free World'. United States, however, adopted the M14 as the new primary battle rifle until 1963, when it was replaced by the M16s. Meanwhile, the FN FAL has been in production beyond the M14's lifetime, until 1988, with millions of weapons manufactured and distributed."
+TacticalText="<Bullet/>Type: Battle Rifle\n<Bullet/>Firing Profile: Semi-Auto\n<Bullet/>Action: Roller-delayed Blowback\n<Bullet/>Cartridge: 7.62x51mm NATO\n<Bullet/>Origin: West Germany\n<Bullet/>Tier: Conventional"
+
+[TC_WOTC_RPR_CTM_FNFAL_T2 X2WeaponTemplate]
+FriendlyName="<font color='#27AAE1'><b>FAL MARS</b></font>"
+FriendlyNamePlural="<font color='#27AAE1'><b>FAL MARSes</b></font>"
+AbilityDescName="battle rifle"
+BriefSummary="The FAL (Fusil Automatique Léger) (Translation: Light Automatic Rifle) is a Belgian semi-automatic 7.62x51mm battle rifle by Fabrique Nationale de Herstal. The Sturmgewehr 44 was the firearm that showed the world that bolt-action rifles are dead, and selective-fire rifles were the future. FN began created several prototype rifles, chambered for the new .30 Light Rifle cartridge, the predecessor to the 7.62x51mm NATO. The FAL was deployed in 1953 during the Cold War for NATO and it's allies with the exception of the United States. It eventually got the nickname, 'The Right Arm of the Free World'. United States, however, adopted the M14 as the new primary battle rifle until 1963, when it was replaced by the M16s. Meanwhile, the FN FAL has been in production beyond the M14's lifetime, until 1988, with millions of weapons manufactured and distributed."
+TacticalText="<Bullet/>Type: Battle Rifle\n<Bullet/>Firing Profile: Semi-Auto\n<Bullet/>Action: Roller-delayed Blowback\n<Bullet/>Cartridge: 7.62x51mm NATO\n<Bullet/>Origin: West Germany\n<Bullet/>Tier: Magnetic"
+
+[TC_WOTC_RPR_CTM_FNFAL_T3 X2WeaponTemplate]
+FriendlyName="<font color='#CF4517'><b>FAL HPFA</b></font>"
+FriendlyNamePlural="<font color='#CF4517'><b>FAL HPFAs</b></font>"
+AbilityDescName="battle rifle"
+BriefSummary="The FAL (Fusil Automatique Léger) (Translation: Light Automatic Rifle) is a Belgian semi-automatic 7.62x51mm battle rifle by Fabrique Nationale de Herstal. The Sturmgewehr 44 was the firearm that showed the world that bolt-action rifles are dead, and selective-fire rifles were the future. FN began created several prototype rifles, chambered for the new .30 Light Rifle cartridge, the predecessor to the 7.62x51mm NATO. The FAL was deployed in 1953 during the Cold War for NATO and it's allies with the exception of the United States. It eventually got the nickname, 'The Right Arm of the Free World'. United States, however, adopted the M14 as the new primary battle rifle until 1963, when it was replaced by the M16s. Meanwhile, the FN FAL has been in production beyond the M14's lifetime, until 1988, with millions of weapons manufactured and distributed."
+TacticalText="<Bullet/>Type: Battle Rifle\n<Bullet/>Firing Profile: Semi-Auto\n<Bullet/>Action: Roller-delayed Blowback\n<Bullet/>Cartridge: 7.62x51mm NATO\n<Bullet/>Origin: West Germany\n<Bullet/>Tier: Beam"
+
+[TC_WOTC_SKR_CTM_FNFAL_T1 X2WeaponTemplate]
+FriendlyName="<font color='#ECECEC'><b>FN FAL</b></font>"
+FriendlyNamePlural="<font color='#ECECEC'><b>FN FALs</b></font>"
+AbilityDescName="battle rifle"
+BriefSummary="The FAL (Fusil Automatique Léger) (Translation: Light Automatic Rifle) is a Belgian semi-automatic 7.62x51mm battle rifle by Fabrique Nationale de Herstal. The Sturmgewehr 44 was the firearm that showed the world that bolt-action rifles are dead, and selective-fire rifles were the future. FN began created several prototype rifles, chambered for the new .30 Light Rifle cartridge, the predecessor to the 7.62x51mm NATO. The FAL was deployed in 1953 during the Cold War for NATO and it's allies with the exception of the United States. It eventually got the nickname, 'The Right Arm of the Free World'. United States, however, adopted the M14 as the new primary battle rifle until 1963, when it was replaced by the M16s. Meanwhile, the FN FAL has been in production beyond the M14's lifetime, until 1988, with millions of weapons manufactured and distributed."
+TacticalText="<Bullet/>Type: Battle Rifle\n<Bullet/>Firing Profile: Semi-Auto\n<Bullet/>Action: Roller-delayed Blowback\n<Bullet/>Cartridge: 7.62x51mm NATO\n<Bullet/>Origin: West Germany\n<Bullet/>Tier: Conventional"
+
+[TC_WOTC_SKR_CTM_FNFAL_T2 X2WeaponTemplate]
+FriendlyName="<font color='#27AAE1'><b>FAL MARS</b></font>"
+FriendlyNamePlural="<font color='#27AAE1'><b>FAL MARSes</b></font>"
+AbilityDescName="battle rifle"
+BriefSummary="The FAL (Fusil Automatique Léger) (Translation: Light Automatic Rifle) is a Belgian semi-automatic 7.62x51mm battle rifle by Fabrique Nationale de Herstal. The Sturmgewehr 44 was the firearm that showed the world that bolt-action rifles are dead, and selective-fire rifles were the future. FN began created several prototype rifles, chambered for the new .30 Light Rifle cartridge, the predecessor to the 7.62x51mm NATO. The FAL was deployed in 1953 during the Cold War for NATO and it's allies with the exception of the United States. It eventually got the nickname, 'The Right Arm of the Free World'. United States, however, adopted the M14 as the new primary battle rifle until 1963, when it was replaced by the M16s. Meanwhile, the FN FAL has been in production beyond the M14's lifetime, until 1988, with millions of weapons manufactured and distributed."
+TacticalText="<Bullet/>Type: Battle Rifle\n<Bullet/>Firing Profile: Semi-Auto\n<Bullet/>Action: Roller-delayed Blowback\n<Bullet/>Cartridge: 7.62x51mm NATO\n<Bullet/>Origin: West Germany\n<Bullet/>Tier: Magnetic"
+
+[TC_WOTC_SKR_CTM_FNFAL_T3 X2WeaponTemplate]
+FriendlyName="<font color='#CF4517'><b>FAL HPFA</b></font>"
+FriendlyNamePlural="<font color='#CF4517'><b>FAL HPFAs</b></font>"
+AbilityDescName="battle rifle"
+BriefSummary="The FAL (Fusil Automatique Léger) (Translation: Light Automatic Rifle) is a Belgian semi-automatic 7.62x51mm battle rifle by Fabrique Nationale de Herstal. The Sturmgewehr 44 was the firearm that showed the world that bolt-action rifles are dead, and selective-fire rifles were the future. FN began created several prototype rifles, chambered for the new .30 Light Rifle cartridge, the predecessor to the 7.62x51mm NATO. The FAL was deployed in 1953 during the Cold War for NATO and it's allies with the exception of the United States. It eventually got the nickname, 'The Right Arm of the Free World'. United States, however, adopted the M14 as the new primary battle rifle until 1963, when it was replaced by the M16s. Meanwhile, the FN FAL has been in production beyond the M14's lifetime, until 1988, with millions of weapons manufactured and distributed."
+TacticalText="<Bullet/>Type: Battle Rifle\n<Bullet/>Firing Profile: Semi-Auto\n<Bullet/>Action: Roller-delayed Blowback\n<Bullet/>Cartridge: 7.62x51mm NATO\n<Bullet/>Origin: West Germany\n<Bullet/>Tier: Beam"

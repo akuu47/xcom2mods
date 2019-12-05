@@ -1,0 +1,68 @@
+[RM_SupportLauncher_CV X2WeaponTemplate]
+FriendlyName="Lanceur de Fumigènes"
+FriendlyNamePlural="Lanceurs de Fumigènes"
+BriefSummary="Adaptés des lances-missiles dorsaux des CEM d'ADVENT, ces Lanceurs de Fumigènes peuvent servir à conférer plus de défense aux SPARKs ou aux soldats qui l'accompagnent."
+TacticalText="<Bullet/> Les explosifs n'ayant pas besoin d'être précis, ces lanceurs peuvent être fabriqués à moindre coût pour ne pas affecter notre approvisionnement en ressources.\n<Bullet/> Le lanceur est équipé de 2 munitions par défaut."
+
+
+[RM_SupportLauncher_CV_Paired X2PairedWeaponTemplate]
+FriendlyName="Lanceur de Fumigènes"
+FriendlyNamePlural="Lanceurs de Fumigènes"
+BriefSummary="Adaptés des lances-missiles dorsaux des CEM d'ADVENT, ces Lanceurs de Fumigènes peuvent servir à conférer plus de défense aux SPARKs ou aux soldats qui l'accompagnent."
+TacticalText="<Bullet/> Les explosifs n'ayant pas besoin d'être précis, ces lanceurs peuvent être fabriqués à moindre coût pour ne pas affecter notre approvisionnement en ressources.\n<Bullet/> Le lanceur est équipé de 2 munitions par défaut."
+
+[RM_SupportLauncher_MG X2WeaponTemplate]
+FriendlyName="Lanceur Lourd de Support"
+FriendlyNamePlural="Lanceurs Lourds de Support"
+BriefSummary="Une variante avancée de nos Lanceurs de Fumigènes, ces Lanceurs Lourds de Support peuvent alterner entre Grenades Fumigènes et Grenades Flash, dans la limite de ses munitions."
+TacticalText="<Bullet/> Le temps de recharge des Grenades Flash est plus long que celui des Grenades Fumigènes."
+
+
+[RM_SupportLauncher_MG_Paired X2PairedWeaponTemplate]
+FriendlyName="Lanceur Lourd de Support"
+FriendlyNamePlural="Lanceurs Lourds de Support"
+BriefSummary="Une variante avancée de nos Lanceurs de Fumigènes, ces Lanceurs Lourds de Support peuvent alterner entre Grenades Fumigènes et Grenades Flash, dans la limite de ses munitions."
+TacticalText="<Bullet/> Le temps de recharge des Grenades Flash est plus long que celui des Grenades Fumigènes."
+
+
+[RM_SPARKLauncher_CV X2WeaponTemplate]
+FriendlyName="Lanceur d'Epaule Adapté"
+FriendlyNamePlural="Lanceurs d'Epaule Adaptés"
+BriefSummary="Récupéré sur les CEM d'ADVENT, ce lanceur confère à nos SPARKs la capacité de faire pleuvoir des explosifs sur ADVENT de loin."
+TacticalText="<Bullet/> Ces lanceurs ne peuvent détruire les couvertures aussi facilement que les Grenades.\n<Bullet/> Ils compensent cela avec leur portée supérieure."
+
+[RM_SPARKLauncher_CV_Paired X2PairedWeaponTemplate]
+FriendlyName="Lanceur d'Epaule Adapté"
+FriendlyNamePlural="Lanceurs d'Epaule Adaptés"
+BriefSummary="Récupéré sur les CEM d'ADVENT, ce lanceur confère à nos SPARKs la capacité de faire pleuvoir des explosifs sur ADVENT de loin."
+TacticalText="<Bullet/> Ces lanceurs ne peuvent détruire les couvertures aussi facilement que les Grenades.\n<Bullet/> Ils compensent cela avec leur portée supérieure."
+
+[RM_SPARKLauncher_MG X2WeaponTemplate]
+FriendlyName="Lanceur Archer"
+FriendlyNamePlural="Lanceurs Archers"
+BriefSummary="Une version avancée des lanceurs des CEM d'ADVENT, conçus pour envoyer une volée de charges au-delà de la Ligne de Visée du SPARK, tant qu'il y a quelqu'un pour voir l'ennemi."
+TacticalText="<Bullet/> Ces lanceurs ne peuvent détruire les couvertures aussi facilement que les Grenades.\n<Bullet/> Ils compensent cela avec leur portée supérieure."
+
+[RM_SPARKLauncher_MG_Paired X2PairedWeaponTemplate]
+FriendlyName="Lanceur Archer"
+FriendlyNamePlural="Lanceurs Archers"
+BriefSummary="Une version avancée des lanceurs des CEM d'ADVENT, conçus pour envoyer une volée de charges au-delà de la Ligne de Visée du SPARK, tant qu'il y a quelqu'un pour voir l'ennemi."
+TacticalText="<Bullet/> Ces lanceurs ne peuvent détruire les couvertures aussi facilement que les Grenades.\n<Bullet/> Ils compensent cela avec leur portée supérieure."
+
+
+[RM_SPARKMissiles X2AbilityTemplate]
+LocFriendlyName="Micro Missiles"
+LocLongDescription="Le Lance-Missiles monté sur l'épaule du SPARK peut envoyer une volée de missiles occasionnant de lourds dégâts dans une petite zone d'effet."
+LocHelpText="Cible une zone avec un missile explosif."
+
+[RM_FlashRain X2AbilityTemplate]
+LocFriendlyName="Pluie de Flash"
+LocLongDescription="Le SPARK peut déployer des Grenades Flash pour contrôler l'ennemi sur le champ de bataille."
+LocHelpText="Tire une série de Grenades Flash."
+LocFlyOverText="Pluie de Flash"
+
+[RM_SmokeRain X2AbilityTemplate]
+LocFriendlyName="Pluie de Fumigènes"
+LocLongDescription="Le SPARK peut déployer des Grenades Fumigènes pour se protéger lui-même ainsi que ses alliés."
+LocHelpText="Tire des Grenades Fumigènes."
+LocFlyOverText="Pluie de Fumigènes"

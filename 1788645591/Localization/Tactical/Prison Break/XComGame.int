@@ -1,0 +1,46 @@
+;Mission Stuff
+
+[MissionTimers]
+PrisonAlertTitle="Threat Level"
+PrisonAlertSubtitle01="All Clear"
+PrisonAlertSubtitle02="Alpha"
+PrisonAlertSubtitle03="Beta"
+PrisonAlertSubtitle04="Epsilon"
+PrisonAlertSubtitle05="Omega"
+
+TurnsUntilEVACArrivesTitle="Survive"
+TurnsUntilEVACArrivesSubtitle="Turns until Skyranger arrives at LZ"
+TurnsUntilEVACLeavesTitle="Escape"
+TurnsUntilEVACLeavesSubtitle="Turns until Skyranger must evade LZ"
+
+[WorldMessages]
+PrisonSecurityLevelTitle="ADVENT CP"
+PrisonSecurityLevelIncreaseLevel="Increasing Alert Status!"
+PrisonSecurityLevelMaxAlertPhase="All units! Maximum alert!"
+PrisonXCOMUnitSpotted="Intruder of unknown origin sighted!"
+PrisonXCOMEnemyUnitKilled="Soldier down!"
+PrisonXCOMEnemyUnitBodyFound="A dead body was found!"
+PrisonSecurityBreached="Intruder spotted!"
+PrisonSkyrangerArrived="Enemy Aircraft detected in airspace!"
+PrisonExplosion="Heard a loud noise!"
+PrisonObjectivePrisonersFreed="Escape attempt in progress!"
+PrisonSecurityLevelReset="Return to your positions! Exercise extreme caution."
+PrisonSecurityLevelResetOne="Return to your positions!"
+
+[DefaultCompoundPrisonBreak X2MissionNarrativeTemplate]
+ObjectiveTextPools[0]="Placeholder for Scoreboard. Report this bug if you see it"
+ObjectiveTextPools[1]="Infiltrate the Prison and either Hack or Breach any of the locked Doors"
+ObjectiveTextPools[2]="Keep prisoners alive until extraction"
+ObjectiveTextPools[3]="Extract as many prisoners as possible"
+ObjectiveTextPools[4]="Survive until Skyranger returns"
+ObjectiveTextPools[5]="Extract all XCOM soldiers"
+ObjectiveTextPools[6]="NEW MISSION OBJECTIVE"
+ObjectiveTextPools[7]="While the Skyranger evades the incoming interceptors, XCom must survive for however many turns that are displayed on the timer until the Skyranger returns. A scoreboard has appeared to help keep track of the status of the prisoners. Defend them at all cost! You must Evac at least one prisoner alive to get the intel reward. The next pop-up will be the new Evac rules for this mission."
+ObjectiveTextPools[8]="EVAC RULES: BEAGLERUSH HOUSE RULES"
+ObjectiveTextPools[9]="• By default, the timer length formula is: (d3 + 1) + the value of TurnsUntilEVACArrivesModifier.\n• In addition after EVAC arrives, Firebrand will stay at the AO until the timer hits 0.\n• Firebrand will then leave the site and XCom must survive for additional turns dictated by the formula above.\nFair Winds, Commander."
+ObjectiveTextPools[10]="EVAC RULES: NORMAL"
+ObjectiveTextPools[11]="• The Skyranger will stay at the site after the timer hits 0.\n\nFair Winds, Commander."
+
+; Ignore this, game bitches about it if it doesn't exist
+ConsoleObjectiveTextPools[0]=
+ConsoleObjectiveTextPools[1]=

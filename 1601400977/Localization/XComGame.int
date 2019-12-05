@@ -1,0 +1,156 @@
+[X2Photobooth]
+
+;
+; Must be defined IN ORDER exactly (meaning one-to-one) to XComContent.ini
+;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;E3245'S POSES
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;MEME POSES;;;;;;;;;;; (8)
++m_arrAnimationPoses=(AnimationDisplayName="T-Pose")
++m_arrAnimationPoses=(AnimationDisplayName="Dab")
++m_arrAnimationPoses=(AnimationDisplayName="Lucky Luciano")
++m_arrAnimationPoses=(AnimationDisplayName="That Person Running Like Naruto!")
++m_arrAnimationPoses=(AnimationDisplayName="Nico Nico Niiii~!")
++m_arrAnimationPoses=(AnimationDisplayName="Squatting Slav")
++m_arrAnimationPoses=(AnimationDisplayName="Got A Star")
++m_arrAnimationPoses=(AnimationDisplayName="Jojo - Jojo's Pose")
++m_arrAnimationPoses=(AnimationDisplayName="Jojo - Dio's Evil Glare")
++m_arrAnimationPoses=(AnimationDisplayName="Praise The Sun!")
+
+;;;;;;;MEMORIAL POSES (E'S VERSION);;;;;;;;;;; (6)
++m_arrAnimationPoses=(AnimationDisplayName="Lying in Coffin - Open")
++m_arrAnimationPoses=(AnimationDisplayName="Lying in Coffin - Alien Hunter Flag")
++m_arrAnimationPoses=(AnimationDisplayName="Lying in Coffin - Diamond Dogs Flag")
++m_arrAnimationPoses=(AnimationDisplayName="Lying in Coffin - MSF Flag")
++m_arrAnimationPoses=(AnimationDisplayName="Lying in Coffin - SLG Flag")
++m_arrAnimationPoses=(AnimationDisplayName="Lying in Coffin - XCOM Flag")
+
+;;;;;;;YAKUZA POSES (E'S VERSION);;;;;;;;;;; (10)
++m_arrAnimationPoses=(AnimationDisplayName="Yakuza 0 - Dance Intro Flair")
++m_arrAnimationPoses=(AnimationDisplayName="Yakuza 0 - You're #1 Dancer!")
++m_arrAnimationPoses=(AnimationDisplayName="Yakuza 0 - Dragon of Dojima - Reveal")
++m_arrAnimationPoses=(AnimationDisplayName="Yakuza 0 - Dragon of Dojima - 1 (w/ Stun Lancer)")
++m_arrAnimationPoses=(AnimationDisplayName="Yakuza 0 - Maddog Of Shimano - Reveal")
++m_arrAnimationPoses=(AnimationDisplayName="Yakuza 0 - Twin Dragons - Left")
++m_arrAnimationPoses=(AnimationDisplayName="Yakuza 0 - Twin Dragons - Right")
++m_arrAnimationPoses=(AnimationDisplayName="Yakuza 0 - Twin Dragons Solo - w/ Avatar")
++m_arrAnimationPoses=(AnimationDisplayName="Yakuza 0 - Archnemesis Solo - w/ Chosen Assassin")
++m_arrAnimationPoses=(AnimationDisplayName="Yakuza 0 - Kuze's Fury")
+
+;;;;;;;METAL GEAR POSES (E'S VERSION);;;;;;;;;;; (11)
++m_arrAnimationPoses=(AnimationDisplayName="MGS - Ocelots Never Let Their Prey Escape...")
++m_arrAnimationPoses=(AnimationDisplayName="MGS - \"You're Pretty Good...\"")
++m_arrAnimationPoses=(AnimationDisplayName="MGS - \"SNAAAAAAAAAAAAAKE!!!!\"")
++m_arrAnimationPoses=(AnimationDisplayName="MGS - Guns of the Patriots!")
++m_arrAnimationPoses=(AnimationDisplayName="MGS - 140.85")
++m_arrAnimationPoses=(AnimationDisplayName="MGS - Surprising Reveal")
++m_arrAnimationPoses=(AnimationDisplayName="MGS - \"It's Showtime!\"")
++m_arrAnimationPoses=(AnimationDisplayName="MGS - \"LIQUIIIIIIIIID!!!!\"")
++m_arrAnimationPoses=(AnimationDisplayName="MGS - More Dangerous than a Jackal!")
++m_arrAnimationPoses=(AnimationDisplayName="MGS - \"That Ninja...\"")
++m_arrAnimationPoses=(AnimationDisplayName="MGS - \"Kaz, I'm already a demon...\"")
+
+;;;;;;;VIDEO GAME POSES (E'S VERSION);;;;;;;;;;; (3)
++m_arrAnimationPoses=(AnimationDisplayName="FFVII - Tifa's Victory Pose")
++m_arrAnimationPoses=(AnimationDisplayName="N:A - Petting Gremlin")
++m_arrAnimationPoses=(AnimationDisplayName="Smash 4 - ZSS Victory Pose 1")
+
+;;;;;;;GENERIC POSES (E'S VERSION);;;;;;;;;;; (7)
++m_arrAnimationPoses=(AnimationDisplayName="Facepalm 1")
++m_arrAnimationPoses=(AnimationDisplayName="Facepalm 2")
++m_arrAnimationPoses=(AnimationDisplayName="Mourning Stand")
++m_arrAnimationPoses=(AnimationDisplayName="Proper Salute")
++m_arrAnimationPoses=(AnimationDisplayName="Squatting Cry")
++m_arrAnimationPoses=(AnimationDisplayName="Resist the Elders' Temptations!")
++m_arrAnimationPoses=(AnimationDisplayName="\"Y'all can... SUUUCK IT!!\"")
+
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;AERONAUTIC'S POSES
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+
+
+
+;;;;;;;GENERIC POSES (AERO'S VERSION);;;;;;;;;;; (8)
++m_arrAnimationPoses=(AnimationDisplayName="Contemplating 1")
++m_arrAnimationPoses=(AnimationDisplayName="Contemplating 2")
++m_arrAnimationPoses=(AnimationDisplayName="Borderlands")
++m_arrAnimationPoses=(AnimationDisplayName="Nausicaa's Thousand Yard Stare")
++m_arrAnimationPoses=(AnimationDisplayName="Hug! Partner A")
++m_arrAnimationPoses=(AnimationDisplayName="Hug! Partner B")
++m_arrAnimationPoses=(AnimationDisplayName="Such a Lust for Advent Burgers...")
+
+;;;;;;;MEMORIAL POSES (AERO'S VERSION);;;;;;;;;;; (8)
++m_arrAnimationPoses=(AnimationDisplayName="Crying Upright")
++m_arrAnimationPoses=(AnimationDisplayName="Crying On Floor")
+
+;;;;;;;DDLC POSES;;;;;;;;;;; (7)
++m_arrAnimationPoses=(AnimationDisplayName="Monika!")
++m_arrAnimationPoses=(AnimationDisplayName="Just Monika...")
++m_arrAnimationPoses=(AnimationDisplayName="Sayori!")
++m_arrAnimationPoses=(AnimationDisplayName="Really Makes You Think")
+;+m_arrAnimationPoses=(AnimationDisplayName="Hanging Out")
++m_arrAnimationPoses=(AnimationDisplayName="Natsuki!")
++m_arrAnimationPoses=(AnimationDisplayName="Yuri!")
+
+;;;;;;;ANIME POSES;;;;;;;;;;; (9)
++m_arrAnimationPoses=(AnimationDisplayName="FE - Corrin's Pose")
+;+m_arrAnimationPoses=(AnimationDisplayName="FE - Knife Rivalry Partner A")
+;+m_arrAnimationPoses=(AnimationDisplayName="FE - Knife Rivalry Partner B")
++m_arrAnimationPoses=(AnimationDisplayName="GS - The Kick of Disaster...")
++m_arrAnimationPoses=(AnimationDisplayName="CB - \"Bang...\" 1")
++m_arrAnimationPoses=(AnimationDisplayName="CB - \"Bang...\" 2")
++m_arrAnimationPoses=(AnimationDisplayName="Petting - Partner A")
++m_arrAnimationPoses=(AnimationDisplayName="Petting - Partner B 1")
++m_arrAnimationPoses=(AnimationDisplayName="Petting - Partner B 2")
+
+;;;;;;;TITANFALL EXECUTION POSES;;;;;;;;;;; (8)
++m_arrAnimationPoses=(AnimationDisplayName="TF - Get to the Point!")
++m_arrAnimationPoses=(AnimationDisplayName="TF - Now You See Me...")
++m_arrAnimationPoses=(AnimationDisplayName="TF - Grand Theft Semi Auto 1")
++m_arrAnimationPoses=(AnimationDisplayName="TF - Grand Theft Semi Auto 2")
++m_arrAnimationPoses=(AnimationDisplayName="TF - Grand Theft Semi Auto 3")
++m_arrAnimationPoses=(AnimationDisplayName="TF - Knife to the Face!")
++m_arrAnimationPoses=(AnimationDisplayName="TF - 2-3-2 Combo!")
++m_arrAnimationPoses=(AnimationDisplayName="TF - Knee Plus")
+
+;;;;;;;OVERWATCH POSES;;;;;;;;;;; (8)
++m_arrAnimationPoses=(AnimationDisplayName="OW - Brigitte's Laugh")
++m_arrAnimationPoses=(AnimationDisplayName="OW - Brigitte's Taunt")
++m_arrAnimationPoses=(AnimationDisplayName="OW - Soldier 76's Chuckle")
++m_arrAnimationPoses=(AnimationDisplayName="OW - Ashe and BOB - Partner A")
++m_arrAnimationPoses=(AnimationDisplayName="OW - Ashe and BOB - Partner B")
++m_arrAnimationPoses=(AnimationDisplayName="OW - Love, D.Va...")
++m_arrAnimationPoses=(AnimationDisplayName="OW - D.Va the Heartbreaker")
+
+;;;;;;;A HAT IN TIME POSES;;;;;;;;;;; (4)
++m_arrAnimationPoses=(AnimationDisplayName="AHIT - The Smug Dance 1")
++m_arrAnimationPoses=(AnimationDisplayName="AHIT - The Smug Dance 2")
++m_arrAnimationPoses=(AnimationDisplayName="AHIT - Got Time Piece!")
++m_arrAnimationPoses=(AnimationDisplayName="AHIT - Seal!")
+
+;;;;;;;PINUP/SMEXY POSES;;;;;;;;;;; (5)
++m_arrAnimationPoses=(AnimationDisplayName="Pinup 1")
++m_arrAnimationPoses=(AnimationDisplayName="Pinup 2")
++m_arrAnimationPoses=(AnimationDisplayName="Pinup 3")
++m_arrAnimationPoses=(AnimationDisplayName="Pinup 4")
++m_arrAnimationPoses=(AnimationDisplayName="Pinup 5")
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;OBELIXDK'S POSES
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;EU/EW & ENEMY POSES;;;;;;;;;;; (2)
++m_arrAnimationPoses=(AnimationDisplayName="Chryssalid - Soldier Down")
++m_arrAnimationPoses=(AnimationDisplayName="Chryssalid - Soldier Lift")
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;CLAUS' POSES
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;MEC POSES;;;;;;;;;;; (1)
++m_arrAnimationSparkPoses=(AnimationDisplayName="Machine vs. Berzerker")

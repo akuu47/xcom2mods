@@ -1,0 +1,7 @@
+﻿[mod]
+publishedFileId=0
+Title=Rapid Fire Reverted
+Description=Returns Rapid Fire to vanilla XCOM 2 behavior (no cooldown).
+RequiresXPACK=true
+tags= gameplay, soldier customization, wotc, war of the chosen
+category=Gameplay

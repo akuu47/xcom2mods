@@ -1,0 +1,13 @@
+[mod]
+publishedFileId=650751923
+Title=Reliable Smoke
+Description=Ever lost soldiers to the smoke grenade's buggy UI?  Not anymore!  Now you can go back to blaming yourself again.
+
+This mod fixes smoke grenades' LOS calculations so that you can rely on them in combat.  The smoke preview should now be 100% accurate, even if you pixel-hunt and toss your grenades into the weirdest corners.
+
+This also has an optional feature that gives smoke Long War-style flank prevention - eg. it nullifies the "Flanking" and "Exposed" bonuses to critical chance.  This is enabled by default but can be disabled in the INI.
+tags=gameplay
+contentImage=
+
+
+

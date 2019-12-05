@@ -1,0 +1,3 @@
+[Interactive_PlaceTurretObject X2AbilityTemplate]
+LocFriendlyName="Request Turret"
+LocHelpText="Places a turret at this location."

@@ -1,0 +1,41 @@
+[TC_WOTC_MWR_M16A4_T1 X2WeaponTemplate]
+FriendlyName="<font color='#ECECEC'><b>M16A4 MWS</b></font>"
+FriendlyNamePlural="<font color='#ECECEC'><b>M16A4s with a MWS</b></font>"
+AbilityDescName="assault rifle"
+BriefSummary="The fourth generation of the M16 series produced by Colt, the M16A4 is a assault rifle that uses standard issue 5.56x45mm rounds. Unlike the M16A3, this version features a a removable carryhandle and a full length quad Picatinny rail for mounting auxillary attachments. As much as the movies like to portray this rifle as a full automatic, the M16A4 is a semi/burst rifle. The Marines maintained the M16A4 for some time, until the M4 Carbine was approved as the new standard rifle, due to the lightweight nature of the weapon."
+TacticalText="<Bullet/>Type: Assault Rifle\n<Bullet/>Firing Profile: Three-Shot Burst\n<Bullet/>Action: Gas-Operated, Rotating Bolt (direct impingement)\n<Bullet/>Cartridge: 5.56x45mm NATO\n<Bullet/>Origin: United States\n<Bullet/>Tier: Conventional"
+
+[TC_WOTC_MWR_M16A4_T2 X2WeaponTemplate]
+FriendlyName="<font color='#27AAE1'><b>MRS-16R4 NGP</b></font>"
+FriendlyNamePlural="<font color='#27AAE1'><b>XM16A4E1s</b></font>"
+AbilityDescName="assault rifle"
+BriefSummary="The fourth generation of the M16 series produced by Colt, the M16A4 is a assault rifle that uses standard issue 5.56x45mm rounds. Unlike the M16A3, this version features a a removable carryhandle and a full length quad Picatinny rail for mounting auxillary attachments. As much as the movies like to portray this rifle as a full automatic, the M16A4 is a semi/burst rifle. The Marines maintained the M16A4 for some time, until the M4 Carbine was approved as the new standard rifle, due to the lightweight nature of the weapon.\n The M16A4 is part of a new experimental project that improves the rifle to match the magnetic counterparts of other weapons, dubbed the Next-Gen Project. The rifle internal components is remade with alien alloys, and the firing mechanism is replaced with a more robust system using small quanities of Elerium."
+TacticalText="<Bullet/>Type: Assault Rifle\n<Bullet/>Firing Profile: Three-Shot Burst\n<Bullet/>Action: Gas-Operated, Rotating Bolt (direct impingement)\n<Bullet/>Cartridge: 5.56x45mm NATO\n<Bullet/>Origin: United States\n<Bullet/>Tier: Magnetic"
+
+[TC_WOTC_MWR_M16A4_T3 X2WeaponTemplate]
+FriendlyName="<font color='#CF4517'><b>NV16/I04</b></font>"
+FriendlyNamePlural="<font color='#CF4517'><b>NV16/I04s</b></font>"
+AbilityDescName="assault rifle"
+BriefSummary="The fourth generation of the M16 series produced by Colt, the M16A4 is a assault rifle that uses standard issue 5.56x45mm rounds. Unlike the M16A3, this version features a a removable carryhandle and a full length quad Picatinny rail for mounting auxillary attachments. As much as the movies like to portray this rifle as a full automatic, the M16A4 is a semi/burst rifle. The Marines maintained the M16A4 for some time, until the M4 Carbine was approved as the new standard rifle, due to the lightweight nature of the weapon.\n The Nova Generation of the M16A4, simply NV16, Iteration 4, is a more advanced version of the standard M16A4 rifle. The barrel is revamped now with high-frequency nanites embedded within the barrel, allowing for projectiles to puncture even the toughest of armors with deadly accuracy."
+TacticalText="<Bullet/>Type: Assault Rifle\n<Bullet/>Firing Profile: Three-Shot Burst\n<Bullet/>Action: Gas-Operated, Rotating Bolt (direct impingement)\n<Bullet/>Cartridge: 5.56x45mm NATO\n<Bullet/>Origin: United States\n<Bullet/>Tier: Beam"
+
+[TC_WOTC_SKR_MWR_M16A4_T1 X2WeaponTemplate]
+FriendlyName="<font color='#ECECEC'><b>M16A4 MWS</b></font>"
+FriendlyNamePlural="<font color='#ECECEC'><b>M16A4s with a MWS</b></font>"
+AbilityDescName="assault rifle"
+BriefSummary="The fourth generation of the M16 series produced by Colt, the M16A4 is a assault rifle that uses standard issue 5.56x45mm rounds. Unlike the M16A3, this version features a a removable carryhandle and a full length quad Picatinny rail for mounting auxillary attachments. As much as the movies like to portray this rifle as a full automatic, the M16A4 is a semi/burst rifle. The Marines maintained the M16A4 for some time, until the M4 Carbine was approved as the new standard rifle, due to the lightweight nature of the weapon."
+TacticalText="<Bullet/>Type: Assault Rifle\n<Bullet/>Firing Profile: Three-Shot Burst\n<Bullet/>Action: Gas-Operated, Rotating Bolt (direct impingement)\n<Bullet/>Cartridge: 5.56x45mm NATO\n<Bullet/>Origin: United States\n<Bullet/>Tier: Conventional"
+
+[TC_WOTC_SKR_MWR_M16A4_T2 X2WeaponTemplate]
+FriendlyName="<font color='#27AAE1'><b>MRS-16R4 NGP</b></font>"
+FriendlyNamePlural="<font color='#27AAE1'><b>XM16A4E1s</b></font>"
+AbilityDescName="assault rifle"
+BriefSummary="The fourth generation of the M16 series produced by Colt, the M16A4 is a assault rifle that uses standard issue 5.56x45mm rounds. Unlike the M16A3, this version features a a removable carryhandle and a full length quad Picatinny rail for mounting auxillary attachments. As much as the movies like to portray this rifle as a full automatic, the M16A4 is a semi/burst rifle. The Marines maintained the M16A4 for some time, until the M4 Carbine was approved as the new standard rifle, due to the lightweight nature of the weapon.\n The M16A4 is part of a new experimental project that improves the rifle to match the magnetic counterparts of other weapons, dubbed the Next-Gen Project. The rifle internal components is remade with alien alloys, and the firing mechanism is replaced with a more robust system using small quanities of Elerium."
+TacticalText="<Bullet/>Type: Assault Rifle\n<Bullet/>Firing Profile: Three-Shot Burst\n<Bullet/>Action: Gas-Operated, Rotating Bolt (direct impingement)\n<Bullet/>Cartridge: 5.56x45mm NATO\n<Bullet/>Origin: United States\n<Bullet/>Tier: Magnetic"
+
+[TC_WOTC_SKR_MWR_M16A4_T3 X2WeaponTemplate]
+FriendlyName="<font color='#CF4517'><b>NV16/I04</b></font>"
+FriendlyNamePlural="<font color='#CF4517'><b>NV16/I04s</b></font>"
+AbilityDescName="assault rifle"
+BriefSummary="The fourth generation of the M16 series produced by Colt, the M16A4 is a assault rifle that uses standard issue 5.56x45mm rounds. Unlike the M16A3, this version features a a removable carryhandle and a full length quad Picatinny rail for mounting auxillary attachments. As much as the movies like to portray this rifle as a full automatic, the M16A4 is a semi/burst rifle. The Marines maintained the M16A4 for some time, until the M4 Carbine was approved as the new standard rifle, due to the lightweight nature of the weapon.\n The Nova Generation of the M16A4, simply NV16, Iteration 4, is a more advanced version of the standard M16A4 rifle. The barrel is revamped now with high-frequency nanites embedded within the barrel, allowing for projectiles to puncture even the toughest of armors with deadly accuracy."
+TacticalText="<Bullet/>Type: Assault Rifle\n<Bullet/>Firing Profile: Three-Shot Burst\n<Bullet/>Action: Gas-Operated, Rotating Bolt (direct impingement)\n<Bullet/>Cartridge: 5.56x45mm NATO\n<Bullet/>Origin: United States\n<Bullet/>Tier: Beam"

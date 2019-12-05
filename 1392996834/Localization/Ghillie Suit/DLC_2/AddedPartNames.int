@@ -1,0 +1,40 @@
+[X2DownloadableContentInfo_AddedPartNames]
+
+;
+; ALIEN HUNTERS
+;
+
+
+.TorsoTemplate="Serpent_DLC2_MGO3_Ghille_Suit_Full_M"
+.TorsoName="Ghillie Suit"
+
+.TorsoTemplate="Serpent_DLC2_MGO3_Ghille_Suit_Full_F"
+.TorsoName="Ghillie Suit"
+
+
+.TorsoTemplate="SerpentMk2_DLC2_MGO3_Ghille_Suit_Full_M"
+.TorsoName="Ghillie Suit"
+
+.TorsoTemplate="SerpentMk2_DLC2_MGO3_Ghille_Suit_Full_F"
+.TorsoName="Ghillie Suit"
+
+
+.TorsoTemplate="Rage_DLC2_MGO3_Ghille_Suit_Full_M"
+.TorsoName="Ghillie Suit"
+
+.TorsoTemplate="Rage_DLC2_MGO3_Ghille_Suit_Full_F"
+.TorsoName="Ghillie Suit"
+
+
+.TorsoTemplate="RageMk2_DLC2_MGO3_Ghille_Suit_Full_M"
+.TorsoName="Ghillie Suit"
+
+.TorsoTemplate="RageMk2_DLC2_MGO3_Ghille_Suit_Full_F"
+.TorsoName="Ghillie Suit"
+
+
+.TorsoTemplate="Icarus_DLC2_MGO3_Ghille_Suit_Full_M"
+.TorsoName="Ghillie Suit"
+
+.TorsoTemplate="Icarus_DLC2_MGO3_Ghille_Suit_Full_F"
+.TorsoName="Ghillie Suit"

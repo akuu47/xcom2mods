@@ -1,0 +1,5 @@
+﻿[mod]
+publishedFileId=1440562199
+Title=Move End Interrupt Fix
+Description=fix weird behaviour if a on move end action gets interrupted
+RequiresXPACK=true

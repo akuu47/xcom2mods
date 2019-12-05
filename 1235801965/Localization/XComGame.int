@@ -1,0 +1,3963 @@
+[XComGame.X2BodyPartTemplateManager]
+;Male Helmets
+
+[HEL_M_AA_Default X2BodyPartTemplate]
+DisplayName="Air Assault"
+
+[HEL_M_Commando_Default X2BodyPartTemplate]
+DisplayName="Commando"
+[HEL_M_Commando_UAFCI_Default X2BodyPartTemplate]
+DisplayName="Commando UA/FC-I[2]"
+[HEL_M_Commando_CBRNCNM_Default X2BodyPartTemplate]
+DisplayName="Commando CBRN/CNM"
+
+[HEL_M_CQB_Default X2BodyPartTemplate]
+DisplayName="CQB"
+[HEL_M_CQB_HURSCNM_Default X2BodyPartTemplate]
+DisplayName="CQB HU/RS/CNM"
+
+[HEL_M_CQC_Default X2BodyPartTemplate]
+DisplayName="CQC"
+
+[HEL_M_EOD_Default X2BodyPartTemplate]
+DisplayName="EOD"
+[HEL_M_EOD_UAHUL_Default X2BodyPartTemplate]
+DisplayName="EOD UA/HUL"
+[HEL_M_EOD_CNM_Default X2BodyPartTemplate]
+DisplayName="EOD CNM"
+
+[HEL_M_EVA_Default X2BodyPartTemplate]
+DisplayName="EVA"
+[HEL_M_EVA_UAHUL_Default X2BodyPartTemplate]
+DisplayName="EVA UA/HUL"
+[HEL_M_EVA_CNM_Default X2BodyPartTemplate]
+DisplayName="EVA CNM"
+
+[HEL_M_EVA_Skull_Default X2BodyPartTemplate]
+DisplayName="EVA [C]"
+[HEL_M_EVA_Skull_UAHUL_Default X2BodyPartTemplate]
+DisplayName="EVA [C] UA/HUL"
+[HEL_M_EVA_Skull_CNM_Default X2BodyPartTemplate]
+DisplayName="EVA [C] CNM"
+
+[HEL_M_Gungnir_Default X2BodyPartTemplate]
+DisplayName="Gungnir"
+
+[HEL_M_Grenadier_Default X2BodyPartTemplate]
+DisplayName="Grenadier"
+[HEL_M_Grenadier_UA_Default X2BodyPartTemplate]
+DisplayName="Grenadier UA"
+[HEL_M_Grenadier_UAFC_Default X2BodyPartTemplate]
+DisplayName="Grenadier UA/FC"
+
+[HEL_M_HAZOP_Default X2BodyPartTemplate]
+DisplayName="HAZOP"
+[HEL_M_HAZOP_CBRNHUL_Default X2BodyPartTemplate]
+DisplayName="HAZOP CBRN/HUL"
+[HEL_M_HAZOP_CNMI_Default X2BodyPartTemplate]
+DisplayName="HAZOP CNM-I"
+[HEL_M_HAZOP_UAFCI_Default X2BodyPartTemplate]
+DisplayName="HAZOP UA/FC-I"
+
+[HEL_M_JFO_Default X2BodyPartTemplate]
+DisplayName="JFO"
+
+[HEL_M_MarkV_Default X2BodyPartTemplate]
+DisplayName="Mark V"
+[HEL_M_MarkV_CNM_Default X2BodyPartTemplate]
+DisplayName="Mark V CNM"
+[HEL_M_MarkV_UA_Default X2BodyPartTemplate]
+DisplayName="Mark V UA"
+
+[HEL_M_MarkVB_Default X2BodyPartTemplate]
+DisplayName="Mark V [B]"
+[HEL_M_MarkVB_FC_Default X2BodyPartTemplate]
+DisplayName="Mark V [B] FC"
+[HEL_M_MarkVB_UA_Default X2BodyPartTemplate]
+DisplayName="Mark V [B] UA"
+
+[HEL_M_MarkVI_Default X2BodyPartTemplate]
+DisplayName="Mark VI"
+[HEL_M_MarkVI_FCI_Default X2BodyPartTemplate]
+DisplayName="Mark VI FC-I"
+[HEL_M_MarkVI_UAHULI_Default X2BodyPartTemplate]
+DisplayName="Mark VI UA/HUL-I"
+
+[HEL_M_MP_Default X2BodyPartTemplate]
+DisplayName="Military Police"
+[HEL_M_MP_CBRNHURS_Default X2BodyPartTemplate]
+DisplayName="Military Police CBRN/HU/RS"
+[HEL_M_MP_HURS_Default X2BodyPartTemplate]
+DisplayName="Military Police HU/RS"
+[HEL_M_MP_HURSCNM_Default X2BodyPartTemplate]
+DisplayName="Military Police HU/RS/CNM"
+
+[HEL_M_ODST_Default X2BodyPartTemplate]
+DisplayName="ODST"
+[HEL_M_ODST_CBRNHUL_Default X2BodyPartTemplate]
+DisplayName="ODST CBRN/HUL"
+[HEL_M_ODST_HURSCNM_Default X2BodyPartTemplate]
+DisplayName="ODST HU/RS/CNM"
+[HEL_M_ODST_UACNM_Default X2BodyPartTemplate]
+DisplayName="ODST UA/CNM"
+[HEL_M_ODST_A_Default X2BodyPartTemplate]
+DisplayName="ODST AT/C"
+[HEL_M_ODST_B_Default X2BodyPartTemplate]
+DisplayName="ODST SR"
+[HEL_M_ODST_C_Default X2BodyPartTemplate]
+DisplayName="ODST BP/C"
+[HEL_M_ODST_G_Default X2BodyPartTemplate]
+DisplayName="ODST (Transparent Visor)"
+
+[HEL_M_Operator_Default X2BodyPartTemplate]
+DisplayName="Operator"
+[HEL_M_Operator_UAHUL_Default X2BodyPartTemplate]
+DisplayName="Operator UA/HUL"
+[HEL_M_Operator_CNM_Default X2BodyPartTemplate]
+DisplayName="Operator CNM"
+
+[HEL_M_Pilot_Default X2BodyPartTemplate]
+DisplayName="Pilot"
+[HEL_M_Pilot_UAHUL_Default X2BodyPartTemplate]
+DisplayName="Pilot UA/HUL"
+[HEL_M_Pilot_HUL3_Default X2BodyPartTemplate]
+DisplayName="Pilot HUL [3]"
+
+[HEL_M_Recon_Default X2BodyPartTemplate]
+DisplayName="Recon"
+[HEL_M_Recon_AUC_Default X2BodyPartTemplate]
+DisplayName="Recon FC-I [2]"
+[HEL_M_Recon_HURS_Default X2BodyPartTemplate]
+DisplayName="Recon HU/RS"
+[HEL_M_Recon_HUL_Default X2BodyPartTemplate]
+DisplayName="Recon HUL"
+[HEL_M_Recon_UA_Default X2BodyPartTemplate]
+DisplayName="Recon UA"
+
+[HEL_M_Scout_Default X2BodyPartTemplate]
+DisplayName="Scout"
+[HEL_M_Scout_CBRNCNM_Default X2BodyPartTemplate]
+DisplayName="Scout CBRN/CNM"
+[HEL_M_Scout_HURS_Default X2BodyPartTemplate]
+DisplayName="Scout HU/RS"
+
+[HEL_M_Security_Default X2BodyPartTemplate]
+DisplayName="Security"
+[HEL_M_Security_UAHUL_Default X2BodyPartTemplate]
+DisplayName="Security UA/HUL"
+[HEL_M_Security_CBRNCNM_Default X2BodyPartTemplate]
+DisplayName="Security CBRN/CNM"
+
+;Female Helmets
+
+[HEL_F_AA_Default X2BodyPartTemplate]
+DisplayName="Air Assault"
+
+[HEL_F_Commando_Default X2BodyPartTemplate]
+DisplayName="Commando"
+[HEL_F_Commando_UAFCI_Default X2BodyPartTemplate]
+DisplayName="Commando UA/FC-I[2]"
+[HEL_F_Commando_CBRNCNM_Default X2BodyPartTemplate]
+DisplayName="Commando CBRN/CNM"
+
+[HEL_F_CQB_Default X2BodyPartTemplate]
+DisplayName="CQB"
+[HEL_F_CQB_HURSCNM_Default X2BodyPartTemplate]
+DisplayName="CQB HU/RS/CNM"
+
+[HEL_F_CQC_Default X2BodyPartTemplate]
+DisplayName="CQC"
+
+[HEL_F_EOD_Default X2BodyPartTemplate]
+DisplayName="EOD"
+[HEL_F_EOD_UAHUL_Default X2BodyPartTemplate]
+DisplayName="EOD UA/HUL"
+[HEL_F_EOD_CNM_Default X2BodyPartTemplate]
+DisplayName="EOD CNM"
+
+[HEL_F_EVA_Default X2BodyPartTemplate]
+DisplayName="EVA"
+[HEL_F_EVA_UAHUL_Default X2BodyPartTemplate]
+DisplayName="EVA UA/HUL"
+[HEL_F_EVA_CNM_Default X2BodyPartTemplate]
+DisplayName="EVA CNM"
+
+[HEL_F_EVA_Skull_Default X2BodyPartTemplate]
+DisplayName="EVA [C]"
+[HEL_F_EVA_Skull_UAHUL_Default X2BodyPartTemplate]
+DisplayName="EVA [C] UA/HUL"
+[HEL_F_EVA_Skull_CNM_Default X2BodyPartTemplate]
+DisplayName="EVA [C] CNM"
+
+[HEL_F_Gungnir_Default X2BodyPartTemplate]
+DisplayName="Gungnir"
+
+[HEL_F_Grenadier_Default X2BodyPartTemplate]
+DisplayName="Grenadier"
+[HEL_F_Grenadier_UA_Default X2BodyPartTemplate]
+DisplayName="Grenadier UA"
+[HEL_F_Grenadier_UAFC_Default X2BodyPartTemplate]
+DisplayName="Grenadier UA/FC"
+
+[HEL_F_HAZOP_Default X2BodyPartTemplate]
+DisplayName="HAZOP"
+[HEL_F_HAZOP_CBRNHUL_Default X2BodyPartTemplate]
+DisplayName="HAZOP CBRN/HUL"
+[HEL_F_HAZOP_CNMI_Default X2BodyPartTemplate]
+DisplayName="HAZOP CNM-I"
+[HEL_F_HAZOP_UAFCI_Default X2BodyPartTemplate]
+DisplayName="HAZOP UA/FC-I"
+
+[HEL_F_JFO_Default X2BodyPartTemplate]
+DisplayName="JFO"
+
+[HEL_F_MarkV_Default X2BodyPartTemplate]
+DisplayName="Mark V"
+[HEL_F_MarkV_CNM_Default X2BodyPartTemplate]
+DisplayName="Mark V CNM"
+[HEL_F_MarkV_UA_Default X2BodyPartTemplate]
+DisplayName="Mark V UA"
+
+[HEL_F_MarkVB_Default X2BodyPartTemplate]
+DisplayName="Mark V [B]"
+[HEL_F_MarkVB_FC_Default X2BodyPartTemplate]
+DisplayName="Mark V [B] FC"
+[HEL_F_MarkVB_UA_Default X2BodyPartTemplate]
+DisplayName="Mark V [B] UA"
+
+[HEL_F_MarkVI_Default X2BodyPartTemplate]
+DisplayName="Mark VI"
+[HEL_F_MarkVI_FCI_Default X2BodyPartTemplate]
+DisplayName="Mark VI FC-I"
+[HEL_F_MarkVI_UAHULI_Default X2BodyPartTemplate]
+DisplayName="Mark VI UA/HUL-I"
+
+[HEL_F_MP_Default X2BodyPartTemplate]
+DisplayName="Military Police"
+[HEL_F_MP_CBRNHURS_Default X2BodyPartTemplate]
+DisplayName="Military Police CBRN/HU/RS"
+[HEL_F_MP_HURS_Default X2BodyPartTemplate]
+DisplayName="Military Police HU/RS"
+[HEL_F_MP_HURSCNM_Default X2BodyPartTemplate]
+DisplayName="Military Police HU/RS/CNM"
+
+[HEL_F_ODST_Default X2BodyPartTemplate]
+DisplayName="ODST"
+[HEL_F_ODST_CBRNHUL_Default X2BodyPartTemplate]
+DisplayName="ODST CBRN/HUL"
+[HEL_F_ODST_HURSCNM_Default X2BodyPartTemplate]
+DisplayName="ODST HU/RS/CNM"
+[HEL_F_ODST_UACNM_Default X2BodyPartTemplate]
+DisplayName="ODST UA/CNM"
+[HEL_F_ODST_A_Default X2BodyPartTemplate]
+DisplayName="ODST AT/C"
+[HEL_F_ODST_B_Default X2BodyPartTemplate]
+DisplayName="ODST SR"
+[HEL_F_ODST_C_Default X2BodyPartTemplate]
+DisplayName="ODST BP/C"
+[HEL_F_ODST_G_Default X2BodyPartTemplate]
+DisplayName="ODST (Transparent Visor)"
+
+[HEL_F_Operator_Default X2BodyPartTemplate]
+DisplayName="Operator"
+[HEL_F_Operator_UAHUL_Default X2BodyPartTemplate]
+DisplayName="Operator UA/HUL"
+[HEL_F_Operator_CNM_Default X2BodyPartTemplate]
+DisplayName="Operator CNM"
+
+[HEL_F_Pilot_Default X2BodyPartTemplate]
+DisplayName="Pilot"
+[HEL_F_Pilot_UAHUL_Default X2BodyPartTemplate]
+DisplayName="Pilot UA/HUL"
+[HEL_F_Pilot_HUL3_Default X2BodyPartTemplate]
+DisplayName="Pilot HUL [3]"
+
+[HEL_F_Recon_Default X2BodyPartTemplate]
+DisplayName="Recon"
+[HEL_F_Recon_AUC_Default X2BodyPartTemplate]
+DisplayName="Recon FC-I [2]"
+[HEL_F_Recon_HURS_Default X2BodyPartTemplate]
+DisplayName="Recon HU/RS"
+[HEL_F_Recon_HUL_Default X2BodyPartTemplate]
+DisplayName="Recon HUL"
+[HEL_F_Recon_UA_Default X2BodyPartTemplate]
+DisplayName="Recon UA"
+
+[HEL_F_Scout_Default X2BodyPartTemplate]
+DisplayName="Scout"
+[HEL_F_Scout_CBRNCNM_Default X2BodyPartTemplate]
+DisplayName="Scout CBRN/CNM"
+[HEL_F_Scout_HURS_Default X2BodyPartTemplate]
+DisplayName="Scout HU/RS"
+
+[HEL_F_Security_Default X2BodyPartTemplate]
+DisplayName="Security"
+[HEL_F_Security_UAHUL_Default X2BodyPartTemplate]
+DisplayName="Security UA/HUL"
+[HEL_F_Security_CBRNCNM_Default X2BodyPartTemplate]
+DisplayName="Security CBRN/CNM"
+
+;Female Chest Attachments
+
+[Default Female Armor X2BodyPartTemplate]
+DisplayName="MJOLNIR/Standard"
+
+[CA_F_HP-Halo X2BodyPartTemplate]
+DisplayName="MJOLNIR/HALO"
+[CA_F_HP-HaloK X2BodyPartTemplate]
+DisplayName="MJOLNIR/HALO (Knife)"
+
+[CA_F_Collar-Breacher X2BodyPartTemplate]
+DisplayName="MJOLNIR/Collar"
+
+[CA_F_ODST X2BodyPartTemplate]
+DisplayName="MJOLNIR/ODST"
+[CA_F_ODST_A X2BodyPartTemplate]
+DisplayName="MJOLNIR/ODST [ARC]"
+[CA_F_ODST_B X2BodyPartTemplate]
+DisplayName="MJOLNIR/ODST [BH]"
+[CA_F_ODST_S X2BodyPartTemplate]
+DisplayName="MJOLNIR/ODST [S]"
+[CA_F_ODSTK X2BodyPartTemplate]
+DisplayName="MJOLNIR/ODST (Knife)"
+
+[CA_F_Assault-Sapper X2BodyPartTemplate]
+DisplayName="MJOLNIR/Sapper"
+
+[CA_F_Assault-Commando X2BodyPartTemplate]
+DisplayName="MJOLNIR/Assault-Commando"
+[CA_F_Assault-CommandoK X2BodyPartTemplate]
+DisplayName="MJOLNIR/Assault-Commando (Knife)"
+
+[CA_F_Grenadier X2BodyPartTemplate]
+DisplayName="MJOLNIR/Grenadier"
+[CA_F_GrenadierUA X2BodyPartTemplate]
+DisplayName="MJOLNIR/GrenadierUA"
+
+[CA_F_HP-HaloCounterAssault X2BodyPartTemplate]
+DisplayName="MJOLNIR/HP-Halo Counter-Assault"
+
+[CA_F_HP-Parafoil X2BodyPartTemplate]
+DisplayName="MJOLNIR/HP-Parafoil"
+
+[CA_F_MTMKV X2BodyPartTemplate]
+DisplayName="MJOLNIR/Multi-Threat Mk. V"
+
+[CA_F_TacLRP X2BodyPartTemplate]
+DisplayName="MJOLNIR/Tactical LRP"
+
+[CA_F_TacPatrolSD X2BodyPartTemplate]
+DisplayName="MJOLNIR/Tactical Patrol"
+
+[CA_F_TacRecon X2BodyPartTemplate]
+DisplayName="MJOLNIR/Tactical Recon"
+[CA_F_TacReconK X2BodyPartTemplate]
+DisplayName="MJOLNIR/Tactical Recon (Knife)"
+
+[CA_F_UABaseSec X2BodyPartTemplate]
+DisplayName="MJOLNIR/UA-Base Security"
+[CA_F_UABaseSecK X2BodyPartTemplate]
+DisplayName="MJOLNIR/UA-Base Security (Knife)"
+
+[CA_F_UACounterAssault X2BodyPartTemplate]
+DisplayName="MJOLNIR/UA-Counter-Assault"
+
+[CA_F_TacPatrol X2BodyPartTemplate]
+DisplayName="MJOLNIR/Tactical Patrol [B]"
+
+;LIGHT PLATED
+
+[LP_Default Female Armor X2BodyPartTemplate]
+DisplayName="MJOLNIR/Standard"
+
+[LP_CA_F_HP-Halo X2BodyPartTemplate]
+DisplayName="MJOLNIR/HALO"
+[LP_CA_F_HP-HaloK X2BodyPartTemplate]
+DisplayName="MJOLNIR/HALO (Knife)"
+
+[LP_CA_F_Collar-Breacher X2BodyPartTemplate]
+DisplayName="MJOLNIR/Collar"
+
+[LP_CA_F_ODST X2BodyPartTemplate]
+DisplayName="MJOLNIR/ODST"
+[LP_CA_F_ODST_A X2BodyPartTemplate]
+DisplayName="MJOLNIR/ODST [ARC]"
+[LP_CA_F_ODST_B X2BodyPartTemplate]
+DisplayName="MJOLNIR/ODST [BH]"
+[LP_CA_F_ODST_S X2BodyPartTemplate]
+DisplayName="MJOLNIR/ODST [S]"
+[LP_CA_F_ODSTK X2BodyPartTemplate]
+DisplayName="MJOLNIR/ODST (Knife)"
+
+[LP_CA_F_Assault-Sapper X2BodyPartTemplate]
+DisplayName="MJOLNIR/Sapper"
+
+[LP_CA_F_Assault-Commando X2BodyPartTemplate]
+DisplayName="MJOLNIR/Assault-Commando"
+[LP_CA_F_Assault-CommandoK X2BodyPartTemplate]
+DisplayName="MJOLNIR/Assault-Commando (Knife)"
+
+[LP_CA_F_Grenadier X2BodyPartTemplate]
+DisplayName="MJOLNIR/Grenadier"
+[LP_CA_F_GrenadierUA X2BodyPartTemplate]
+DisplayName="MJOLNIR/GrenadierUA"
+
+[LP_CA_F_HP-HaloCounterAssault X2BodyPartTemplate]
+DisplayName="MJOLNIR/HP-Halo Counter-Assault"
+
+[LP_CA_F_HP-Parafoil X2BodyPartTemplate]
+DisplayName="MJOLNIR/HP-Parafoil"
+
+[LP_CA_F_MTMKV X2BodyPartTemplate]
+DisplayName="MJOLNIR/Multi-Threat Mk. V"
+
+[LP_CA_F_TacLRP X2BodyPartTemplate]
+DisplayName="MJOLNIR/Tactical LRP"
+
+[LP_CA_F_TacPatrolSD X2BodyPartTemplate]
+DisplayName="MJOLNIR/Tactical Patrol"
+
+[LP_CA_F_TacRecon X2BodyPartTemplate]
+DisplayName="MJOLNIR/Tactical Recon"
+[LP_CA_F_TacReconK X2BodyPartTemplate]
+DisplayName="MJOLNIR/Tactical Recon (Knife)"
+
+[LP_CA_F_UABaseSec X2BodyPartTemplate]
+DisplayName="MJOLNIR/UA-Base Security"
+[LP_CA_F_UABaseSecK X2BodyPartTemplate]
+DisplayName="MJOLNIR/UA-Base Security (Knife)"
+
+[LP_CA_F_UACounterAssault X2BodyPartTemplate]
+DisplayName="MJOLNIR/UA-Counter-Assault"
+
+[LP_CA_F_TacPatrol X2BodyPartTemplate]
+DisplayName="MJOLNIR/Tactical Patrol [B]"
+
+;PLATED
+
+[PL_Default Female Armor X2BodyPartTemplate]
+DisplayName="MJOLNIR/Standard"
+
+[PL_CA_F_HP-Halo X2BodyPartTemplate]
+DisplayName="MJOLNIR/HALO"
+[PL_CA_F_HP-HaloK X2BodyPartTemplate]
+DisplayName="MJOLNIR/HALO (Knife)"
+
+[PL_CA_F_Collar-Breacher X2BodyPartTemplate]
+DisplayName="MJOLNIR/Collar"
+
+[PL_CA_F_ODST X2BodyPartTemplate]
+DisplayName="MJOLNIR/ODST"
+[PL_CA_F_ODST_A X2BodyPartTemplate]
+DisplayName="MJOLNIR/ODST [ARC]"
+[PL_CA_F_ODST_B X2BodyPartTemplate]
+DisplayName="MJOLNIR/ODST [BH]"
+[PL_CA_F_ODST_S X2BodyPartTemplate]
+DisplayName="MJOLNIR/ODST [S]"
+[PL_CA_F_ODSTK X2BodyPartTemplate]
+DisplayName="MJOLNIR/ODST (Knife)"
+
+[PL_CA_F_Assault-Sapper X2BodyPartTemplate]
+DisplayName="MJOLNIR/Sapper"
+
+[PL_CA_F_Assault-Commando X2BodyPartTemplate]
+DisplayName="MJOLNIR/Assault-Commando"
+[PL_CA_F_Assault-CommandoK X2BodyPartTemplate]
+DisplayName="MJOLNIR/Assault-Commando (Knife)"
+
+[PL_CA_F_Grenadier X2BodyPartTemplate]
+DisplayName="MJOLNIR/Grenadier"
+[PL_CA_F_GrenadierUA X2BodyPartTemplate]
+DisplayName="MJOLNIR/GrenadierUA"
+
+[PL_CA_F_HP-HaloCounterAssault X2BodyPartTemplate]
+DisplayName="MJOLNIR/HP-Halo Counter-Assault"
+
+[PL_CA_F_HP-Parafoil X2BodyPartTemplate]
+DisplayName="MJOLNIR/HP-Parafoil"
+
+[PL_CA_F_MTMKV X2BodyPartTemplate]
+DisplayName="MJOLNIR/Multi-Threat Mk. V"
+
+[PL_CA_F_TacLRP X2BodyPartTemplate]
+DisplayName="MJOLNIR/Tactical LRP"
+
+[PL_CA_F_TacPatrolSD X2BodyPartTemplate]
+DisplayName="MJOLNIR/Tactical Patrol"
+
+[PL_CA_F_TacRecon X2BodyPartTemplate]
+DisplayName="MJOLNIR/Tactical Recon"
+[PL_CA_F_TacReconK X2BodyPartTemplate]
+DisplayName="MJOLNIR/Tactical Recon (Knife)"
+
+[PL_CA_F_UABaseSec X2BodyPartTemplate]
+DisplayName="MJOLNIR/UA-Base Security"
+[PL_CA_F_UABaseSecK X2BodyPartTemplate]
+DisplayName="MJOLNIR/UA-Base Security (Knife)"
+
+[PL_CA_F_UACounterAssault X2BodyPartTemplate]
+DisplayName="MJOLNIR/UA-Counter-Assault"
+
+[PL_CA_F_TacPatrol X2BodyPartTemplate]
+DisplayName="MJOLNIR/Tactical Patrol [B]"
+
+;HEAVY PLATED
+
+[HP_Default Female Armor X2BodyPartTemplate]
+DisplayName="MJOLNIR/Standard"
+
+[HP_CA_F_HP-Halo X2BodyPartTemplate]
+DisplayName="MJOLNIR/HALO"
+[HP_CA_F_HP-HaloK X2BodyPartTemplate]
+DisplayName="MJOLNIR/HALO (Knife)"
+
+[HP_CA_F_Collar-Breacher X2BodyPartTemplate]
+DisplayName="MJOLNIR/Collar"
+
+[HP_CA_F_ODST X2BodyPartTemplate]
+DisplayName="MJOLNIR/ODST"
+[HP_CA_F_ODST_A X2BodyPartTemplate]
+DisplayName="MJOLNIR/ODST [ARC]"
+[HP_CA_F_ODST_B X2BodyPartTemplate]
+DisplayName="MJOLNIR/ODST [BH]"
+[HP_CA_F_ODST_S X2BodyPartTemplate]
+DisplayName="MJOLNIR/ODST [S]"
+[HP_CA_F_ODSTK X2BodyPartTemplate]
+DisplayName="MJOLNIR/ODST (Knife)"
+
+[HP_CA_F_Assault-Sapper X2BodyPartTemplate]
+DisplayName="MJOLNIR/Sapper"
+
+[HP_CA_F_Assault-Commando X2BodyPartTemplate]
+DisplayName="MJOLNIR/Assault-Commando"
+[HP_CA_F_Assault-CommandoK X2BodyPartTemplate]
+DisplayName="MJOLNIR/Assault-Commando (Knife)"
+
+[HP_CA_F_Grenadier X2BodyPartTemplate]
+DisplayName="MJOLNIR/Grenadier"
+[HP_CA_F_GrenadierUA X2BodyPartTemplate]
+DisplayName="MJOLNIR/GrenadierUA"
+
+[HP_CA_F_HP-HaloCounterAssault X2BodyPartTemplate]
+DisplayName="MJOLNIR/HP-Halo Counter-Assault"
+
+[HP_CA_F_HP-Parafoil X2BodyPartTemplate]
+DisplayName="MJOLNIR/HP-Parafoil"
+
+[HP_CA_F_MTMKV X2BodyPartTemplate]
+DisplayName="MJOLNIR/Multi-Threat Mk. V"
+
+[HP_CA_F_TacLRP X2BodyPartTemplate]
+DisplayName="MJOLNIR/Tactical LRP"
+
+[HP_CA_F_TacPatrolSD X2BodyPartTemplate]
+DisplayName="MJOLNIR/Tactical Patrol"
+
+[HP_CA_F_TacRecon X2BodyPartTemplate]
+DisplayName="MJOLNIR/Tactical Recon"
+[HP_CA_F_TacReconK X2BodyPartTemplate]
+DisplayName="MJOLNIR/Tactical Recon (Knife)"
+
+[HP_CA_F_UABaseSec X2BodyPartTemplate]
+DisplayName="MJOLNIR/UA-Base Security"
+[HP_CA_F_UABaseSecK X2BodyPartTemplate]
+DisplayName="MJOLNIR/UA-Base Security (Knife)"
+
+[HP_CA_F_UACounterAssault X2BodyPartTemplate]
+DisplayName="MJOLNIR/UA-Counter-Assault"
+
+[HP_CA_F_TacPatrol X2BodyPartTemplate]
+DisplayName="MJOLNIR/Tactical Patrol [B]"
+
+;LIGHT POWERED
+
+[LPW_Default Female Armor X2BodyPartTemplate]
+DisplayName="MJOLNIR/Standard"
+
+[LPW_CA_F_HP-Halo X2BodyPartTemplate]
+DisplayName="MJOLNIR/HALO"
+[LPW_CA_F_HP-HaloK X2BodyPartTemplate]
+DisplayName="MJOLNIR/HALO (Knife)"
+
+[LPW_CA_F_Collar-Breacher X2BodyPartTemplate]
+DisplayName="MJOLNIR/Collar"
+
+[LPW_CA_F_ODST X2BodyPartTemplate]
+DisplayName="MJOLNIR/ODST"
+[LPW_CA_F_ODST_A X2BodyPartTemplate]
+DisplayName="MJOLNIR/ODST [ARC]"
+[LPW_CA_F_ODST_B X2BodyPartTemplate]
+DisplayName="MJOLNIR/ODST [BH]"
+[LPW_CA_F_ODST_S X2BodyPartTemplate]
+DisplayName="MJOLNIR/ODST [S]"
+[LPW_CA_F_ODSTK X2BodyPartTemplate]
+DisplayName="MJOLNIR/ODST (Knife)"
+
+[LPW_CA_F_Assault-Sapper X2BodyPartTemplate]
+DisplayName="MJOLNIR/Sapper"
+
+[LPW_CA_F_Assault-Commando X2BodyPartTemplate]
+DisplayName="MJOLNIR/Assault-Commando"
+[LPW_CA_F_Assault-CommandoK X2BodyPartTemplate]
+DisplayName="MJOLNIR/Assault-Commando (Knife)"
+
+[LPW_CA_F_Grenadier X2BodyPartTemplate]
+DisplayName="MJOLNIR/Grenadier"
+[LPW_CA_F_GrenadierUA X2BodyPartTemplate]
+DisplayName="MJOLNIR/GrenadierUA"
+
+[LPW_CA_F_HP-HaloCounterAssault X2BodyPartTemplate]
+DisplayName="MJOLNIR/HP-Halo Counter-Assault"
+
+[LPW_CA_F_HP-Parafoil X2BodyPartTemplate]
+DisplayName="MJOLNIR/HP-Parafoil"
+
+[LPW_CA_F_MTMKV X2BodyPartTemplate]
+DisplayName="MJOLNIR/Multi-Threat Mk. V"
+
+[LPW_CA_F_TacLRP X2BodyPartTemplate]
+DisplayName="MJOLNIR/Tactical LRP"
+
+[LPW_CA_F_TacPatrolSD X2BodyPartTemplate]
+DisplayName="MJOLNIR/Tactical Patrol"
+
+[LPW_CA_F_TacRecon X2BodyPartTemplate]
+DisplayName="MJOLNIR/Tactical Recon"
+[LPW_CA_F_TacReconK X2BodyPartTemplate]
+DisplayName="MJOLNIR/Tactical Recon (Knife)"
+
+[LPW_CA_F_UABaseSec X2BodyPartTemplate]
+DisplayName="MJOLNIR/UA-Base Security"
+[LPW_CA_F_UABaseSecK X2BodyPartTemplate]
+DisplayName="MJOLNIR/UA-Base Security (Knife)"
+
+[LPW_CA_F_UACounterAssault X2BodyPartTemplate]
+DisplayName="MJOLNIR/UA-Counter-Assault"
+
+[LPW_CA_F_TacPatrol X2BodyPartTemplate]
+DisplayName="MJOLNIR/Tactical Patrol [B]"
+
+;POWERED
+
+[PA_Default Female Armor X2BodyPartTemplate]
+DisplayName="MJOLNIR/Standard"
+
+[PA_CA_F_HP-Halo X2BodyPartTemplate]
+DisplayName="MJOLNIR/HALO"
+[PA_CA_F_HP-HaloK X2BodyPartTemplate]
+DisplayName="MJOLNIR/HALO (Knife)"
+
+[PA_CA_F_Collar-Breacher X2BodyPartTemplate]
+DisplayName="MJOLNIR/Collar"
+
+[PA_CA_F_ODST X2BodyPartTemplate]
+DisplayName="MJOLNIR/ODST"
+[PA_CA_F_ODST_A X2BodyPartTemplate]
+DisplayName="MJOLNIR/ODST [ARC]"
+[PA_CA_F_ODST_B X2BodyPartTemplate]
+DisplayName="MJOLNIR/ODST [BH]"
+[PA_CA_F_ODST_S X2BodyPartTemplate]
+DisplayName="MJOLNIR/ODST [S]"
+[PA_CA_F_ODSTK X2BodyPartTemplate]
+DisplayName="MJOLNIR/ODST (Knife)"
+
+[PA_CA_F_Assault-Sapper X2BodyPartTemplate]
+DisplayName="MJOLNIR/Sapper"
+
+[PA_CA_F_Assault-Commando X2BodyPartTemplate]
+DisplayName="MJOLNIR/Assault-Commando"
+[PA_CA_F_Assault-CommandoK X2BodyPartTemplate]
+DisplayName="MJOLNIR/Assault-Commando (Knife)"
+
+[PA_CA_F_Grenadier X2BodyPartTemplate]
+DisplayName="MJOLNIR/Grenadier"
+[PA_CA_F_GrenadierUA X2BodyPartTemplate]
+DisplayName="MJOLNIR/GrenadierUA"
+
+[PA_CA_F_HP-HaloCounterAssault X2BodyPartTemplate]
+DisplayName="MJOLNIR/HP-Halo Counter-Assault"
+
+[PA_CA_F_HP-Parafoil X2BodyPartTemplate]
+DisplayName="MJOLNIR/HP-Parafoil"
+
+[PA_CA_F_MTMKV X2BodyPartTemplate]
+DisplayName="MJOLNIR/Multi-Threat Mk. V"
+
+[PA_CA_F_TacLRP X2BodyPartTemplate]
+DisplayName="MJOLNIR/Tactical LRP"
+
+[PA_CA_F_TacPatrolSD X2BodyPartTemplate]
+DisplayName="MJOLNIR/Tactical Patrol"
+
+[PA_CA_F_TacRecon X2BodyPartTemplate]
+DisplayName="MJOLNIR/Tactical Recon"
+[PA_CA_F_TacReconK X2BodyPartTemplate]
+DisplayName="MJOLNIR/Tactical Recon (Knife)"
+
+[PA_CA_F_UABaseSec X2BodyPartTemplate]
+DisplayName="MJOLNIR/UA-Base Security"
+[PA_CA_F_UABaseSecK X2BodyPartTemplate]
+DisplayName="MJOLNIR/UA-Base Security (Knife)"
+
+[PA_CA_F_UACounterAssault X2BodyPartTemplate]
+DisplayName="MJOLNIR/UA-Counter-Assault"
+
+[PA_CA_F_TacPatrol X2BodyPartTemplate]
+DisplayName="MJOLNIR/Tactical Patrol [B]"
+
+;HEAVY POWERED
+
+[HPW_Default Female Armor X2BodyPartTemplate]
+DisplayName="MJOLNIR/Standard"
+
+[HPW_CA_F_HP-Halo X2BodyPartTemplate]
+DisplayName="MJOLNIR/HALO"
+[HPW_CA_F_HP-HaloK X2BodyPartTemplate]
+DisplayName="MJOLNIR/HALO (Knife)"
+
+[HPW_CA_F_Collar-Breacher X2BodyPartTemplate]
+DisplayName="MJOLNIR/Collar"
+
+[HPW_CA_F_ODST X2BodyPartTemplate]
+DisplayName="MJOLNIR/ODST"
+[HPW_CA_F_ODST_A X2BodyPartTemplate]
+DisplayName="MJOLNIR/ODST [ARC]"
+[HPW_CA_F_ODST_B X2BodyPartTemplate]
+DisplayName="MJOLNIR/ODST [BH]"
+[HPW_CA_F_ODST_S X2BodyPartTemplate]
+DisplayName="MJOLNIR/ODST [S]"
+[HPW_CA_F_ODSTK X2BodyPartTemplate]
+DisplayName="MJOLNIR/ODST (Knife)"
+
+[HPW_CA_F_Assault-Sapper X2BodyPartTemplate]
+DisplayName="MJOLNIR/Sapper"
+
+[HPW_CA_F_Assault-Commando X2BodyPartTemplate]
+DisplayName="MJOLNIR/Assault-Commando"
+[HPW_CA_F_Assault-CommandoK X2BodyPartTemplate]
+DisplayName="MJOLNIR/Assault-Commando (Knife)"
+
+[HPW_CA_F_Grenadier X2BodyPartTemplate]
+DisplayName="MJOLNIR/Grenadier"
+[HPW_CA_F_GrenadierUA X2BodyPartTemplate]
+DisplayName="MJOLNIR/GrenadierUA"
+
+[HPW_CA_F_HP-HaloCounterAssault X2BodyPartTemplate]
+DisplayName="MJOLNIR/HP-Halo Counter-Assault"
+
+[HPW_CA_F_HP-Parafoil X2BodyPartTemplate]
+DisplayName="MJOLNIR/HP-Parafoil"
+
+[HPW_CA_F_MTMKV X2BodyPartTemplate]
+DisplayName="MJOLNIR/Multi-Threat Mk. V"
+
+[HPW_CA_F_TacLRP X2BodyPartTemplate]
+DisplayName="MJOLNIR/Tactical LRP"
+
+[HPW_CA_F_TacPatrolSD X2BodyPartTemplate]
+DisplayName="MJOLNIR/Tactical Patrol"
+
+[HPW_CA_F_TacRecon X2BodyPartTemplate]
+DisplayName="MJOLNIR/Tactical Recon"
+[HPW_CA_F_TacReconK X2BodyPartTemplate]
+DisplayName="MJOLNIR/Tactical Recon (Knife)"
+
+[HPW_CA_F_UABaseSec X2BodyPartTemplate]
+DisplayName="MJOLNIR/UA-Base Security"
+[HPW_CA_F_UABaseSecK X2BodyPartTemplate]
+DisplayName="MJOLNIR/UA-Base Security (Knife)"
+
+[HPW_CA_F_UACounterAssault X2BodyPartTemplate]
+DisplayName="MJOLNIR/UA-Counter-Assault"
+
+[HPW_CA_F_TacPatrol X2BodyPartTemplate]
+DisplayName="MJOLNIR/Tactical Patrol [B]"
+
+;Male Chest Attachments
+
+[Default Male Armor X2BodyPartTemplate]
+DisplayName="MJOLNIR/Standard"
+
+[CA_M_HP-Halo X2BodyPartTemplate]
+DisplayName="MJOLNIR/HALO"
+[CA_M_HP-Halo_K X2BodyPartTemplate]
+DisplayName="MJOLNIR/HALO (Knife)"
+
+[CA_M_ODST X2BodyPartTemplate]
+DisplayName="MJOLNIR/ODST"
+[CA_M_ODST_A X2BodyPartTemplate]
+DisplayName="MJOLNIR/ODST [ARC]"
+[CA_M_ODST_B X2BodyPartTemplate]
+DisplayName="MJOLNIR/ODST [BH]"
+[CA_M_ODST_S X2BodyPartTemplate]
+DisplayName="MJOLNIR/ODST [S]"
+[CA_M_ODST_K X2BodyPartTemplate]
+DisplayName="MJOLNIR/ODST (Knife)"
+
+[CA_M_Collar-Breacher X2BodyPartTemplate]
+DisplayName="MJOLNIR/BREACHER"
+
+[CA_M_Assault-Sapper X2BodyPartTemplate]
+DisplayName="MJOLNIR/SAPPER"
+
+[CA_F_Assault-Commando X2BodyPartTemplate]
+DisplayName="MJOLNIR/Assault-Commando"
+[CA_M_Assault-CommandoK X2BodyPartTemplate]
+DisplayName="MJOLNIR/Assault-Commando (Knife)"
+
+[CA_M_Grenadier X2BodyPartTemplate]
+DisplayName="MJOLNIR/Grenadier"
+[CA_M_GrenadierUA X2BodyPartTemplate]
+DisplayName="MJOLNIR/GrenadierUA"
+[CA_M_GrenadierUABP X2BodyPartTemplate]
+DisplayName="MJOLNIR/GrenadierUABP"
+
+[CA_M_HP-HaloCounterAssault X2BodyPartTemplate]
+DisplayName="MJOLNIR/HP-Halo Counter-Assault"
+
+[CA_M_HP-Parafoil X2BodyPartTemplate]
+DisplayName="MJOLNIR/HP-Parafoil"
+
+[CA_M_MTMKV X2BodyPartTemplate]
+DisplayName="MJOLNIR/Multi-Threat Mk. V"
+
+[CA_M_TacLRP X2BodyPartTemplate]
+DisplayName="MJOLNIR/Tactical LRP"
+
+[CA_M_TacPatrolSD X2BodyPartTemplate]
+DisplayName="MJOLNIR/Tactical Patrol"
+[CA_M_TacPatrol X2BodyPartTemplate]
+DisplayName="MJOLNIR/Tactical Patrol [B]"
+
+[CA_M_TacRecon X2BodyPartTemplate]
+DisplayName="MJOLNIR/Tactical Recon"
+[CA_M_TacReconK X2BodyPartTemplate]
+DisplayName="MJOLNIR/Tactical Recon (Knife)"
+
+[CA_M_UABaseSec X2BodyPartTemplate]
+DisplayName="MJOLNIR/UA-Base Security"
+[CA_M_UABaseSecK X2BodyPartTemplate]
+DisplayName="MJOLNIR/UA-Base Security (Knife)"
+
+[CA_M_UACounterAssault X2BodyPartTemplate]
+DisplayName="MJOLNIR/UA-Counter-Assault"
+
+[CA_M_J_GrenadierUA X2BodyPartTemplate]
+DisplayName="MJOLNIR/GrenadierUA [J]"
+[CA_M_J_GrenadierUABP X2BodyPartTemplate]
+DisplayName="MJOLNIR/GrenadierUABP [J]"
+
+;LIGHT PLATED
+
+[LP_Default Male Armor X2BodyPartTemplate]
+DisplayName="MJOLNIR/Standard"
+
+[LP_CA_M_HP-Halo X2BodyPartTemplate]
+DisplayName="MJOLNIR/HALO"
+[LP_CA_M_HP-HaloK X2BodyPartTemplate]
+DisplayName="MJOLNIR/HALO (Knife)"
+
+[LP_CA_M_ODST X2BodyPartTemplate]
+DisplayName="MJOLNIR/ODST"
+[LP_CA_M_ODST_A X2BodyPartTemplate]
+DisplayName="MJOLNIR/ODST [ARC]"
+[LP_CA_M_ODST_B X2BodyPartTemplate]
+DisplayName="MJOLNIR/ODST [BH]"
+[LP_CA_M_ODST_S X2BodyPartTemplate]
+DisplayName="MJOLNIR/ODST [S]"
+[LP_CA_M_ODSTK X2BodyPartTemplate]
+DisplayName="MJOLNIR/ODST (Knife)"
+
+[LP_CA_M_Collar-Breacher X2BodyPartTemplate]
+DisplayName="MJOLNIR/BREACHER"
+
+[LP_CA_M_Assault-Sapper X2BodyPartTemplate]
+DisplayName="MJOLNIR/SAPPER"
+
+[LP_CA_F_Assault-Commando X2BodyPartTemplate]
+DisplayName="MJOLNIR/Assault-Commando"
+[LP_CA_M_Assault-CommandoK X2BodyPartTemplate]
+DisplayName="MJOLNIR/Assault-Commando (Knife)"
+
+[LP_CA_M_Grenadier X2BodyPartTemplate]
+DisplayName="MJOLNIR/Grenadier"
+[LP_CA_M_GrenadierUA X2BodyPartTemplate]
+DisplayName="MJOLNIR/GrenadierUA"
+[LP_CA_M_GrenadierUABP X2BodyPartTemplate]
+DisplayName="MJOLNIR/GrenadierUABP"
+
+[LP_CA_M_HP-HaloCounterAssault X2BodyPartTemplate]
+DisplayName="MJOLNIR/HP-Halo Counter-Assault"
+
+[LP_CA_M_HP-Parafoil X2BodyPartTemplate]
+DisplayName="MJOLNIR/HP-Parafoil"
+
+[LP_CA_M_MTMKV X2BodyPartTemplate]
+DisplayName="MJOLNIR/Multi-Threat Mk. V"
+
+[LP_CA_M_TacLRP X2BodyPartTemplate]
+DisplayName="MJOLNIR/Tactical LRP"
+
+[LP_CA_M_TacPatrolSD X2BodyPartTemplate]
+DisplayName="MJOLNIR/Tactical Patrol"
+[LP_CA_M_TacPatrol X2BodyPartTemplate]
+DisplayName="MJOLNIR/Tactical Patrol [B]"
+
+[LP_CA_M_TacRecon X2BodyPartTemplate]
+DisplayName="MJOLNIR/Tactical Recon"
+[LP_CA_M_TacReconK X2BodyPartTemplate]
+DisplayName="MJOLNIR/Tactical Recon (Knife)"
+
+[LP_CA_M_UABaseSec X2BodyPartTemplate]
+DisplayName="MJOLNIR/UA-Base Security"
+[LP_CA_M_UABaseSecK X2BodyPartTemplate]
+DisplayName="MJOLNIR/UA-Base Security (Knife)"
+
+[LP_CA_M_UACounterAssault X2BodyPartTemplate]
+DisplayName="MJOLNIR/UA-Counter-Assault"
+
+[LP_CA_M_J_GrenadierUA X2BodyPartTemplate]
+DisplayName="MJOLNIR/GrenadierUA [J]"
+[LP_CA_M_J_GrenadierUABP X2BodyPartTemplate]
+DisplayName="MJOLNIR/GrenadierUABP [J]"
+
+;PLATED
+
+[PL_Default Male Armor X2BodyPartTemplate]
+DisplayName="MJOLNIR/Standard"
+
+[PL_CA_M_HP-Halo X2BodyPartTemplate]
+DisplayName="MJOLNIR/HALO"
+[PL_CA_M_HP-HaloK X2BodyPartTemplate]
+DisplayName="MJOLNIR/HALO (Knife)"
+
+[PL_CA_M_ODST X2BodyPartTemplate]
+DisplayName="MJOLNIR/ODST"
+[PL_CA_M_ODST_A X2BodyPartTemplate]
+DisplayName="MJOLNIR/ODST [ARC]"
+[PL_CA_M_ODST_B X2BodyPartTemplate]
+DisplayName="MJOLNIR/ODST [BH]"
+[PL_CA_M_ODST_S X2BodyPartTemplate]
+DisplayName="MJOLNIR/ODST [S]"
+[PL_CA_M_ODSTK X2BodyPartTemplate]
+DisplayName="MJOLNIR/ODST (Knife)"
+
+[PL_CA_M_Collar-Breacher X2BodyPartTemplate]
+DisplayName="MJOLNIR/BREACHER"
+
+[PL_CA_M_Assault-Sapper X2BodyPartTemplate]
+DisplayName="MJOLNIR/SAPPER"
+
+[PL_CA_F_Assault-Commando X2BodyPartTemplate]
+DisplayName="MJOLNIR/Assault-Commando"
+[PL_CA_M_Assault-CommandoK X2BodyPartTemplate]
+DisplayName="MJOLNIR/Assault-Commando (Knife)"
+
+[PL_CA_M_Grenadier X2BodyPartTemplate]
+DisplayName="MJOLNIR/Grenadier"
+[PL_CA_M_GrenadierUA X2BodyPartTemplate]
+DisplayName="MJOLNIR/GrenadierUA"
+[PL_CA_M_GrenadierUABP X2BodyPartTemplate]
+DisplayName="MJOLNIR/GrenadierUABP"
+
+[PL_CA_M_HP-HaloCounterAssault X2BodyPartTemplate]
+DisplayName="MJOLNIR/HP-Halo Counter-Assault"
+
+[PL_CA_M_HP-Parafoil X2BodyPartTemplate]
+DisplayName="MJOLNIR/HP-Parafoil"
+
+[PL_CA_M_MTMKV X2BodyPartTemplate]
+DisplayName="MJOLNIR/Multi-Threat Mk. V"
+
+[PL_CA_M_TacLRP X2BodyPartTemplate]
+DisplayName="MJOLNIR/Tactical LRP"
+
+[PL_CA_M_TacPatrolSD X2BodyPartTemplate]
+DisplayName="MJOLNIR/Tactical Patrol"
+[PL_CA_M_TacPatrol X2BodyPartTemplate]
+DisplayName="MJOLNIR/Tactical Patrol [B]"
+
+[PL_CA_M_TacRecon X2BodyPartTemplate]
+DisplayName="MJOLNIR/Tactical Recon"
+[PL_CA_M_TacReconK X2BodyPartTemplate]
+DisplayName="MJOLNIR/Tactical Recon (Knife)"
+
+[PL_CA_M_UABaseSec X2BodyPartTemplate]
+DisplayName="MJOLNIR/UA-Base Security"
+[PL_CA_M_UABaseSecK X2BodyPartTemplate]
+DisplayName="MJOLNIR/UA-Base Security (Knife)"
+
+[PL_CA_M_UACounterAssault X2BodyPartTemplate]
+DisplayName="MJOLNIR/UA-Counter-Assault"
+
+[PL_CA_M_J_GrenadierUA X2BodyPartTemplate]
+DisplayName="MJOLNIR/GrenadierUA [J]"
+[PL_CA_M_J_GrenadierUABP X2BodyPartTemplate]
+DisplayName="MJOLNIR/GrenadierUABP [J]"
+
+;HEAVY PLATED
+
+[HP_Default Male Armor X2BodyPartTemplate]
+DisplayName="MJOLNIR/Standard"
+
+[HP_CA_M_HP-Halo X2BodyPartTemplate]
+DisplayName="MJOLNIR/HALO"
+[HP_CA_M_HP-HaloK X2BodyPartTemplate]
+DisplayName="MJOLNIR/HALO (Knife)"
+
+[HP_CA_M_ODST X2BodyPartTemplate]
+DisplayName="MJOLNIR/ODST"
+[HP_CA_M_ODST_A X2BodyPartTemplate]
+DisplayName="MJOLNIR/ODST [ARC]"
+[HP_CA_M_ODST_B X2BodyPartTemplate]
+DisplayName="MJOLNIR/ODST [BH]"
+[HP_CA_M_ODST_S X2BodyPartTemplate]
+DisplayName="MJOLNIR/ODST [S]"
+[HP_CA_M_ODSTK X2BodyPartTemplate]
+DisplayName="MJOLNIR/ODST (Knife)"
+
+[HP_CA_M_Collar-Breacher X2BodyPartTemplate]
+DisplayName="MJOLNIR/BREACHER"
+
+[HP_CA_M_Assault-Sapper X2BodyPartTemplate]
+DisplayName="MJOLNIR/SAPPER"
+
+[HP_CA_F_Assault-Commando X2BodyPartTemplate]
+DisplayName="MJOLNIR/Assault-Commando"
+[HP_CA_M_Assault-CommandoK X2BodyPartTemplate]
+DisplayName="MJOLNIR/Assault-Commando (Knife)"
+
+[HP_CA_M_Grenadier X2BodyPartTemplate]
+DisplayName="MJOLNIR/Grenadier"
+[HP_CA_M_GrenadierUA X2BodyPartTemplate]
+DisplayName="MJOLNIR/GrenadierUA"
+[HP_CA_M_GrenadierUABP X2BodyPartTemplate]
+DisplayName="MJOLNIR/GrenadierUABP"
+
+[HP_CA_M_HP-HaloCounterAssault X2BodyPartTemplate]
+DisplayName="MJOLNIR/HP-Halo Counter-Assault"
+
+[HP_CA_M_HP-Parafoil X2BodyPartTemplate]
+DisplayName="MJOLNIR/HP-Parafoil"
+
+[HP_CA_M_MTMKV X2BodyPartTemplate]
+DisplayName="MJOLNIR/Multi-Threat Mk. V"
+
+[HP_CA_M_TacLRP X2BodyPartTemplate]
+DisplayName="MJOLNIR/Tactical LRP"
+
+[HP_CA_M_TacPatrolSD X2BodyPartTemplate]
+DisplayName="MJOLNIR/Tactical Patrol"
+[HP_CA_M_TacPatrol X2BodyPartTemplate]
+DisplayName="MJOLNIR/Tactical Patrol [B]"
+
+[HP_CA_M_TacRecon X2BodyPartTemplate]
+DisplayName="MJOLNIR/Tactical Recon"
+[HP_CA_M_TacReconK X2BodyPartTemplate]
+DisplayName="MJOLNIR/Tactical Recon (Knife)"
+
+[HP_CA_M_UABaseSec X2BodyPartTemplate]
+DisplayName="MJOLNIR/UA-Base Security"
+[HP_CA_M_UABaseSecK X2BodyPartTemplate]
+DisplayName="MJOLNIR/UA-Base Security (Knife)"
+
+[HP_CA_M_UACounterAssault X2BodyPartTemplate]
+DisplayName="MJOLNIR/UA-Counter-Assault"
+
+[HP_CA_M_J_GrenadierUA X2BodyPartTemplate]
+DisplayName="MJOLNIR/GrenadierUA [J]"
+[HP_CA_M_J_GrenadierUABP X2BodyPartTemplate]
+DisplayName="MJOLNIR/GrenadierUABP [J]"
+
+;LIGHT POWERED
+
+[LPW_Default Male Armor X2BodyPartTemplate]
+DisplayName="MJOLNIR/Standard"
+
+[LPW_CA_M_HP-Halo X2BodyPartTemplate]
+DisplayName="MJOLNIR/HALO"
+[LPW_CA_M_HP-HaloK X2BodyPartTemplate]
+DisplayName="MJOLNIR/HALO (Knife)"
+
+[LPW_CA_M_ODST X2BodyPartTemplate]
+DisplayName="MJOLNIR/ODST"
+[LPW_CA_M_ODST_A X2BodyPartTemplate]
+DisplayName="MJOLNIR/ODST [ARC]"
+[LPW_CA_M_ODST_B X2BodyPartTemplate]
+DisplayName="MJOLNIR/ODST [BH]"
+[LPW_CA_M_ODST_S X2BodyPartTemplate]
+DisplayName="MJOLNIR/ODST [S]"
+[LPW_CA_M_ODSTK X2BodyPartTemplate]
+DisplayName="MJOLNIR/ODST (Knife)"
+
+[LPW_CA_M_Collar-Breacher X2BodyPartTemplate]
+DisplayName="MJOLNIR/BREACHER"
+
+[LPW_CA_M_Assault-Sapper X2BodyPartTemplate]
+DisplayName="MJOLNIR/SAPPER"
+
+[LPW_CA_F_Assault-Commando X2BodyPartTemplate]
+DisplayName="MJOLNIR/Assault-Commando"
+[LPW_CA_M_Assault-CommandoK X2BodyPartTemplate]
+DisplayName="MJOLNIR/Assault-Commando (Knife)"
+
+[LPW_CA_M_Grenadier X2BodyPartTemplate]
+DisplayName="MJOLNIR/Grenadier"
+[LPW_CA_M_GrenadierUA X2BodyPartTemplate]
+DisplayName="MJOLNIR/GrenadierUA"
+[LPW_CA_M_GrenadierUABP X2BodyPartTemplate]
+DisplayName="MJOLNIR/GrenadierUABP"
+
+[LPW_CA_M_HP-HaloCounterAssault X2BodyPartTemplate]
+DisplayName="MJOLNIR/HP-Halo Counter-Assault"
+
+[LPW_CA_M_HP-Parafoil X2BodyPartTemplate]
+DisplayName="MJOLNIR/HP-Parafoil"
+
+[LPW_CA_M_MTMKV X2BodyPartTemplate]
+DisplayName="MJOLNIR/Multi-Threat Mk. V"
+
+[LPW_CA_M_TacLRP X2BodyPartTemplate]
+DisplayName="MJOLNIR/Tactical LRP"
+
+[LPW_CA_M_TacPatrolSD X2BodyPartTemplate]
+DisplayName="MJOLNIR/Tactical Patrol"
+[LPW_CA_M_TacPatrol X2BodyPartTemplate]
+DisplayName="MJOLNIR/Tactical Patrol [B]"
+
+[LPW_CA_M_TacRecon X2BodyPartTemplate]
+DisplayName="MJOLNIR/Tactical Recon"
+[LPW_CA_M_TacReconK X2BodyPartTemplate]
+DisplayName="MJOLNIR/Tactical Recon (Knife)"
+
+[LPW_CA_M_UABaseSec X2BodyPartTemplate]
+DisplayName="MJOLNIR/UA-Base Security"
+[LPW_CA_M_UABaseSecK X2BodyPartTemplate]
+DisplayName="MJOLNIR/UA-Base Security (Knife)"
+
+[LPW_CA_M_UACounterAssault X2BodyPartTemplate]
+DisplayName="MJOLNIR/UA-Counter-Assault"
+
+[LPW_CA_M_J_GrenadierUA X2BodyPartTemplate]
+DisplayName="MJOLNIR/GrenadierUA [J]"
+[LPW_CA_M_J_GrenadierUABP X2BodyPartTemplate]
+DisplayName="MJOLNIR/GrenadierUABP [J]"
+
+;POWERED
+
+[PA_Default Male Armor X2BodyPartTemplate]
+DisplayName="MJOLNIR/Standard"
+
+[PA_CA_M_HP-Halo X2BodyPartTemplate]
+DisplayName="MJOLNIR/HALO"
+[PA_CA_M_HP-HaloK X2BodyPartTemplate]
+DisplayName="MJOLNIR/HALO (Knife)"
+
+[PA_CA_M_ODST X2BodyPartTemplate]
+DisplayName="MJOLNIR/ODST"
+[PA_CA_M_ODST_A X2BodyPartTemplate]
+DisplayName="MJOLNIR/ODST [ARC]"
+[PA_CA_M_ODST_B X2BodyPartTemplate]
+DisplayName="MJOLNIR/ODST [BH]"
+[PA_CA_M_ODST_S X2BodyPartTemplate]
+DisplayName="MJOLNIR/ODST [S]"
+[PA_CA_M_ODSTK X2BodyPartTemplate]
+DisplayName="MJOLNIR/ODST (Knife)"
+
+[PA_CA_M_Collar-Breacher X2BodyPartTemplate]
+DisplayName="MJOLNIR/BREACHER"
+
+[PA_CA_M_Assault-Sapper X2BodyPartTemplate]
+DisplayName="MJOLNIR/SAPPER"
+
+[PA_CA_F_Assault-Commando X2BodyPartTemplate]
+DisplayName="MJOLNIR/Assault-Commando"
+[PA_CA_M_Assault-CommandoK X2BodyPartTemplate]
+DisplayName="MJOLNIR/Assault-Commando (Knife)"
+
+[PA_CA_M_Grenadier X2BodyPartTemplate]
+DisplayName="MJOLNIR/Grenadier"
+[PA_CA_M_GrenadierUA X2BodyPartTemplate]
+DisplayName="MJOLNIR/GrenadierUA"
+[PA_CA_M_GrenadierUABP X2BodyPartTemplate]
+DisplayName="MJOLNIR/GrenadierUABP"
+
+[PA_CA_M_HP-HaloCounterAssault X2BodyPartTemplate]
+DisplayName="MJOLNIR/HP-Halo Counter-Assault"
+
+[PA_CA_M_HP-Parafoil X2BodyPartTemplate]
+DisplayName="MJOLNIR/HP-Parafoil"
+
+[PA_CA_M_MTMKV X2BodyPartTemplate]
+DisplayName="MJOLNIR/Multi-Threat Mk. V"
+
+[PA_CA_M_TacLRP X2BodyPartTemplate]
+DisplayName="MJOLNIR/Tactical LRP"
+
+[PA_CA_M_TacPatrolSD X2BodyPartTemplate]
+DisplayName="MJOLNIR/Tactical Patrol"
+[PA_CA_M_TacPatrol X2BodyPartTemplate]
+DisplayName="MJOLNIR/Tactical Patrol [B]"
+
+[PA_CA_M_TacRecon X2BodyPartTemplate]
+DisplayName="MJOLNIR/Tactical Recon"
+[PA_CA_M_TacReconK X2BodyPartTemplate]
+DisplayName="MJOLNIR/Tactical Recon (Knife)"
+
+[PA_CA_M_UABaseSec X2BodyPartTemplate]
+DisplayName="MJOLNIR/UA-Base Security"
+[PA_CA_M_UABaseSecK X2BodyPartTemplate]
+DisplayName="MJOLNIR/UA-Base Security (Knife)"
+
+[PA_CA_M_UACounterAssault X2BodyPartTemplate]
+DisplayName="MJOLNIR/UA-Counter-Assault"
+
+[PA_CA_M_J_GrenadierUA X2BodyPartTemplate]
+DisplayName="MJOLNIR/GrenadierUA [J]"
+[PA_CA_M_J_GrenadierUABP X2BodyPartTemplate]
+DisplayName="MJOLNIR/GrenadierUABP [J]"
+
+;HEAVY POWERED
+
+[HPW_Default Male Armor X2BodyPartTemplate]
+DisplayName="MJOLNIR/Standard"
+
+[HPW_CA_M_HP-Halo X2BodyPartTemplate]
+DisplayName="MJOLNIR/HALO"
+[HPW_CA_M_HP-HaloK X2BodyPartTemplate]
+DisplayName="MJOLNIR/HALO (Knife)"
+
+[HPW_CA_M_ODST X2BodyPartTemplate]
+DisplayName="MJOLNIR/ODST"
+[HPW_CA_M_ODST_A X2BodyPartTemplate]
+DisplayName="MJOLNIR/ODST [ARC]"
+[HPW_CA_M_ODST_B X2BodyPartTemplate]
+DisplayName="MJOLNIR/ODST [BH]"
+[HPW_CA_M_ODST_S X2BodyPartTemplate]
+DisplayName="MJOLNIR/ODST [S]"
+[HPW_CA_M_ODSTK X2BodyPartTemplate]
+DisplayName="MJOLNIR/ODST (Knife)"
+
+[HPW_CA_M_Collar-Breacher X2BodyPartTemplate]
+DisplayName="MJOLNIR/BREACHER"
+
+[HPW_CA_M_Assault-Sapper X2BodyPartTemplate]
+DisplayName="MJOLNIR/SAPPER"
+
+[HPW_CA_F_Assault-Commando X2BodyPartTemplate]
+DisplayName="MJOLNIR/Assault-Commando"
+[HPW_CA_M_Assault-CommandoK X2BodyPartTemplate]
+DisplayName="MJOLNIR/Assault-Commando (Knife)"
+
+[HPW_CA_M_Grenadier X2BodyPartTemplate]
+DisplayName="MJOLNIR/Grenadier"
+[HPW_CA_M_GrenadierUA X2BodyPartTemplate]
+DisplayName="MJOLNIR/GrenadierUA"
+[HPW_CA_M_GrenadierUABP X2BodyPartTemplate]
+DisplayName="MJOLNIR/GrenadierUABP"
+
+[HPW_CA_M_HP-HaloCounterAssault X2BodyPartTemplate]
+DisplayName="MJOLNIR/HP-Halo Counter-Assault"
+
+[HPW_CA_M_HP-Parafoil X2BodyPartTemplate]
+DisplayName="MJOLNIR/HP-Parafoil"
+
+[HPW_CA_M_MTMKV X2BodyPartTemplate]
+DisplayName="MJOLNIR/Multi-Threat Mk. V"
+
+[HPW_CA_M_TacLRP X2BodyPartTemplate]
+DisplayName="MJOLNIR/Tactical LRP"
+
+[HPW_CA_M_TacPatrolSD X2BodyPartTemplate]
+DisplayName="MJOLNIR/Tactical Patrol"
+[HPW_CA_M_TacPatrol X2BodyPartTemplate]
+DisplayName="MJOLNIR/Tactical Patrol [B]"
+
+[HPW_CA_M_TacRecon X2BodyPartTemplate]
+DisplayName="MJOLNIR/Tactical Recon"
+[HPW_CA_M_TacReconK X2BodyPartTemplate]
+DisplayName="MJOLNIR/Tactical Recon (Knife)"
+
+[HPW_CA_M_UABaseSec X2BodyPartTemplate]
+DisplayName="MJOLNIR/UA-Base Security"
+[HPW_CA_M_UABaseSecK X2BodyPartTemplate]
+DisplayName="MJOLNIR/UA-Base Security (Knife)"
+
+[HPW_CA_M_UACounterAssault X2BodyPartTemplate]
+DisplayName="MJOLNIR/UA-Counter-Assault"
+
+[HPW_CA_M_J_GrenadierUA X2BodyPartTemplate]
+DisplayName="MJOLNIR/GrenadierUA [J]"
+[HPW_CA_M_J_GrenadierUABP X2BodyPartTemplate]
+DisplayName="MJOLNIR/GrenadierUABP [J]"
+
+;Female Knee Guards
+
+[Female Default Knee Guards X2BodyPartTemplate]
+DisplayName="Default Knee Guards"
+
+[Female FJ/Para Knee Guards X2BodyPartTemplate]
+DisplayName="FJ/Para Knee Guards"
+
+[Female Gungnir Knee Guards X2BodyPartTemplate]
+DisplayName="Gungnir Knee Guards"
+
+[Female Grenadier Knee Guards X2BodyPartTemplate]
+DisplayName="Grenadier Knee Guards"
+
+[Female Grenadier Knee Guards_1 X2BodyPartTemplate]
+DisplayName="Heavy Grenadier Knee Guards [1]"
+[Female Grenadier Knee Guards_2 X2BodyPartTemplate]
+DisplayName="Heavy Grenadier Knee Guards [2]"
+
+;LIGHT PLATED
+
+[LP_Female Default Knee Guards X2BodyPartTemplate]
+DisplayName="Default Knee Guards"
+
+[LP_Female FJ/Para Knee Guards X2BodyPartTemplate]
+DisplayName="FJ/Para Knee Guards"
+
+[LP_Female Gungnir Knee Guards X2BodyPartTemplate]
+DisplayName="Gungnir Knee Guards"
+
+[LP_Female Grenadier Knee Guards X2BodyPartTemplate]
+DisplayName="Grenadier Knee Guards"
+
+[LP_Female Grenadier Knee Guards_1 X2BodyPartTemplate]
+DisplayName="Heavy Grenadier Knee Guards [1]"
+[LP_Female Grenadier Knee Guards_2 X2BodyPartTemplate]
+DisplayName="Heavy Grenadier Knee Guards [2]"
+
+;PLATED
+
+[PL_Female Default Knee Guards X2BodyPartTemplate]
+DisplayName="Default Knee Guards"
+
+[PL_Female FJ/Para Knee Guards X2BodyPartTemplate]
+DisplayName="FJ/Para Knee Guards"
+
+[PL_Female Gungnir Knee Guards X2BodyPartTemplate]
+DisplayName="Gungnir Knee Guards"
+
+[PL_Female Grenadier Knee Guards X2BodyPartTemplate]
+DisplayName="Grenadier Knee Guards"
+
+[PL_Female Grenadier Knee Guards_1 X2BodyPartTemplate]
+DisplayName="Heavy Grenadier Knee Guards [1]"
+[PL_Female Grenadier Knee Guards_2 X2BodyPartTemplate]
+DisplayName="Heavy Grenadier Knee Guards [2]"
+
+;HEAVY PLATED
+
+[HP_Female Default Knee Guards X2BodyPartTemplate]
+DisplayName="Default Knee Guards"
+
+[HP_Female FJ/Para Knee Guards X2BodyPartTemplate]
+DisplayName="FJ/Para Knee Guards"
+
+[HP_Female Gungnir Knee Guards X2BodyPartTemplate]
+DisplayName="Gungnir Knee Guards"
+
+[HP_Female Grenadier Knee Guards X2BodyPartTemplate]
+DisplayName="Grenadier Knee Guards"
+
+[HP_Female Grenadier Knee Guards_1 X2BodyPartTemplate]
+DisplayName="Heavy Grenadier Knee Guards [1]"
+[HP_Female Grenadier Knee Guards_2 X2BodyPartTemplate]
+DisplayName="Heavy Grenadier Knee Guards [2]"
+
+;LIGHT POWERED
+
+[LPW_Female Default Knee Guards X2BodyPartTemplate]
+DisplayName="Default Knee Guards"
+
+[LPW_Female FJ/Para Knee Guards X2BodyPartTemplate]
+DisplayName="FJ/Para Knee Guards"
+
+[LPW_Female Gungnir Knee Guards X2BodyPartTemplate]
+DisplayName="Gungnir Knee Guards"
+
+[LPW_Female Grenadier Knee Guards X2BodyPartTemplate]
+DisplayName="Grenadier Knee Guards"
+
+[LPW_Female Grenadier Knee Guards_1 X2BodyPartTemplate]
+DisplayName="Heavy Grenadier Knee Guards [1]"
+[LPW_Female Grenadier Knee Guards_2 X2BodyPartTemplate]
+DisplayName="Heavy Grenadier Knee Guards [2]"
+
+;POWERED
+
+[PA_Female Default Knee Guards X2BodyPartTemplate]
+DisplayName="Default Knee Guards"
+
+[PA_Female FJ/Para Knee Guards X2BodyPartTemplate]
+DisplayName="FJ/Para Knee Guards"
+
+[PA_Female Gungnir Knee Guards X2BodyPartTemplate]
+DisplayName="Gungnir Knee Guards"
+
+[PA_Female Grenadier Knee Guards X2BodyPartTemplate]
+DisplayName="Grenadier Knee Guards"
+
+[PA_Female Grenadier Knee Guards_1 X2BodyPartTemplate]
+DisplayName="Heavy Grenadier Knee Guards [1]"
+[PA_Female Grenadier Knee Guards_2 X2BodyPartTemplate]
+DisplayName="Heavy Grenadier Knee Guards [2]"
+
+;HEAVY POWERED
+
+[HPW_Female Default Knee Guards X2BodyPartTemplate]
+DisplayName="Default Knee Guards"
+
+[HPW_Female FJ/Para Knee Guards X2BodyPartTemplate]
+DisplayName="FJ/Para Knee Guards"
+
+[HPW_Female Gungnir Knee Guards X2BodyPartTemplate]
+DisplayName="Gungnir Knee Guards"
+
+[HPW_Female Grenadier Knee Guards X2BodyPartTemplate]
+DisplayName="Grenadier Knee Guards"
+
+[HPW_Female Grenadier Knee Guards_1 X2BodyPartTemplate]
+DisplayName="Heavy Grenadier Knee Guards [1]"
+[HPW_Female Grenadier Knee Guards_2 X2BodyPartTemplate]
+DisplayName="Heavy Grenadier Knee Guards [2]"
+
+;Male Knee Guards
+
+[Male FJ/Para Knee Guards X2BodyPartTemplate]
+DisplayName="FJ/Para Knee Guards"
+
+[Male Default Knee Guards X2BodyPartTemplate]
+DisplayName="Default Knee Guards"
+
+[Male Gungnir Knee Guards X2BodyPartTemplate]
+DisplayName="Gungnir Knee Guards"
+
+[Male Grenadier Knee Guards X2BodyPartTemplate]
+DisplayName="Grenadier Knee Guards"
+
+[Male Grenadier Knee Guards_1 X2BodyPartTemplate]
+DisplayName="Heavy Grenadier Knee Guards [1]"
+[Male Grenadier Knee Guards_2 X2BodyPartTemplate]
+DisplayName="Heavy Grenadier Knee Guards [2]"
+
+;LIGHT PLATED
+
+[LP_Male FJ/Para Knee Guards X2BodyPartTemplate]
+DisplayName="FJ/Para Knee Guards"
+
+[LP_Male Default Knee Guards X2BodyPartTemplate]
+DisplayName="Default Knee Guards"
+
+[LP_Male Gungnir Knee Guards X2BodyPartTemplate]
+DisplayName="Gungnir Knee Guards"
+
+[LP_Male Grenadier Knee Guards X2BodyPartTemplate]
+DisplayName="Grenadier Knee Guards"
+
+[LP_Male Grenadier Knee Guards_1 X2BodyPartTemplate]
+DisplayName="Heavy Grenadier Knee Guards [1]"
+[LP_Male Grenadier Knee Guards_2 X2BodyPartTemplate]
+DisplayName="Heavy Grenadier Knee Guards [2]"
+
+;PLATED
+
+[PL_Male FJ/Para Knee Guards X2BodyPartTemplate]
+DisplayName="FJ/Para Knee Guards"
+
+[PL_Male Default Knee Guards X2BodyPartTemplate]
+DisplayName="Default Knee Guards"
+
+[PL_Male Gungnir Knee Guards X2BodyPartTemplate]
+DisplayName="Gungnir Knee Guards"
+
+[PL_Male Grenadier Knee Guards X2BodyPartTemplate]
+DisplayName="Grenadier Knee Guards"
+
+[PL_Male Grenadier Knee Guards_1 X2BodyPartTemplate]
+DisplayName="Heavy Grenadier Knee Guards [1]"
+[PL_Male Grenadier Knee Guards_2 X2BodyPartTemplate]
+DisplayName="Heavy Grenadier Knee Guards [2]"
+
+;HEAVY PLATED
+
+[HP_Male FJ/Para Knee Guards X2BodyPartTemplate]
+DisplayName="FJ/Para Knee Guards"
+
+[HP_Male Default Knee Guards X2BodyPartTemplate]
+DisplayName="Default Knee Guards"
+
+[HP_Male Gungnir Knee Guards X2BodyPartTemplate]
+DisplayName="Gungnir Knee Guards"
+
+[HP_Male Grenadier Knee Guards X2BodyPartTemplate]
+DisplayName="Grenadier Knee Guards"
+
+[HP_Male Grenadier Knee Guards_1 X2BodyPartTemplate]
+DisplayName="Heavy Grenadier Knee Guards [1]"
+[HP_Male Grenadier Knee Guards_2 X2BodyPartTemplate]
+DisplayName="Heavy Grenadier Knee Guards [2]"
+
+;LIGHT POWERED
+
+[LPW_Male FJ/Para Knee Guards X2BodyPartTemplate]
+DisplayName="FJ/Para Knee Guards"
+
+[LPW_Male Default Knee Guards X2BodyPartTemplate]
+DisplayName="Default Knee Guards"
+
+[LPW_Male Gungnir Knee Guards X2BodyPartTemplate]
+DisplayName="Gungnir Knee Guards"
+
+[LPW_Male Grenadier Knee Guards X2BodyPartTemplate]
+DisplayName="Grenadier Knee Guards"
+
+[LPW_Male Grenadier Knee Guards_1 X2BodyPartTemplate]
+DisplayName="Heavy Grenadier Knee Guards [1]"
+[LPW_Male Grenadier Knee Guards_2 X2BodyPartTemplate]
+DisplayName="Heavy Grenadier Knee Guards [2]"
+
+;POWERED
+
+[PA_Male FJ/Para Knee Guards X2BodyPartTemplate]
+DisplayName="FJ/Para Knee Guards"
+
+[PA_Male Default Knee Guards X2BodyPartTemplate]
+DisplayName="Default Knee Guards"
+
+[PA_Male Gungnir Knee Guards X2BodyPartTemplate]
+DisplayName="Gungnir Knee Guards"
+
+[PA_Male Grenadier Knee Guards X2BodyPartTemplate]
+DisplayName="Grenadier Knee Guards"
+
+[PA_Male Grenadier Knee Guards_1 X2BodyPartTemplate]
+DisplayName="Heavy Grenadier Knee Guards [1]"
+[PA_Male Grenadier Knee Guards_2 X2BodyPartTemplate]
+DisplayName="Heavy Grenadier Knee Guards [2]"
+
+;HEAVY POWERED
+
+[HPW_Male FJ/Para Knee Guards X2BodyPartTemplate]
+DisplayName="FJ/Para Knee Guards"
+
+[HPW_Male Default Knee Guards X2BodyPartTemplate]
+DisplayName="Default Knee Guards"
+
+[HPW_Male Gungnir Knee Guards X2BodyPartTemplate]
+DisplayName="Gungnir Knee Guards"
+
+[HPW_Male Grenadier Knee Guards X2BodyPartTemplate]
+DisplayName="Grenadier Knee Guards"
+
+[HPW_Male Grenadier Knee Guards_1 X2BodyPartTemplate]
+DisplayName="Heavy Grenadier Knee Guards [1]"
+[HPW_Male Grenadier Knee Guards_2 X2BodyPartTemplate]
+DisplayName="Heavy Grenadier Knee Guards [2]"
+
+;Female Arms
+
+[ARM_F_Default X2BodyPartTemplate]
+DisplayName="Default"
+
+[ARM_F_Robotic X2BodyPartTemplate]
+DisplayName="Robotic"
+
+;LIGHT PLATED
+
+[LP_ARM_F_Default X2BodyPartTemplate]
+DisplayName="Default"
+
+[LP_ARM_F_Robotic X2BodyPartTemplate]
+DisplayName="Robotic"
+
+;PLATED
+
+[PL_ARM_F_Default X2BodyPartTemplate]
+DisplayName="Default"
+
+[PL_ARM_F_Robotic X2BodyPartTemplate]
+DisplayName="Robotic"
+
+;HEAVY PLATED
+
+[HP_ARM_F_Default X2BodyPartTemplate]
+DisplayName="Default"
+
+[HP_ARM_F_Robotic X2BodyPartTemplate]
+DisplayName="Robotic"
+
+;LIGHT POWERED
+
+[LPW_ARM_F_Default X2BodyPartTemplate]
+DisplayName="Default"
+
+[LPW_ARM_F_Robotic X2BodyPartTemplate]
+DisplayName="Robotic"
+
+;POWERED
+
+[PA_ARM_F_Default X2BodyPartTemplate]
+DisplayName="Default"
+
+[PA_ARM_F_Robotic X2BodyPartTemplate]
+DisplayName="Robotic"
+
+;HEAVY POWERED
+
+[HPW_ARM_F_Default X2BodyPartTemplate]
+DisplayName="Default"
+
+[HPW_ARM_F_Robotic X2BodyPartTemplate]
+DisplayName="Robotic"
+
+;Male Arms
+
+[ARM_M_Default X2BodyPartTemplate]
+DisplayName="Default"
+
+[ARM_M_DefaultR X2BodyPartTemplate]
+DisplayName="Robotic"
+
+;LIGHT PLATED
+
+[LP_ARM_M_Default X2BodyPartTemplate]
+DisplayName="Default"
+
+[LP_ARM_M_DefaultR X2BodyPartTemplate]
+DisplayName="Robotic"
+
+;PLATED
+
+[PL_ARM_M_Default X2BodyPartTemplate]
+DisplayName="Default"
+
+[PL_ARM_M_DefaultR X2BodyPartTemplate]
+DisplayName="Robotic"
+
+;HEAVY PLATED
+
+[HP_ARM_M_Default X2BodyPartTemplate]
+DisplayName="Default"
+
+[HP_ARM_M_DefaultR X2BodyPartTemplate]
+DisplayName="Robotic"
+
+;LIGHT POWERED
+
+[LPW_ARM_M_Default X2BodyPartTemplate]
+DisplayName="Default"
+
+[LPW_ARM_M_DefaultR X2BodyPartTemplate]
+DisplayName="Robotic"
+
+;POWERED
+
+[PA_ARM_M_Default X2BodyPartTemplate]
+DisplayName="Default"
+
+[PA_ARM_M_DefaultR X2BodyPartTemplate]
+DisplayName="Robotic"
+
+;HEAVY POWERED
+
+[HPW_ARM_M_Default X2BodyPartTemplate]
+DisplayName="Default"
+
+[HPW_ARM_M_DefaultR X2BodyPartTemplate]
+DisplayName="Robotic"
+
+;Female Shoulders
+
+[SLD_F_MKV_L X2BodyPartTemplate]
+DisplayName="Mark V"
+[SLD_F_MKV_R X2BodyPartTemplate]
+DisplayName="Mark V"
+
+[SLD_F_EVA_R X2BodyPartTemplate]
+DisplayName="EVA"
+[SLD_F_EVA_L X2BodyPartTemplate]
+DisplayName="EVA"
+
+[SLD_F_EVA_LUnique X2BodyPartTemplate]
+DisplayName="EVA [S]"
+[SLD_F_EVA_RUnique X2BodyPartTemplate]
+DisplayName="EVA [S]"
+
+[DefSLD_F_L X2BodyPartTemplate]
+DisplayName="Default"
+[DefSLD_F_R X2BodyPartTemplate]
+DisplayName="Default"
+
+[SLD_F_UAMT_R X2BodyPartTemplate]
+DisplayName="UA/Multi-Threat"
+[SLD_F_UAMT_L X2BodyPartTemplate]
+DisplayName="UA/Multi-Threat"
+
+[SLD_F_DefaultR_R X2BodyPartTemplate]
+DisplayName="Robotic Arm (Default Pauldron)"
+[SLD_F_FJParaR_R X2BodyPartTemplate]
+DisplayName="Robotic Arm (FJ/Para Pauldron)"
+
+[SLD_F_Sec_L X2BodyPartTemplate]
+DisplayName="Security"
+[SLD_F_Sec_R X2BodyPartTemplate]
+DisplayName="Security"
+[SLD_F_SecK_R X2BodyPartTemplate]
+DisplayName="Security (Kukri Knife)"
+
+[SLD_F_ODST_L X2BodyPartTemplate]
+DisplayName="ODST"
+[SLD_F_ODST_R X2BodyPartTemplate]
+DisplayName="ODST"
+[SLD_F_HODST_A_L X2BodyPartTemplate]
+DisplayName="ODST [AS/R]"
+[SLD_F_HODST_A_R X2BodyPartTemplate]
+DisplayName="ODST [AS/R]"
+[SLD_F_HODST_B_L X2BodyPartTemplate]
+DisplayName="ODST [SR]"
+[SLD_F_HODST_B_R X2BodyPartTemplate]
+DisplayName="ODST [SR]"
+
+[SLD_F_UABaseSec_L X2BodyPartTemplate]
+DisplayName="UA/Base-Security"
+[SLD_F_UABaseSec_R X2BodyPartTemplate]
+DisplayName="UA/Base-Security
+
+[SLD_F_Gungnir_L X2BodyPartTemplate]
+DisplayName="Gungnir"
+[SLD_F_Gungnir_R X2BodyPartTemplate]
+DisplayName="Gungnir"
+
+[SLD_F_Grenadier_L X2BodyPartTemplate]
+DisplayName="Grenadier"
+[SLD_F_Grenadier_R X2BodyPartTemplate]
+DisplayName="Grenadier"
+
+[SLD_F_Jumpjet_L X2BodyPartTemplate]
+DisplayName="Jumpjet"
+[SLD_F_Jumpjet_R X2BodyPartTemplate]
+DisplayName="Jumpjet"
+
+[SLD_F_JFO_L X2BodyPartTemplate]
+DisplayName="JFO"
+[SLD_F_JFO_R X2BodyPartTemplate]
+DisplayName="JFO"
+
+[SLD_F_CMND_L X2BodyPartTemplate]
+DisplayName="Commando"
+[SLD_F_CMND_R X2BodyPartTemplate]
+DisplayName="Commando"
+
+[SLD_F_CQC_L X2BodyPartTemplate]
+DisplayName="CQC"
+[SLD_F_CQC_R X2BodyPartTemplate]
+DisplayName="CQC"
+
+[SLD_F_Sniper_L X2BodyPartTemplate]
+DisplayName="Sniper"
+[SLD_F_Sniper_R X2BodyPartTemplate]
+DisplayName="Sniper"
+
+[SLD_F_Recon_L X2BodyPartTemplate]
+DisplayName="Recon"
+[SLD_F_Recon_R X2BodyPartTemplate]
+DisplayName="Recon"
+
+[SLD_F_FJPara_L X2BodyPartTemplate]
+DisplayName="FJPara"
+[SLD_F_FJPara_R X2BodyPartTemplate]
+DisplayName="FJPara"
+
+[SLD_F_Hazop_L X2BodyPartTemplate]
+DisplayName="Hazop"
+[SLD_F_Hazop_R X2BodyPartTemplate]
+DisplayName="Hazop"
+
+[SLD_F_Operator_L X2BodyPartTemplate]
+DisplayName="Operator"
+[SLD_F_Operator_R X2BodyPartTemplate]
+DisplayName="Operator"
+
+;LIGHT PLATED
+
+[LP_SLD_F_MKV_L X2BodyPartTemplate]
+DisplayName="Mark V"
+[LP_SLD_F_MKV_R X2BodyPartTemplate]
+DisplayName="Mark V"
+
+[LP_SLD_F_EVA_R X2BodyPartTemplate]
+DisplayName="EVA"
+[LP_SLD_F_EVA_L X2BodyPartTemplate]
+DisplayName="EVA"
+
+[LP_SLD_F_EVA_LUnique X2BodyPartTemplate]
+DisplayName="EVA [S]"
+[LP_SLD_F_EVA_RUnique X2BodyPartTemplate]
+DisplayName="EVA [S]"
+
+[LP_DefSLD_F_L X2BodyPartTemplate]
+DisplayName="Default"
+[LP_DefSLD_F_R X2BodyPartTemplate]
+DisplayName="Default"
+
+[LP_SLD_F_UAMT_R X2BodyPartTemplate]
+DisplayName="UA/Multi-Threat"
+[LP_SLD_F_UAMT_L X2BodyPartTemplate]
+DisplayName="UA/Multi-Threat"
+
+[LP_SLD_F_DefaultR_R X2BodyPartTemplate]
+DisplayName="Robotic Arm (Default Pauldron)"
+[LP_SLD_F_FJParaR_R X2BodyPartTemplate]
+DisplayName="Robotic Arm (FJ/Para Pauldron)"
+
+[LP_SLD_F_Sec_L X2BodyPartTemplate]
+DisplayName="Security"
+[LP_SLD_F_Sec_R X2BodyPartTemplate]
+DisplayName="Security"
+[LP_SLD_F_SecK_R X2BodyPartTemplate]
+DisplayName="Security (Kukri Knife)"
+
+[LP_SLD_F_ODST_L X2BodyPartTemplate]
+DisplayName="ODST"
+[LP_SLD_F_ODST_R X2BodyPartTemplate]
+DisplayName="ODST"
+[LP_SLD_F_HODST_A_L X2BodyPartTemplate]
+DisplayName="ODST [AS/R]"
+[LP_SLD_F_HODST_A_R X2BodyPartTemplate]
+DisplayName="ODST [AS/R]"
+[LP_SLD_F_HODST_B_L X2BodyPartTemplate]
+DisplayName="ODST [SR]"
+[LP_SLD_F_HODST_B_R X2BodyPartTemplate]
+DisplayName="ODST [SR]"
+
+[LP_SLD_F_UABaseSec_L X2BodyPartTemplate]
+DisplayName="UA/Base-Security"
+[LP_SLD_F_UABaseSec_R X2BodyPartTemplate]
+DisplayName="UA/Base-Security
+
+[LP_SLD_F_Gungnir_L X2BodyPartTemplate]
+DisplayName="Gungnir"
+[LP_SLD_F_Gungnir_R X2BodyPartTemplate]
+DisplayName="Gungnir"
+
+[LP_SLD_F_Grenadier_L X2BodyPartTemplate]
+DisplayName="Grenadier"
+[LP_SLD_F_Grenadier_R X2BodyPartTemplate]
+DisplayName="Grenadier"
+
+[LP_SLD_F_Jumpjet_L X2BodyPartTemplate]
+DisplayName="Jumpjet"
+[LP_SLD_F_Jumpjet_R X2BodyPartTemplate]
+DisplayName="Jumpjet"
+
+[LP_SLD_F_JFO_L X2BodyPartTemplate]
+DisplayName="JFO"
+[LP_SLD_F_JFO_R X2BodyPartTemplate]
+DisplayName="JFO"
+
+[LP_SLD_F_CMND_L X2BodyPartTemplate]
+DisplayName="Commando"
+[LP_SLD_F_CMND_R X2BodyPartTemplate]
+DisplayName="Commando"
+
+[LP_SLD_F_CQC_L X2BodyPartTemplate]
+DisplayName="CQC"
+[LP_SLD_F_CQC_R X2BodyPartTemplate]
+DisplayName="CQC"
+
+[LP_SLD_F_Sniper_L X2BodyPartTemplate]
+DisplayName="Sniper"
+[LP_SLD_F_Sniper_R X2BodyPartTemplate]
+DisplayName="Sniper"
+
+[LP_SLD_F_Recon_L X2BodyPartTemplate]
+DisplayName="Recon"
+[LP_SLD_F_Recon_R X2BodyPartTemplate]
+DisplayName="Recon"
+
+[LP_SLD_F_FJPara_L X2BodyPartTemplate]
+DisplayName="FJPara"
+[LP_SLD_F_FJPara_R X2BodyPartTemplate]
+DisplayName="FJPara"
+
+[LP_SLD_F_Hazop_L X2BodyPartTemplate]
+DisplayName="Hazop"
+[LP_SLD_F_Hazop_R X2BodyPartTemplate]
+DisplayName="Hazop"
+
+[LP_SLD_F_Operator_L X2BodyPartTemplate]
+DisplayName="Operator"
+[LP_SLD_F_Operator_R X2BodyPartTemplate]
+DisplayName="Operator"
+
+;PLATED
+
+[PL_SLD_F_MKV_L X2BodyPartTemplate]
+DisplayName="Mark V"
+[PL_SLD_F_MKV_R X2BodyPartTemplate]
+DisplayName="Mark V"
+
+[PL_SLD_F_EVA_R X2BodyPartTemplate]
+DisplayName="EVA"
+[PL_SLD_F_EVA_L X2BodyPartTemplate]
+DisplayName="EVA"
+
+[PL_SLD_F_EVA_LUnique X2BodyPartTemplate]
+DisplayName="EVA [S]"
+[PL_SLD_F_EVA_RUnique X2BodyPartTemplate]
+DisplayName="EVA [S]"
+
+[PL_DefSLD_F_L X2BodyPartTemplate]
+DisplayName="Default"
+[PL_DefSLD_F_R X2BodyPartTemplate]
+DisplayName="Default"
+
+[PL_SLD_F_UAMT_R X2BodyPartTemplate]
+DisplayName="UA/Multi-Threat"
+[PL_SLD_F_UAMT_L X2BodyPartTemplate]
+DisplayName="UA/Multi-Threat"
+
+[PL_SLD_F_DefaultR_R X2BodyPartTemplate]
+DisplayName="Robotic Arm (Default Pauldron)"
+[PL_SLD_F_FJParaR_R X2BodyPartTemplate]
+DisplayName="Robotic Arm (FJ/Para Pauldron)"
+
+[PL_SLD_F_Sec_L X2BodyPartTemplate]
+DisplayName="Security"
+[PL_SLD_F_Sec_R X2BodyPartTemplate]
+DisplayName="Security"
+[PL_SLD_F_SecK_R X2BodyPartTemplate]
+DisplayName="Security (Kukri Knife)"
+
+[PL_SLD_F_ODST_L X2BodyPartTemplate]
+DisplayName="ODST"
+[PL_SLD_F_ODST_R X2BodyPartTemplate]
+DisplayName="ODST"
+[PL_SLD_F_HODST_A_L X2BodyPartTemplate]
+DisplayName="ODST [AS/R]"
+[PL_SLD_F_HODST_A_R X2BodyPartTemplate]
+DisplayName="ODST [AS/R]"
+[PL_SLD_F_HODST_B_L X2BodyPartTemplate]
+DisplayName="ODST [SR]"
+[PL_SLD_F_HODST_B_R X2BodyPartTemplate]
+DisplayName="ODST [SR]"
+
+[PL_SLD_F_UABaseSec_L X2BodyPartTemplate]
+DisplayName="UA/Base-Security"
+[PL_SLD_F_UABaseSec_R X2BodyPartTemplate]
+DisplayName="UA/Base-Security
+
+[PL_SLD_F_Gungnir_L X2BodyPartTemplate]
+DisplayName="Gungnir"
+[PL_SLD_F_Gungnir_R X2BodyPartTemplate]
+DisplayName="Gungnir"
+
+[PL_SLD_F_Grenadier_L X2BodyPartTemplate]
+DisplayName="Grenadier"
+[PL_SLD_F_Grenadier_R X2BodyPartTemplate]
+DisplayName="Grenadier"
+
+[PL_SLD_F_Jumpjet_L X2BodyPartTemplate]
+DisplayName="Jumpjet"
+[PL_SLD_F_Jumpjet_R X2BodyPartTemplate]
+DisplayName="Jumpjet"
+
+[PL_SLD_F_JFO_L X2BodyPartTemplate]
+DisplayName="JFO"
+[PL_SLD_F_JFO_R X2BodyPartTemplate]
+DisplayName="JFO"
+
+[PL_SLD_F_CMND_L X2BodyPartTemplate]
+DisplayName="Commando"
+[PL_SLD_F_CMND_R X2BodyPartTemplate]
+DisplayName="Commando"
+
+[PL_SLD_F_CQC_L X2BodyPartTemplate]
+DisplayName="CQC"
+[PL_SLD_F_CQC_R X2BodyPartTemplate]
+DisplayName="CQC"
+
+[PL_SLD_F_Sniper_L X2BodyPartTemplate]
+DisplayName="Sniper"
+[PL_SLD_F_Sniper_R X2BodyPartTemplate]
+DisplayName="Sniper"
+
+[PL_SLD_F_Recon_L X2BodyPartTemplate]
+DisplayName="Recon"
+[PL_SLD_F_Recon_R X2BodyPartTemplate]
+DisplayName="Recon"
+
+[PL_SLD_F_FJPara_L X2BodyPartTemplate]
+DisplayName="FJPara"
+[PL_SLD_F_FJPara_R X2BodyPartTemplate]
+DisplayName="FJPara"
+
+[PL_SLD_F_Hazop_L X2BodyPartTemplate]
+DisplayName="Hazop"
+[PL_SLD_F_Hazop_R X2BodyPartTemplate]
+DisplayName="Hazop"
+
+[PL_SLD_F_Operator_L X2BodyPartTemplate]
+DisplayName="Operator"
+[PL_SLD_F_Operator_R X2BodyPartTemplate]
+DisplayName="Operator"
+
+;HEAVY PLATED
+
+[HP_SLD_F_MKV_L X2BodyPartTemplate]
+DisplayName="Mark V"
+[HP_SLD_F_MKV_R X2BodyPartTemplate]
+DisplayName="Mark V"
+
+[HP_SLD_F_EVA_R X2BodyPartTemplate]
+DisplayName="EVA"
+[HP_SLD_F_EVA_L X2BodyPartTemplate]
+DisplayName="EVA"
+
+[HP_SLD_F_EVA_LUnique X2BodyPartTemplate]
+DisplayName="EVA [S]"
+[HP_SLD_F_EVA_RUnique X2BodyPartTemplate]
+DisplayName="EVA [S]"
+
+[HP_DefSLD_F_L X2BodyPartTemplate]
+DisplayName="Default"
+[HP_DefSLD_F_R X2BodyPartTemplate]
+DisplayName="Default"
+
+[HP_SLD_F_UAMT_R X2BodyPartTemplate]
+DisplayName="UA/Multi-Threat"
+[HP_SLD_F_UAMT_L X2BodyPartTemplate]
+DisplayName="UA/Multi-Threat"
+
+[HP_SLD_F_DefaultR_R X2BodyPartTemplate]
+DisplayName="Robotic Arm (Default Pauldron)"
+[HP_SLD_F_FJParaR_R X2BodyPartTemplate]
+DisplayName="Robotic Arm (FJ/Para Pauldron)"
+
+[HP_SLD_F_Sec_L X2BodyPartTemplate]
+DisplayName="Security"
+[HP_SLD_F_Sec_R X2BodyPartTemplate]
+DisplayName="Security"
+[HP_SLD_F_SecK_R X2BodyPartTemplate]
+DisplayName="Security (Kukri Knife)"
+
+[HP_SLD_F_ODST_L X2BodyPartTemplate]
+DisplayName="ODST"
+[HP_SLD_F_ODST_R X2BodyPartTemplate]
+DisplayName="ODST"
+[HP_SLD_F_HODST_A_L X2BodyPartTemplate]
+DisplayName="ODST [AS/R]"
+[HP_SLD_F_HODST_A_R X2BodyPartTemplate]
+DisplayName="ODST [AS/R]"
+[HP_SLD_F_HODST_B_L X2BodyPartTemplate]
+DisplayName="ODST [SR]"
+[HP_SLD_F_HODST_B_R X2BodyPartTemplate]
+DisplayName="ODST [SR]"
+
+[HP_SLD_F_UABaseSec_L X2BodyPartTemplate]
+DisplayName="UA/Base-Security"
+[HP_SLD_F_UABaseSec_R X2BodyPartTemplate]
+DisplayName="UA/Base-Security
+
+[HP_SLD_F_Gungnir_L X2BodyPartTemplate]
+DisplayName="Gungnir"
+[HP_SLD_F_Gungnir_R X2BodyPartTemplate]
+DisplayName="Gungnir"
+
+[HP_SLD_F_Grenadier_L X2BodyPartTemplate]
+DisplayName="Grenadier"
+[HP_SLD_F_Grenadier_R X2BodyPartTemplate]
+DisplayName="Grenadier"
+
+[HP_SLD_F_Jumpjet_L X2BodyPartTemplate]
+DisplayName="Jumpjet"
+[HP_SLD_F_Jumpjet_R X2BodyPartTemplate]
+DisplayName="Jumpjet"
+
+[HP_SLD_F_JFO_L X2BodyPartTemplate]
+DisplayName="JFO"
+[HP_SLD_F_JFO_R X2BodyPartTemplate]
+DisplayName="JFO"
+
+[HP_SLD_F_CMND_L X2BodyPartTemplate]
+DisplayName="Commando"
+[HP_SLD_F_CMND_R X2BodyPartTemplate]
+DisplayName="Commando"
+
+[HP_SLD_F_CQC_L X2BodyPartTemplate]
+DisplayName="CQC"
+[HP_SLD_F_CQC_R X2BodyPartTemplate]
+DisplayName="CQC"
+
+[HP_SLD_F_Sniper_L X2BodyPartTemplate]
+DisplayName="Sniper"
+[HP_SLD_F_Sniper_R X2BodyPartTemplate]
+DisplayName="Sniper"
+
+[HP_SLD_F_Recon_L X2BodyPartTemplate]
+DisplayName="Recon"
+[HP_SLD_F_Recon_R X2BodyPartTemplate]
+DisplayName="Recon"
+
+[HP_SLD_F_FJPara_L X2BodyPartTemplate]
+DisplayName="FJPara"
+[HP_SLD_F_FJPara_R X2BodyPartTemplate]
+DisplayName="FJPara"
+
+[HP_SLD_F_Hazop_L X2BodyPartTemplate]
+DisplayName="Hazop"
+[HP_SLD_F_Hazop_R X2BodyPartTemplate]
+DisplayName="Hazop"
+
+[HP_SLD_F_Operator_L X2BodyPartTemplate]
+DisplayName="Operator"
+[HP_SLD_F_Operator_R X2BodyPartTemplate]
+DisplayName="Operator"
+
+;LIGHT PLATED
+
+[LPW_SLD_F_MKV_L X2BodyPartTemplate]
+DisplayName="Mark V"
+[LPW_SLD_F_MKV_R X2BodyPartTemplate]
+DisplayName="Mark V"
+
+[LPW_SLD_F_EVA_R X2BodyPartTemplate]
+DisplayName="EVA"
+[LPW_SLD_F_EVA_L X2BodyPartTemplate]
+DisplayName="EVA"
+
+[LPW_SLD_F_EVA_LUnique X2BodyPartTemplate]
+DisplayName="EVA [S]"
+[LPW_SLD_F_EVA_RUnique X2BodyPartTemplate]
+DisplayName="EVA [S]"
+
+[LPW_DefSLD_F_L X2BodyPartTemplate]
+DisplayName="Default"
+[LPW_DefSLD_F_R X2BodyPartTemplate]
+DisplayName="Default"
+
+[LPW_SLD_F_UAMT_R X2BodyPartTemplate]
+DisplayName="UA/Multi-Threat"
+[LPW_SLD_F_UAMT_L X2BodyPartTemplate]
+DisplayName="UA/Multi-Threat"
+
+[LPW_SLD_F_DefaultR_R X2BodyPartTemplate]
+DisplayName="Robotic Arm (Default Pauldron)"
+[LPW_SLD_F_FJParaR_R X2BodyPartTemplate]
+DisplayName="Robotic Arm (FJ/Para Pauldron)"
+
+[LPW_SLD_F_Sec_L X2BodyPartTemplate]
+DisplayName="Security"
+[LPW_SLD_F_Sec_R X2BodyPartTemplate]
+DisplayName="Security"
+[LPW_SLD_F_SecK_R X2BodyPartTemplate]
+DisplayName="Security (Kukri Knife)"
+
+[LPW_SLD_F_ODST_L X2BodyPartTemplate]
+DisplayName="ODST"
+[LPW_SLD_F_ODST_R X2BodyPartTemplate]
+DisplayName="ODST"
+[LPW_SLD_F_HODST_A_L X2BodyPartTemplate]
+DisplayName="ODST [AS/R]"
+[LPW_SLD_F_HODST_A_R X2BodyPartTemplate]
+DisplayName="ODST [AS/R]"
+[LPW_SLD_F_HODST_B_L X2BodyPartTemplate]
+DisplayName="ODST [SR]"
+[LPW_SLD_F_HODST_B_R X2BodyPartTemplate]
+DisplayName="ODST [SR]"
+
+[LPW_SLD_F_UABaseSec_L X2BodyPartTemplate]
+DisplayName="UA/Base-Security"
+[LPW_SLD_F_UABaseSec_R X2BodyPartTemplate]
+DisplayName="UA/Base-Security
+
+[LPW_SLD_F_Gungnir_L X2BodyPartTemplate]
+DisplayName="Gungnir"
+[LPW_SLD_F_Gungnir_R X2BodyPartTemplate]
+DisplayName="Gungnir"
+
+[LPW_SLD_F_Grenadier_L X2BodyPartTemplate]
+DisplayName="Grenadier"
+[LPW_SLD_F_Grenadier_R X2BodyPartTemplate]
+DisplayName="Grenadier"
+
+[LPW_SLD_F_Jumpjet_L X2BodyPartTemplate]
+DisplayName="Jumpjet"
+[LPW_SLD_F_Jumpjet_R X2BodyPartTemplate]
+DisplayName="Jumpjet"
+
+[LPW_SLD_F_JFO_L X2BodyPartTemplate]
+DisplayName="JFO"
+[LPW_SLD_F_JFO_R X2BodyPartTemplate]
+DisplayName="JFO"
+
+[LPW_SLD_F_CMND_L X2BodyPartTemplate]
+DisplayName="Commando"
+[LPW_SLD_F_CMND_R X2BodyPartTemplate]
+DisplayName="Commando"
+
+[LPW_SLD_F_CQC_L X2BodyPartTemplate]
+DisplayName="CQC"
+[LPW_SLD_F_CQC_R X2BodyPartTemplate]
+DisplayName="CQC"
+
+[LPW_SLD_F_Sniper_L X2BodyPartTemplate]
+DisplayName="Sniper"
+[LPW_SLD_F_Sniper_R X2BodyPartTemplate]
+DisplayName="Sniper"
+
+[LPW_SLD_F_Recon_L X2BodyPartTemplate]
+DisplayName="Recon"
+[LPW_SLD_F_Recon_R X2BodyPartTemplate]
+DisplayName="Recon"
+
+[LPW_SLD_F_FJPara_L X2BodyPartTemplate]
+DisplayName="FJPara"
+[LPW_SLD_F_FJPara_R X2BodyPartTemplate]
+DisplayName="FJPara"
+
+[LPW_SLD_F_Hazop_L X2BodyPartTemplate]
+DisplayName="Hazop"
+[LPW_SLD_F_Hazop_R X2BodyPartTemplate]
+DisplayName="Hazop"
+
+[LPW_SLD_F_Operator_L X2BodyPartTemplate]
+DisplayName="Operator"
+[LPW_SLD_F_Operator_R X2BodyPartTemplate]
+DisplayName="Operator"
+
+;POWERED
+
+[PA_SLD_F_MKV_L X2BodyPartTemplate]
+DisplayName="Mark V"
+[PA_SLD_F_MKV_R X2BodyPartTemplate]
+DisplayName="Mark V"
+
+[PA_SLD_F_EVA_R X2BodyPartTemplate]
+DisplayName="EVA"
+[PA_SLD_F_EVA_L X2BodyPartTemplate]
+DisplayName="EVA"
+
+[PA_SLD_F_EVA_LUnique X2BodyPartTemplate]
+DisplayName="EVA [S]"
+[PA_SLD_F_EVA_RUnique X2BodyPartTemplate]
+DisplayName="EVA [S]"
+
+[PA_DefSLD_F_L X2BodyPartTemplate]
+DisplayName="Default"
+[PA_DefSLD_F_R X2BodyPartTemplate]
+DisplayName="Default"
+
+[PA_SLD_F_UAMT_R X2BodyPartTemplate]
+DisplayName="UA/Multi-Threat"
+[PA_SLD_F_UAMT_L X2BodyPartTemplate]
+DisplayName="UA/Multi-Threat"
+
+[PA_SLD_F_DefaultR_R X2BodyPartTemplate]
+DisplayName="Robotic Arm (Default Pauldron)"
+[PA_SLD_F_FJParaR_R X2BodyPartTemplate]
+DisplayName="Robotic Arm (FJ/Para Pauldron)"
+
+[PA_SLD_F_Sec_L X2BodyPartTemplate]
+DisplayName="Security"
+[PA_SLD_F_Sec_R X2BodyPartTemplate]
+DisplayName="Security"
+[PA_SLD_F_SecK_R X2BodyPartTemplate]
+DisplayName="Security (Kukri Knife)"
+
+[PA_SLD_F_ODST_L X2BodyPartTemplate]
+DisplayName="ODST"
+[PA_SLD_F_ODST_R X2BodyPartTemplate]
+DisplayName="ODST"
+[PA_SLD_F_HODST_A_L X2BodyPartTemplate]
+DisplayName="ODST [AS/R]"
+[PA_SLD_F_HODST_A_R X2BodyPartTemplate]
+DisplayName="ODST [AS/R]"
+[PA_SLD_F_HODST_B_L X2BodyPartTemplate]
+DisplayName="ODST [SR]"
+[PA_SLD_F_HODST_B_R X2BodyPartTemplate]
+DisplayName="ODST [SR]"
+
+[PA_SLD_F_UABaseSec_L X2BodyPartTemplate]
+DisplayName="UA/Base-Security"
+[PA_SLD_F_UABaseSec_R X2BodyPartTemplate]
+DisplayName="UA/Base-Security
+
+[PA_SLD_F_Gungnir_L X2BodyPartTemplate]
+DisplayName="Gungnir"
+[PA_SLD_F_Gungnir_R X2BodyPartTemplate]
+DisplayName="Gungnir"
+
+[PA_SLD_F_Grenadier_L X2BodyPartTemplate]
+DisplayName="Grenadier"
+[PA_SLD_F_Grenadier_R X2BodyPartTemplate]
+DisplayName="Grenadier"
+
+[PA_SLD_F_Jumpjet_L X2BodyPartTemplate]
+DisplayName="Jumpjet"
+[PA_SLD_F_Jumpjet_R X2BodyPartTemplate]
+DisplayName="Jumpjet"
+
+[PA_SLD_F_JFO_L X2BodyPartTemplate]
+DisplayName="JFO"
+[PA_SLD_F_JFO_R X2BodyPartTemplate]
+DisplayName="JFO"
+
+[PA_SLD_F_CMND_L X2BodyPartTemplate]
+DisplayName="Commando"
+[PA_SLD_F_CMND_R X2BodyPartTemplate]
+DisplayName="Commando"
+
+[PA_SLD_F_CQC_L X2BodyPartTemplate]
+DisplayName="CQC"
+[PA_SLD_F_CQC_R X2BodyPartTemplate]
+DisplayName="CQC"
+
+[PA_SLD_F_Sniper_L X2BodyPartTemplate]
+DisplayName="Sniper"
+[PA_SLD_F_Sniper_R X2BodyPartTemplate]
+DisplayName="Sniper"
+
+[PA_SLD_F_Recon_L X2BodyPartTemplate]
+DisplayName="Recon"
+[PA_SLD_F_Recon_R X2BodyPartTemplate]
+DisplayName="Recon"
+
+[PA_SLD_F_FJPara_L X2BodyPartTemplate]
+DisplayName="FJPara"
+[PA_SLD_F_FJPara_R X2BodyPartTemplate]
+DisplayName="FJPara"
+
+[PA_SLD_F_Hazop_L X2BodyPartTemplate]
+DisplayName="Hazop"
+[PA_SLD_F_Hazop_R X2BodyPartTemplate]
+DisplayName="Hazop"
+
+[PA_SLD_F_Operator_L X2BodyPartTemplate]
+DisplayName="Operator"
+[PA_SLD_F_Operator_R X2BodyPartTemplate]
+DisplayName="Operator"
+
+;HEAVY POWERED
+
+[HPW_SLD_F_MKV_L X2BodyPartTemplate]
+DisplayName="Mark V"
+[HPW_SLD_F_MKV_R X2BodyPartTemplate]
+DisplayName="Mark V"
+
+[HPW_SLD_F_EVA_R X2BodyPartTemplate]
+DisplayName="EVA"
+[HPW_SLD_F_EVA_L X2BodyPartTemplate]
+DisplayName="EVA"
+
+[HPW_SLD_F_EVA_LUnique X2BodyPartTemplate]
+DisplayName="EVA [S]"
+[HPW_SLD_F_EVA_RUnique X2BodyPartTemplate]
+DisplayName="EVA [S]"
+
+[HPW_DefSLD_F_L X2BodyPartTemplate]
+DisplayName="Default"
+[HPW_DefSLD_F_R X2BodyPartTemplate]
+DisplayName="Default"
+
+[HPW_SLD_F_UAMT_R X2BodyPartTemplate]
+DisplayName="UA/Multi-Threat"
+[HPW_SLD_F_UAMT_L X2BodyPartTemplate]
+DisplayName="UA/Multi-Threat"
+
+[HPW_SLD_F_DefaultR_R X2BodyPartTemplate]
+DisplayName="Robotic Arm (Default Pauldron)"
+[HPW_SLD_F_FJParaR_R X2BodyPartTemplate]
+DisplayName="Robotic Arm (FJ/Para Pauldron)"
+
+[HPW_SLD_F_Sec_L X2BodyPartTemplate]
+DisplayName="Security"
+[HPW_SLD_F_Sec_R X2BodyPartTemplate]
+DisplayName="Security"
+[HPW_SLD_F_SecK_R X2BodyPartTemplate]
+DisplayName="Security (Kukri Knife)"
+
+[HPW_SLD_F_ODST_L X2BodyPartTemplate]
+DisplayName="ODST"
+[HPW_SLD_F_ODST_R X2BodyPartTemplate]
+DisplayName="ODST"
+[HPW_SLD_F_HODST_A_L X2BodyPartTemplate]
+DisplayName="ODST [AS/R]"
+[HPW_SLD_F_HODST_A_R X2BodyPartTemplate]
+DisplayName="ODST [AS/R]"
+[HPW_SLD_F_HODST_B_L X2BodyPartTemplate]
+DisplayName="ODST [SR]"
+[HPW_SLD_F_HODST_B_R X2BodyPartTemplate]
+DisplayName="ODST [SR]"
+
+[HPW_SLD_F_UABaseSec_L X2BodyPartTemplate]
+DisplayName="UA/Base-Security"
+[HPW_SLD_F_UABaseSec_R X2BodyPartTemplate]
+DisplayName="UA/Base-Security
+
+[HPW_SLD_F_Gungnir_L X2BodyPartTemplate]
+DisplayName="Gungnir"
+[HPW_SLD_F_Gungnir_R X2BodyPartTemplate]
+DisplayName="Gungnir"
+
+[HPW_SLD_F_Grenadier_L X2BodyPartTemplate]
+DisplayName="Grenadier"
+[HPW_SLD_F_Grenadier_R X2BodyPartTemplate]
+DisplayName="Grenadier"
+
+[HPW_SLD_F_Jumpjet_L X2BodyPartTemplate]
+DisplayName="Jumpjet"
+[HPW_SLD_F_Jumpjet_R X2BodyPartTemplate]
+DisplayName="Jumpjet"
+
+[HPW_SLD_F_JFO_L X2BodyPartTemplate]
+DisplayName="JFO"
+[HPW_SLD_F_JFO_R X2BodyPartTemplate]
+DisplayName="JFO"
+
+[HPW_SLD_F_CMND_L X2BodyPartTemplate]
+DisplayName="Commando"
+[HPW_SLD_F_CMND_R X2BodyPartTemplate]
+DisplayName="Commando"
+
+[HPW_SLD_F_CQC_L X2BodyPartTemplate]
+DisplayName="CQC"
+[HPW_SLD_F_CQC_R X2BodyPartTemplate]
+DisplayName="CQC"
+
+[HPW_SLD_F_Sniper_L X2BodyPartTemplate]
+DisplayName="Sniper"
+[HPW_SLD_F_Sniper_R X2BodyPartTemplate]
+DisplayName="Sniper"
+
+[HPW_SLD_F_Recon_L X2BodyPartTemplate]
+DisplayName="Recon"
+[HPW_SLD_F_Recon_R X2BodyPartTemplate]
+DisplayName="Recon"
+
+[HPW_SLD_F_FJPara_L X2BodyPartTemplate]
+DisplayName="FJPara"
+[HPW_SLD_F_FJPara_R X2BodyPartTemplate]
+DisplayName="FJPara"
+
+[HPW_SLD_F_Hazop_L X2BodyPartTemplate]
+DisplayName="Hazop"
+[HPW_SLD_F_Hazop_R X2BodyPartTemplate]
+DisplayName="Hazop"
+
+[HPW_SLD_F_Operator_L X2BodyPartTemplate]
+DisplayName="Operator"
+[HPW_SLD_F_Operator_R X2BodyPartTemplate]
+DisplayName="Operator"
+
+;Male Shoulders
+
+[DefSLD_M_L X2BodyPartTemplate]
+DisplayName="Default"
+[DefSLD_M_R X2BodyPartTemplate]
+DisplayName="Default"
+[DefSLDR_M_R X2BodyPartTemplate]
+DisplayName="Default [R]"
+[DefSLDK_M_R X2BodyPartTemplate]
+DisplayName="Default (Knife)"
+
+[SLD_M_MKV_L X2BodyPartTemplate]
+DisplayName="Mark V"
+[SLD_M_MKV_R X2BodyPartTemplate]
+DisplayName="Mark V"
+
+[SLD_M_ODST_L X2BodyPartTemplate]
+DisplayName="ODST"
+[SLD_M_ODST_R X2BodyPartTemplate]
+DisplayName="ODST"
+[SLD_M_HODST_A_L X2BodyPartTemplate]
+DisplayName="ODST [AS/R]"
+[SLD_M_HODST_A_R X2BodyPartTemplate]
+DisplayName="ODST [AS/R]"
+[SLD_M_HODST_B_L X2BodyPartTemplate]
+DisplayName="ODST [SR]"
+[SLD_M_HODST_B_R X2BodyPartTemplate]
+DisplayName="ODST [SR]"
+
+[SLD_M_UAMT_L X2BodyPartTemplate]
+DisplayName="UA/Multi-Threat"
+[SLD_M_UAMT_R X2BodyPartTemplate]
+DisplayName="UA/Multi-Threat"
+
+[SLD_M_EVA_L X2BodyPartTemplate]
+DisplayName="EVA"
+[SLD_M_EVA_R X2BodyPartTemplate]
+DisplayName="EVA"
+
+[SLD_M_EVA_LUnique X2BodyPartTemplate]
+DisplayName="EVA [S]"
+[SLD_M_EVA_RUnique X2BodyPartTemplate]
+DisplayName="EVA [S]"
+
+[SLD_M_Sec_R X2BodyPartTemplate]
+DisplayName="Security"
+[SLD_M_Sec_L X2BodyPartTemplate]
+DisplayName="Security"
+[SLD_M_SecK_R X2BodyPartTemplate]
+DisplayName="Security (Kukri Knife)"
+
+[SLD_M_UABaseSec_L X2BodyPartTemplate]
+DisplayName="UA/Base-Security"
+[SLD_M_UABaseSec_R X2BodyPartTemplate]
+DisplayName="UA/Base-Security
+
+[SLD_M_Gungnir_L X2BodyPartTemplate]
+DisplayName="Gungnir"
+[SLD_M_Gungnir_R X2BodyPartTemplate]
+DisplayName="Gungnir"
+
+[SLD_M_Grenadier_L X2BodyPartTemplate]
+DisplayName="Grenadier"
+[SLD_M_Grenadier_R X2BodyPartTemplate]
+DisplayName="Grenadier"
+
+[SLD_M_Jumpjet_L X2BodyPartTemplate]
+DisplayName="Jumpjet"
+[SLD_M_Jumpjet_R X2BodyPartTemplate]
+DisplayName="Jumpjet"
+
+[SLD_M_JFO_L X2BodyPartTemplate]
+DisplayName="JFO"
+[SLD_M_JFO_R X2BodyPartTemplate]
+DisplayName="JFO"
+
+[SLD_M_CMND_L X2BodyPartTemplate]
+DisplayName="Commando"
+[SLD_M_CMND_R X2BodyPartTemplate]
+DisplayName="Commando"
+
+[SLD_M_CQC_L X2BodyPartTemplate]
+DisplayName="CQC"
+[SLD_M_CQC_R X2BodyPartTemplate]
+DisplayName="CQC"
+
+[SLD_M_Sniper_L X2BodyPartTemplate]
+DisplayName="Sniper"
+[SLD_M_Sniper_R X2BodyPartTemplate]
+DisplayName="Sniper"
+
+[SLD_M_Recon_L X2BodyPartTemplate]
+DisplayName="Recon"
+[SLD_M_Recon_R X2BodyPartTemplate]
+DisplayName="Recon"
+
+[SLD_M_FJPara_L X2BodyPartTemplate]
+DisplayName="FJPara"
+[SLD_M_FJPara_R X2BodyPartTemplate]
+DisplayName="FJPara"
+
+[SLD_M_Hazop_L X2BodyPartTemplate]
+DisplayName="Hazop"
+[SLD_M_Hazop_R X2BodyPartTemplate]
+DisplayName="Hazop"
+
+[SLD_M_Operator_L X2BodyPartTemplate]
+DisplayName="Operator"
+[SLD_M_Operator_R X2BodyPartTemplate]
+DisplayName="Operator"
+
+[SLD_M_EVA_LJoshua X2BodyPartTemplate]
+DisplayName="EVA [J]"
+[SLD_M_EVA_RJoshua X2BodyPartTemplate]
+DisplayName="EVA [J]"
+
+[SLD_M_Jun_L X2BodyPartTemplate]
+DisplayName="Sniper [J]"
+
+[SLD_M_Emile_R X2BodyPartTemplate]
+DisplayName="Security [E]"
+
+[SLD_M_GrenadierJ_L X2BodyPartTemplate]
+DisplayName="Grenadier [J]"
+[SLD_M_GrenadierJ_R X2BodyPartTemplate]
+DisplayName="Grenadier [J]"
+
+;LIGHT PLATED
+
+[LP_DefSLD_M_L X2BodyPartTemplate]
+DisplayName="Default"
+[LP_DefSLDR_M_R X2BodyPartTemplate]
+DisplayName="Default [R]"
+[LP_DefSLD_M_R X2BodyPartTemplate]
+DisplayName="Default"
+[LP_DefSLDK_M_R X2BodyPartTemplate]
+DisplayName="Default (Knife)"
+
+[LP_SLD_M_MKV_L X2BodyPartTemplate]
+DisplayName="Mark V"
+[LP_SLD_M_MKV_R X2BodyPartTemplate]
+DisplayName="Mark V"
+
+[LP_SLD_M_ODST_L X2BodyPartTemplate]
+DisplayName="ODST"
+[LP_SLD_M_ODST_R X2BodyPartTemplate]
+DisplayName="ODST"
+[LP_SLD_M_HODST_A_L X2BodyPartTemplate]
+DisplayName="ODST [AS/R]"
+[LP_SLD_M_HODST_A_R X2BodyPartTemplate]
+DisplayName="ODST [AS/R]"
+[LP_SLD_M_HODST_B_L X2BodyPartTemplate]
+DisplayName="ODST [SR]"
+[LP_SLD_M_HODST_B_R X2BodyPartTemplate]
+DisplayName="ODST [SR]"
+
+[LP_SLD_M_UAMT_L X2BodyPartTemplate]
+DisplayName="UA/Multi-Threat"
+[LP_SLD_M_UAMT_R X2BodyPartTemplate]
+DisplayName="UA/Multi-Threat"
+
+[LP_SLD_M_EVA_L X2BodyPartTemplate]
+DisplayName="EVA"
+[LP_SLD_M_EVA_R X2BodyPartTemplate]
+DisplayName="EVA"
+
+[LP_SLD_M_EVA_LUnique X2BodyPartTemplate]
+DisplayName="EVA [S]"
+[LP_SLD_M_EVA_RUnique X2BodyPartTemplate]
+DisplayName="EVA [S]"
+
+[LP_SLD_M_Sec_R X2BodyPartTemplate]
+DisplayName="Security"
+[LP_SLD_M_Sec_L X2BodyPartTemplate]
+DisplayName="Security"
+[LP_SLD_M_SecK_R X2BodyPartTemplate]
+DisplayName="Security (Kukri Knife)"
+
+[LP_SLD_M_UABaseSec_L X2BodyPartTemplate]
+DisplayName="UA/Base-Security"
+[LP_SLD_M_UABaseSec_R X2BodyPartTemplate]
+DisplayName="UA/Base-Security
+
+[LP_SLD_M_Gungnir_L X2BodyPartTemplate]
+DisplayName="Gungnir"
+[LP_SLD_M_Gungnir_R X2BodyPartTemplate]
+DisplayName="Gungnir"
+
+[LP_SLD_M_Grenadier_L X2BodyPartTemplate]
+DisplayName="Grenadier"
+[LP_SLD_M_Grenadier_R X2BodyPartTemplate]
+DisplayName="Grenadier"
+
+[LP_SLD_M_Jumpjet_L X2BodyPartTemplate]
+DisplayName="Jumpjet"
+[LP_SLD_M_Jumpjet_R X2BodyPartTemplate]
+DisplayName="Jumpjet"
+
+[LP_SLD_M_JFO_L X2BodyPartTemplate]
+DisplayName="JFO"
+[LP_SLD_M_JFO_R X2BodyPartTemplate]
+DisplayName="JFO"
+
+[LP_SLD_M_CMND_L X2BodyPartTemplate]
+DisplayName="Commando"
+[LP_SLD_M_CMND_R X2BodyPartTemplate]
+DisplayName="Commando"
+
+[LP_SLD_M_CQC_L X2BodyPartTemplate]
+DisplayName="CQC"
+[LP_SLD_M_CQC_R X2BodyPartTemplate]
+DisplayName="CQC"
+
+[LP_SLD_M_Sniper_L X2BodyPartTemplate]
+DisplayName="Sniper"
+[LP_SLD_M_Sniper_R X2BodyPartTemplate]
+DisplayName="Sniper"
+
+[LP_SLD_M_Recon_L X2BodyPartTemplate]
+DisplayName="Recon"
+[LP_SLD_M_Recon_R X2BodyPartTemplate]
+DisplayName="Recon"
+
+[LP_SLD_M_FJPara_L X2BodyPartTemplate]
+DisplayName="FJPara"
+[LP_SLD_M_FJPara_R X2BodyPartTemplate]
+DisplayName="FJPara"
+
+[LP_SLD_M_Hazop_L X2BodyPartTemplate]
+DisplayName="Hazop"
+[LP_SLD_M_Hazop_R X2BodyPartTemplate]
+DisplayName="Hazop"
+
+[LP_SLD_M_Operator_L X2BodyPartTemplate]
+DisplayName="Operator"
+[LP_SLD_M_Operator_R X2BodyPartTemplate]
+DisplayName="Operator"
+
+[LP_SLD_M_EVA_LJoshua X2BodyPartTemplate]
+DisplayName="EVA [J]"
+[LP_SLD_M_EVA_RJoshua X2BodyPartTemplate]
+DisplayName="EVA [J]"
+
+[LP_SLD_M_Jun_L X2BodyPartTemplate]
+DisplayName="Sniper [J]"
+
+[LP_SLD_M_Emile_R X2BodyPartTemplate]
+DisplayName="Security [E]"
+
+[LP_SLD_M_GrenadierJ_L X2BodyPartTemplate]
+DisplayName="Grenadier [J]"
+[LP_SLD_M_GrenadierJ_R X2BodyPartTemplate]
+DisplayName="Grenadier [J]"
+
+;PLATED
+
+[PL_DefSLD_M_L X2BodyPartTemplate]
+DisplayName="Default"
+[PL_DefSLDR_M_R X2BodyPartTemplate]
+DisplayName="Default [R]"
+[PL_DefSLD_M_R X2BodyPartTemplate]
+DisplayName="Default"
+[PL_DefSLDK_M_R X2BodyPartTemplate]
+DisplayName="Default (Knife)"
+
+[PL_SLD_M_MKV_L X2BodyPartTemplate]
+DisplayName="Mark V"
+[PL_SLD_M_MKV_R X2BodyPartTemplate]
+DisplayName="Mark V"
+
+[PL_SLD_M_ODST_L X2BodyPartTemplate]
+DisplayName="ODST"
+[PL_SLD_M_ODST_R X2BodyPartTemplate]
+DisplayName="ODST"
+[PL_SLD_M_HODST_A_L X2BodyPartTemplate]
+DisplayName="ODST [AS/R]"
+[PL_SLD_M_HODST_A_R X2BodyPartTemplate]
+DisplayName="ODST [AS/R]"
+[PL_SLD_M_HODST_B_L X2BodyPartTemplate]
+DisplayName="ODST [SR]"
+[PL_SLD_M_HODST_B_R X2BodyPartTemplate]
+DisplayName="ODST [SR]"
+
+[PL_SLD_M_UAMT_L X2BodyPartTemplate]
+DisplayName="UA/Multi-Threat"
+[PL_SLD_M_UAMT_R X2BodyPartTemplate]
+DisplayName="UA/Multi-Threat"
+
+[PL_SLD_M_EVA_L X2BodyPartTemplate]
+DisplayName="EVA"
+[PL_SLD_M_EVA_R X2BodyPartTemplate]
+DisplayName="EVA"
+
+[PL_SLD_M_EVA_LUnique X2BodyPartTemplate]
+DisplayName="EVA [S]"
+[PL_SLD_M_EVA_RUnique X2BodyPartTemplate]
+DisplayName="EVA [S]"
+
+[PL_SLD_M_Sec_R X2BodyPartTemplate]
+DisplayName="Security"
+[PL_SLD_M_Sec_L X2BodyPartTemplate]
+DisplayName="Security"
+[PL_SLD_M_SecK_R X2BodyPartTemplate]
+DisplayName="Security (Kukri Knife)"
+
+[PL_SLD_M_UABaseSec_L X2BodyPartTemplate]
+DisplayName="UA/Base-Security"
+[PL_SLD_M_UABaseSec_R X2BodyPartTemplate]
+DisplayName="UA/Base-Security
+
+[PL_SLD_M_Gungnir_L X2BodyPartTemplate]
+DisplayName="Gungnir"
+[PL_SLD_M_Gungnir_R X2BodyPartTemplate]
+DisplayName="Gungnir"
+
+[PL_SLD_M_Grenadier_L X2BodyPartTemplate]
+DisplayName="Grenadier"
+[PL_SLD_M_Grenadier_R X2BodyPartTemplate]
+DisplayName="Grenadier"
+
+[PL_SLD_M_Jumpjet_L X2BodyPartTemplate]
+DisplayName="Jumpjet"
+[PL_SLD_M_Jumpjet_R X2BodyPartTemplate]
+DisplayName="Jumpjet"
+
+[PL_SLD_M_JFO_L X2BodyPartTemplate]
+DisplayName="JFO"
+[PL_SLD_M_JFO_R X2BodyPartTemplate]
+DisplayName="JFO"
+
+[PL_SLD_M_CMND_L X2BodyPartTemplate]
+DisplayName="Commando"
+[PL_SLD_M_CMND_R X2BodyPartTemplate]
+DisplayName="Commando"
+
+[PL_SLD_M_CQC_L X2BodyPartTemplate]
+DisplayName="CQC"
+[PL_SLD_M_CQC_R X2BodyPartTemplate]
+DisplayName="CQC"
+
+[PL_SLD_M_Sniper_L X2BodyPartTemplate]
+DisplayName="Sniper"
+[PL_SLD_M_Sniper_R X2BodyPartTemplate]
+DisplayName="Sniper"
+
+[PL_SLD_M_Recon_L X2BodyPartTemplate]
+DisplayName="Recon"
+[PL_SLD_M_Recon_R X2BodyPartTemplate]
+DisplayName="Recon"
+
+[PL_SLD_M_FJPara_L X2BodyPartTemplate]
+DisplayName="FJPara"
+[PL_SLD_M_FJPara_R X2BodyPartTemplate]
+DisplayName="FJPara"
+
+[PL_SLD_M_Hazop_L X2BodyPartTemplate]
+DisplayName="Hazop"
+[PL_SLD_M_Hazop_R X2BodyPartTemplate]
+DisplayName="Hazop"
+
+[PL_SLD_M_Operator_L X2BodyPartTemplate]
+DisplayName="Operator"
+[PL_SLD_M_Operator_R X2BodyPartTemplate]
+DisplayName="Operator"
+
+[PL_SLD_M_EVA_LJoshua X2BodyPartTemplate]
+DisplayName="EVA [J]"
+[PL_SLD_M_EVA_RJoshua X2BodyPartTemplate]
+DisplayName="EVA [J]"
+
+[PL_SLD_M_Jun_L X2BodyPartTemplate]
+DisplayName="Sniper [J]"
+
+[PL_SLD_M_Emile_R X2BodyPartTemplate]
+DisplayName="Security [E]"
+
+[PL_SLD_M_GrenadierJ_L X2BodyPartTemplate]
+DisplayName="Grenadier [J]"
+[PL_SLD_M_GrenadierJ_R X2BodyPartTemplate]
+DisplayName="Grenadier [J]"
+
+;HEAVY PLATED
+
+[HP_DefSLD_M_L X2BodyPartTemplate]
+DisplayName="Default"
+[HP_DefSLDR_M_R X2BodyPartTemplate]
+DisplayName="Default [R]"
+[HP_DefSLD_M_R X2BodyPartTemplate]
+DisplayName="Default"
+[HP_DefSLDK_M_R X2BodyPartTemplate]
+DisplayName="Default (Knife)"
+
+[HP_SLD_M_MKV_L X2BodyPartTemplate]
+DisplayName="Mark V"
+[HP_SLD_M_MKV_R X2BodyPartTemplate]
+DisplayName="Mark V"
+
+[HP_SLD_M_ODST_L X2BodyPartTemplate]
+DisplayName="ODST"
+[HP_SLD_M_ODST_R X2BodyPartTemplate]
+DisplayName="ODST"
+[HP_SLD_M_HODST_A_L X2BodyPartTemplate]
+DisplayName="ODST [AS/R]"
+[HP_SLD_M_HODST_A_R X2BodyPartTemplate]
+DisplayName="ODST [AS/R]"
+[HP_SLD_M_HODST_B_L X2BodyPartTemplate]
+DisplayName="ODST [SR]"
+[HP_SLD_M_HODST_B_R X2BodyPartTemplate]
+DisplayName="ODST [SR]"
+
+[HP_SLD_M_UAMT_L X2BodyPartTemplate]
+DisplayName="UA/Multi-Threat"
+[HP_SLD_M_UAMT_R X2BodyPartTemplate]
+DisplayName="UA/Multi-Threat"
+
+[HP_SLD_M_EVA_L X2BodyPartTemplate]
+DisplayName="EVA"
+[HP_SLD_M_EVA_R X2BodyPartTemplate]
+DisplayName="EVA"
+
+[HP_SLD_M_EVA_LUnique X2BodyPartTemplate]
+DisplayName="EVA [S]"
+[HP_SLD_M_EVA_RUnique X2BodyPartTemplate]
+DisplayName="EVA [S]"
+
+[HP_SLD_M_Sec_R X2BodyPartTemplate]
+DisplayName="Security"
+[HP_SLD_M_Sec_L X2BodyPartTemplate]
+DisplayName="Security"
+[HP_SLD_M_SecK_R X2BodyPartTemplate]
+DisplayName="Security (Kukri Knife)"
+
+[HP_SLD_M_UABaseSec_L X2BodyPartTemplate]
+DisplayName="UA/Base-Security"
+[HP_SLD_M_UABaseSec_R X2BodyPartTemplate]
+DisplayName="UA/Base-Security
+
+[HP_SLD_M_Gungnir_L X2BodyPartTemplate]
+DisplayName="Gungnir"
+[HP_SLD_M_Gungnir_R X2BodyPartTemplate]
+DisplayName="Gungnir"
+
+[HP_SLD_M_Grenadier_L X2BodyPartTemplate]
+DisplayName="Grenadier"
+[HP_SLD_M_Grenadier_R X2BodyPartTemplate]
+DisplayName="Grenadier"
+
+[HP_SLD_M_Jumpjet_L X2BodyPartTemplate]
+DisplayName="Jumpjet"
+[HP_SLD_M_Jumpjet_R X2BodyPartTemplate]
+DisplayName="Jumpjet"
+
+[HP_SLD_M_JFO_L X2BodyPartTemplate]
+DisplayName="JFO"
+[HP_SLD_M_JFO_R X2BodyPartTemplate]
+DisplayName="JFO"
+
+[HP_SLD_M_CMND_L X2BodyPartTemplate]
+DisplayName="Commando"
+[HP_SLD_M_CMND_R X2BodyPartTemplate]
+DisplayName="Commando"
+
+[HP_SLD_M_CQC_L X2BodyPartTemplate]
+DisplayName="CQC"
+[HP_SLD_M_CQC_R X2BodyPartTemplate]
+DisplayName="CQC"
+
+[HP_SLD_M_Sniper_L X2BodyPartTemplate]
+DisplayName="Sniper"
+[HP_SLD_M_Sniper_R X2BodyPartTemplate]
+DisplayName="Sniper"
+
+[HP_SLD_M_Recon_L X2BodyPartTemplate]
+DisplayName="Recon"
+[HP_SLD_M_Recon_R X2BodyPartTemplate]
+DisplayName="Recon"
+
+[HP_SLD_M_FJPara_L X2BodyPartTemplate]
+DisplayName="FJPara"
+[HP_SLD_M_FJPara_R X2BodyPartTemplate]
+DisplayName="FJPara"
+
+[HP_SLD_M_Hazop_L X2BodyPartTemplate]
+DisplayName="Hazop"
+[HP_SLD_M_Hazop_R X2BodyPartTemplate]
+DisplayName="Hazop"
+
+[HP_SLD_M_Operator_L X2BodyPartTemplate]
+DisplayName="Operator"
+[HP_SLD_M_Operator_R X2BodyPartTemplate]
+DisplayName="Operator"
+
+[HP_SLD_M_EVA_LJoshua X2BodyPartTemplate]
+DisplayName="EVA [J]"
+[HP_SLD_M_EVA_RJoshua X2BodyPartTemplate]
+DisplayName="EVA [J]"
+
+[HP_SLD_M_Jun_L X2BodyPartTemplate]
+DisplayName="Sniper [J]"
+
+[HP_SLD_M_Emile_R X2BodyPartTemplate]
+DisplayName="Security [E]"
+
+[HP_SLD_M_GrenadierJ_L X2BodyPartTemplate]
+DisplayName="Grenadier [J]"
+[HP_SLD_M_GrenadierJ_R X2BodyPartTemplate]
+DisplayName="Grenadier [J]"
+
+;LIGHT POWERED
+
+[LPW_DefSLD_M_L X2BodyPartTemplate]
+DisplayName="Default"
+[LPW_DefSLDR_M_R X2BodyPartTemplate]
+DisplayName="Default [R]"
+[LPW_DefSLD_M_R X2BodyPartTemplate]
+DisplayName="Default"
+[LPW_DefSLDK_M_R X2BodyPartTemplate]
+DisplayName="Default (Knife)"
+
+[LPW_SLD_M_MKV_L X2BodyPartTemplate]
+DisplayName="Mark V"
+[LPW_SLD_M_MKV_R X2BodyPartTemplate]
+DisplayName="Mark V"
+
+[LPW_SLD_M_ODST_L X2BodyPartTemplate]
+DisplayName="ODST"
+[LPW_SLD_M_ODST_R X2BodyPartTemplate]
+DisplayName="ODST"
+[LPW_SLD_M_HODST_A_L X2BodyPartTemplate]
+DisplayName="ODST [AS/R]"
+[LPW_SLD_M_HODST_A_R X2BodyPartTemplate]
+DisplayName="ODST [AS/R]"
+[LPW_SLD_M_HODST_B_L X2BodyPartTemplate]
+DisplayName="ODST [SR]"
+[LPW_SLD_M_HODST_B_R X2BodyPartTemplate]
+DisplayName="ODST [SR]"
+
+[LPW_SLD_M_UAMT_L X2BodyPartTemplate]
+DisplayName="UA/Multi-Threat"
+[LPW_SLD_M_UAMT_R X2BodyPartTemplate]
+DisplayName="UA/Multi-Threat"
+
+[LPW_SLD_M_EVA_L X2BodyPartTemplate]
+DisplayName="EVA"
+[LPW_SLD_M_EVA_R X2BodyPartTemplate]
+DisplayName="EVA"
+
+[LPW_SLD_M_EVA_LUnique X2BodyPartTemplate]
+DisplayName="EVA [S]"
+[LPW_SLD_M_EVA_RUnique X2BodyPartTemplate]
+DisplayName="EVA [S]"
+
+[LPW_SLD_M_Sec_R X2BodyPartTemplate]
+DisplayName="Security"
+[LPW_SLD_M_Sec_L X2BodyPartTemplate]
+DisplayName="Security"
+[LPW_SLD_M_SecK_R X2BodyPartTemplate]
+DisplayName="Security (Kukri Knife)"
+
+[LPW_SLD_M_UABaseSec_L X2BodyPartTemplate]
+DisplayName="UA/Base-Security"
+[LPW_SLD_M_UABaseSec_R X2BodyPartTemplate]
+DisplayName="UA/Base-Security
+
+[LPW_SLD_M_Gungnir_L X2BodyPartTemplate]
+DisplayName="Gungnir"
+[LPW_SLD_M_Gungnir_R X2BodyPartTemplate]
+DisplayName="Gungnir"
+
+[LPW_SLD_M_Grenadier_L X2BodyPartTemplate]
+DisplayName="Grenadier"
+[LPW_SLD_M_Grenadier_R X2BodyPartTemplate]
+DisplayName="Grenadier"
+
+[LPW_SLD_M_Jumpjet_L X2BodyPartTemplate]
+DisplayName="Jumpjet"
+[LPW_SLD_M_Jumpjet_R X2BodyPartTemplate]
+DisplayName="Jumpjet"
+
+[LPW_SLD_M_JFO_L X2BodyPartTemplate]
+DisplayName="JFO"
+[LPW_SLD_M_JFO_R X2BodyPartTemplate]
+DisplayName="JFO"
+
+[LPW_SLD_M_CMND_L X2BodyPartTemplate]
+DisplayName="Commando"
+[LPW_SLD_M_CMND_R X2BodyPartTemplate]
+DisplayName="Commando"
+
+[LPW_SLD_M_CQC_L X2BodyPartTemplate]
+DisplayName="CQC"
+[LPW_SLD_M_CQC_R X2BodyPartTemplate]
+DisplayName="CQC"
+
+[LPW_SLD_M_Sniper_L X2BodyPartTemplate]
+DisplayName="Sniper"
+[LPW_SLD_M_Sniper_R X2BodyPartTemplate]
+DisplayName="Sniper"
+
+[LPW_SLD_M_Recon_L X2BodyPartTemplate]
+DisplayName="Recon"
+[LPW_SLD_M_Recon_R X2BodyPartTemplate]
+DisplayName="Recon"
+
+[LPW_SLD_M_FJPara_L X2BodyPartTemplate]
+DisplayName="FJPara"
+[LPW_SLD_M_FJPara_R X2BodyPartTemplate]
+DisplayName="FJPara"
+
+[LPW_SLD_M_Hazop_L X2BodyPartTemplate]
+DisplayName="Hazop"
+[LPW_SLD_M_Hazop_R X2BodyPartTemplate]
+DisplayName="Hazop"
+
+[LPW_SLD_M_Operator_L X2BodyPartTemplate]
+DisplayName="Operator"
+[LPW_SLD_M_Operator_R X2BodyPartTemplate]
+DisplayName="Operator"
+
+[LPW_SLD_M_EVA_LJoshua X2BodyPartTemplate]
+DisplayName="EVA [J]"
+[LPW_SLD_M_EVA_RJoshua X2BodyPartTemplate]
+DisplayName="EVA [J]"
+
+[LPW_SLD_M_Jun_L X2BodyPartTemplate]
+DisplayName="Sniper [J]"
+
+[LPW_SLD_M_Emile_R X2BodyPartTemplate]
+DisplayName="Security [E]"
+
+[LPW_SLD_M_GrenadierJ_L X2BodyPartTemplate]
+DisplayName="Grenadier [J]"
+[LPW_SLD_M_GrenadierJ_R X2BodyPartTemplate]
+DisplayName="Grenadier [J]"
+
+;POWERED
+
+[PA_DefSLD_M_L X2BodyPartTemplate]
+DisplayName="Default"
+[PA_DefSLDR_M_R X2BodyPartTemplate]
+DisplayName="Default [R]"
+[PA_DefSLD_M_R X2BodyPartTemplate]
+DisplayName="Default"
+[PA_DefSLDK_M_R X2BodyPartTemplate]
+DisplayName="Default (Knife)"
+
+[PA_SLD_M_MKV_L X2BodyPartTemplate]
+DisplayName="Mark V"
+[PA_SLD_M_MKV_R X2BodyPartTemplate]
+DisplayName="Mark V"
+
+[PA_SLD_M_ODST_L X2BodyPartTemplate]
+DisplayName="ODST"
+[PA_SLD_M_ODST_R X2BodyPartTemplate]
+DisplayName="ODST"
+[PA_SLD_M_HODST_A_L X2BodyPartTemplate]
+DisplayName="ODST [AS/R]"
+[PA_SLD_M_HODST_A_R X2BodyPartTemplate]
+DisplayName="ODST [AS/R]"
+[PA_SLD_M_HODST_B_L X2BodyPartTemplate]
+DisplayName="ODST [SR]"
+[PA_SLD_M_HODST_B_R X2BodyPartTemplate]
+DisplayName="ODST [SR]"
+
+[PA_SLD_M_UAMT_L X2BodyPartTemplate]
+DisplayName="UA/Multi-Threat"
+[PA_SLD_M_UAMT_R X2BodyPartTemplate]
+DisplayName="UA/Multi-Threat"
+
+[PA_SLD_M_EVA_L X2BodyPartTemplate]
+DisplayName="EVA"
+[PA_SLD_M_EVA_R X2BodyPartTemplate]
+DisplayName="EVA"
+
+[PA_SLD_M_EVA_LUnique X2BodyPartTemplate]
+DisplayName="EVA [S]"
+[PA_SLD_M_EVA_RUnique X2BodyPartTemplate]
+DisplayName="EVA [S]"
+
+[PA_SLD_M_Sec_R X2BodyPartTemplate]
+DisplayName="Security"
+[PA_SLD_M_Sec_L X2BodyPartTemplate]
+DisplayName="Security"
+[PA_SLD_M_SecK_R X2BodyPartTemplate]
+DisplayName="Security (Kukri Knife)"
+
+[PA_SLD_M_UABaseSec_L X2BodyPartTemplate]
+DisplayName="UA/Base-Security"
+[PA_SLD_M_UABaseSec_R X2BodyPartTemplate]
+DisplayName="UA/Base-Security
+
+[PA_SLD_M_Gungnir_L X2BodyPartTemplate]
+DisplayName="Gungnir"
+[PA_SLD_M_Gungnir_R X2BodyPartTemplate]
+DisplayName="Gungnir"
+
+[PA_SLD_M_Grenadier_L X2BodyPartTemplate]
+DisplayName="Grenadier"
+[PA_SLD_M_Grenadier_R X2BodyPartTemplate]
+DisplayName="Grenadier"
+
+[PA_SLD_M_Jumpjet_L X2BodyPartTemplate]
+DisplayName="Jumpjet"
+[PA_SLD_M_Jumpjet_R X2BodyPartTemplate]
+DisplayName="Jumpjet"
+
+[PA_SLD_M_JFO_L X2BodyPartTemplate]
+DisplayName="JFO"
+[PA_SLD_M_JFO_R X2BodyPartTemplate]
+DisplayName="JFO"
+
+[PA_SLD_M_CMND_L X2BodyPartTemplate]
+DisplayName="Commando"
+[PA_SLD_M_CMND_R X2BodyPartTemplate]
+DisplayName="Commando"
+
+[PA_SLD_M_CQC_L X2BodyPartTemplate]
+DisplayName="CQC"
+[PA_SLD_M_CQC_R X2BodyPartTemplate]
+DisplayName="CQC"
+
+[PA_SLD_M_Sniper_L X2BodyPartTemplate]
+DisplayName="Sniper"
+[PA_SLD_M_Sniper_R X2BodyPartTemplate]
+DisplayName="Sniper"
+
+[PA_SLD_M_Recon_L X2BodyPartTemplate]
+DisplayName="Recon"
+[PA_SLD_M_Recon_R X2BodyPartTemplate]
+DisplayName="Recon"
+
+[PA_SLD_M_FJPara_L X2BodyPartTemplate]
+DisplayName="FJPara"
+[PA_SLD_M_FJPara_R X2BodyPartTemplate]
+DisplayName="FJPara"
+
+[PA_SLD_M_Hazop_L X2BodyPartTemplate]
+DisplayName="Hazop"
+[PA_SLD_M_Hazop_R X2BodyPartTemplate]
+DisplayName="Hazop"
+
+[PA_SLD_M_Operator_L X2BodyPartTemplate]
+DisplayName="Operator"
+[PA_SLD_M_Operator_R X2BodyPartTemplate]
+DisplayName="Operator"
+
+[PA_SLD_M_EVA_LJoshua X2BodyPartTemplate]
+DisplayName="EVA [J]"
+[PA_SLD_M_EVA_RJoshua X2BodyPartTemplate]
+DisplayName="EVA [J]"
+
+[PA_SLD_M_Jun_L X2BodyPartTemplate]
+DisplayName="Sniper [J]"
+
+[PA_SLD_M_Emile_R X2BodyPartTemplate]
+DisplayName="Security [E]"
+
+[PA_SLD_M_GrenadierJ_L X2BodyPartTemplate]
+DisplayName="Grenadier [J]"
+[PA_SLD_M_GrenadierJ_R X2BodyPartTemplate]
+DisplayName="Grenadier [J]"
+
+;HEAVY POWERED
+
+[HPW_DefSLD_M_L X2BodyPartTemplate]
+DisplayName="Default"
+[HPW_DefSLDR_M_R X2BodyPartTemplate]
+DisplayName="Default [R]"
+[HPW_DefSLD_M_R X2BodyPartTemplate]
+DisplayName="Default"
+[HPW_DefSLDK_M_R X2BodyPartTemplate]
+DisplayName="Default (Knife)"
+
+[HPW_SLD_M_MKV_L X2BodyPartTemplate]
+DisplayName="Mark V"
+[HPW_SLD_M_MKV_R X2BodyPartTemplate]
+DisplayName="Mark V"
+
+[HPW_SLD_M_ODST_L X2BodyPartTemplate]
+DisplayName="ODST"
+[HPW_SLD_M_ODST_R X2BodyPartTemplate]
+DisplayName="ODST"
+[HPW_SLD_M_HODST_A_L X2BodyPartTemplate]
+DisplayName="ODST [AS/R]"
+[HPW_SLD_M_HODST_A_R X2BodyPartTemplate]
+DisplayName="ODST [AS/R]"
+[HPW_SLD_M_HODST_B_L X2BodyPartTemplate]
+DisplayName="ODST [SR]"
+[HPW_SLD_M_HODST_B_R X2BodyPartTemplate]
+DisplayName="ODST [SR]"
+
+[HPW_SLD_M_UAMT_L X2BodyPartTemplate]
+DisplayName="UA/Multi-Threat"
+[HPW_SLD_M_UAMT_R X2BodyPartTemplate]
+DisplayName="UA/Multi-Threat"
+
+[HPW_SLD_M_EVA_L X2BodyPartTemplate]
+DisplayName="EVA"
+[HPW_SLD_M_EVA_R X2BodyPartTemplate]
+DisplayName="EVA"
+
+[HPW_SLD_M_EVA_LUnique X2BodyPartTemplate]
+DisplayName="EVA [S]"
+[HPW_SLD_M_EVA_RUnique X2BodyPartTemplate]
+DisplayName="EVA [S]"
+
+[HPW_SLD_M_Sec_R X2BodyPartTemplate]
+DisplayName="Security"
+[HPW_SLD_M_Sec_L X2BodyPartTemplate]
+DisplayName="Security"
+[HPW_SLD_M_SecK_R X2BodyPartTemplate]
+DisplayName="Security (Kukri Knife)"
+
+[HPW_SLD_M_UABaseSec_L X2BodyPartTemplate]
+DisplayName="UA/Base-Security"
+[HPW_SLD_M_UABaseSec_R X2BodyPartTemplate]
+DisplayName="UA/Base-Security
+
+[HPW_SLD_M_Gungnir_L X2BodyPartTemplate]
+DisplayName="Gungnir"
+[HPW_SLD_M_Gungnir_R X2BodyPartTemplate]
+DisplayName="Gungnir"
+
+[HPW_SLD_M_Grenadier_L X2BodyPartTemplate]
+DisplayName="Grenadier"
+[HPW_SLD_M_Grenadier_R X2BodyPartTemplate]
+DisplayName="Grenadier"
+
+[HPW_SLD_M_Jumpjet_L X2BodyPartTemplate]
+DisplayName="Jumpjet"
+[HPW_SLD_M_Jumpjet_R X2BodyPartTemplate]
+DisplayName="Jumpjet"
+
+[HPW_SLD_M_JFO_L X2BodyPartTemplate]
+DisplayName="JFO"
+[HPW_SLD_M_JFO_R X2BodyPartTemplate]
+DisplayName="JFO"
+
+[HPW_SLD_M_CMND_L X2BodyPartTemplate]
+DisplayName="Commando"
+[HPW_SLD_M_CMND_R X2BodyPartTemplate]
+DisplayName="Commando"
+
+[HPW_SLD_M_CQC_L X2BodyPartTemplate]
+DisplayName="CQC"
+[HPW_SLD_M_CQC_R X2BodyPartTemplate]
+DisplayName="CQC"
+
+[HPW_SLD_M_Sniper_L X2BodyPartTemplate]
+DisplayName="Sniper"
+[HPW_SLD_M_Sniper_R X2BodyPartTemplate]
+DisplayName="Sniper"
+
+[HPW_SLD_M_Recon_L X2BodyPartTemplate]
+DisplayName="Recon"
+[HPW_SLD_M_Recon_R X2BodyPartTemplate]
+DisplayName="Recon"
+
+[HPW_SLD_M_FJPara_L X2BodyPartTemplate]
+DisplayName="FJPara"
+[HPW_SLD_M_FJPara_R X2BodyPartTemplate]
+DisplayName="FJPara"
+
+[HPW_SLD_M_Hazop_L X2BodyPartTemplate]
+DisplayName="Hazop"
+[HPW_SLD_M_Hazop_R X2BodyPartTemplate]
+DisplayName="Hazop"
+
+[HPW_SLD_M_Operator_L X2BodyPartTemplate]
+DisplayName="Operator"
+[HPW_SLD_M_Operator_R X2BodyPartTemplate]
+DisplayName="Operator"
+
+[HPW_SLD_M_EVA_LJoshua X2BodyPartTemplate]
+DisplayName="EVA [J]"
+[HPW_SLD_M_EVA_RJoshua X2BodyPartTemplate]
+DisplayName="EVA [J]"
+
+[HPW_SLD_M_Jun_L X2BodyPartTemplate]
+DisplayName="Sniper [J]"
+
+[HPW_SLD_M_Emile_R X2BodyPartTemplate]
+DisplayName="Security [E]"
+
+[HPW_SLD_M_GrenadierJ_L X2BodyPartTemplate]
+DisplayName="Grenadier [J]"
+[HPW_SLD_M_GrenadierJ_R X2BodyPartTemplate]
+DisplayName="Grenadier [J]"
+
+;Female Wrist Attachments
+
+[DefaultWR_F X2BodyPartTemplate]
+DisplayName="Default"
+
+[UA/Bracer_F X2BodyPartTemplate]
+DisplayName="UA/Bracer"
+
+[Tacpad_F X2BodyPartTemplate]
+DisplayName="Tacpad"
+
+[UGPS_F X2BodyPartTemplate]
+DisplayName="UGPS"
+
+[UA/Buckler_F X2BodyPartTemplate]
+DisplayName="UA/Buckler"
+
+[Assault-Breacher_F X2BodyPartTemplate]
+DisplayName="Assault-Breacher"
+
+[D_UA/Bracer_F X2BodyPartTemplate]
+DisplayName="Double UA/Bracer"
+
+;LIGHT PLATED
+
+[LP_DefaultWR_F X2BodyPartTemplate]
+DisplayName="Default"
+
+[LP_UA/Bracer_F X2BodyPartTemplate]
+DisplayName="UA/Bracer"
+
+[LP_Tacpad_F X2BodyPartTemplate]
+DisplayName="Tacpad"
+
+[LP_UGPS_F X2BodyPartTemplate]
+DisplayName="UGPS"
+
+[LP_UA/Buckler_F X2BodyPartTemplate]
+DisplayName="UA/Buckler"
+
+[LP_Assault-Breacher_F X2BodyPartTemplate]
+DisplayName="Assault-Breacher"
+
+[LP_D_UA/Bracer_F X2BodyPartTemplate]
+DisplayName="Double UA/Bracer"
+
+;PLATED
+
+[PL_DefaultWR_F X2BodyPartTemplate]
+DisplayName="Default"
+
+[PL_UA/Bracer_F X2BodyPartTemplate]
+DisplayName="UA/Bracer"
+
+[PL_Tacpad_F X2BodyPartTemplate]
+DisplayName="Tacpad"
+
+[PL_UGPS_F X2BodyPartTemplate]
+DisplayName="UGPS"
+
+[PL_UA/Buckler_F X2BodyPartTemplate]
+DisplayName="UA/Buckler"
+
+[PL_Assault-Breacher_F X2BodyPartTemplate]
+DisplayName="Assault-Breacher"
+
+[PL_D_UA/Bracer_F X2BodyPartTemplate]
+DisplayName="Double UA/Bracer"
+
+;HEAVY PLATED
+
+[HP_DefaultWR_F X2BodyPartTemplate]
+DisplayName="Default"
+
+[HP_UA/Bracer_F X2BodyPartTemplate]
+DisplayName="UA/Bracer"
+
+[HP_Tacpad_F X2BodyPartTemplate]
+DisplayName="Tacpad"
+
+[HP_UGPS_F X2BodyPartTemplate]
+DisplayName="UGPS"
+
+[HP_UA/Buckler_F X2BodyPartTemplate]
+DisplayName="UA/Buckler"
+
+[HP_Assault-Breacher_F X2BodyPartTemplate]
+DisplayName="Assault-Breacher"
+
+[HP_D_UA/Bracer_F X2BodyPartTemplate]
+DisplayName="Double UA/Bracer"
+
+;LIGHT POWERED
+
+[LPW_DefaultWR_F X2BodyPartTemplate]
+DisplayName="Default"
+
+[LPW_UA/Bracer_F X2BodyPartTemplate]
+DisplayName="UA/Bracer"
+
+[LPW_Tacpad_F X2BodyPartTemplate]
+DisplayName="Tacpad"
+
+[LPW_UGPS_F X2BodyPartTemplate]
+DisplayName="UGPS"
+
+[LPW_UA/Buckler_F X2BodyPartTemplate]
+DisplayName="UA/Buckler"
+
+[LPW_Assault-Breacher_F X2BodyPartTemplate]
+DisplayName="Assault-Breacher"
+
+[LPW_D_UA/Bracer_F X2BodyPartTemplate]
+DisplayName="Double UA/Bracer"
+
+;POWERED
+
+[PA_DefaultWR_F X2BodyPartTemplate]
+DisplayName="Default"
+
+[PA_UA/Bracer_F X2BodyPartTemplate]
+DisplayName="UA/Bracer"
+
+[PA_Tacpad_F X2BodyPartTemplate]
+DisplayName="Tacpad"
+
+[PA_UGPS_F X2BodyPartTemplate]
+DisplayName="UGPS"
+
+[PA_UA/Buckler_F X2BodyPartTemplate]
+DisplayName="UA/Buckler"
+
+[PA_Assault-Breacher_F X2BodyPartTemplate]
+DisplayName="Assault-Breacher"
+
+[PA_D_UA/Bracer_F X2BodyPartTemplate]
+DisplayName="Double UA/Bracer"
+
+;HEAVY POWERED
+
+[HPW_DefaultWR_F X2BodyPartTemplate]
+DisplayName="Default"
+
+[HPW_UA/Bracer_F X2BodyPartTemplate]
+DisplayName="UA/Bracer"
+
+[HPW_Tacpad_F X2BodyPartTemplate]
+DisplayName="Tacpad"
+
+[HPW_UGPS_F X2BodyPartTemplate]
+DisplayName="UGPS"
+
+[HPW_UA/Buckler_F X2BodyPartTemplate]
+DisplayName="UA/Buckler"
+
+[HPW_Assault-Breacher_F X2BodyPartTemplate]
+DisplayName="Assault-Breacher"
+
+[HPW_D_UA/Bracer_F X2BodyPartTemplate]
+DisplayName="Double UA/Bracer"
+
+;Male Wrist Attachments
+
+;Kevlar
+
+[DefaultWR_M X2BodyPartTemplate]
+DisplayName="Default"
+
+[UA/Bracer_M X2BodyPartTemplate]
+DisplayName="UA/Bracer"
+
+[Tacpad_M X2BodyPartTemplate]
+DisplayName="Tacpad"
+
+[UGPS_M X2BodyPartTemplate]
+DisplayName="UGPS"
+
+[UA/Buckler_M X2BodyPartTemplate]
+DisplayName="UA/Buckler"
+
+[Assault-Breacher_M X2BodyPartTemplate]
+DisplayName="Assault-Breacher"
+[Assault-BreacherUnique_M X2BodyPartTemplate]
+DisplayName="Assault-Breacher [L]"
+
+[D_UA/Bracer_M X2BodyPartTemplate]
+DisplayName="Double UA/Bracer"
+
+;LIGHT PLATED
+
+[LP_DefaultWR_M X2BodyPartTemplate]
+DisplayName="Default"
+
+[LP_UA/Bracer_M X2BodyPartTemplate]
+DisplayName="UA/Bracer"
+
+[LP_Tacpad_M X2BodyPartTemplate]
+DisplayName="Tacpad"
+
+[LP_UGPS_M X2BodyPartTemplate]
+DisplayName="UGPS"
+
+[LP_UA/Buckler_M X2BodyPartTemplate]
+DisplayName="UA/Buckler"
+
+[LP_Assault-Breacher_M X2BodyPartTemplate]
+DisplayName="Assault-Breacher"
+[LP_Assault-BreacherUnique_M X2BodyPartTemplate]
+DisplayName="Assault-Breacher [L]"
+
+[LP_D_UA/Bracer_M X2BodyPartTemplate]
+DisplayName="Double UA/Bracer"
+
+;Plated
+
+[PL_DefaultWR_M X2BodyPartTemplate]
+DisplayName="Default"
+
+[PL_UA/Bracer_M X2BodyPartTemplate]
+DisplayName="UA/Bracer"
+
+[PL_Tacpad_M X2BodyPartTemplate]
+DisplayName="Tacpad"
+
+[PL_UGPS_M X2BodyPartTemplate]
+DisplayName="UGPS"
+
+[PL_UA/Buckler_M X2BodyPartTemplate]
+DisplayName="UA/Buckler"
+
+[PL_Assault-Breacher_M X2BodyPartTemplate]
+DisplayName="Assault-Breacher"
+[PL_Assault-BreacherUnique_M X2BodyPartTemplate]
+DisplayName="Assault-Breacher [L]"
+
+[PL_D_UA/Bracer_M X2BodyPartTemplate]
+DisplayName="Double UA/Bracer"
+
+;HEAVY PLATED
+
+[HP_DefaultWR_M X2BodyPartTemplate]
+DisplayName="Default"
+
+[HP_UA/Bracer_M X2BodyPartTemplate]
+DisplayName="UA/Bracer"
+
+[HP_Tacpad_M X2BodyPartTemplate]
+DisplayName="Tacpad"
+
+[HP_UGPS_M X2BodyPartTemplate]
+DisplayName="UGPS"
+
+[HP_UA/Buckler_M X2BodyPartTemplate]
+DisplayName="UA/Buckler"
+
+[HP_Assault-Breacher_M X2BodyPartTemplate]
+DisplayName="Assault-Breacher"
+[HP_Assault-BreacherUnique_M X2BodyPartTemplate]
+DisplayName="Assault-Breacher [L]"
+
+[HP_D_UA/Bracer_M X2BodyPartTemplate]
+DisplayName="Double UA/Bracer"
+
+;LIGHT POWERED
+
+[LPW_DefaultWR_M X2BodyPartTemplate]
+DisplayName="Default"
+
+[LPW_UA/Bracer_M X2BodyPartTemplate]
+DisplayName="UA/Bracer"
+
+[LPW_Tacpad_M X2BodyPartTemplate]
+DisplayName="Tacpad"
+
+[LPW_UGPS_M X2BodyPartTemplate]
+DisplayName="UGPS"
+
+[LPW_UA/Buckler_M X2BodyPartTemplate]
+DisplayName="UA/Buckler"
+
+[LPW_Assault-Breacher_M X2BodyPartTemplate]
+DisplayName="Assault-Breacher"
+[LPW_Assault-BreacherUnique_M X2BodyPartTemplate]
+DisplayName="Assault-Breacher [L]"
+
+[LPW_D_UA/Bracer_M X2BodyPartTemplate]
+DisplayName="Double UA/Bracer"
+
+;Powered
+
+[PA_DefaultWR_M X2BodyPartTemplate]
+DisplayName="Default"
+
+[PA_UA/Bracer_M X2BodyPartTemplate]
+DisplayName="UA/Bracer"
+
+[PA_Tacpad_M X2BodyPartTemplate]
+DisplayName="Tacpad"
+
+[PA_UGPS_M X2BodyPartTemplate]
+DisplayName="UGPS"
+
+[PA_UA/Buckler_M X2BodyPartTemplate]
+DisplayName="UA/Buckler"
+
+[PA_Assault-Breacher_M X2BodyPartTemplate]
+DisplayName="Assault-Breacher"
+[PA_Assault-BreacherUnique_M X2BodyPartTemplate]
+DisplayName="Assault-Breacher [L]"
+
+[PA_D_UA/Bracer_M X2BodyPartTemplate]
+DisplayName="Double UA/Bracer"
+
+;HEAVY POWERED
+
+[HPW_DefaultWR_M X2BodyPartTemplate]
+DisplayName="Default"
+
+[HPW_UA/Bracer_M X2BodyPartTemplate]
+DisplayName="UA/Bracer"
+
+[HPW_Tacpad_M X2BodyPartTemplate]
+DisplayName="Tacpad"
+
+[HPW_UGPS_M X2BodyPartTemplate]
+DisplayName="UGPS"
+
+[HPW_UA/Buckler_M X2BodyPartTemplate]
+DisplayName="UA/Buckler"
+
+[HPW_Assault-Breacher_M X2BodyPartTemplate]
+DisplayName="Assault-Breacher"
+[HPW_Assault-BreacherUnique_M X2BodyPartTemplate]
+DisplayName="Assault-Breacher [L]"
+
+[HPW_D_UA/Bracer_M X2BodyPartTemplate]
+DisplayName="Double UA/Bracer"
+
+;Female Leg Attachments
+
+[DefaultLA_F X2BodyPartTemplate]
+DisplayName="Default"
+
+[Tactical/Hardcase_F X2BodyPartTemplate]
+DisplayName="Tactical/Hardcase"
+
+[Tactical/Softcase_F X2BodyPartTemplate]
+DisplayName="Tactical/Softcase"
+
+[NxRA_F X2BodyPartTemplate]
+DisplayName="NxRA"
+
+[Medkit_F X2BodyPartTemplate]
+DisplayName="Medkit"
+
+[CHOBHAM_F X2BodyPartTemplate]
+DisplayName="CHOBHAM"
+
+;LIGHT PLATED
+
+[LP_DefaultLA_F X2BodyPartTemplate]
+DisplayName="Default"
+
+[LP_Tactical/Hardcase_F X2BodyPartTemplate]
+DisplayName="Tactical/Hardcase"
+
+[LP_Tactical/Softcase_F X2BodyPartTemplate]
+DisplayName="Tactical/Softcase"
+
+[LP_NxRA_F X2BodyPartTemplate]
+DisplayName="NxRA"
+
+[LP_Medkit_F X2BodyPartTemplate]
+DisplayName="Medkit"
+
+[LP_CHOBHAM_F X2BodyPartTemplate]
+DisplayName="CHOBHAM"
+
+;PLATED
+
+[PL_DefaultLA_F X2BodyPartTemplate]
+DisplayName="Default"
+
+[PL_Tactical/Hardcase_F X2BodyPartTemplate]
+DisplayName="Tactical/Hardcase"
+
+[PL_Tactical/Softcase_F X2BodyPartTemplate]
+DisplayName="Tactical/Softcase"
+
+[PL_NxRA_F X2BodyPartTemplate]
+DisplayName="NxRA"
+
+[PL_Medkit_F X2BodyPartTemplate]
+DisplayName="Medkit"
+
+[PL_CHOBHAM_F X2BodyPartTemplate]
+DisplayName="CHOBHAM"
+
+;HEAVY PLATED
+
+[HP_DefaultLA_F X2BodyPartTemplate]
+DisplayName="Default"
+
+[HP_Tactical/Hardcase_F X2BodyPartTemplate]
+DisplayName="Tactical/Hardcase"
+
+[HP_Tactical/Softcase_F X2BodyPartTemplate]
+DisplayName="Tactical/Softcase"
+
+[HP_NxRA_F X2BodyPartTemplate]
+DisplayName="NxRA"
+
+[HP_Medkit_F X2BodyPartTemplate]
+DisplayName="Medkit"
+
+[HP_CHOBHAM_F X2BodyPartTemplate]
+DisplayName="CHOBHAM"
+
+;LIGHT POWERED
+
+[LPW_DefaultLA_F X2BodyPartTemplate]
+DisplayName="Default"
+
+[LPW_Tactical/Hardcase_F X2BodyPartTemplate]
+DisplayName="Tactical/Hardcase"
+
+[LPW_Tactical/Softcase_F X2BodyPartTemplate]
+DisplayName="Tactical/Softcase"
+
+[LPW_NxRA_F X2BodyPartTemplate]
+DisplayName="NxRA"
+
+[LPW_Medkit_F X2BodyPartTemplate]
+DisplayName="Medkit"
+
+[LPW_CHOBHAM_F X2BodyPartTemplate]
+DisplayName="CHOBHAM"
+
+;POWERED
+
+[PA_DefaultLA_F X2BodyPartTemplate]
+DisplayName="Default"
+
+[PA_Tactical/Hardcase_F X2BodyPartTemplate]
+DisplayName="Tactical/Hardcase"
+
+[PA_Tactical/Softcase_F X2BodyPartTemplate]
+DisplayName="Tactical/Softcase"
+
+[PA_NxRA_F X2BodyPartTemplate]
+DisplayName="NxRA"
+
+[PA_Medkit_F X2BodyPartTemplate]
+DisplayName="Medkit"
+
+[PA_CHOBHAM_F X2BodyPartTemplate]
+DisplayName="CHOBHAM"
+
+;HEAVY POWERED
+
+[HPW_DefaultLA_F X2BodyPartTemplate]
+DisplayName="Default"
+
+[HPW_Tactical/Hardcase_F X2BodyPartTemplate]
+DisplayName="Tactical/Hardcase"
+
+[HPW_Tactical/Softcase_F X2BodyPartTemplate]
+DisplayName="Tactical/Softcase"
+
+[HPW_NxRA_F X2BodyPartTemplate]
+DisplayName="NxRA"
+
+[HPW_Medkit_F X2BodyPartTemplate]
+DisplayName="Medkit"
+
+[HPW_CHOBHAM_F X2BodyPartTemplate]
+DisplayName="CHOBHAM"
+
+;Male Wrist Attachments
+
+;Kevlar
+
+[DefaultLA_M X2BodyPartTemplate]
+DisplayName="Default"
+
+[Tactical/Hardcase_M X2BodyPartTemplate]
+DisplayName="Tactical/Hardcase"
+
+[Tactical/Softcase_M X2BodyPartTemplate]
+DisplayName="Tactical/Softcase"
+
+[NxRA_M X2BodyPartTemplate]
+DisplayName="NxRA"
+
+[Medkit_M X2BodyPartTemplate]
+DisplayName="Medkit"
+
+[CHOBHAM_M X2BodyPartTemplate]
+DisplayName="CHOBHAM"
+
+;LIGHT PLATED
+
+[LP_DefaultLA_M X2BodyPartTemplate]
+DisplayName="Default"
+
+[LP_Tactical/Hardcase_M X2BodyPartTemplate]
+DisplayName="Tactical/Hardcase"
+
+[LP_Tactical/Softcase_M X2BodyPartTemplate]
+DisplayName="Tactical/Softcase"
+
+[LP_NxRA_M X2BodyPartTemplate]
+DisplayName="NxRA"
+
+[LP_Medkit_M X2BodyPartTemplate]
+DisplayName="Medkit"
+
+[LP_CHOBHAM_M X2BodyPartTemplate]
+DisplayName="CHOBHAM"
+
+;Plated
+
+[PL_DefaultLA_M X2BodyPartTemplate]
+DisplayName="Default"
+
+[PL_Tactical/Hardcase_M X2BodyPartTemplate]
+DisplayName="Tactical/Hardcase"
+
+[PL_Tactical/Softcase_M X2BodyPartTemplate]
+DisplayName="Tactical/Softcase"
+
+[PL_NxRA_M X2BodyPartTemplate]
+DisplayName="NxRA"
+
+[PL_Medkit_M X2BodyPartTemplate]
+DisplayName="Medkit"
+
+[PL_CHOBHAM_M X2BodyPartTemplate]
+DisplayName="CHOBHAM"
+
+;HEAVY PLATED
+
+[HP_DefaultLA_M X2BodyPartTemplate]
+DisplayName="Default"
+
+[HP_Tactical/Hardcase_M X2BodyPartTemplate]
+DisplayName="Tactical/Hardcase"
+
+[HP_Tactical/Softcase_M X2BodyPartTemplate]
+DisplayName="Tactical/Softcase"
+
+[HP_NxRA_M X2BodyPartTemplate]
+DisplayName="NxRA"
+
+[HP_Medkit_M X2BodyPartTemplate]
+DisplayName="Medkit"
+
+[HP_CHOBHAM_M X2BodyPartTemplate]
+DisplayName="CHOBHAM"
+
+;LIGHT POWERED
+
+[LPW_DefaultLA_M X2BodyPartTemplate]
+DisplayName="Default"
+
+[LPW_Tactical/Hardcase_M X2BodyPartTemplate]
+DisplayName="Tactical/Hardcase"
+
+[LPW_Tactical/Softcase_M X2BodyPartTemplate]
+DisplayName="Tactical/Softcase"
+
+[LPW_NxRA_M X2BodyPartTemplate]
+DisplayName="NxRA"
+
+[LPW_Medkit_M X2BodyPartTemplate]
+DisplayName="Medkit"
+
+[LPW_CHOBHAM_M X2BodyPartTemplate]
+DisplayName="CHOBHAM"
+
+;Powered
+
+[PA_DefaultLA_M X2BodyPartTemplate]
+DisplayName="Default"
+
+[PA_Tactical/Hardcase_M X2BodyPartTemplate]
+DisplayName="Tactical/Hardcase"
+
+[PA_Tactical/Softcase_M X2BodyPartTemplate]
+DisplayName="Tactical/Softcase"
+
+[PA_NxRA_M X2BodyPartTemplate]
+DisplayName="NxRA"
+
+[PA_Medkit_M X2BodyPartTemplate]
+DisplayName="Medkit"
+
+[PA_CHOBHAM_M X2BodyPartTemplate]
+DisplayName="CHOBHAM"
+
+;HEAVY POWERED
+
+[HPW_DefaultLA_M X2BodyPartTemplate]
+DisplayName="Default"
+
+[HPW_Tactical/Hardcase_M X2BodyPartTemplate]
+DisplayName="Tactical/Hardcase"
+
+[HPW_Tactical/Softcase_M X2BodyPartTemplate]
+DisplayName="Tactical/Softcase"
+
+[HPW_NxRA_M X2BodyPartTemplate]
+DisplayName="NxRA"
+
+[HPW_Medkit_M X2BodyPartTemplate]
+DisplayName="Medkit"
+
+[HPW_CHOBHAM_M X2BodyPartTemplate]
+DisplayName="CHOBHAM"

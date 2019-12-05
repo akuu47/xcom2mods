@@ -1,0 +1,5 @@
+﻿[mod]
+publishedFileId=1125647103
+Title=Remove Old Terror Missions
+Description=Removes the old-style terror missions from the game. All retaliations will now be the new terror mission type.
+RequiresXPACK=true

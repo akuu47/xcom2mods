@@ -1,0 +1,39 @@
+//---------------------------------------------------------------------------------------
+//  FILE:   PostAbilityCostPaid.uci
+//  AUTHOR:  Mr. Nice
+//           
+//---------------------------------------------------------------------------------------
+
+`DEFINE SHOT(POSITION) class'X2DownloadableContentInfo_AbilityFix'.default.`POSITION
+`DEFINE FIRST_SHOT `SHOT(FIRST_SHOT)
+`DEFINE SECOND_SHOT `SHOT(SECOND_SHOT)
+
+var array<name> RealPreCostActionPoints;
+var int SourceObjectID;
+var int TargetObjectID;
+
+`include(AWCCostFixW\Src\ModConfigMenuAPI\MCM_API_CfgHelpers.uci)
+
+//"Real" effect will handle flyover for us, want to avoid double flyover.
+function RegisterForEvents(XComGameState_Effect EffectGameState)
+{
+	//`redscreen("got registered");
+}
+
+function bool PostAbilityCostPaid(XComGameState_Effect EffectState, XComGameStateContext_Ability AbilityContext, XComGameState_Ability kAbility, XComGameState_Unit SourceUnit, XComGameState_Item AffectWeapon, XComGameState NewGameState, const array<name> PreCostActionPoints, const array<name> PreCostReservePoints)
+{
+	if(!`CORRECTMCM) return false;
+	if(`FIRST_SHOT.find(AbilityContext.InputContext.AbilityTemplateName)!=INDEX_NONE)
+	{
+		`log("storing first shot:");
+		RealPreCostActionPoints=PreCostActionPoints;
+		SourceObjectID=AbilityContext.InputContext.SourceObject.ObjectID;
+		TargetObjectID=AbilityContext.InputContext.PrimaryTarget.ObjectID;
+		return false;
+	}
+	if (`SECOND_SHOT.find(AbilityContext.InputContext.AbilityTemplateName)!=INDEX_NONE &&
+		SourceObjectID == AbilityContext.InputContext.SourceObject.ObjectID &&
+		TargetObjectID == AbilityContext.InputContext.PrimaryTarget.ObjectID )
+		return super.PostAbilityCostPaid(EffectState, AbilityContext, kAbility, SourceUnit, AffectWeapon, NewGameState,  RealPreCostActionPoints, PreCostReservePoints);
+	return false;
+}

@@ -1,0 +1,127 @@
+[X2DownloadableContentInfo_AddedPartNames]
+
+;
+; Reaper Conventional
+;
+
+.TorsoTemplate="Reaper_CnvMed_KevlarBase_Torso_F"
+.TorsoName="Legacy Kevlar"
+.TorsoTemplate="Reaper_CnvMed_KevlarBase_Torso_M"
+.TorsoName="Legacy Kevlar"
+
+.LegsTemplate="Reaper_CnvMed_KevlarBase_Legs_F"
+.LegsName="Legacy Kevlar"
+.LegsTemplate="Reaper_CnvMed_KevlarBase_Legs_M"
+.LegsName="Legacy Kevlar"
+
+;
+; Reaper Plated
+;
+
+.TorsoTemplate="Reaper_PltMed_PlatedBase_Torso_F"
+.TorsoName="Legacy Plated"
+.TorsoTemplate="Reaper_PltMed_PlatedBase_Torso_M"
+.TorsoName="Legacy Plated"
+
+.LegsTemplate="Reaper_PltMed_PlatedBase_Legs_F"
+.LegsName="Legacy Plated"
+.LegsTemplate="Reaper_PltMed_PlatedBase_Legs_M"
+.LegsName="Legacy Plated"
+
+;
+; Reaper Powered	
+;
+
+.TorsoTemplate="Reaper_PwrMed_PoweredBase_Torso_F"
+.TorsoName="Legacy Powered"
+.TorsoTemplate="Reaper_PwrMed_PoweredBase_Torso_M"
+.TorsoName="Legacy Powered"
+
+.LegsTemplate="Reaper_PwrMed_PoweredBase_Legs_F"
+.LegsName="Legacy Powered"
+.LegsTemplate="Reaper_PwrMed_PoweredBase_Legs_M"
+.LegsName="Legacy Powered"
+
+;
+; Skirmisher Conventional
+;
+
+.TorsoTemplate="Skirmisher_CnvMed_KevlarBase_Torso_F"
+.TorsoName="Legacy Kevlar"
+.TorsoTemplate="Skirmisher_CnvMed_KevlarBase_Torso_M"
+.TorsoName="Legacy Kevlar"
+
+.LegsTemplate="Skirmisher_CnvMed_KevlarBase_Legs_F"
+.LegsName="Legacy Kevlar"
+.LegsTemplate="Skirmisher_CnvMed_KevlarBase_Legs_M"
+.LegsName="Legacy Kevlar"
+
+;
+; Skirmisher Plated
+;
+
+.TorsoTemplate="Skirmisher_PltMed_PlatedBase_Torso_F"
+.TorsoName="Legacy Plated"
+.TorsoTemplate="Skirmisher_PltMed_PlatedBase_Torso_M"
+.TorsoName="Legacy Plated"
+
+.LegsTemplate="Skirmisher_PltMed_PlatedBase_Legs_F"
+.LegsName="Legacy Plated"
+.LegsTemplate="Skirmisher_PltMed_PlatedBase_Legs_M"
+.LegsName="Legacy Plated"
+
+;
+; Skirmisher Powered	
+;
+
+.TorsoTemplate="Skirmisher_PwrMed_PoweredBase_Torso_F"
+.TorsoName="Legacy Powered"
+.TorsoTemplate="Skirmisher_PwrMed_PoweredBase_Torso_M"
+.TorsoName="Legacy Powered"
+
+.LegsTemplate="Skirmisher_PwrMed_PoweredBase_Legs_F"
+.LegsName="Legacy Powered"
+.LegsTemplate="Skirmisher_PwrMed_PoweredBase_Legs_M"
+.LegsName="Legacy Powered"
+
+;
+; Templar Conventional
+;
+
+.TorsoTemplate="Templar_CnvMed_KevlarBase_Torso_F"
+.TorsoName="Legacy Kevlar"
+.TorsoTemplate="Templar_CnvMed_KevlarBase_Torso_M"
+.TorsoName="Legacy Kevlar"
+
+.LegsTemplate="Templar_CnvMed_KevlarBase_Legs_F"
+.LegsName="Legacy Kevlar"
+.LegsTemplate="Templar_CnvMed_KevlarBase_Legs_M"
+.LegsName="Legacy Kevlar"
+
+;
+; Templar Plated
+;
+
+.TorsoTemplate="Templar_PltMed_PlatedBase_Torso_F"
+.TorsoName="Legacy Plated"
+.TorsoTemplate="Templar_PltMed_PlatedBase_Torso_M"
+.TorsoName="Legacy Plated"
+
+.LegsTemplate="Templar_PltMed_PlatedBase_Legs_F"
+.LegsName="Legacy Plated"
+.LegsTemplate="Templar_PltMed_PlatedBase_Legs_M"
+.LegsName="Legacy Plated"
+
+;
+; Templar Powered	
+;
+
+.TorsoTemplate="Templar_PwrMed_PoweredBase_Torso_F"
+.TorsoName="Legacy Powered"
+.TorsoTemplate="Templar_PwrMed_PoweredBase_Torso_M"
+.TorsoName="Legacy Powered"
+
+.LegsTemplate="Templar_PwrMed_PoweredBase_Legs_F"
+.LegsName="Legacy Powered"
+.LegsTemplate="Templar_PwrMed_PoweredBase_Legs_M"
+.LegsName="Legacy Powered"

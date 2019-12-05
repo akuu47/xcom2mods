@@ -1,0 +1,11 @@
+[DefaultProtectDevice X2MissionNarrativeTemplate]
+ObjectiveTextPools[0]="Prepare your Defenses before Reinforcements arrive"
+ObjectiveTextPools[1]="Protect Data Interceptor Device"
+ObjectiveTextPools[2]="Neutralize all enemy targets"
+ObjectiveTextPools[3]="Extract all XCOM soldiers"
+ObjectiveTextPools[4]="MISSION BRIEFING"
+ObjectiveTextPools[5]="Commander, Menace 1-5 must dig in and push the enemy forces back until the data tap has finished gathering intel in this AO.\n• Enemy reinforcements are infinite; they will not stop until either the Data Tap has successfully decrypted the intel or is destroyed.\n• Once complete, Menace 1-5 can either sweep the area for remaining hostiles or EVAC out if the situation warrants.\n\nGood Luck, Commander."
+
+; Ignore this, game bitches about it if it doesn't exist
+ConsoleObjectiveTextPools[0]=
+ConsoleObjectiveTextPools[1]=

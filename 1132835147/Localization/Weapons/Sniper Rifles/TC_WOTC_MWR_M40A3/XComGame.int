@@ -1,0 +1,41 @@
+[TC_WOTC_MWR_M40A3_T1 X2WeaponTemplate]
+FriendlyName="<font color='#ECECEC'><b>M40A3</b></font>"
+FriendlyNamePlural="<font color='#ECECEC'><b>M40A3s</b></font>"
+AbilityDescName="sniper rifle"
+BriefSummary="The M40 is a 7.62x51mm NATO bolt-action sniper rifle. The M40s are just heavily modified Remington 700 rifles, with different parts imported from different manufacturers. The orignal M40 had a wooden stock, but later iterations replace a fiberglass stock. Just like the M14 battle rifle, the all-wood stocks warped in extreme conditions, causing firing complications. The M40A3 served in Operation Enduring Freedom in 2001, Operation Iraqi Freedom, and other subsequent operations, until 2009, when it was superseeded by the M40A5." 
+TacticalText="<Bullet/>Type: Sniper Rifle\n<Bullet/>Firing Profile: Single\n<Bullet/>Action: Bolt-Action\n<Bullet/>Cartridge: 7.62x51mm NATO\n<Bullet/>Origin: United States\n<Bullet/>Tier: Conventional"
+
+[TC_WOTC_MWR_M40A3_T2 X2WeaponTemplate]
+FriendlyName="<font color='#27AAE1'><b>UAM M-762</b></font>"
+FriendlyNamePlural="<font color='#27AAE1'><b>UAM M-762s</b></font>"
+AbilityDescName="sniper rifle"
+BriefSummary="The M40 is a 7.62x51mm NATO bolt-action sniper rifle. The M40s are just heavily modified Remington 700 rifles, with different parts imported from different manufacturers. The orignal M40 had a wooden stock, but later iterations replace a fiberglass stock. Just like the M14 battle rifle, the all-wood stocks warped in extreme conditions, causing firing complications. The M40A3 served in Operation Enduring Freedom in 2001, Operation Iraqi Freedom, and other subsequent operations, until 2009, when it was superseeded by the M40A5.\n The XM402 is a new experimental version of the M40 sniper rifle. The barrel is replaced with a heavily tapered match grade barrel made from spare Alien Alloy."
+TacticalText="<Bullet/>Type: Sniper Rifle\n<Bullet/>Firing Profile: Single\n<Bullet/>Action: Bolt-Action\n<Bullet/>Cartridge: 7.62x51mm NATO\n<Bullet/>Origin: United States\n<Bullet/>Tier: Magnetic"
+
+[TC_WOTC_MWR_M40A3_T3 X2WeaponTemplate]
+FriendlyName="<font color='#CF4517'><b>UAM M-2000</b></font>"
+FriendlyNamePlural="<font color='#CF4517'><b>UAM M-2000s</b></font>"
+AbilityDescName="sniper rifle"
+BriefSummary="The M40 is a 7.62x51mm NATO bolt-action sniper rifle. The M40s are just heavily modified Remington 700 rifles, with different parts imported from different manufacturers. The orignal M40 had a wooden stock, but later iterations replace a fiberglass stock. Just like the M14 battle rifle, the all-wood stocks warped in extreme conditions, causing firing complications. The M40A3 served in Operation Enduring Freedom in 2001, Operation Iraqi Freedom, and other subsequent operations, until 2009, when it was superseeded by the M40A5.\n The USAM 403 M is a newer iteration of the M40 rifles. With a brand new high-frequency match grade barrel, the M40 is better than ever, with every bullet able to pierce the toughest of armors."
+TacticalText="<Bullet/>Type: Sniper Rifle\n<Bullet/>Firing Profile: Single\n<Bullet/>Action: Bolt-Action\n<Bullet/>Cartridge: 7.62x51mm NATO\n<Bullet/>Origin: United States\n<Bullet/>Tier: Beam"
+
+[TC_WOTC_RPR_MWR_M40A3_T1 X2WeaponTemplate]
+FriendlyName="<font color='#ECECEC'><b>M40A3</b></font>"
+FriendlyNamePlural="<font color='#ECECEC'><b>M40A3s</b></font>"
+AbilityDescName="sniper rifle"
+BriefSummary="The M40 is a 7.62x51mm NATO bolt-action sniper rifle. The M40s are just heavily modified Remington 700 rifles, with different parts imported from different manufacturers. The orignal M40 had a wooden stock, but later iterations replace a fiberglass stock. Just like the M14 battle rifle, the all-wood stocks warped in extreme conditions, causing firing complications. The M40A3 served in Operation Enduring Freedom in 2001, Operation Iraqi Freedom, and other subsequent operations, until 2009, when it was superseeded by the M40A5." 
+TacticalText="<Bullet/>Type: Sniper Rifle\n<Bullet/>Firing Profile: Single\n<Bullet/>Action: Bolt-Action\n<Bullet/>Cartridge: 7.62x51mm NATO\n<Bullet/>Origin: United States\n<Bullet/>Tier: Conventional"
+
+[TC_WOTC_RPR_MWR_M40A3_T2 X2WeaponTemplate]
+FriendlyName="<font color='#27AAE1'><b>UAM M-762</b></font>"
+FriendlyNamePlural="<font color='#27AAE1'><b>UAM M-762s</b></font>"
+AbilityDescName="sniper rifle"
+BriefSummary="The M40 is a 7.62x51mm NATO bolt-action sniper rifle. The M40s are just heavily modified Remington 700 rifles, with different parts imported from different manufacturers. The orignal M40 had a wooden stock, but later iterations replace a fiberglass stock. Just like the M14 battle rifle, the all-wood stocks warped in extreme conditions, causing firing complications. The M40A3 served in Operation Enduring Freedom in 2001, Operation Iraqi Freedom, and other subsequent operations, until 2009, when it was superseeded by the M40A5.\n The XM402 is a new experimental version of the M40 sniper rifle. The barrel is replaced with a heavily tapered match grade barrel made from spare Alien Alloy."
+TacticalText="<Bullet/>Type: Sniper Rifle\n<Bullet/>Firing Profile: Single\n<Bullet/>Action: Bolt-Action\n<Bullet/>Cartridge: 7.62x51mm NATO\n<Bullet/>Origin: United States\n<Bullet/>Tier: Magnetic"
+
+[TC_WOTC_RPR_MWR_M40A3_T3 X2WeaponTemplate]
+FriendlyName="<font color='#CF4517'><b>UAM M-2000</b></font>"
+FriendlyNamePlural="<font color='#CF4517'><b>UAM M-2000s</b></font>"
+AbilityDescName="sniper rifle"
+BriefSummary="The M40 is a 7.62x51mm NATO bolt-action sniper rifle. The M40s are just heavily modified Remington 700 rifles, with different parts imported from different manufacturers. The orignal M40 had a wooden stock, but later iterations replace a fiberglass stock. Just like the M14 battle rifle, the all-wood stocks warped in extreme conditions, causing firing complications. The M40A3 served in Operation Enduring Freedom in 2001, Operation Iraqi Freedom, and other subsequent operations, until 2009, when it was superseeded by the M40A5.\n The USAM 403 M is a newer iteration of the M40 rifles. With a brand new high-frequency match grade barrel, the M40 is better than ever, with every bullet able to pierce the toughest of armors."
+TacticalText="<Bullet/>Type: Sniper Rifle\n<Bullet/>Firing Profile: Single\n<Bullet/>Action: Bolt-Action\n<Bullet/>Cartridge: 7.62x51mm NATO\n<Bullet/>Origin: United States\n<Bullet/>Tier: Beam"

@@ -1,0 +1,5 @@
+[IRI_FirstAid X2AbilityTemplate]
+LocFriendlyName="First Aid"
+LocLongDescription="Extend the bleedout timer of a nearby soldier by 1."
+LocHelpText="Extend the bleedout timer of a nearby soldier by 1."
+LocFlyOverText="First Aid"

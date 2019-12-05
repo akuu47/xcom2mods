@@ -1,0 +1,1 @@
+﻿Simple .ini tweak that gives aliens the same "close range" bonus as XCOM troops.

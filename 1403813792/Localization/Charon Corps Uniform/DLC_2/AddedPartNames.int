@@ -1,0 +1,40 @@
+[X2DownloadableContentInfo_AddedPartNames]
+
+;
+; ALIEN HUNTERS
+;
+
+
+.TorsoTemplate="Serpent_DLC2_CC_Uniform_Full_M"
+.TorsoName="Charon Corps Uniform"
+
+.TorsoTemplate="Serpent_DLC2_CC_Uniform_Full_F"
+.TorsoName="Charon Corps Uniform"
+
+
+.TorsoTemplate="SerpentMk2_DLC2_CC_Uniform_Full_M"
+.TorsoName="Charon Corps Uniform"
+
+.TorsoTemplate="SerpentMk2_DLC2_CC_Uniform_Full_F"
+.TorsoName="Charon Corps Uniform"
+
+
+.TorsoTemplate="Rage_DLC2_CC_Uniform_Full_M"
+.TorsoName="Charon Corps Uniform"
+
+.TorsoTemplate="Rage_DLC2_CC_Uniform_Full_F"
+.TorsoName="Charon Corps Uniform"
+
+
+.TorsoTemplate="RageMk2_DLC2_CC_Uniform_Full_M"
+.TorsoName="Charon Corps Uniform"
+
+.TorsoTemplate="RageMk2_DLC2_CC_Uniform_Full_F"
+.TorsoName="Charon Corps Uniform"
+
+
+.TorsoTemplate="Icarus_DLC2_CC_Uniform_Full_M"
+.TorsoName="Charon Corps Uniform"
+
+.TorsoTemplate="Icarus_DLC2_CC_Uniform_Full_F"
+.TorsoName="Charon Corps Uniform"

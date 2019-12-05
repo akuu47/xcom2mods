@@ -1,0 +1,530 @@
+
+; ============================================================================================================================
+;
+;	Reaper
+;
+; ============================================================================================================================
+
+;
+; Torso Accessories
+;
+
+[CNV_WotC_RPR_MGO3_Ghillie_Suit_TorsoDeco_A_M X2BodyPartTemplate]
+DisplayName="Ghille Suit - Torso Deco [Default]"
+
+[MPL_WotC_RPR_MGO3_Ghillie_Suit_TorsoDeco_A_M X2BodyPartTemplate]
+DisplayName="Ghille Suit - Torso Deco [Default]"
+
+[MPW_WotC_RPR_MGO3_Ghillie_Suit_TorsoDeco_A_M X2BodyPartTemplate]
+DisplayName="Ghille Suit - Torso Deco [Default]"
+
+
+[CNV_WotC_RPR_MGO3_Ghillie_Suit_TorsoDeco_A_F X2BodyPartTemplate]
+DisplayName="Ghille Suit - Torso Deco [Default]"
+
+[MPL_WotC_RPR_MGO3_Ghillie_Suit_TorsoDeco_A_F X2BodyPartTemplate]
+DisplayName="Ghille Suit - Torso Deco [Default]"
+
+[MPW_WotC_RPR_MGO3_Ghillie_Suit_TorsoDeco_A_F X2BodyPartTemplate]
+DisplayName="Ghille Suit - Torso Deco [Default]"
+
+
+[CNV_WotC_RPR_MGO3_Ghillie_Suit_TorsoDeco_B_M X2BodyPartTemplate]
+DisplayName="Ghille Suit - Torso Deco [No Foliage]"
+
+[MPL_WotC_RPR_MGO3_Ghillie_Suit_TorsoDeco_B_M X2BodyPartTemplate]
+DisplayName="Ghille Suit - Torso Deco [No Foliage]"
+
+[MPW_WotC_RPR_MGO3_Ghillie_Suit_TorsoDeco_B_M X2BodyPartTemplate]
+DisplayName="Ghille Suit - Torso Deco [No Foliage]"
+
+
+[CNV_WotC_RPR_MGO3_Ghillie_Suit_TorsoDeco_B_F X2BodyPartTemplate]
+DisplayName="Ghille Suit - Torso Deco [No Foliage]"
+
+[MPL_WotC_RPR_MGO3_Ghillie_Suit_TorsoDeco_B_F X2BodyPartTemplate]
+DisplayName="Ghille Suit - Torso Deco [No Foliage]"
+
+[MPW_WotC_RPR_MGO3_Ghillie_Suit_TorsoDeco_B_F X2BodyPartTemplate]
+DisplayName="Ghille Suit - Torso Deco [No Foliage]"
+
+
+[CNV_WotC_RPR_MGO3_Ghillie_Suit_TorsoDeco_C_M X2BodyPartTemplate]
+DisplayName="Ghille Suit - Torso Deco [Foliage Only]"
+
+[MPL_WotC_RPR_MGO3_Ghillie_Suit_TorsoDeco_C_M X2BodyPartTemplate]
+DisplayName="Ghille Suit - Torso Deco [Foliage Only]"
+
+[MPW_WotC_RPR_MGO3_Ghillie_Suit_TorsoDeco_C_M X2BodyPartTemplate]
+DisplayName="Ghille Suit - Torso Deco [Foliage Only]"
+
+
+[CNV_WotC_RPR_MGO3_Ghillie_Suit_TorsoDeco_C_F X2BodyPartTemplate]
+DisplayName="Ghille Suit - Torso Deco [Foliage Only]"
+
+[MPL_WotC_RPR_MGO3_Ghillie_Suit_TorsoDeco_C_F X2BodyPartTemplate]
+DisplayName="Ghille Suit - Torso Deco [Foliage Only]"
+
+[MPW_WotC_RPR_MGO3_Ghillie_Suit_TorsoDeco_C_F X2BodyPartTemplate]
+DisplayName="Ghille Suit - Torso Deco [Foliage Only]"
+
+;
+; Left Arm
+;
+
+
+[CNV_WotC_RPR_MGO3_Ghillie_Suit_Arm_Left_M X2BodyPartTemplate]
+DisplayName="Ghillie Suit - Left Arm"
+
+[CNV_WotC_RPR_MGO3_Ghillie_Suit_Arm_Left_F X2BodyPartTemplate]
+DisplayName="Ghillie Suit - Left Arm"
+
+
+[CNV_WotC_RPR_MGO3_Ghillie_Suit_Forearm_Left_M X2BodyPartTemplate]
+DisplayName="Ghillie Suit - Left Forearm"
+
+[MPL_WotC_RPR_MGO3_Ghillie_Suit_Forearm_Left_M X2BodyPartTemplate]
+DisplayName="Ghillie Suit - Left Forearm"
+
+[MPW_WotC_RPR_MGO3_Ghillie_Suit_Forearm_Left_M X2BodyPartTemplate]
+DisplayName="Ghillie Suit - Left Forearm"
+
+
+[CNV_WotC_RPR_MGO3_Ghillie_Suit_Forearm_Left_F X2BodyPartTemplate]
+DisplayName="Ghillie Suit - Left Forearm"
+
+[MPL_WotC_RPR_MGO3_Ghillie_Suit_Forearm_Left_F X2BodyPartTemplate]
+DisplayName="Ghillie Suit - Left Forearm"
+
+[MPW_WotC_RPR_MGO3_Ghillie_Suit_Forearm_Left_F X2BodyPartTemplate]
+DisplayName="Ghillie Suit - Left Forearm"
+
+;
+; Right Arm
+;
+
+[CNV_WotC_RPR_MGO3_Ghillie_Suit_Arm_Right_M X2BodyPartTemplate]
+DisplayName="Ghillie Suit - Right Arm"
+
+[CNV_WotC_RPR_MGO3_Ghillie_Suit_Arm_Right_F X2BodyPartTemplate]
+DisplayName="Ghillie Suit - Right Arm"
+
+
+[CNV_WotC_RPR_MGO3_Ghillie_Suit_Forearm_Right_M X2BodyPartTemplate]
+DisplayName="Ghillie Suit - Right Forearm"
+
+[MPL_WotC_RPR_MGO3_Ghillie_Suit_Forearm_Right_M X2BodyPartTemplate]
+DisplayName="Ghillie Suit - Right Forearm"
+
+[MPW_WotC_RPR_MGO3_Ghillie_Suit_Forearm_Right_M X2BodyPartTemplate]
+DisplayName="Ghillie Suit - Right Forearm"
+
+
+[CNV_WotC_RPR_MGO3_Ghillie_Suit_Forearm_Right_F X2BodyPartTemplate]
+DisplayName="Ghillie Suit - Right Forearm"
+
+[MPL_WotC_RPR_MGO3_Ghillie_Suit_Forearm_Right_F X2BodyPartTemplate]
+DisplayName="Ghillie Suit - Right Forearm"
+
+[MPW_WotC_RPR_MGO3_Ghillie_Suit_Forearm_Right_F X2BodyPartTemplate]
+DisplayName="Ghillie Suit - Right Forearm"
+
+;
+; Thighs
+;
+
+[CNV_WotC_RPR_MGO3_Ghillie_Suit_Thighs_A_M X2BodyPartTemplate]
+DisplayName="Ghillie Suit - Pistol Holster"
+
+[MPL_WotC_RPR_MGO3_Ghillie_Suit_Thighs_A_M X2BodyPartTemplate]
+DisplayName="Ghillie Suit - Pistol Holster"
+
+[MPW_WotC_RPR_MGO3_Ghillie_Suit_Thighs_A_M X2BodyPartTemplate]
+DisplayName="Ghillie Suit - Pistol Holster"
+
+
+[CNV_WotC_RPR_MGO3_Ghillie_Suit_Thighs_A_F X2BodyPartTemplate]
+DisplayName="Ghillie Suit - Pistol Holster"
+
+[MPL_WotC_RPR_MGO3_Ghillie_Suit_Thighs_A_F X2BodyPartTemplate]
+DisplayName="Ghillie Suit - Pistol Holster"
+
+[MPW_WotC_RPR_MGO3_Ghillie_Suit_Thighs_A_F X2BodyPartTemplate]
+DisplayName="Ghillie Suit - Pistol Holster"
+
+;
+; Shins
+;
+
+[CNV_WotC_RPR_MGO3_Ghillie_Suit_Shins_A_M X2BodyPartTemplate]
+DisplayName="Ghillie Suit - Foliage"
+
+[MPL_WotC_RPR_MGO3_Ghillie_Suit_Shins_A_M X2BodyPartTemplate]
+DisplayName="Ghillie Suit - Foliage"
+
+[MPW_WotC_RPR_MGO3_Ghillie_Suit_Shins_A_M X2BodyPartTemplate]
+DisplayName="Ghillie Suit - Foliage"
+
+
+[CNV_WotC_RPR_MGO3_Ghillie_Suit_Shins_A_F X2BodyPartTemplate]
+DisplayName="Ghillie Suit - Foliage"
+
+[MPL_WotC_RPR_MGO3_Ghillie_Suit_Shins_A_F X2BodyPartTemplate]
+DisplayName="Ghillie Suit - Foliage"
+
+[MPW_WotC_RPR_MGO3_Ghillie_Suit_Shins_A_F X2BodyPartTemplate]
+DisplayName="Ghillie Suit - Foliage"
+
+; ============================================================================================================================
+;
+;	Skirmisher
+;
+; ============================================================================================================================
+
+;
+; Torso Accessories
+;
+
+[CNV_WotC_SKR_MGO3_Ghillie_Suit_TorsoDeco_A_M X2BodyPartTemplate]
+DisplayName="Ghille Suit - Torso Deco [Default]"
+
+[MPL_WotC_SKR_MGO3_Ghillie_Suit_TorsoDeco_A_M X2BodyPartTemplate]
+DisplayName="Ghille Suit - Torso Deco [Default]"
+
+[MPW_WotC_SKR_MGO3_Ghillie_Suit_TorsoDeco_A_M X2BodyPartTemplate]
+DisplayName="Ghille Suit - Torso Deco [Default]"
+
+
+[CNV_WotC_SKR_MGO3_Ghillie_Suit_TorsoDeco_A_F X2BodyPartTemplate]
+DisplayName="Ghille Suit - Torso Deco [Default]"
+
+[MPL_WotC_SKR_MGO3_Ghillie_Suit_TorsoDeco_A_F X2BodyPartTemplate]
+DisplayName="Ghille Suit - Torso Deco [Default]"
+
+[MPW_WotC_SKR_MGO3_Ghillie_Suit_TorsoDeco_A_F X2BodyPartTemplate]
+DisplayName="Ghille Suit - Torso Deco [Default]"
+
+
+[CNV_WotC_SKR_MGO3_Ghillie_Suit_TorsoDeco_B_M X2BodyPartTemplate]
+DisplayName="Ghille Suit - Torso Deco [No Foliage]"
+
+[MPL_WotC_SKR_MGO3_Ghillie_Suit_TorsoDeco_B_M X2BodyPartTemplate]
+DisplayName="Ghille Suit - Torso Deco [No Foliage]"
+
+[MPW_WotC_SKR_MGO3_Ghillie_Suit_TorsoDeco_B_M X2BodyPartTemplate]
+DisplayName="Ghille Suit - Torso Deco [No Foliage]"
+
+
+[CNV_WotC_SKR_MGO3_Ghillie_Suit_TorsoDeco_B_F X2BodyPartTemplate]
+DisplayName="Ghille Suit - Torso Deco [No Foliage]"
+
+[MPL_WotC_SKR_MGO3_Ghillie_Suit_TorsoDeco_B_F X2BodyPartTemplate]
+DisplayName="Ghille Suit - Torso Deco [No Foliage]"
+
+[MPW_WotC_SKR_MGO3_Ghillie_Suit_TorsoDeco_B_F X2BodyPartTemplate]
+DisplayName="Ghille Suit - Torso Deco [No Foliage]"
+
+
+[CNV_WotC_SKR_MGO3_Ghillie_Suit_TorsoDeco_C_M X2BodyPartTemplate]
+DisplayName="Ghille Suit - Torso Deco [Foliage Only]"
+
+[MPL_WotC_SKR_MGO3_Ghillie_Suit_TorsoDeco_C_M X2BodyPartTemplate]
+DisplayName="Ghille Suit - Torso Deco [Foliage Only]"
+
+[MPW_WotC_SKR_MGO3_Ghillie_Suit_TorsoDeco_C_M X2BodyPartTemplate]
+DisplayName="Ghille Suit - Torso Deco [Foliage Only]"
+
+
+[CNV_WotC_SKR_MGO3_Ghillie_Suit_TorsoDeco_C_F X2BodyPartTemplate]
+DisplayName="Ghille Suit - Torso Deco [Foliage Only]"
+
+[MPL_WotC_SKR_MGO3_Ghillie_Suit_TorsoDeco_C_F X2BodyPartTemplate]
+DisplayName="Ghille Suit - Torso Deco [Foliage Only]"
+
+[MPW_WotC_SKR_MGO3_Ghillie_Suit_TorsoDeco_C_F X2BodyPartTemplate]
+DisplayName="Ghille Suit - Torso Deco [Foliage Only]"
+
+;
+; Left Arm
+;
+
+
+[CNV_WotC_SKR_MGO3_Ghillie_Suit_Arm_Left_M X2BodyPartTemplate]
+DisplayName="Ghillie Suit - Left Arm"
+
+[CNV_WotC_SKR_MGO3_Ghillie_Suit_Arm_Left_F X2BodyPartTemplate]
+DisplayName="Ghillie Suit - Left Arm"
+
+
+[CNV_WotC_SKR_MGO3_Ghillie_Suit_Forearm_Left_M X2BodyPartTemplate]
+DisplayName="Ghillie Suit - Left Forearm"
+
+[MPL_WotC_SKR_MGO3_Ghillie_Suit_Forearm_Left_M X2BodyPartTemplate]
+DisplayName="Ghillie Suit - Left Forearm"
+
+[MPW_WotC_SKR_MGO3_Ghillie_Suit_Forearm_Left_M X2BodyPartTemplate]
+DisplayName="Ghillie Suit - Left Forearm"
+
+
+[CNV_WotC_SKR_MGO3_Ghillie_Suit_Forearm_Left_F X2BodyPartTemplate]
+DisplayName="Ghillie Suit - Left Forearm"
+
+[MPL_WotC_SKR_MGO3_Ghillie_Suit_Forearm_Left_F X2BodyPartTemplate]
+DisplayName="Ghillie Suit - Left Forearm"
+
+[MPW_WotC_SKR_MGO3_Ghillie_Suit_Forearm_Left_F X2BodyPartTemplate]
+DisplayName="Ghillie Suit - Left Forearm"
+
+;
+; Right Arm
+;
+
+[CNV_WotC_SKR_MGO3_Ghillie_Suit_Arm_Right_M X2BodyPartTemplate]
+DisplayName="Ghillie Suit - Right Arm"
+
+[CNV_WotC_SKR_MGO3_Ghillie_Suit_Arm_Right_F X2BodyPartTemplate]
+DisplayName="Ghillie Suit - Right Arm"
+
+
+
+[CNV_WotC_SKR_MGO3_Ghillie_Suit_Forearm_Right_M X2BodyPartTemplate]
+DisplayName="Ghillie Suit - Right Forearm"
+
+[MPL_WotC_SKR_MGO3_Ghillie_Suit_Forearm_Right_M X2BodyPartTemplate]
+DisplayName="Ghillie Suit - Right Forearm"
+
+[MPW_WotC_SKR_MGO3_Ghillie_Suit_Forearm_Right_M X2BodyPartTemplate]
+DisplayName="Ghillie Suit - Right Forearm"
+
+
+[CNV_WotC_SKR_MGO3_Ghillie_Suit_Forearm_Right_F X2BodyPartTemplate]
+DisplayName="Ghillie Suit - Right Forearm"
+
+[MPL_WotC_SKR_MGO3_Ghillie_Suit_Forearm_Right_F X2BodyPartTemplate]
+DisplayName="Ghillie Suit - Right Forearm"
+
+[MPW_WotC_SKR_MGO3_Ghillie_Suit_Forearm_Right_F X2BodyPartTemplate]
+DisplayName="Ghillie Suit - Right Forearm"
+
+;
+; Thighs
+;
+
+[CNV_WotC_SKR_MGO3_Ghillie_Suit_Thighs_A_M X2BodyPartTemplate]
+DisplayName="Ghillie Suit - Pistol Holster"
+
+[MPL_WotC_SKR_MGO3_Ghillie_Suit_Thighs_A_M X2BodyPartTemplate]
+DisplayName="Ghillie Suit - Pistol Holster"
+
+[MPW_WotC_SKR_MGO3_Ghillie_Suit_Thighs_A_M X2BodyPartTemplate]
+DisplayName="Ghillie Suit - Pistol Holster"
+
+
+[CNV_WotC_SKR_MGO3_Ghillie_Suit_Thighs_A_F X2BodyPartTemplate]
+DisplayName="Ghillie Suit - Pistol Holster"
+
+[MPL_WotC_SKR_MGO3_Ghillie_Suit_Thighs_A_F X2BodyPartTemplate]
+DisplayName="Ghillie Suit - Pistol Holster"
+
+[MPW_WotC_SKR_MGO3_Ghillie_Suit_Thighs_A_F X2BodyPartTemplate]
+DisplayName="Ghillie Suit - Pistol Holster"
+
+;
+; Shins
+;
+
+[CNV_WotC_SKR_MGO3_Ghillie_Suit_Shins_A_M X2BodyPartTemplate]
+DisplayName="Ghillie Suit - Foliage"
+
+[MPL_WotC_SKR_MGO3_Ghillie_Suit_Shins_A_M X2BodyPartTemplate]
+DisplayName="Ghillie Suit - Foliage"
+
+[MPW_WotC_SKR_MGO3_Ghillie_Suit_Shins_A_M X2BodyPartTemplate]
+DisplayName="Ghillie Suit - Foliage"
+
+
+[CNV_WotC_SKR_MGO3_Ghillie_Suit_Shins_A_F X2BodyPartTemplate]
+DisplayName="Ghillie Suit - Foliage"
+
+[MPL_WotC_SKR_MGO3_Ghillie_Suit_Shins_A_F X2BodyPartTemplate]
+DisplayName="Ghillie Suit - Foliage"
+
+[MPW_WotC_SKR_MGO3_Ghillie_Suit_Shins_A_F X2BodyPartTemplate]
+DisplayName="Ghillie Suit - Foliage"
+
+; ============================================================================================================================
+;
+;	Templar
+;
+; ============================================================================================================================
+
+;
+; Torso Accessories
+;
+
+[CNV_WotC_TMP_MGO3_Ghillie_Suit_TorsoDeco_A_M X2BodyPartTemplate]
+DisplayName="Ghille Suit - Torso Deco [Default]"
+
+[MPL_WotC_TMP_MGO3_Ghillie_Suit_TorsoDeco_A_M X2BodyPartTemplate]
+DisplayName="Ghille Suit - Torso Deco [Default]"
+
+[MPW_WotC_TMP_MGO3_Ghillie_Suit_TorsoDeco_A_M X2BodyPartTemplate]
+DisplayName="Ghille Suit - Torso Deco [Default]"
+
+
+[CNV_WotC_TMP_MGO3_Ghillie_Suit_TorsoDeco_A_F X2BodyPartTemplate]
+DisplayName="Ghille Suit - Torso Deco [Default]"
+
+[MPL_WotC_TMP_MGO3_Ghillie_Suit_TorsoDeco_A_F X2BodyPartTemplate]
+DisplayName="Ghille Suit - Torso Deco [Default]"
+
+[MPW_WotC_TMP_MGO3_Ghillie_Suit_TorsoDeco_A_F X2BodyPartTemplate]
+DisplayName="Ghille Suit - Torso Deco [Default]"
+
+
+[CNV_WotC_TMP_MGO3_Ghillie_Suit_TorsoDeco_B_M X2BodyPartTemplate]
+DisplayName="Ghille Suit - Torso Deco [No Foliage]"
+
+[MPL_WotC_TMP_MGO3_Ghillie_Suit_TorsoDeco_B_M X2BodyPartTemplate]
+DisplayName="Ghille Suit - Torso Deco [No Foliage]"
+
+[MPW_WotC_TMP_MGO3_Ghillie_Suit_TorsoDeco_B_M X2BodyPartTemplate]
+DisplayName="Ghille Suit - Torso Deco [No Foliage]"
+
+
+[CNV_WotC_TMP_MGO3_Ghillie_Suit_TorsoDeco_B_F X2BodyPartTemplate]
+DisplayName="Ghille Suit - Torso Deco [No Foliage]"
+
+[MPL_WotC_TMP_MGO3_Ghillie_Suit_TorsoDeco_B_F X2BodyPartTemplate]
+DisplayName="Ghille Suit - Torso Deco [No Foliage]"
+
+[MPW_WotC_TMP_MGO3_Ghillie_Suit_TorsoDeco_B_F X2BodyPartTemplate]
+DisplayName="Ghille Suit - Torso Deco [No Foliage]"
+
+
+[CNV_WotC_TMP_MGO3_Ghillie_Suit_TorsoDeco_C_M X2BodyPartTemplate]
+DisplayName="Ghille Suit - Torso Deco [Foliage Only]"
+
+[MPL_WotC_TMP_MGO3_Ghillie_Suit_TorsoDeco_C_M X2BodyPartTemplate]
+DisplayName="Ghille Suit - Torso Deco [Foliage Only]"
+
+[MPW_WotC_TMP_MGO3_Ghillie_Suit_TorsoDeco_C_M X2BodyPartTemplate]
+DisplayName="Ghille Suit - Torso Deco [Foliage Only]"
+
+
+[CNV_WotC_TMP_MGO3_Ghillie_Suit_TorsoDeco_C_F X2BodyPartTemplate]
+DisplayName="Ghille Suit - Torso Deco [Foliage Only]"
+
+[MPL_WotC_TMP_MGO3_Ghillie_Suit_TorsoDeco_C_F X2BodyPartTemplate]
+DisplayName="Ghille Suit - Torso Deco [Foliage Only]"
+
+[MPW_WotC_TMP_MGO3_Ghillie_Suit_TorsoDeco_C_F X2BodyPartTemplate]
+DisplayName="Ghille Suit - Torso Deco [Foliage Only]"
+
+;
+; Left Arm
+;
+
+
+[CNV_WotC_TMP_MGO3_Ghillie_Suit_Arm_Left_M X2BodyPartTemplate]
+DisplayName="Ghillie Suit - Left Arm"
+
+[CNV_WotC_TMP_MGO3_Ghillie_Suit_Arm_Left_F X2BodyPartTemplate]
+DisplayName="Ghillie Suit - Left Arm"
+
+
+[CNV_WotC_TMP_MGO3_Ghillie_Suit_Forearm_Left_M X2BodyPartTemplate]
+DisplayName="Ghillie Suit - Left Forearm"
+
+[MPL_WotC_TMP_MGO3_Ghillie_Suit_Forearm_Left_M X2BodyPartTemplate]
+DisplayName="Ghillie Suit - Left Forearm"
+
+[MPW_WotC_TMP_MGO3_Ghillie_Suit_Forearm_Left_M X2BodyPartTemplate]
+DisplayName="Ghillie Suit - Left Forearm"
+
+
+[CNV_WotC_TMP_MGO3_Ghillie_Suit_Forearm_Left_F X2BodyPartTemplate]
+DisplayName="Ghillie Suit - Left Forearm"
+
+[MPL_WotC_TMP_MGO3_Ghillie_Suit_Forearm_Left_F X2BodyPartTemplate]
+DisplayName="Ghillie Suit - Left Forearm"
+
+[MPW_WotC_TMP_MGO3_Ghillie_Suit_Forearm_Left_F X2BodyPartTemplate]
+DisplayName="Ghillie Suit - Left Forearm"
+
+;
+; Right Arm
+;
+
+[CNV_WotC_TMP_MGO3_Ghillie_Suit_Arm_Right_M X2BodyPartTemplate]
+DisplayName="Ghillie Suit - Right Arm"
+
+[CNV_WotC_TMP_MGO3_Ghillie_Suit_Arm_Right_F X2BodyPartTemplate]
+DisplayName="Ghillie Suit - Right Arm"
+
+
+
+[CNV_WotC_TMP_MGO3_Ghillie_Suit_Forearm_Right_M X2BodyPartTemplate]
+DisplayName="Ghillie Suit - Right Forearm"
+
+[MPL_WotC_TMP_MGO3_Ghillie_Suit_Forearm_Right_M X2BodyPartTemplate]
+DisplayName="Ghillie Suit - Right Forearm"
+
+[MPW_WotC_TMP_MGO3_Ghillie_Suit_Forearm_Right_M X2BodyPartTemplate]
+DisplayName="Ghillie Suit - Right Forearm"
+
+
+[CNV_WotC_TMP_MGO3_Ghillie_Suit_Forearm_Right_F X2BodyPartTemplate]
+DisplayName="Ghillie Suit - Right Forearm"
+
+[MPL_WotC_TMP_MGO3_Ghillie_Suit_Forearm_Right_F X2BodyPartTemplate]
+DisplayName="Ghillie Suit - Right Forearm"
+
+[MPW_WotC_TMP_MGO3_Ghillie_Suit_Forearm_Right_F X2BodyPartTemplate]
+DisplayName="Ghillie Suit - Right Forearm"
+
+;
+; Thighs
+;
+
+[CNV_WotC_TMP_MGO3_Ghillie_Suit_Thighs_A_M X2BodyPartTemplate]
+DisplayName="Ghillie Suit - Pistol Holster"
+
+[MPL_WotC_TMP_MGO3_Ghillie_Suit_Thighs_A_M X2BodyPartTemplate]
+DisplayName="Ghillie Suit - Pistol Holster"
+
+[MPW_WotC_TMP_MGO3_Ghillie_Suit_Thighs_A_M X2BodyPartTemplate]
+DisplayName="Ghillie Suit - Pistol Holster"
+
+
+[CNV_WotC_TMP_MGO3_Ghillie_Suit_Thighs_A_F X2BodyPartTemplate]
+DisplayName="Ghillie Suit - Pistol Holster"
+
+[MPL_WotC_TMP_MGO3_Ghillie_Suit_Thighs_A_F X2BodyPartTemplate]
+DisplayName="Ghillie Suit - Pistol Holster"
+
+[MPW_WotC_TMP_MGO3_Ghillie_Suit_Thighs_A_F X2BodyPartTemplate]
+DisplayName="Ghillie Suit - Pistol Holster"
+
+;
+; Shins
+;
+
+[CNV_WotC_TMP_MGO3_Ghillie_Suit_Shins_A_M X2BodyPartTemplate]
+DisplayName="Ghillie Suit - Foliage"
+
+[MPL_WotC_TMP_MGO3_Ghillie_Suit_Shins_A_M X2BodyPartTemplate]
+DisplayName="Ghillie Suit - Foliage"
+
+[MPW_WotC_TMP_MGO3_Ghillie_Suit_Shins_A_M X2BodyPartTemplate]
+DisplayName="Ghillie Suit - Foliage"
+
+
+[CNV_WotC_TMP_MGO3_Ghillie_Suit_Shins_A_F X2BodyPartTemplate]
+DisplayName="Ghillie Suit - Foliage"
+
+[MPL_WotC_TMP_MGO3_Ghillie_Suit_Shins_A_F X2BodyPartTemplate]
+DisplayName="Ghillie Suit - Foliage"
+
+[MPW_WotC_TMP_MGO3_Ghillie_Suit_Shins_A_F X2BodyPartTemplate]
+DisplayName="Ghillie Suit - Foliage"

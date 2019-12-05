@@ -1,0 +1,9 @@
+[MD_WOTC_MWR_GND_STUN_M84_STD X2GrenadeTemplate]
+FriendlyName="M84 Stun Grenade"
+FriendlyNamePlural="M84 Stun Grenades"
+BriefSummary="The M84 Stun Grenade disrupts and disorients enemies in a very large radius, inflicting significant offensive penalties."
+TacticalText="<Bullet/> Flashbang grenades don't do damage, but disorient and disrupt enemies in a large radius.<br><Bullet/> Friendly squad members will not be affected."
+ThrownAbilityName="Throw M84 Stun Grenade"
+ThrownAbilityHelpText="Disorient all hostile targets in the affected area."
+LaunchedAbilityname="Launch M84 Stun Grenade"
+LaunchedAbilityHelpText="Disorient all hostile targets in the affected area."

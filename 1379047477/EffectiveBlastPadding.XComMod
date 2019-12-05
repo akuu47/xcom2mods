@@ -1,0 +1,5 @@
+﻿[mod]
+publishedFileId=1379047477
+Title=Effective Blast Padding
+Description=Makes explosions from cars and other destructibles be affected by blast padding.
+RequiresXPACK=true

@@ -1,0 +1,46 @@
+;
+; Arms
+;
+
+[CNV_WotC_SLD_MGSV_Boss_SneakingSuit_Open_Arm_Left_F X2BodyPartTemplate]
+DisplayName="Boss' Sneaking Suit - Left Arm [Open]"
+
+[LPL_WotC_SLD_MGSV_Boss_SneakingSuit_Open_Arm_Left_F X2BodyPartTemplate]
+DisplayName="Boss' Sneaking Suit - Left Arm [Open]"
+
+[MPL_WotC_SLD_MGSV_Boss_SneakingSuit_Open_Arm_Left_F X2BodyPartTemplate]
+DisplayName="Boss' Sneaking Suit - Left Arm [Open]"
+
+[HPL_WotC_SLD_MGSV_Boss_SneakingSuit_Open_Arm_Left_F X2BodyPartTemplate]
+DisplayName="Boss' Sneaking Suit - Left Arm [Open]"
+
+[LPW_WotC_SLD_MGSV_Boss_SneakingSuit_Open_Arm_Left_F X2BodyPartTemplate]
+DisplayName="Boss' Sneaking Suit - Left Arm [Open]"
+
+[MPW_WotC_SLD_MGSV_Boss_SneakingSuit_Open_Arm_Left_F X2BodyPartTemplate]
+DisplayName="Boss' Sneaking Suit - Left Arm [Open]"
+
+[HPW_WotC_SLD_MGSV_Boss_SneakingSuit_Open_Arm_Left_F X2BodyPartTemplate]
+DisplayName="Boss' Sneaking Suit - Left Arm [Open]"
+
+
+[CNV_WotC_SLD_MGSV_Boss_SneakingSuit_Open_Arm_Right_F X2BodyPartTemplate]
+DisplayName="Boss' Sneaking Suit - Right Arm [Open]"
+
+[LPL_WotC_SLD_MGSV_Boss_SneakingSuit_Open_Arm_Right_F X2BodyPartTemplate]
+DisplayName="Boss' Sneaking Suit - Right Arm [Open]"
+
+[MPL_WotC_SLD_MGSV_Boss_SneakingSuit_Open_Arm_Right_F X2BodyPartTemplate]
+DisplayName="Boss' Sneaking Suit - Right Arm [Open]"
+
+[HPL_WotC_SLD_MGSV_Boss_SneakingSuit_Open_Arm_Right_F X2BodyPartTemplate]
+DisplayName="Boss' Sneaking Suit - Right Arm [Open]"
+
+[LPW_WotC_SLD_MGSV_Boss_SneakingSuit_Open_Arm_Right_F X2BodyPartTemplate]
+DisplayName="Boss' Sneaking Suit - Right Arm [Open]"
+
+[MPW_WotC_SLD_MGSV_Boss_SneakingSuit_Open_Arm_Right_F X2BodyPartTemplate]
+DisplayName="Boss' Sneaking Suit - Right Arm [Open]"
+
+[HPW_WotC_SLD_MGSV_Boss_SneakingSuit_Open_Arm_Right_F X2BodyPartTemplate]
+DisplayName="Boss' Sneaking Suit - Right Arm [Open]"

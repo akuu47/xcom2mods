@@ -1,0 +1,41 @@
+[TC_WOTC_S79_XM16E1_T1 X2WeaponTemplate]
+FriendlyName="<font color='#ECECEC'><b>XM16E1</b></font>"
+FriendlyNamePlural="<font color='#ECECEC'><b>XM16E1s</b></font>"
+AbilityDescName="assault rifle"
+BriefSummary="The first of its kind, the Colt Model 603, or XM16E1, is a 30 round 5.56x45mm assault rifle capable of firing in single shot or automatic mode. This was issued to the US Marines during the beginning of the Vietnam war, to field test the weapon. This version was discarded as soon as the M16A1 were in full production, but how it survived all these years is uncertain. This rifle can accept attachments, including the replacement of the stock with a retractable one."
+TacticalText="<Bullet/>Type: Assault Rifle\n<Bullet/>Firing Profile: Full-Auto\n<Bullet/>Action: Gas-Operated, Rotating Bolt (direct impingement)\n<Bullet/>Cartridge: 5.56x45mm NATO\n<Bullet/>Origin: United States\n<Bullet/>Tier: Conventional"
+
+[TC_WOTC_S79_XM16E1_T2 X2WeaponTemplate]
+FriendlyName="<font color='#27AAE1'><b>MRS-16R0</b></font>"
+FriendlyNamePlural="<font color='#27AAE1'><b>MRS-16R0s</b></font>"
+AbilityDescName="assault rifle"
+BriefSummary="The first of its kind, the Colt Model 603, or XM16E1, is a 30 round 5.56x45mm assault rifle capable of firing in single shot or automatic mode. This was issued to the US Marines during the beginning of the Vietnam war, to field test the weapon. This version was discarded as soon as the M16A1 were in full production, but how it survived all these years is uncertain. This rifle can accept attachments, including the replacement of the stock with a retractable one.\n The magnetic upgrade reduces the recoil of the weapon, and substantially increase the range and damage output."
+TacticalText="<Bullet/>Type: Assault Rifle\n<Bullet/>Firing Profile: Full-Auto\n<Bullet/>Action: Gas-Operated, Rotating Bolt (direct impingement)\n<Bullet/>Cartridge: 5.56x45mm NATO\n<Bullet/>Origin: United States\n<Bullet/>Tier: Magnetic"
+
+[TC_WOTC_S79_XM16E1_T3 X2WeaponTemplate]
+FriendlyName="<font color='#CF4517'><b>XNV16/I01</b></font>"
+FriendlyNamePlural="<font color='#CF4517'><b>XNV16/I01s</b></font>"
+AbilityDescName="assault rifle"
+BriefSummary="The first of its kind, the Colt Model 603, or XM16E1, is a 30 round 5.56x45mm assault rifle capable of firing in single shot or automatic mode. This was issued to the US Marines during the beginning of the Vietnam war, to field test the weapon. This version was discarded as soon as the M16A1 were in full production, but how it survived all these years is uncertain. This rifle can accept attachments, including the replacement of the stock with a retractable one.\n With the beam research completed, we can replace the barrel with a custom high frequency barrel, allowing projectiles to travel beyond supersonic speeds, while further decreasing the recoil of the weapon."
+TacticalText="<Bullet/>Type: Assault Rifle\n<Bullet/>Firing Profile: Full-Auto\n<Bullet/>Action: Gas-Operated, Rotating Bolt (direct impingement)\n<Bullet/>Cartridge: 5.56x45mm NATO\n<Bullet/>Origin: United States\n<Bullet/>Tier: Beam"
+
+[TC_WOTC_SKR_S79_XM16E1_T1 X2WeaponTemplate]
+FriendlyName="<font color='#ECECEC'><b>XM16E1</b></font>"
+FriendlyNamePlural="<font color='#ECECEC'><b>XM16E1s</b></font>"
+AbilityDescName="assault rifle"
+BriefSummary="The first of its kind, the Colt Model 603, or XM16E1, is a 30 round 5.56x45mm assault rifle capable of firing in single shot or automatic mode. This was issued to the US Marines during the beginning of the Vietnam war, to field test the weapon. This version was discarded as soon as the M16A1 were in full production, but how it survived all these years is uncertain. This rifle can accept attachments, including the replacement of the stock with a retractable one."
+TacticalText="<Bullet/>Type: Assault Rifle\n<Bullet/>Firing Profile: Full-Auto\n<Bullet/>Action: Gas-Operated, Rotating Bolt (direct impingement)\n<Bullet/>Cartridge: 5.56x45mm NATO\n<Bullet/>Origin: United States\n<Bullet/>Tier: Conventional"
+
+[TC_WOTC_SKR_S79_XM16E1_T2 X2WeaponTemplate]
+FriendlyName="<font color='#27AAE1'><b>MRS-16R0</b></font>"
+FriendlyNamePlural="<font color='#27AAE1'><b>MRS-16R0s</b></font>"
+AbilityDescName="assault rifle"
+BriefSummary="The first of its kind, the Colt Model 603, or XM16E1, is a 30 round 5.56x45mm assault rifle capable of firing in single shot or automatic mode. This was issued to the US Marines during the beginning of the Vietnam war, to field test the weapon. This version was discarded as soon as the M16A1 were in full production, but how it survived all these years is uncertain. This rifle can accept attachments, including the replacement of the stock with a retractable one.\n The magnetic upgrade reduces the recoil of the weapon, and substantially increase the range and damage output."
+TacticalText="<Bullet/>Type: Assault Rifle\n<Bullet/>Firing Profile: Full-Auto\n<Bullet/>Action: Gas-Operated, Rotating Bolt (direct impingement)\n<Bullet/>Cartridge: 5.56x45mm NATO\n<Bullet/>Origin: United States\n<Bullet/>Tier: Magnetic"
+
+[TC_WOTC_SKR_S79_XM16E1_T3 X2WeaponTemplate]
+FriendlyName="<font color='#CF4517'><b>XNV16/I01</b></font>"
+FriendlyNamePlural="<font color='#CF4517'><b>XNV16/I01s</b></font>"
+AbilityDescName="assault rifle"
+BriefSummary="The first of its kind, the Colt Model 603, or XM16E1, is a 30 round 5.56x45mm assault rifle capable of firing in single shot or automatic mode. This was issued to the US Marines during the beginning of the Vietnam war, to field test the weapon. This version was discarded as soon as the M16A1 were in full production, but how it survived all these years is uncertain. This rifle can accept attachments, including the replacement of the stock with a retractable one.\n With the beam research completed, we can replace the barrel with a custom high frequency barrel, allowing projectiles to travel beyond supersonic speeds, while further decreasing the recoil of the weapon."
+TacticalText="<Bullet/>Type: Assault Rifle\n<Bullet/>Firing Profile: Full-Auto\n<Bullet/>Action: Gas-Operated, Rotating Bolt (direct impingement)\n<Bullet/>Cartridge: 5.56x45mm NATO\n<Bullet/>Origin: United States\n<Bullet/>Tier: Beam"

@@ -1,0 +1,92 @@
+[X2DownloadableContentInfo_AddedPartNames]
+
+;
+; SOLDIER
+;
+
+.TorsoTemplate="CNV_WotC_SLD_MGSV_CCCPSovietSneaking_Torso_Bare_M"
+.TorsoName="CCCP Sneaking Suit - Torso [Bare]"
+
+.TorsoTemplate="LPL_WotC_SLD_MGSV_CCCPSovietSneaking_Torso_Bare_M"
+.TorsoName="CCCP Sneaking Suit - Torso [Bare]"
+
+.TorsoTemplate="MPL_WotC_SLD_MGSV_CCCPSovietSneaking_Torso_Bare_M"
+.TorsoName="CCCP Sneaking Suit - Torso [Bare]"
+
+.TorsoTemplate="HPL_WotC_SLD_MGSV_CCCPSovietSneaking_Torso_Bare_M"
+.TorsoName="CCCP Sneaking Suit - Torso [Bare]"
+
+.TorsoTemplate="LPW_WotC_SLD_MGSV_CCCPSovietSneaking_Torso_Bare_M"
+.TorsoName="CCCP Sneaking Suit - Torso [Bare]"
+
+.TorsoTemplate="MPW_WotC_SLD_MGSV_CCCPSovietSneaking_Torso_Bare_M"
+.TorsoName="CCCP Sneaking Suit - Torso [Bare]"
+
+.TorsoTemplate="HPW_WotC_SLD_MGSV_CCCPSovietSneaking_Torso_Bare_M"
+.TorsoName="CCCP Sneaking Suit - Torso [Bare]"
+
+
+.TorsoTemplate="CNV_WotC_SLD_MGSV_CCCPSovietSneaking_Torso_All_M"
+.TorsoName="CCCP Sneaking Suit - Torso"
+
+.TorsoTemplate="LPL_WotC_SLD_MGSV_CCCPSovietSneaking_Torso_All_M"
+.TorsoName="CCCP Sneaking Suit - Torso"
+
+.TorsoTemplate="MPL_WotC_SLD_MGSV_CCCPSovietSneaking_Torso_All_M"
+.TorsoName="CCCP Sneaking Suit - Torso"
+
+.TorsoTemplate="HPL_WotC_SLD_MGSV_CCCPSovietSneaking_Torso_All_M"
+.TorsoName="CCCP Sneaking Suit - Torso"
+
+.TorsoTemplate="LPW_WotC_SLD_MGSV_CCCPSovietSneaking_Torso_All_M"
+.TorsoName="CCCP Sneaking Suit - Torso"
+
+.TorsoTemplate="MPW_WotC_SLD_MGSV_CCCPSovietSneaking_Torso_All_M"
+.TorsoName="CCCP Sneaking Suit - Torso"
+
+.TorsoTemplate="HPW_WotC_SLD_MGSV_CCCPSovietSneaking_Torso_All_M"
+.TorsoName="CCCP Sneaking Suit - Torso"
+
+
+.LegsTemplate="CNV_WotC_SLD_MGSV_CCCPSovietSneaking_Legs_Bare_M"
+.LegsName="CCCP Sneaking Suit - Legs [Bare]"
+
+.LegsTemplate="LPL_WotC_SLD_MGSV_CCCPSovietSneaking_Legs_Bare_M"
+.LegsName="CCCP Sneaking Suit - Legs [Bare]"
+
+.LegsTemplate="MPL_WotC_SLD_MGSV_CCCPSovietSneaking_Legs_Bare_M"
+.LegsName="CCCP Sneaking Suit - Legs [Bare]"
+
+.LegsTemplate="HPL_WotC_SLD_MGSV_CCCPSovietSneaking_Legs_Bare_M"
+.LegsName="CCCP Sneaking Suit - Legs [Bare]"
+
+.LegsTemplate="LPW_WotC_SLD_MGSV_CCCPSovietSneaking_Legs_Bare_M"
+.LegsName="CCCP Sneaking Suit - Legs [Bare]"
+
+.LegsTemplate="MPW_WotC_SLD_MGSV_CCCPSovietSneaking_Legs_Bare_M"
+.LegsName="CCCP Sneaking Suit - Legs [Bare]"
+
+
+.LegsTemplate="HPW_WotC_SLD_MGSV_CCCPSovietSneaking_Legs_All_M"
+.LegsName="CCCP Sneaking Suit - Legs"
+
+.LegsTemplate="CNV_WotC_SLD_MGSV_CCCPSovietSneaking_Legs_All_M"
+.LegsName="CCCP Sneaking Suit - Legs"
+
+.LegsTemplate="LPL_WotC_SLD_MGSV_CCCPSovietSneaking_Legs_All_M"
+.LegsName="CCCP Sneaking Suit - Legs"
+
+.LegsTemplate="MPL_WotC_SLD_MGSV_CCCPSovietSneaking_Legs_All_M"
+.LegsName="CCCP Sneaking Suit - Legs"
+
+.LegsTemplate="HPL_WotC_SLD_MGSV_CCCPSovietSneaking_Legs_All_M"
+.LegsName="CCCP Sneaking Suit - Legs"
+
+.LegsTemplate="LPW_WotC_SLD_MGSV_CCCPSovietSneaking_Legs_All_M"
+.LegsName="CCCP Sneaking Suit - Legs"
+
+.LegsTemplate="MPW_WotC_SLD_MGSV_CCCPSovietSneaking_Legs_All_M"
+.LegsName="CCCP Sneaking Suit - Legs"
+
+.LegsTemplate="HPW_WotC_SLD_MGSV_CCCPSovietSneaking_Legs_All_M"
+.LegsName="CCCP Sneaking Suit - Legs"

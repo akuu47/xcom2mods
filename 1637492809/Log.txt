@@ -1,0 +1,41 @@
+HISTORY
+
+Release ver: 1.202:
+[list]
+     [*]Fixed issue with the MGL-140 firing grenades after the recoil.
+[/list]
+
+Release ver: 1.201c:
+[list]
+     [*]Recompiled assets to conform with Update 1.300 of the Black Ops III Shared Assets mod.
+[/list]
+
+Release ver: 1.201b:
+[list]
+     [*]Recompiled assets to conform with Update 1.201 of the Black Ops III Shared Assets mod.
+[/list]
+
+Release ver: 1.201a:
+[list]
+     [*]Recompiled assets to conform with Update 1.200 of the Black Ops III Shared Assets mod.
+[/list]
+
+Release ver: 1.201:
+[list]
+     [*]Fixed an animation bug with the MGL-140 GL.
+[/list]
+
+Release ver: 1.200:
+[list]
+     [*]Changed the MGL-140's grenade firing animation to a quicker version without the pumping part, courtesy of Iridar.
+[/list]
+
+Release ver: 1.100:
+[list]
+     [*][url=https://steamcommunity.com/sharedfiles/filedetails/changelog/1637515824]See the changelog here on the main page[/url].
+[/list]
+
+Release ver: 1.000:
+[list]
+     [*]Initial release of this mod.
+[/list]

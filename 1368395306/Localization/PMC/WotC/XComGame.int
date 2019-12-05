@@ -1,0 +1,1480 @@
+
+; ============================================================================================================================
+;
+;	Reaper
+;
+; ============================================================================================================================
+
+;
+; Torso Accessories
+;
+
+[CNV_WotC_RPR_MGSV_PMC_HeavyArmor_TorsoDeco_M X2BodyPartTemplate]
+DisplayName="PMC Riot Suit - Accessories"
+
+[LPL_WotC_RPR_MGSV_PMC_HeavyArmor_TorsoDeco_M X2BodyPartTemplate]
+DisplayName="PMC Riot Suit - Accessories"
+
+[MPL_WotC_RPR_MGSV_PMC_HeavyArmor_TorsoDeco_M X2BodyPartTemplate]
+DisplayName="PMC Riot Suit - Accessories"
+
+[HPL_WotC_RPR_MGSV_PMC_HeavyArmor_TorsoDeco_M X2BodyPartTemplate]
+DisplayName="PMC Riot Suit - Accessories"
+
+[LPW_WotC_RPR_MGSV_PMC_HeavyArmor_TorsoDeco_M X2BodyPartTemplate]
+DisplayName="PMC Riot Suit - Accessories"
+
+[MPW_WotC_RPR_MGSV_PMC_HeavyArmor_TorsoDeco_M X2BodyPartTemplate]
+DisplayName="PMC Riot Suit - Accessories"
+
+[HPW_WotC_RPR_MGSV_PMC_HeavyArmor_TorsoDeco_M X2BodyPartTemplate]
+DisplayName="PMC Riot Suit - Accessories"
+
+
+[CNV_WotC_RPR_MGSV_PMC_HeavyArmor_TorsoDeco_F X2BodyPartTemplate]
+DisplayName="PMC Riot Suit - Accessories"
+
+[LPL_WotC_RPR_MGSV_PMC_HeavyArmor_TorsoDeco_F X2BodyPartTemplate]
+DisplayName="PMC Riot Suit - Accessories"
+
+[MPL_WotC_RPR_MGSV_PMC_HeavyArmor_TorsoDeco_F X2BodyPartTemplate]
+DisplayName="PMC Riot Suit - Accessories"
+
+[HPL_WotC_RPR_MGSV_PMC_HeavyArmor_TorsoDeco_F X2BodyPartTemplate]
+DisplayName="PMC Riot Suit - Accessories"
+
+[LPW_WotC_RPR_MGSV_PMC_HeavyArmor_TorsoDeco_F X2BodyPartTemplate]
+DisplayName="PMC Riot Suit - Accessories"
+
+[MPW_WotC_RPR_MGSV_PMC_HeavyArmor_TorsoDeco_F X2BodyPartTemplate]
+DisplayName="PMC Riot Suit - Accessories"
+
+[HPW_WotC_RPR_MGSV_PMC_HeavyArmor_TorsoDeco_F X2BodyPartTemplate]
+DisplayName="PMC Riot Suit - Accessories"
+
+;
+; Left Arm
+;
+
+[CNV_WotC_RPR_MGSV_PMC_HeavyArmor_Arms_Left_M X2BodyPartTemplate]
+DisplayName="PMC Riot Suit - Left Arm"
+
+[CNV_WotC_RPR_MGSV_PMC_HeavyArmor_Arms_Left_F X2BodyPartTemplate]
+DisplayName="PMC Riot Suit - Left Arm"
+
+;
+; Right Arm
+;
+
+[CNV_WotC_RPR_MGSV_PMC_HeavyArmor_Arms_Right_M X2BodyPartTemplate]
+DisplayName="PMC Riot Suit - Right Arm"
+
+[CNV_WotC_RPR_MGSV_PMC_HeavyArmor_Arms_Right_F X2BodyPartTemplate]
+DisplayName="PMC Riot Suit - Right Arm"
+
+
+
+;
+; Left Shoulder
+;
+
+[CNV_WotC_RPR_MGSV_PMC_HeavyArmor_Shoulder_Left_A1_M X2BodyPartTemplate]
+DisplayName="PMC Riot Suit - Left Pauldron [Strap]"
+
+[LPL_WotC_RPR_MGSV_PMC_HeavyArmor_Shoulder_Left_A1_M X2BodyPartTemplate]
+DisplayName="PMC Riot Suit - Left Pauldron [Strap]"
+
+[MPL_WotC_RPR_MGSV_PMC_HeavyArmor_Shoulder_Left_A1_M X2BodyPartTemplate]
+DisplayName="PMC Riot Suit - Left Pauldron [Strap]"
+
+[HPL_WotC_RPR_MGSV_PMC_HeavyArmor_Shoulder_Left_A1_M X2BodyPartTemplate]
+DisplayName="PMC Riot Suit - Left Pauldron [Strap]"
+
+[LPW_WotC_RPR_MGSV_PMC_HeavyArmor_Shoulder_Left_A1_M X2BodyPartTemplate]
+DisplayName="PMC Riot Suit - Left Pauldron [Strap]"
+
+[MPW_WotC_RPR_MGSV_PMC_HeavyArmor_Shoulder_Left_A1_M X2BodyPartTemplate]
+DisplayName="PMC Riot Suit - Left Pauldron [Strap]"
+
+[HPW_WotC_RPR_MGSV_PMC_HeavyArmor_Shoulder_Left_A1_M X2BodyPartTemplate]
+DisplayName="PMC Riot Suit - Left Pauldron [Strap]"
+
+
+[CNV_WotC_RPR_MGSV_PMC_HeavyArmor_Shoulder_Left_A1_F X2BodyPartTemplate]
+DisplayName="PMC Riot Suit - Left Pauldron [Strap]"
+
+[LPL_WotC_RPR_MGSV_PMC_HeavyArmor_Shoulder_Left_A1_F X2BodyPartTemplate]
+DisplayName="PMC Riot Suit - Left Pauldron [Strap]"
+
+[MPL_WotC_RPR_MGSV_PMC_HeavyArmor_Shoulder_Left_A1_F X2BodyPartTemplate]
+DisplayName="PMC Riot Suit - Left Pauldron [Strap]"
+
+[HPL_WotC_RPR_MGSV_PMC_HeavyArmor_Shoulder_Left_A1_F X2BodyPartTemplate]
+DisplayName="PMC Riot Suit - Left Pauldron [Strap]"
+
+[LPW_WotC_RPR_MGSV_PMC_HeavyArmor_Shoulder_Left_A1_F X2BodyPartTemplate]
+DisplayName="PMC Riot Suit - Left Pauldron [Strap]"
+
+[MPW_WotC_RPR_MGSV_PMC_HeavyArmor_Shoulder_Left_A1_F X2BodyPartTemplate]
+DisplayName="PMC Riot Suit - Left Pauldron [Strap]"
+
+[HPW_WotC_RPR_MGSV_PMC_HeavyArmor_Shoulder_Left_A1_F X2BodyPartTemplate]
+DisplayName="PMC Riot Suit - Left Pauldron [Strap]"
+
+
+
+[CNV_WotC_RPR_MGSV_PMC_HeavyArmor_Shoulder_Left_A2_M X2BodyPartTemplate]
+DisplayName="PMC Riot Suit - Left Pauldron [Strap][Patch]"
+
+[LPL_WotC_RPR_MGSV_PMC_HeavyArmor_Shoulder_Left_A2_M X2BodyPartTemplate]
+DisplayName="PMC Riot Suit - Left Pauldron [Strap][Patch]"
+
+[MPL_WotC_RPR_MGSV_PMC_HeavyArmor_Shoulder_Left_A2_M X2BodyPartTemplate]
+DisplayName="PMC Riot Suit - Left Pauldron [Strap][Patch]"
+
+[HPL_WotC_RPR_MGSV_PMC_HeavyArmor_Shoulder_Left_A2_M X2BodyPartTemplate]
+DisplayName="PMC Riot Suit - Left Pauldron [Strap][Patch]"
+
+[LPW_WotC_RPR_MGSV_PMC_HeavyArmor_Shoulder_Left_A2_M X2BodyPartTemplate]
+DisplayName="PMC Riot Suit - Left Pauldron [Strap][Patch]"
+
+[MPW_WotC_RPR_MGSV_PMC_HeavyArmor_Shoulder_Left_A2_M X2BodyPartTemplate]
+DisplayName="PMC Riot Suit - Left Pauldron [Strap][Patch]"
+
+[HPW_WotC_RPR_MGSV_PMC_HeavyArmor_Shoulder_Left_A2_M X2BodyPartTemplate]
+DisplayName="PMC Riot Suit - Left Pauldron [Strap][Patch]"
+
+
+[CNV_WotC_RPR_MGSV_PMC_HeavyArmor_Shoulder_Left_A2_F X2BodyPartTemplate]
+DisplayName="PMC Riot Suit - Left Pauldron [Strap][Patch]"
+
+[LPL_WotC_RPR_MGSV_PMC_HeavyArmor_Shoulder_Left_A2_F X2BodyPartTemplate]
+DisplayName="PMC Riot Suit - Left Pauldron [Strap][Patch]"
+
+[MPL_WotC_RPR_MGSV_PMC_HeavyArmor_Shoulder_Left_A2_F X2BodyPartTemplate]
+DisplayName="PMC Riot Suit - Left Pauldron [Strap][Patch]"
+
+[HPL_WotC_RPR_MGSV_PMC_HeavyArmor_Shoulder_Left_A2_F X2BodyPartTemplate]
+DisplayName="PMC Riot Suit - Left Pauldron [Strap][Patch]"
+
+[LPW_WotC_RPR_MGSV_PMC_HeavyArmor_Shoulder_Left_A2_F X2BodyPartTemplate]
+DisplayName="PMC Riot Suit - Left Pauldron [Strap][Patch]"
+
+[MPW_WotC_RPR_MGSV_PMC_HeavyArmor_Shoulder_Left_A2_F X2BodyPartTemplate]
+DisplayName="PMC Riot Suit - Left Pauldron [Strap][Patch]"
+
+[HPW_WotC_RPR_MGSV_PMC_HeavyArmor_Shoulder_Left_A2_F X2BodyPartTemplate]
+DisplayName="PMC Riot Suit - Left Pauldron [Strap][Patch]"
+
+;
+;
+;
+
+[CNV_WotC_RPR_MGSV_PMC_HeavyArmor_Shoulder_Left_B1_M X2BodyPartTemplate]
+DisplayName="PMC Riot Suit - Left Pauldron [Bare]"
+
+[LPL_WotC_RPR_MGSV_PMC_HeavyArmor_Shoulder_Left_B1_M X2BodyPartTemplate]
+DisplayName="PMC Riot Suit - Left Pauldron [Bare]"
+
+[MPL_WotC_RPR_MGSV_PMC_HeavyArmor_Shoulder_Left_B1_M X2BodyPartTemplate]
+DisplayName="PMC Riot Suit - Left Pauldron [Bare]"
+
+[HPL_WotC_RPR_MGSV_PMC_HeavyArmor_Shoulder_Left_B1_M X2BodyPartTemplate]
+DisplayName="PMC Riot Suit - Left Pauldron [Bare]"
+
+[LPW_WotC_RPR_MGSV_PMC_HeavyArmor_Shoulder_Left_B1_M X2BodyPartTemplate]
+DisplayName="PMC Riot Suit - Left Pauldron [Bare]"
+
+[MPW_WotC_RPR_MGSV_PMC_HeavyArmor_Shoulder_Left_B1_M X2BodyPartTemplate]
+DisplayName="PMC Riot Suit - Left Pauldron [Bare]"
+
+[HPW_WotC_RPR_MGSV_PMC_HeavyArmor_Shoulder_Left_B1_M X2BodyPartTemplate]
+DisplayName="PMC Riot Suit - Left Pauldron [Bare]"
+
+
+[CNV_WotC_RPR_MGSV_PMC_HeavyArmor_Shoulder_Left_B1_F X2BodyPartTemplate]
+DisplayName="PMC Riot Suit - Left Pauldron [Bare]"
+
+[LPL_WotC_RPR_MGSV_PMC_HeavyArmor_Shoulder_Left_B1_F X2BodyPartTemplate]
+DisplayName="PMC Riot Suit - Left Pauldron [Bare]"
+
+[MPL_WotC_RPR_MGSV_PMC_HeavyArmor_Shoulder_Left_B1_F X2BodyPartTemplate]
+DisplayName="PMC Riot Suit - Left Pauldron [Bare]"
+
+[HPL_WotC_RPR_MGSV_PMC_HeavyArmor_Shoulder_Left_B1_F X2BodyPartTemplate]
+DisplayName="PMC Riot Suit - Left Pauldron [Bare]"
+
+[LPW_WotC_RPR_MGSV_PMC_HeavyArmor_Shoulder_Left_B1_F X2BodyPartTemplate]
+DisplayName="PMC Riot Suit - Left Pauldron [Bare]"
+
+[MPW_WotC_RPR_MGSV_PMC_HeavyArmor_Shoulder_Left_B1_F X2BodyPartTemplate]
+DisplayName="PMC Riot Suit - Left Pauldron [Bare]"
+
+[HPW_WotC_RPR_MGSV_PMC_HeavyArmor_Shoulder_Left_B1_F X2BodyPartTemplate]
+DisplayName="PMC Riot Suit - Left Pauldron [Bare]"
+
+
+
+[CNV_WotC_RPR_MGSV_PMC_HeavyArmor_Shoulder_Left_B2_M X2BodyPartTemplate]
+DisplayName="PMC Riot Suit - Left Pauldron [Bare][Patch]"
+
+[LPL_WotC_RPR_MGSV_PMC_HeavyArmor_Shoulder_Left_B2_M X2BodyPartTemplate]
+DisplayName="PMC Riot Suit - Left Pauldron [Bare][Patch]"
+
+[MPL_WotC_RPR_MGSV_PMC_HeavyArmor_Shoulder_Left_B2_M X2BodyPartTemplate]
+DisplayName="PMC Riot Suit - Left Pauldron [Bare][Patch]"
+
+[HPL_WotC_RPR_MGSV_PMC_HeavyArmor_Shoulder_Left_B2_M X2BodyPartTemplate]
+DisplayName="PMC Riot Suit - Left Pauldron [Bare][Patch]"
+
+[LPW_WotC_RPR_MGSV_PMC_HeavyArmor_Shoulder_Left_B2_M X2BodyPartTemplate]
+DisplayName="PMC Riot Suit - Left Pauldron [Bare][Patch]"
+
+[MPW_WotC_RPR_MGSV_PMC_HeavyArmor_Shoulder_Left_B2_M X2BodyPartTemplate]
+DisplayName="PMC Riot Suit - Left Pauldron [Bare][Patch]"
+
+[HPW_WotC_RPR_MGSV_PMC_HeavyArmor_Shoulder_Left_B2_M X2BodyPartTemplate]
+DisplayName="PMC Riot Suit - Left Pauldron [Bare][Patch]"
+
+
+[CNV_WotC_RPR_MGSV_PMC_HeavyArmor_Shoulder_Left_B2_F X2BodyPartTemplate]
+DisplayName="PMC Riot Suit - Left Pauldron [Bare][Patch]"
+
+[LPL_WotC_RPR_MGSV_PMC_HeavyArmor_Shoulder_Left_B2_F X2BodyPartTemplate]
+DisplayName="PMC Riot Suit - Left Pauldron [Bare][Patch]"
+
+[MPL_WotC_RPR_MGSV_PMC_HeavyArmor_Shoulder_Left_B2_F X2BodyPartTemplate]
+DisplayName="PMC Riot Suit - Left Pauldron [Bare][Patch]"
+
+[HPL_WotC_RPR_MGSV_PMC_HeavyArmor_Shoulder_Left_B2_F X2BodyPartTemplate]
+DisplayName="PMC Riot Suit - Left Pauldron [Bare][Patch]"
+
+[LPW_WotC_RPR_MGSV_PMC_HeavyArmor_Shoulder_Left_B2_F X2BodyPartTemplate]
+DisplayName="PMC Riot Suit - Left Pauldron [Bare][Patch]"
+
+[MPW_WotC_RPR_MGSV_PMC_HeavyArmor_Shoulder_Left_B2_F X2BodyPartTemplate]
+DisplayName="PMC Riot Suit - Left Pauldron [Bare][Patch]"
+
+[HPW_WotC_RPR_MGSV_PMC_HeavyArmor_Shoulder_Left_B2_F X2BodyPartTemplate]
+DisplayName="PMC Riot Suit - Left Pauldron [Bare][Patch]"
+
+
+
+;
+; Right Shoulder
+;
+
+[CNV_WotC_RPR_MGSV_PMC_HeavyArmor_Shoulder_Right_A1_M X2BodyPartTemplate]
+DisplayName="PMC Riot Suit - Right Pauldron [Strap]"
+
+[LPL_WotC_RPR_MGSV_PMC_HeavyArmor_Shoulder_Right_A1_M X2BodyPartTemplate]
+DisplayName="PMC Riot Suit - Right Pauldron [Strap]"
+
+[MPL_WotC_RPR_MGSV_PMC_HeavyArmor_Shoulder_Right_A1_M X2BodyPartTemplate]
+DisplayName="PMC Riot Suit - Right Pauldron [Strap]"
+
+[HPL_WotC_RPR_MGSV_PMC_HeavyArmor_Shoulder_Right_A1_M X2BodyPartTemplate]
+DisplayName="PMC Riot Suit - Right Pauldron [Strap]"
+
+[LPW_WotC_RPR_MGSV_PMC_HeavyArmor_Shoulder_Right_A1_M X2BodyPartTemplate]
+DisplayName="PMC Riot Suit - Right Pauldron [Strap]"
+
+[MPW_WotC_RPR_MGSV_PMC_HeavyArmor_Shoulder_Right_A1_M X2BodyPartTemplate]
+DisplayName="PMC Riot Suit - Right Pauldron [Strap]"
+
+[HPW_WotC_RPR_MGSV_PMC_HeavyArmor_Shoulder_Right_A1_M X2BodyPartTemplate]
+DisplayName="PMC Riot Suit - Right Pauldron [Strap]"
+
+
+[CNV_WotC_RPR_MGSV_PMC_HeavyArmor_Shoulder_Right_A1_F X2BodyPartTemplate]
+DisplayName="PMC Riot Suit - Right Pauldron [Strap]"
+
+[LPL_WotC_RPR_MGSV_PMC_HeavyArmor_Shoulder_Right_A1_F X2BodyPartTemplate]
+DisplayName="PMC Riot Suit - Right Pauldron [Strap]"
+
+[MPL_WotC_RPR_MGSV_PMC_HeavyArmor_Shoulder_Right_A1_F X2BodyPartTemplate]
+DisplayName="PMC Riot Suit - Right Pauldron [Strap]"
+
+[HPL_WotC_RPR_MGSV_PMC_HeavyArmor_Shoulder_Right_A1_F X2BodyPartTemplate]
+DisplayName="PMC Riot Suit - Right Pauldron [Strap]"
+
+[LPW_WotC_RPR_MGSV_PMC_HeavyArmor_Shoulder_Right_A1_F X2BodyPartTemplate]
+DisplayName="PMC Riot Suit - Right Pauldron [Strap]"
+
+[MPW_WotC_RPR_MGSV_PMC_HeavyArmor_Shoulder_Right_A1_F X2BodyPartTemplate]
+DisplayName="PMC Riot Suit - Right Pauldron [Strap]"
+
+[HPW_WotC_RPR_MGSV_PMC_HeavyArmor_Shoulder_Right_A1_F X2BodyPartTemplate]
+DisplayName="PMC Riot Suit - Right Pauldron [Strap]"
+
+
+
+[CNV_WotC_RPR_MGSV_PMC_HeavyArmor_Shoulder_Right_A2_M X2BodyPartTemplate]
+DisplayName="PMC Riot Suit - Right Pauldron [Strap][Patch]"
+
+[LPL_WotC_RPR_MGSV_PMC_HeavyArmor_Shoulder_Right_A2_M X2BodyPartTemplate]
+DisplayName="PMC Riot Suit - Right Pauldron [Strap][Patch]"
+
+[MPL_WotC_RPR_MGSV_PMC_HeavyArmor_Shoulder_Right_A2_M X2BodyPartTemplate]
+DisplayName="PMC Riot Suit - Right Pauldron [Strap][Patch]"
+
+[HPL_WotC_RPR_MGSV_PMC_HeavyArmor_Shoulder_Right_A2_M X2BodyPartTemplate]
+DisplayName="PMC Riot Suit - Right Pauldron [Strap][Patch]"
+
+[LPW_WotC_RPR_MGSV_PMC_HeavyArmor_Shoulder_Right_A2_M X2BodyPartTemplate]
+DisplayName="PMC Riot Suit - Right Pauldron [Strap][Patch]"
+
+[MPW_WotC_RPR_MGSV_PMC_HeavyArmor_Shoulder_Right_A2_M X2BodyPartTemplate]
+DisplayName="PMC Riot Suit - Right Pauldron [Strap][Patch]"
+
+[HPW_WotC_RPR_MGSV_PMC_HeavyArmor_Shoulder_Right_A2_M X2BodyPartTemplate]
+DisplayName="PMC Riot Suit - Right Pauldron [Strap][Patch]"
+
+
+[CNV_WotC_RPR_MGSV_PMC_HeavyArmor_Shoulder_Right_A2_F X2BodyPartTemplate]
+DisplayName="PMC Riot Suit - Right Pauldron [Strap][Patch]"
+
+[LPL_WotC_RPR_MGSV_PMC_HeavyArmor_Shoulder_Right_A2_F X2BodyPartTemplate]
+DisplayName="PMC Riot Suit - Right Pauldron [Strap][Patch]"
+
+[MPL_WotC_RPR_MGSV_PMC_HeavyArmor_Shoulder_Right_A2_F X2BodyPartTemplate]
+DisplayName="PMC Riot Suit - Right Pauldron [Strap][Patch]"
+
+[HPL_WotC_RPR_MGSV_PMC_HeavyArmor_Shoulder_Right_A2_F X2BodyPartTemplate]
+DisplayName="PMC Riot Suit - Right Pauldron [Strap][Patch]"
+
+[LPW_WotC_RPR_MGSV_PMC_HeavyArmor_Shoulder_Right_A2_F X2BodyPartTemplate]
+DisplayName="PMC Riot Suit - Right Pauldron [Strap][Patch]"
+
+[MPW_WotC_RPR_MGSV_PMC_HeavyArmor_Shoulder_Right_A2_F X2BodyPartTemplate]
+DisplayName="PMC Riot Suit - Right Pauldron [Strap][Patch]"
+
+[HPW_WotC_RPR_MGSV_PMC_HeavyArmor_Shoulder_Right_A2_F X2BodyPartTemplate]
+DisplayName="PMC Riot Suit - Right Pauldron [Strap][Patch]"
+
+;
+;
+;
+
+[CNV_WotC_RPR_MGSV_PMC_HeavyArmor_Shoulder_Right_B1_M X2BodyPartTemplate]
+DisplayName="PMC Riot Suit - Right Pauldron [Bare]"
+
+[LPL_WotC_RPR_MGSV_PMC_HeavyArmor_Shoulder_Right_B1_M X2BodyPartTemplate]
+DisplayName="PMC Riot Suit - Right Pauldron [Bare]"
+
+[MPL_WotC_RPR_MGSV_PMC_HeavyArmor_Shoulder_Right_B1_M X2BodyPartTemplate]
+DisplayName="PMC Riot Suit - Right Pauldron [Bare]"
+
+[HPL_WotC_RPR_MGSV_PMC_HeavyArmor_Shoulder_Right_B1_M X2BodyPartTemplate]
+DisplayName="PMC Riot Suit - Right Pauldron [Bare]"
+
+[LPW_WotC_RPR_MGSV_PMC_HeavyArmor_Shoulder_Right_B1_M X2BodyPartTemplate]
+DisplayName="PMC Riot Suit - Right Pauldron [Bare]"
+
+[MPW_WotC_RPR_MGSV_PMC_HeavyArmor_Shoulder_Right_B1_M X2BodyPartTemplate]
+DisplayName="PMC Riot Suit - Right Pauldron [Bare]"
+
+[HPW_WotC_RPR_MGSV_PMC_HeavyArmor_Shoulder_Right_B1_M X2BodyPartTemplate]
+DisplayName="PMC Riot Suit - Right Pauldron [Bare]"
+
+
+[CNV_WotC_RPR_MGSV_PMC_HeavyArmor_Shoulder_Right_B1_F X2BodyPartTemplate]
+DisplayName="PMC Riot Suit - Right Pauldron [Bare]"
+
+[LPL_WotC_RPR_MGSV_PMC_HeavyArmor_Shoulder_Right_B1_F X2BodyPartTemplate]
+DisplayName="PMC Riot Suit - Right Pauldron [Bare]"
+
+[MPL_WotC_RPR_MGSV_PMC_HeavyArmor_Shoulder_Right_B1_F X2BodyPartTemplate]
+DisplayName="PMC Riot Suit - Right Pauldron [Bare]"
+
+[HPL_WotC_RPR_MGSV_PMC_HeavyArmor_Shoulder_Right_B1_F X2BodyPartTemplate]
+DisplayName="PMC Riot Suit - Right Pauldron [Bare]"
+
+[LPW_WotC_RPR_MGSV_PMC_HeavyArmor_Shoulder_Right_B1_F X2BodyPartTemplate]
+DisplayName="PMC Riot Suit - Right Pauldron [Bare]"
+
+[MPW_WotC_RPR_MGSV_PMC_HeavyArmor_Shoulder_Right_B1_F X2BodyPartTemplate]
+DisplayName="PMC Riot Suit - Right Pauldron [Bare]"
+
+[HPW_WotC_RPR_MGSV_PMC_HeavyArmor_Shoulder_Right_B1_F X2BodyPartTemplate]
+DisplayName="PMC Riot Suit - Right Pauldron [Bare]"
+
+
+
+[CNV_WotC_RPR_MGSV_PMC_HeavyArmor_Shoulder_Right_B2_M X2BodyPartTemplate]
+DisplayName="PMC Riot Suit - Right Pauldron [Bare][Patch]"
+
+[LPL_WotC_RPR_MGSV_PMC_HeavyArmor_Shoulder_Right_B2_M X2BodyPartTemplate]
+DisplayName="PMC Riot Suit - Right Pauldron [Bare][Patch]"
+
+[MPL_WotC_RPR_MGSV_PMC_HeavyArmor_Shoulder_Right_B2_M X2BodyPartTemplate]
+DisplayName="PMC Riot Suit - Right Pauldron [Bare][Patch]"
+
+[HPL_WotC_RPR_MGSV_PMC_HeavyArmor_Shoulder_Right_B2_M X2BodyPartTemplate]
+DisplayName="PMC Riot Suit - Right Pauldron [Bare][Patch]"
+
+[LPW_WotC_RPR_MGSV_PMC_HeavyArmor_Shoulder_Right_B2_M X2BodyPartTemplate]
+DisplayName="PMC Riot Suit - Right Pauldron [Bare][Patch]"
+
+[MPW_WotC_RPR_MGSV_PMC_HeavyArmor_Shoulder_Right_B2_M X2BodyPartTemplate]
+DisplayName="PMC Riot Suit - Right Pauldron [Bare][Patch]"
+
+[HPW_WotC_RPR_MGSV_PMC_HeavyArmor_Shoulder_Right_B2_M X2BodyPartTemplate]
+DisplayName="PMC Riot Suit - Right Pauldron [Bare][Patch]"
+
+
+[CNV_WotC_RPR_MGSV_PMC_HeavyArmor_Shoulder_Right_B2_F X2BodyPartTemplate]
+DisplayName="PMC Riot Suit - Right Pauldron [Bare][Patch]"
+
+[LPL_WotC_RPR_MGSV_PMC_HeavyArmor_Shoulder_Right_B2_F X2BodyPartTemplate]
+DisplayName="PMC Riot Suit - Right Pauldron [Bare][Patch]"
+
+[MPL_WotC_RPR_MGSV_PMC_HeavyArmor_Shoulder_Right_B2_F X2BodyPartTemplate]
+DisplayName="PMC Riot Suit - Right Pauldron [Bare][Patch]"
+
+[HPL_WotC_RPR_MGSV_PMC_HeavyArmor_Shoulder_Right_B2_F X2BodyPartTemplate]
+DisplayName="PMC Riot Suit - Right Pauldron [Bare][Patch]"
+
+[LPW_WotC_RPR_MGSV_PMC_HeavyArmor_Shoulder_Right_B2_F X2BodyPartTemplate]
+DisplayName="PMC Riot Suit - Right Pauldron [Bare][Patch]"
+
+[MPW_WotC_RPR_MGSV_PMC_HeavyArmor_Shoulder_Right_B2_F X2BodyPartTemplate]
+DisplayName="PMC Riot Suit - Right Pauldron [Bare][Patch]"
+
+[HPW_WotC_RPR_MGSV_PMC_HeavyArmor_Shoulder_Right_B2_F X2BodyPartTemplate]
+DisplayName="PMC Riot Suit - Right Pauldron [Bare][Patch]"
+
+;
+; Thighs
+;
+
+
+[CNV_WotC_RPR_MGSV_PMC_HeavyArmor_Thighs_A_M X2BodyPartTemplate]
+DisplayName="PMC Riot Suit - Thigh Acc."
+
+[LPL_WotC_RPR_MGSV_PMC_HeavyArmor_Thighs_A_M X2BodyPartTemplate]
+DisplayName="PMC Riot Suit - Thigh Acc."
+
+[MPL_WotC_RPR_MGSV_PMC_HeavyArmor_Thighs_A_M X2BodyPartTemplate]
+DisplayName="PMC Riot Suit - Thigh Acc."
+
+[HPL_WotC_RPR_MGSV_PMC_HeavyArmor_Thighs_A_M X2BodyPartTemplate]
+DisplayName="PMC Riot Suit - Thigh Acc."
+
+[LPW_WotC_RPR_MGSV_PMC_HeavyArmor_Thighs_A_M X2BodyPartTemplate]
+DisplayName="PMC Riot Suit - Thigh Acc."
+
+[MPW_WotC_RPR_MGSV_PMC_HeavyArmor_Thighs_A_M X2BodyPartTemplate]
+DisplayName="PMC Riot Suit - Thigh Acc."
+
+[HPW_WotC_RPR_MGSV_PMC_HeavyArmor_Thighs_A_M X2BodyPartTemplate]
+DisplayName="PMC Riot Suit - Thigh Acc."
+
+
+[CNV_WotC_RPR_MGSV_PMC_HeavyArmor_Thighs_A_F X2BodyPartTemplate]
+DisplayName="PMC Riot Suit - Thigh Acc."
+
+[LPL_WotC_RPR_MGSV_PMC_HeavyArmor_Thighs_A_F X2BodyPartTemplate]
+DisplayName="PMC Riot Suit - Thigh Acc."
+
+[MPL_WotC_RPR_MGSV_PMC_HeavyArmor_Thighs_A_F X2BodyPartTemplate]
+DisplayName="PMC Riot Suit - Thigh Acc."
+
+[HPL_WotC_RPR_MGSV_PMC_HeavyArmor_Thighs_A_F X2BodyPartTemplate]
+DisplayName="PMC Riot Suit - Thigh Acc."
+
+[LPW_WotC_RPR_MGSV_PMC_HeavyArmor_Thighs_A_F X2BodyPartTemplate]
+DisplayName="PMC Riot Suit - Thigh Acc."
+
+[MPW_WotC_RPR_MGSV_PMC_HeavyArmor_Thighs_A_F X2BodyPartTemplate]
+DisplayName="PMC Riot Suit - Thigh Acc."
+
+[HPW_WotC_RPR_MGSV_PMC_HeavyArmor_Thighs_A_F X2BodyPartTemplate]
+DisplayName="PMC Riot Suit - Thigh Acc."
+
+
+; ============================================================================================================================
+;
+;	Skirmisher
+;
+; ============================================================================================================================
+
+;
+; Torso Accessories
+;
+
+[CNV_WotC_SKR_MGSV_PMC_HeavyArmor_TorsoDeco_M X2BodyPartTemplate]
+DisplayName="PMC Riot Suit - Accessories"
+
+[LPL_WotC_SKR_MGSV_PMC_HeavyArmor_TorsoDeco_M X2BodyPartTemplate]
+DisplayName="PMC Riot Suit - Accessories"
+
+[MPL_WotC_SKR_MGSV_PMC_HeavyArmor_TorsoDeco_M X2BodyPartTemplate]
+DisplayName="PMC Riot Suit - Accessories"
+
+[HPL_WotC_SKR_MGSV_PMC_HeavyArmor_TorsoDeco_M X2BodyPartTemplate]
+DisplayName="PMC Riot Suit - Accessories"
+
+[LPW_WotC_SKR_MGSV_PMC_HeavyArmor_TorsoDeco_M X2BodyPartTemplate]
+DisplayName="PMC Riot Suit - Accessories"
+
+[MPW_WotC_SKR_MGSV_PMC_HeavyArmor_TorsoDeco_M X2BodyPartTemplate]
+DisplayName="PMC Riot Suit - Accessories"
+
+[HPW_WotC_SKR_MGSV_PMC_HeavyArmor_TorsoDeco_M X2BodyPartTemplate]
+DisplayName="PMC Riot Suit - Accessories"
+
+
+[CNV_WotC_SKR_MGSV_PMC_HeavyArmor_TorsoDeco_F X2BodyPartTemplate]
+DisplayName="PMC Riot Suit - Accessories"
+
+[LPL_WotC_SKR_MGSV_PMC_HeavyArmor_TorsoDeco_F X2BodyPartTemplate]
+DisplayName="PMC Riot Suit - Accessories"
+
+[MPL_WotC_SKR_MGSV_PMC_HeavyArmor_TorsoDeco_F X2BodyPartTemplate]
+DisplayName="PMC Riot Suit - Accessories"
+
+[HPL_WotC_SKR_MGSV_PMC_HeavyArmor_TorsoDeco_F X2BodyPartTemplate]
+DisplayName="PMC Riot Suit - Accessories"
+
+[LPW_WotC_SKR_MGSV_PMC_HeavyArmor_TorsoDeco_F X2BodyPartTemplate]
+DisplayName="PMC Riot Suit - Accessories"
+
+[MPW_WotC_SKR_MGSV_PMC_HeavyArmor_TorsoDeco_F X2BodyPartTemplate]
+DisplayName="PMC Riot Suit - Accessories"
+
+[HPW_WotC_SKR_MGSV_PMC_HeavyArmor_TorsoDeco_F X2BodyPartTemplate]
+DisplayName="PMC Riot Suit - Accessories"
+
+;
+; Left Arm
+;
+
+[CNV_WotC_SKR_MGSV_PMC_HeavyArmor_Arms_Left_M X2BodyPartTemplate]
+DisplayName="PMC Riot Suit - Left Arm"
+
+
+[CNV_WotC_SKR_MGSV_PMC_HeavyArmor_Arms_Left_F X2BodyPartTemplate]
+DisplayName="PMC Riot Suit - Left Arm"
+
+;
+; Right Arm
+;
+
+[CNV_WotC_SKR_MGSV_PMC_HeavyArmor_Arms_Right_M X2BodyPartTemplate]
+DisplayName="PMC Riot Suit - Right Arm"
+
+[CNV_WotC_SKR_MGSV_PMC_HeavyArmor_Arms_Right_F X2BodyPartTemplate]
+DisplayName="PMC Riot Suit - Right Arm"
+
+
+;
+; Left Shoulder
+;
+
+[CNV_WotC_SKR_MGSV_PMC_HeavyArmor_Shoulder_Left_A1_M X2BodyPartTemplate]
+DisplayName="PMC Riot Suit - Left Pauldron [Strap]"
+
+[LPL_WotC_SKR_MGSV_PMC_HeavyArmor_Shoulder_Left_A1_M X2BodyPartTemplate]
+DisplayName="PMC Riot Suit - Left Pauldron [Strap]"
+
+[MPL_WotC_SKR_MGSV_PMC_HeavyArmor_Shoulder_Left_A1_M X2BodyPartTemplate]
+DisplayName="PMC Riot Suit - Left Pauldron [Strap]"
+
+[HPL_WotC_SKR_MGSV_PMC_HeavyArmor_Shoulder_Left_A1_M X2BodyPartTemplate]
+DisplayName="PMC Riot Suit - Left Pauldron [Strap]"
+
+[LPW_WotC_SKR_MGSV_PMC_HeavyArmor_Shoulder_Left_A1_M X2BodyPartTemplate]
+DisplayName="PMC Riot Suit - Left Pauldron [Strap]"
+
+[MPW_WotC_SKR_MGSV_PMC_HeavyArmor_Shoulder_Left_A1_M X2BodyPartTemplate]
+DisplayName="PMC Riot Suit - Left Pauldron [Strap]"
+
+[HPW_WotC_SKR_MGSV_PMC_HeavyArmor_Shoulder_Left_A1_M X2BodyPartTemplate]
+DisplayName="PMC Riot Suit - Left Pauldron [Strap]"
+
+
+[CNV_WotC_SKR_MGSV_PMC_HeavyArmor_Shoulder_Left_A1_F X2BodyPartTemplate]
+DisplayName="PMC Riot Suit - Left Pauldron [Strap]"
+
+[LPL_WotC_SKR_MGSV_PMC_HeavyArmor_Shoulder_Left_A1_F X2BodyPartTemplate]
+DisplayName="PMC Riot Suit - Left Pauldron [Strap]"
+
+[MPL_WotC_SKR_MGSV_PMC_HeavyArmor_Shoulder_Left_A1_F X2BodyPartTemplate]
+DisplayName="PMC Riot Suit - Left Pauldron [Strap]"
+
+[HPL_WotC_SKR_MGSV_PMC_HeavyArmor_Shoulder_Left_A1_F X2BodyPartTemplate]
+DisplayName="PMC Riot Suit - Left Pauldron [Strap]"
+
+[LPW_WotC_SKR_MGSV_PMC_HeavyArmor_Shoulder_Left_A1_F X2BodyPartTemplate]
+DisplayName="PMC Riot Suit - Left Pauldron [Strap]"
+
+[MPW_WotC_SKR_MGSV_PMC_HeavyArmor_Shoulder_Left_A1_F X2BodyPartTemplate]
+DisplayName="PMC Riot Suit - Left Pauldron [Strap]"
+
+[HPW_WotC_SKR_MGSV_PMC_HeavyArmor_Shoulder_Left_A1_F X2BodyPartTemplate]
+DisplayName="PMC Riot Suit - Left Pauldron [Strap]"
+
+
+
+[CNV_WotC_SKR_MGSV_PMC_HeavyArmor_Shoulder_Left_A2_M X2BodyPartTemplate]
+DisplayName="PMC Riot Suit - Left Pauldron [Strap][Patch]"
+
+[LPL_WotC_SKR_MGSV_PMC_HeavyArmor_Shoulder_Left_A2_M X2BodyPartTemplate]
+DisplayName="PMC Riot Suit - Left Pauldron [Strap][Patch]"
+
+[MPL_WotC_SKR_MGSV_PMC_HeavyArmor_Shoulder_Left_A2_M X2BodyPartTemplate]
+DisplayName="PMC Riot Suit - Left Pauldron [Strap][Patch]"
+
+[HPL_WotC_SKR_MGSV_PMC_HeavyArmor_Shoulder_Left_A2_M X2BodyPartTemplate]
+DisplayName="PMC Riot Suit - Left Pauldron [Strap][Patch]"
+
+[LPW_WotC_SKR_MGSV_PMC_HeavyArmor_Shoulder_Left_A2_M X2BodyPartTemplate]
+DisplayName="PMC Riot Suit - Left Pauldron [Strap][Patch]"
+
+[MPW_WotC_SKR_MGSV_PMC_HeavyArmor_Shoulder_Left_A2_M X2BodyPartTemplate]
+DisplayName="PMC Riot Suit - Left Pauldron [Strap][Patch]"
+
+[HPW_WotC_SKR_MGSV_PMC_HeavyArmor_Shoulder_Left_A2_M X2BodyPartTemplate]
+DisplayName="PMC Riot Suit - Left Pauldron [Strap][Patch]"
+
+
+[CNV_WotC_SKR_MGSV_PMC_HeavyArmor_Shoulder_Left_A2_F X2BodyPartTemplate]
+DisplayName="PMC Riot Suit - Left Pauldron [Strap][Patch]"
+
+[LPL_WotC_SKR_MGSV_PMC_HeavyArmor_Shoulder_Left_A2_F X2BodyPartTemplate]
+DisplayName="PMC Riot Suit - Left Pauldron [Strap][Patch]"
+
+[MPL_WotC_SKR_MGSV_PMC_HeavyArmor_Shoulder_Left_A2_F X2BodyPartTemplate]
+DisplayName="PMC Riot Suit - Left Pauldron [Strap][Patch]"
+
+[HPL_WotC_SKR_MGSV_PMC_HeavyArmor_Shoulder_Left_A2_F X2BodyPartTemplate]
+DisplayName="PMC Riot Suit - Left Pauldron [Strap][Patch]"
+
+[LPW_WotC_SKR_MGSV_PMC_HeavyArmor_Shoulder_Left_A2_F X2BodyPartTemplate]
+DisplayName="PMC Riot Suit - Left Pauldron [Strap][Patch]"
+
+[MPW_WotC_SKR_MGSV_PMC_HeavyArmor_Shoulder_Left_A2_F X2BodyPartTemplate]
+DisplayName="PMC Riot Suit - Left Pauldron [Strap][Patch]"
+
+[HPW_WotC_SKR_MGSV_PMC_HeavyArmor_Shoulder_Left_A2_F X2BodyPartTemplate]
+DisplayName="PMC Riot Suit - Left Pauldron [Strap][Patch]"
+
+;
+;
+;
+
+[CNV_WotC_SKR_MGSV_PMC_HeavyArmor_Shoulder_Left_B1_M X2BodyPartTemplate]
+DisplayName="PMC Riot Suit - Left Pauldron [Bare]"
+
+[LPL_WotC_SKR_MGSV_PMC_HeavyArmor_Shoulder_Left_B1_M X2BodyPartTemplate]
+DisplayName="PMC Riot Suit - Left Pauldron [Bare]"
+
+[MPL_WotC_SKR_MGSV_PMC_HeavyArmor_Shoulder_Left_B1_M X2BodyPartTemplate]
+DisplayName="PMC Riot Suit - Left Pauldron [Bare]"
+
+[HPL_WotC_SKR_MGSV_PMC_HeavyArmor_Shoulder_Left_B1_M X2BodyPartTemplate]
+DisplayName="PMC Riot Suit - Left Pauldron [Bare]"
+
+[LPW_WotC_SKR_MGSV_PMC_HeavyArmor_Shoulder_Left_B1_M X2BodyPartTemplate]
+DisplayName="PMC Riot Suit - Left Pauldron [Bare]"
+
+[MPW_WotC_SKR_MGSV_PMC_HeavyArmor_Shoulder_Left_B1_M X2BodyPartTemplate]
+DisplayName="PMC Riot Suit - Left Pauldron [Bare]"
+
+[HPW_WotC_SKR_MGSV_PMC_HeavyArmor_Shoulder_Left_B1_M X2BodyPartTemplate]
+DisplayName="PMC Riot Suit - Left Pauldron [Bare]"
+
+
+[CNV_WotC_SKR_MGSV_PMC_HeavyArmor_Shoulder_Left_B1_F X2BodyPartTemplate]
+DisplayName="PMC Riot Suit - Left Pauldron [Bare]"
+
+[LPL_WotC_SKR_MGSV_PMC_HeavyArmor_Shoulder_Left_B1_F X2BodyPartTemplate]
+DisplayName="PMC Riot Suit - Left Pauldron [Bare]"
+
+[MPL_WotC_SKR_MGSV_PMC_HeavyArmor_Shoulder_Left_B1_F X2BodyPartTemplate]
+DisplayName="PMC Riot Suit - Left Pauldron [Bare]"
+
+[HPL_WotC_SKR_MGSV_PMC_HeavyArmor_Shoulder_Left_B1_F X2BodyPartTemplate]
+DisplayName="PMC Riot Suit - Left Pauldron [Bare]"
+
+[LPW_WotC_SKR_MGSV_PMC_HeavyArmor_Shoulder_Left_B1_F X2BodyPartTemplate]
+DisplayName="PMC Riot Suit - Left Pauldron [Bare]"
+
+[MPW_WotC_SKR_MGSV_PMC_HeavyArmor_Shoulder_Left_B1_F X2BodyPartTemplate]
+DisplayName="PMC Riot Suit - Left Pauldron [Bare]"
+
+[HPW_WotC_SKR_MGSV_PMC_HeavyArmor_Shoulder_Left_B1_F X2BodyPartTemplate]
+DisplayName="PMC Riot Suit - Left Pauldron [Bare]"
+
+
+
+[CNV_WotC_SKR_MGSV_PMC_HeavyArmor_Shoulder_Left_B2_M X2BodyPartTemplate]
+DisplayName="PMC Riot Suit - Left Pauldron [Bare][Patch]"
+
+[LPL_WotC_SKR_MGSV_PMC_HeavyArmor_Shoulder_Left_B2_M X2BodyPartTemplate]
+DisplayName="PMC Riot Suit - Left Pauldron [Bare][Patch]"
+
+[MPL_WotC_SKR_MGSV_PMC_HeavyArmor_Shoulder_Left_B2_M X2BodyPartTemplate]
+DisplayName="PMC Riot Suit - Left Pauldron [Bare][Patch]"
+
+[HPL_WotC_SKR_MGSV_PMC_HeavyArmor_Shoulder_Left_B2_M X2BodyPartTemplate]
+DisplayName="PMC Riot Suit - Left Pauldron [Bare][Patch]"
+
+[LPW_WotC_SKR_MGSV_PMC_HeavyArmor_Shoulder_Left_B2_M X2BodyPartTemplate]
+DisplayName="PMC Riot Suit - Left Pauldron [Bare][Patch]"
+
+[MPW_WotC_SKR_MGSV_PMC_HeavyArmor_Shoulder_Left_B2_M X2BodyPartTemplate]
+DisplayName="PMC Riot Suit - Left Pauldron [Bare][Patch]"
+
+[HPW_WotC_SKR_MGSV_PMC_HeavyArmor_Shoulder_Left_B2_M X2BodyPartTemplate]
+DisplayName="PMC Riot Suit - Left Pauldron [Bare][Patch]"
+
+
+[CNV_WotC_SKR_MGSV_PMC_HeavyArmor_Shoulder_Left_B2_F X2BodyPartTemplate]
+DisplayName="PMC Riot Suit - Left Pauldron [Bare][Patch]"
+
+[LPL_WotC_SKR_MGSV_PMC_HeavyArmor_Shoulder_Left_B2_F X2BodyPartTemplate]
+DisplayName="PMC Riot Suit - Left Pauldron [Bare][Patch]"
+
+[MPL_WotC_SKR_MGSV_PMC_HeavyArmor_Shoulder_Left_B2_F X2BodyPartTemplate]
+DisplayName="PMC Riot Suit - Left Pauldron [Bare][Patch]"
+
+[HPL_WotC_SKR_MGSV_PMC_HeavyArmor_Shoulder_Left_B2_F X2BodyPartTemplate]
+DisplayName="PMC Riot Suit - Left Pauldron [Bare][Patch]"
+
+[LPW_WotC_SKR_MGSV_PMC_HeavyArmor_Shoulder_Left_B2_F X2BodyPartTemplate]
+DisplayName="PMC Riot Suit - Left Pauldron [Bare][Patch]"
+
+[MPW_WotC_SKR_MGSV_PMC_HeavyArmor_Shoulder_Left_B2_F X2BodyPartTemplate]
+DisplayName="PMC Riot Suit - Left Pauldron [Bare][Patch]"
+
+[HPW_WotC_SKR_MGSV_PMC_HeavyArmor_Shoulder_Left_B2_F X2BodyPartTemplate]
+DisplayName="PMC Riot Suit - Left Pauldron [Bare][Patch]"
+
+
+
+;
+; Right Shoulder
+;
+
+[CNV_WotC_SKR_MGSV_PMC_HeavyArmor_Shoulder_Right_A1_M X2BodyPartTemplate]
+DisplayName="PMC Riot Suit - Right Pauldron [Strap]"
+
+[LPL_WotC_SKR_MGSV_PMC_HeavyArmor_Shoulder_Right_A1_M X2BodyPartTemplate]
+DisplayName="PMC Riot Suit - Right Pauldron [Strap]"
+
+[MPL_WotC_SKR_MGSV_PMC_HeavyArmor_Shoulder_Right_A1_M X2BodyPartTemplate]
+DisplayName="PMC Riot Suit - Right Pauldron [Strap]"
+
+[HPL_WotC_SKR_MGSV_PMC_HeavyArmor_Shoulder_Right_A1_M X2BodyPartTemplate]
+DisplayName="PMC Riot Suit - Right Pauldron [Strap]"
+
+[LPW_WotC_SKR_MGSV_PMC_HeavyArmor_Shoulder_Right_A1_M X2BodyPartTemplate]
+DisplayName="PMC Riot Suit - Right Pauldron [Strap]"
+
+[MPW_WotC_SKR_MGSV_PMC_HeavyArmor_Shoulder_Right_A1_M X2BodyPartTemplate]
+DisplayName="PMC Riot Suit - Right Pauldron [Strap]"
+
+[HPW_WotC_SKR_MGSV_PMC_HeavyArmor_Shoulder_Right_A1_M X2BodyPartTemplate]
+DisplayName="PMC Riot Suit - Right Pauldron [Strap]"
+
+
+[CNV_WotC_SKR_MGSV_PMC_HeavyArmor_Shoulder_Right_A1_F X2BodyPartTemplate]
+DisplayName="PMC Riot Suit - Right Pauldron [Strap]"
+
+[LPL_WotC_SKR_MGSV_PMC_HeavyArmor_Shoulder_Right_A1_F X2BodyPartTemplate]
+DisplayName="PMC Riot Suit - Right Pauldron [Strap]"
+
+[MPL_WotC_SKR_MGSV_PMC_HeavyArmor_Shoulder_Right_A1_F X2BodyPartTemplate]
+DisplayName="PMC Riot Suit - Right Pauldron [Strap]"
+
+[HPL_WotC_SKR_MGSV_PMC_HeavyArmor_Shoulder_Right_A1_F X2BodyPartTemplate]
+DisplayName="PMC Riot Suit - Right Pauldron [Strap]"
+
+[LPW_WotC_SKR_MGSV_PMC_HeavyArmor_Shoulder_Right_A1_F X2BodyPartTemplate]
+DisplayName="PMC Riot Suit - Right Pauldron [Strap]"
+
+[MPW_WotC_SKR_MGSV_PMC_HeavyArmor_Shoulder_Right_A1_F X2BodyPartTemplate]
+DisplayName="PMC Riot Suit - Right Pauldron [Strap]"
+
+[HPW_WotC_SKR_MGSV_PMC_HeavyArmor_Shoulder_Right_A1_F X2BodyPartTemplate]
+DisplayName="PMC Riot Suit - Right Pauldron [Strap]"
+
+
+
+[CNV_WotC_SKR_MGSV_PMC_HeavyArmor_Shoulder_Right_A2_M X2BodyPartTemplate]
+DisplayName="PMC Riot Suit - Right Pauldron [Strap][Patch]"
+
+[LPL_WotC_SKR_MGSV_PMC_HeavyArmor_Shoulder_Right_A2_M X2BodyPartTemplate]
+DisplayName="PMC Riot Suit - Right Pauldron [Strap][Patch]"
+
+[MPL_WotC_SKR_MGSV_PMC_HeavyArmor_Shoulder_Right_A2_M X2BodyPartTemplate]
+DisplayName="PMC Riot Suit - Right Pauldron [Strap][Patch]"
+
+[HPL_WotC_SKR_MGSV_PMC_HeavyArmor_Shoulder_Right_A2_M X2BodyPartTemplate]
+DisplayName="PMC Riot Suit - Right Pauldron [Strap][Patch]"
+
+[LPW_WotC_SKR_MGSV_PMC_HeavyArmor_Shoulder_Right_A2_M X2BodyPartTemplate]
+DisplayName="PMC Riot Suit - Right Pauldron [Strap][Patch]"
+
+[MPW_WotC_SKR_MGSV_PMC_HeavyArmor_Shoulder_Right_A2_M X2BodyPartTemplate]
+DisplayName="PMC Riot Suit - Right Pauldron [Strap][Patch]"
+
+[HPW_WotC_SKR_MGSV_PMC_HeavyArmor_Shoulder_Right_A2_M X2BodyPartTemplate]
+DisplayName="PMC Riot Suit - Right Pauldron [Strap][Patch]"
+
+
+[CNV_WotC_SKR_MGSV_PMC_HeavyArmor_Shoulder_Right_A2_F X2BodyPartTemplate]
+DisplayName="PMC Riot Suit - Right Pauldron [Strap][Patch]"
+
+[LPL_WotC_SKR_MGSV_PMC_HeavyArmor_Shoulder_Right_A2_F X2BodyPartTemplate]
+DisplayName="PMC Riot Suit - Right Pauldron [Strap][Patch]"
+
+[MPL_WotC_SKR_MGSV_PMC_HeavyArmor_Shoulder_Right_A2_F X2BodyPartTemplate]
+DisplayName="PMC Riot Suit - Right Pauldron [Strap][Patch]"
+
+[HPL_WotC_SKR_MGSV_PMC_HeavyArmor_Shoulder_Right_A2_F X2BodyPartTemplate]
+DisplayName="PMC Riot Suit - Right Pauldron [Strap][Patch]"
+
+[LPW_WotC_SKR_MGSV_PMC_HeavyArmor_Shoulder_Right_A2_F X2BodyPartTemplate]
+DisplayName="PMC Riot Suit - Right Pauldron [Strap][Patch]"
+
+[MPW_WotC_SKR_MGSV_PMC_HeavyArmor_Shoulder_Right_A2_F X2BodyPartTemplate]
+DisplayName="PMC Riot Suit - Right Pauldron [Strap][Patch]"
+
+[HPW_WotC_SKR_MGSV_PMC_HeavyArmor_Shoulder_Right_A2_F X2BodyPartTemplate]
+DisplayName="PMC Riot Suit - Right Pauldron [Strap][Patch]"
+
+;
+;
+;
+
+[CNV_WotC_SKR_MGSV_PMC_HeavyArmor_Shoulder_Right_B1_M X2BodyPartTemplate]
+DisplayName="PMC Riot Suit - Right Pauldron [Bare]"
+
+[LPL_WotC_SKR_MGSV_PMC_HeavyArmor_Shoulder_Right_B1_M X2BodyPartTemplate]
+DisplayName="PMC Riot Suit - Right Pauldron [Bare]"
+
+[MPL_WotC_SKR_MGSV_PMC_HeavyArmor_Shoulder_Right_B1_M X2BodyPartTemplate]
+DisplayName="PMC Riot Suit - Right Pauldron [Bare]"
+
+[HPL_WotC_SKR_MGSV_PMC_HeavyArmor_Shoulder_Right_B1_M X2BodyPartTemplate]
+DisplayName="PMC Riot Suit - Right Pauldron [Bare]"
+
+[LPW_WotC_SKR_MGSV_PMC_HeavyArmor_Shoulder_Right_B1_M X2BodyPartTemplate]
+DisplayName="PMC Riot Suit - Right Pauldron [Bare]"
+
+[MPW_WotC_SKR_MGSV_PMC_HeavyArmor_Shoulder_Right_B1_M X2BodyPartTemplate]
+DisplayName="PMC Riot Suit - Right Pauldron [Bare]"
+
+[HPW_WotC_SKR_MGSV_PMC_HeavyArmor_Shoulder_Right_B1_M X2BodyPartTemplate]
+DisplayName="PMC Riot Suit - Right Pauldron [Bare]"
+
+
+[CNV_WotC_SKR_MGSV_PMC_HeavyArmor_Shoulder_Right_B1_F X2BodyPartTemplate]
+DisplayName="PMC Riot Suit - Right Pauldron [Bare]"
+
+[LPL_WotC_SKR_MGSV_PMC_HeavyArmor_Shoulder_Right_B1_F X2BodyPartTemplate]
+DisplayName="PMC Riot Suit - Right Pauldron [Bare]"
+
+[MPL_WotC_SKR_MGSV_PMC_HeavyArmor_Shoulder_Right_B1_F X2BodyPartTemplate]
+DisplayName="PMC Riot Suit - Right Pauldron [Bare]"
+
+[HPL_WotC_SKR_MGSV_PMC_HeavyArmor_Shoulder_Right_B1_F X2BodyPartTemplate]
+DisplayName="PMC Riot Suit - Right Pauldron [Bare]"
+
+[LPW_WotC_SKR_MGSV_PMC_HeavyArmor_Shoulder_Right_B1_F X2BodyPartTemplate]
+DisplayName="PMC Riot Suit - Right Pauldron [Bare]"
+
+[MPW_WotC_SKR_MGSV_PMC_HeavyArmor_Shoulder_Right_B1_F X2BodyPartTemplate]
+DisplayName="PMC Riot Suit - Right Pauldron [Bare]"
+
+[HPW_WotC_SKR_MGSV_PMC_HeavyArmor_Shoulder_Right_B1_F X2BodyPartTemplate]
+DisplayName="PMC Riot Suit - Right Pauldron [Bare]"
+
+
+
+[CNV_WotC_SKR_MGSV_PMC_HeavyArmor_Shoulder_Right_B2_M X2BodyPartTemplate]
+DisplayName="PMC Riot Suit - Right Pauldron [Bare][Patch]"
+
+[LPL_WotC_SKR_MGSV_PMC_HeavyArmor_Shoulder_Right_B2_M X2BodyPartTemplate]
+DisplayName="PMC Riot Suit - Right Pauldron [Bare][Patch]"
+
+[MPL_WotC_SKR_MGSV_PMC_HeavyArmor_Shoulder_Right_B2_M X2BodyPartTemplate]
+DisplayName="PMC Riot Suit - Right Pauldron [Bare][Patch]"
+
+[HPL_WotC_SKR_MGSV_PMC_HeavyArmor_Shoulder_Right_B2_M X2BodyPartTemplate]
+DisplayName="PMC Riot Suit - Right Pauldron [Bare][Patch]"
+
+[LPW_WotC_SKR_MGSV_PMC_HeavyArmor_Shoulder_Right_B2_M X2BodyPartTemplate]
+DisplayName="PMC Riot Suit - Right Pauldron [Bare][Patch]"
+
+[MPW_WotC_SKR_MGSV_PMC_HeavyArmor_Shoulder_Right_B2_M X2BodyPartTemplate]
+DisplayName="PMC Riot Suit - Right Pauldron [Bare][Patch]"
+
+[HPW_WotC_SKR_MGSV_PMC_HeavyArmor_Shoulder_Right_B2_M X2BodyPartTemplate]
+DisplayName="PMC Riot Suit - Right Pauldron [Bare][Patch]"
+
+
+[CNV_WotC_SKR_MGSV_PMC_HeavyArmor_Shoulder_Right_B2_F X2BodyPartTemplate]
+DisplayName="PMC Riot Suit - Right Pauldron [Bare][Patch]"
+
+[LPL_WotC_SKR_MGSV_PMC_HeavyArmor_Shoulder_Right_B2_F X2BodyPartTemplate]
+DisplayName="PMC Riot Suit - Right Pauldron [Bare][Patch]"
+
+[MPL_WotC_SKR_MGSV_PMC_HeavyArmor_Shoulder_Right_B2_F X2BodyPartTemplate]
+DisplayName="PMC Riot Suit - Right Pauldron [Bare][Patch]"
+
+[HPL_WotC_SKR_MGSV_PMC_HeavyArmor_Shoulder_Right_B2_F X2BodyPartTemplate]
+DisplayName="PMC Riot Suit - Right Pauldron [Bare][Patch]"
+
+[LPW_WotC_SKR_MGSV_PMC_HeavyArmor_Shoulder_Right_B2_F X2BodyPartTemplate]
+DisplayName="PMC Riot Suit - Right Pauldron [Bare][Patch]"
+
+[MPW_WotC_SKR_MGSV_PMC_HeavyArmor_Shoulder_Right_B2_F X2BodyPartTemplate]
+DisplayName="PMC Riot Suit - Right Pauldron [Bare][Patch]"
+
+[HPW_WotC_SKR_MGSV_PMC_HeavyArmor_Shoulder_Right_B2_F X2BodyPartTemplate]
+DisplayName="PMC Riot Suit - Right Pauldron [Bare][Patch]"
+
+;
+; Thighs
+;
+
+
+[CNV_WotC_SKR_MGSV_PMC_HeavyArmor_Thighs_A_M X2BodyPartTemplate]
+DisplayName="PMC Riot Suit - Thigh Acc."
+
+[LPL_WotC_SKR_MGSV_PMC_HeavyArmor_Thighs_A_M X2BodyPartTemplate]
+DisplayName="PMC Riot Suit - Thigh Acc."
+
+[MPL_WotC_SKR_MGSV_PMC_HeavyArmor_Thighs_A_M X2BodyPartTemplate]
+DisplayName="PMC Riot Suit - Thigh Acc."
+
+[HPL_WotC_SKR_MGSV_PMC_HeavyArmor_Thighs_A_M X2BodyPartTemplate]
+DisplayName="PMC Riot Suit - Thigh Acc."
+
+[LPW_WotC_SKR_MGSV_PMC_HeavyArmor_Thighs_A_M X2BodyPartTemplate]
+DisplayName="PMC Riot Suit - Thigh Acc."
+
+[MPW_WotC_SKR_MGSV_PMC_HeavyArmor_Thighs_A_M X2BodyPartTemplate]
+DisplayName="PMC Riot Suit - Thigh Acc."
+
+[HPW_WotC_SKR_MGSV_PMC_HeavyArmor_Thighs_A_M X2BodyPartTemplate]
+DisplayName="PMC Riot Suit - Thigh Acc."
+
+
+[CNV_WotC_SKR_MGSV_PMC_HeavyArmor_Thighs_A_F X2BodyPartTemplate]
+DisplayName="PMC Riot Suit - Thigh Acc."
+
+[LPL_WotC_SKR_MGSV_PMC_HeavyArmor_Thighs_A_F X2BodyPartTemplate]
+DisplayName="PMC Riot Suit - Thigh Acc."
+
+[MPL_WotC_SKR_MGSV_PMC_HeavyArmor_Thighs_A_F X2BodyPartTemplate]
+DisplayName="PMC Riot Suit - Thigh Acc."
+
+[HPL_WotC_SKR_MGSV_PMC_HeavyArmor_Thighs_A_F X2BodyPartTemplate]
+DisplayName="PMC Riot Suit - Thigh Acc."
+
+[LPW_WotC_SKR_MGSV_PMC_HeavyArmor_Thighs_A_F X2BodyPartTemplate]
+DisplayName="PMC Riot Suit - Thigh Acc."
+
+[MPW_WotC_SKR_MGSV_PMC_HeavyArmor_Thighs_A_F X2BodyPartTemplate]
+DisplayName="PMC Riot Suit - Thigh Acc."
+
+[HPW_WotC_SKR_MGSV_PMC_HeavyArmor_Thighs_A_F X2BodyPartTemplate]
+DisplayName="PMC Riot Suit - Thigh Acc."
+
+
+; ============================================================================================================================
+;
+;	Templar
+;
+; ============================================================================================================================
+
+;
+; Torso Accessories
+;
+
+[CNV_WotC_TMP_MGSV_PMC_HeavyArmor_TorsoDeco_M X2BodyPartTemplate]
+DisplayName="PMC Riot Suit - Accessories"
+
+[LPL_WotC_TMP_MGSV_PMC_HeavyArmor_TorsoDeco_M X2BodyPartTemplate]
+DisplayName="PMC Riot Suit - Accessories"
+
+[MPL_WotC_TMP_MGSV_PMC_HeavyArmor_TorsoDeco_M X2BodyPartTemplate]
+DisplayName="PMC Riot Suit - Accessories"
+
+[HPL_WotC_TMP_MGSV_PMC_HeavyArmor_TorsoDeco_M X2BodyPartTemplate]
+DisplayName="PMC Riot Suit - Accessories"
+
+[LPW_WotC_TMP_MGSV_PMC_HeavyArmor_TorsoDeco_M X2BodyPartTemplate]
+DisplayName="PMC Riot Suit - Accessories"
+
+[MPW_WotC_TMP_MGSV_PMC_HeavyArmor_TorsoDeco_M X2BodyPartTemplate]
+DisplayName="PMC Riot Suit - Accessories"
+
+[HPW_WotC_TMP_MGSV_PMC_HeavyArmor_TorsoDeco_M X2BodyPartTemplate]
+DisplayName="PMC Riot Suit - Accessories"
+
+
+[CNV_WotC_TMP_MGSV_PMC_HeavyArmor_TorsoDeco_F X2BodyPartTemplate]
+DisplayName="PMC Riot Suit - Accessories"
+
+[LPL_WotC_TMP_MGSV_PMC_HeavyArmor_TorsoDeco_F X2BodyPartTemplate]
+DisplayName="PMC Riot Suit - Accessories"
+
+[MPL_WotC_TMP_MGSV_PMC_HeavyArmor_TorsoDeco_F X2BodyPartTemplate]
+DisplayName="PMC Riot Suit - Accessories"
+
+[HPL_WotC_TMP_MGSV_PMC_HeavyArmor_TorsoDeco_F X2BodyPartTemplate]
+DisplayName="PMC Riot Suit - Accessories"
+
+[LPW_WotC_TMP_MGSV_PMC_HeavyArmor_TorsoDeco_F X2BodyPartTemplate]
+DisplayName="PMC Riot Suit - Accessories"
+
+[MPW_WotC_TMP_MGSV_PMC_HeavyArmor_TorsoDeco_F X2BodyPartTemplate]
+DisplayName="PMC Riot Suit - Accessories"
+
+[HPW_WotC_TMP_MGSV_PMC_HeavyArmor_TorsoDeco_F X2BodyPartTemplate]
+DisplayName="PMC Riot Suit - Accessories"
+
+;
+; Left Arm
+;
+
+[CNV_WotC_TMP_MGSV_PMC_HeavyArmor_Arms_Left_M X2BodyPartTemplate]
+DisplayName="PMC Riot Suit - Left Arm"
+
+[CNV_WotC_TMP_MGSV_PMC_HeavyArmor_Arms_Left_F X2BodyPartTemplate]
+DisplayName="PMC Riot Suit - Left Arm"
+
+;
+; Right Arm
+;
+
+[CNV_WotC_TMP_MGSV_PMC_HeavyArmor_Arms_Right_M X2BodyPartTemplate]
+DisplayName="PMC Riot Suit - Right Arm"
+
+[CNV_WotC_TMP_MGSV_PMC_HeavyArmor_Arms_Right_F X2BodyPartTemplate]
+DisplayName="PMC Riot Suit - Right Arm"
+
+
+;
+; Left Shoulder
+;
+
+[CNV_WotC_TMP_MGSV_PMC_HeavyArmor_Shoulder_Left_A1_M X2BodyPartTemplate]
+DisplayName="PMC Riot Suit - Left Pauldron [Strap]"
+
+[LPL_WotC_TMP_MGSV_PMC_HeavyArmor_Shoulder_Left_A1_M X2BodyPartTemplate]
+DisplayName="PMC Riot Suit - Left Pauldron [Strap]"
+
+[MPL_WotC_TMP_MGSV_PMC_HeavyArmor_Shoulder_Left_A1_M X2BodyPartTemplate]
+DisplayName="PMC Riot Suit - Left Pauldron [Strap]"
+
+[HPL_WotC_TMP_MGSV_PMC_HeavyArmor_Shoulder_Left_A1_M X2BodyPartTemplate]
+DisplayName="PMC Riot Suit - Left Pauldron [Strap]"
+
+[LPW_WotC_TMP_MGSV_PMC_HeavyArmor_Shoulder_Left_A1_M X2BodyPartTemplate]
+DisplayName="PMC Riot Suit - Left Pauldron [Strap]"
+
+[MPW_WotC_TMP_MGSV_PMC_HeavyArmor_Shoulder_Left_A1_M X2BodyPartTemplate]
+DisplayName="PMC Riot Suit - Left Pauldron [Strap]"
+
+[HPW_WotC_TMP_MGSV_PMC_HeavyArmor_Shoulder_Left_A1_M X2BodyPartTemplate]
+DisplayName="PMC Riot Suit - Left Pauldron [Strap]"
+
+
+[CNV_WotC_TMP_MGSV_PMC_HeavyArmor_Shoulder_Left_A1_F X2BodyPartTemplate]
+DisplayName="PMC Riot Suit - Left Pauldron [Strap]"
+
+[LPL_WotC_TMP_MGSV_PMC_HeavyArmor_Shoulder_Left_A1_F X2BodyPartTemplate]
+DisplayName="PMC Riot Suit - Left Pauldron [Strap]"
+
+[MPL_WotC_TMP_MGSV_PMC_HeavyArmor_Shoulder_Left_A1_F X2BodyPartTemplate]
+DisplayName="PMC Riot Suit - Left Pauldron [Strap]"
+
+[HPL_WotC_TMP_MGSV_PMC_HeavyArmor_Shoulder_Left_A1_F X2BodyPartTemplate]
+DisplayName="PMC Riot Suit - Left Pauldron [Strap]"
+
+[LPW_WotC_TMP_MGSV_PMC_HeavyArmor_Shoulder_Left_A1_F X2BodyPartTemplate]
+DisplayName="PMC Riot Suit - Left Pauldron [Strap]"
+
+[MPW_WotC_TMP_MGSV_PMC_HeavyArmor_Shoulder_Left_A1_F X2BodyPartTemplate]
+DisplayName="PMC Riot Suit - Left Pauldron [Strap]"
+
+[HPW_WotC_TMP_MGSV_PMC_HeavyArmor_Shoulder_Left_A1_F X2BodyPartTemplate]
+DisplayName="PMC Riot Suit - Left Pauldron [Strap]"
+
+
+
+[CNV_WotC_TMP_MGSV_PMC_HeavyArmor_Shoulder_Left_A2_M X2BodyPartTemplate]
+DisplayName="PMC Riot Suit - Left Pauldron [Strap][Patch]"
+
+[LPL_WotC_TMP_MGSV_PMC_HeavyArmor_Shoulder_Left_A2_M X2BodyPartTemplate]
+DisplayName="PMC Riot Suit - Left Pauldron [Strap][Patch]"
+
+[MPL_WotC_TMP_MGSV_PMC_HeavyArmor_Shoulder_Left_A2_M X2BodyPartTemplate]
+DisplayName="PMC Riot Suit - Left Pauldron [Strap][Patch]"
+
+[HPL_WotC_TMP_MGSV_PMC_HeavyArmor_Shoulder_Left_A2_M X2BodyPartTemplate]
+DisplayName="PMC Riot Suit - Left Pauldron [Strap][Patch]"
+
+[LPW_WotC_TMP_MGSV_PMC_HeavyArmor_Shoulder_Left_A2_M X2BodyPartTemplate]
+DisplayName="PMC Riot Suit - Left Pauldron [Strap][Patch]"
+
+[MPW_WotC_TMP_MGSV_PMC_HeavyArmor_Shoulder_Left_A2_M X2BodyPartTemplate]
+DisplayName="PMC Riot Suit - Left Pauldron [Strap][Patch]"
+
+[HPW_WotC_TMP_MGSV_PMC_HeavyArmor_Shoulder_Left_A2_M X2BodyPartTemplate]
+DisplayName="PMC Riot Suit - Left Pauldron [Strap][Patch]"
+
+
+[CNV_WotC_TMP_MGSV_PMC_HeavyArmor_Shoulder_Left_A2_F X2BodyPartTemplate]
+DisplayName="PMC Riot Suit - Left Pauldron [Strap][Patch]"
+
+[LPL_WotC_TMP_MGSV_PMC_HeavyArmor_Shoulder_Left_A2_F X2BodyPartTemplate]
+DisplayName="PMC Riot Suit - Left Pauldron [Strap][Patch]"
+
+[MPL_WotC_TMP_MGSV_PMC_HeavyArmor_Shoulder_Left_A2_F X2BodyPartTemplate]
+DisplayName="PMC Riot Suit - Left Pauldron [Strap][Patch]"
+
+[HPL_WotC_TMP_MGSV_PMC_HeavyArmor_Shoulder_Left_A2_F X2BodyPartTemplate]
+DisplayName="PMC Riot Suit - Left Pauldron [Strap][Patch]"
+
+[LPW_WotC_TMP_MGSV_PMC_HeavyArmor_Shoulder_Left_A2_F X2BodyPartTemplate]
+DisplayName="PMC Riot Suit - Left Pauldron [Strap][Patch]"
+
+[MPW_WotC_TMP_MGSV_PMC_HeavyArmor_Shoulder_Left_A2_F X2BodyPartTemplate]
+DisplayName="PMC Riot Suit - Left Pauldron [Strap][Patch]"
+
+[HPW_WotC_TMP_MGSV_PMC_HeavyArmor_Shoulder_Left_A2_F X2BodyPartTemplate]
+DisplayName="PMC Riot Suit - Left Pauldron [Strap][Patch]"
+
+;
+;
+;
+
+[CNV_WotC_TMP_MGSV_PMC_HeavyArmor_Shoulder_Left_B1_M X2BodyPartTemplate]
+DisplayName="PMC Riot Suit - Left Pauldron [Bare]"
+
+[LPL_WotC_TMP_MGSV_PMC_HeavyArmor_Shoulder_Left_B1_M X2BodyPartTemplate]
+DisplayName="PMC Riot Suit - Left Pauldron [Bare]"
+
+[MPL_WotC_TMP_MGSV_PMC_HeavyArmor_Shoulder_Left_B1_M X2BodyPartTemplate]
+DisplayName="PMC Riot Suit - Left Pauldron [Bare]"
+
+[HPL_WotC_TMP_MGSV_PMC_HeavyArmor_Shoulder_Left_B1_M X2BodyPartTemplate]
+DisplayName="PMC Riot Suit - Left Pauldron [Bare]"
+
+[LPW_WotC_TMP_MGSV_PMC_HeavyArmor_Shoulder_Left_B1_M X2BodyPartTemplate]
+DisplayName="PMC Riot Suit - Left Pauldron [Bare]"
+
+[MPW_WotC_TMP_MGSV_PMC_HeavyArmor_Shoulder_Left_B1_M X2BodyPartTemplate]
+DisplayName="PMC Riot Suit - Left Pauldron [Bare]"
+
+[HPW_WotC_TMP_MGSV_PMC_HeavyArmor_Shoulder_Left_B1_M X2BodyPartTemplate]
+DisplayName="PMC Riot Suit - Left Pauldron [Bare]"
+
+
+[CNV_WotC_TMP_MGSV_PMC_HeavyArmor_Shoulder_Left_B1_F X2BodyPartTemplate]
+DisplayName="PMC Riot Suit - Left Pauldron [Bare]"
+
+[LPL_WotC_TMP_MGSV_PMC_HeavyArmor_Shoulder_Left_B1_F X2BodyPartTemplate]
+DisplayName="PMC Riot Suit - Left Pauldron [Bare]"
+
+[MPL_WotC_TMP_MGSV_PMC_HeavyArmor_Shoulder_Left_B1_F X2BodyPartTemplate]
+DisplayName="PMC Riot Suit - Left Pauldron [Bare]"
+
+[HPL_WotC_TMP_MGSV_PMC_HeavyArmor_Shoulder_Left_B1_F X2BodyPartTemplate]
+DisplayName="PMC Riot Suit - Left Pauldron [Bare]"
+
+[LPW_WotC_TMP_MGSV_PMC_HeavyArmor_Shoulder_Left_B1_F X2BodyPartTemplate]
+DisplayName="PMC Riot Suit - Left Pauldron [Bare]"
+
+[MPW_WotC_TMP_MGSV_PMC_HeavyArmor_Shoulder_Left_B1_F X2BodyPartTemplate]
+DisplayName="PMC Riot Suit - Left Pauldron [Bare]"
+
+[HPW_WotC_TMP_MGSV_PMC_HeavyArmor_Shoulder_Left_B1_F X2BodyPartTemplate]
+DisplayName="PMC Riot Suit - Left Pauldron [Bare]"
+
+
+
+[CNV_WotC_TMP_MGSV_PMC_HeavyArmor_Shoulder_Left_B2_M X2BodyPartTemplate]
+DisplayName="PMC Riot Suit - Left Pauldron [Bare][Patch]"
+
+[LPL_WotC_TMP_MGSV_PMC_HeavyArmor_Shoulder_Left_B2_M X2BodyPartTemplate]
+DisplayName="PMC Riot Suit - Left Pauldron [Bare][Patch]"
+
+[MPL_WotC_TMP_MGSV_PMC_HeavyArmor_Shoulder_Left_B2_M X2BodyPartTemplate]
+DisplayName="PMC Riot Suit - Left Pauldron [Bare][Patch]"
+
+[HPL_WotC_TMP_MGSV_PMC_HeavyArmor_Shoulder_Left_B2_M X2BodyPartTemplate]
+DisplayName="PMC Riot Suit - Left Pauldron [Bare][Patch]"
+
+[LPW_WotC_TMP_MGSV_PMC_HeavyArmor_Shoulder_Left_B2_M X2BodyPartTemplate]
+DisplayName="PMC Riot Suit - Left Pauldron [Bare][Patch]"
+
+[MPW_WotC_TMP_MGSV_PMC_HeavyArmor_Shoulder_Left_B2_M X2BodyPartTemplate]
+DisplayName="PMC Riot Suit - Left Pauldron [Bare][Patch]"
+
+[HPW_WotC_TMP_MGSV_PMC_HeavyArmor_Shoulder_Left_B2_M X2BodyPartTemplate]
+DisplayName="PMC Riot Suit - Left Pauldron [Bare][Patch]"
+
+
+[CNV_WotC_TMP_MGSV_PMC_HeavyArmor_Shoulder_Left_B2_F X2BodyPartTemplate]
+DisplayName="PMC Riot Suit - Left Pauldron [Bare][Patch]"
+
+[LPL_WotC_TMP_MGSV_PMC_HeavyArmor_Shoulder_Left_B2_F X2BodyPartTemplate]
+DisplayName="PMC Riot Suit - Left Pauldron [Bare][Patch]"
+
+[MPL_WotC_TMP_MGSV_PMC_HeavyArmor_Shoulder_Left_B2_F X2BodyPartTemplate]
+DisplayName="PMC Riot Suit - Left Pauldron [Bare][Patch]"
+
+[HPL_WotC_TMP_MGSV_PMC_HeavyArmor_Shoulder_Left_B2_F X2BodyPartTemplate]
+DisplayName="PMC Riot Suit - Left Pauldron [Bare][Patch]"
+
+[LPW_WotC_TMP_MGSV_PMC_HeavyArmor_Shoulder_Left_B2_F X2BodyPartTemplate]
+DisplayName="PMC Riot Suit - Left Pauldron [Bare][Patch]"
+
+[MPW_WotC_TMP_MGSV_PMC_HeavyArmor_Shoulder_Left_B2_F X2BodyPartTemplate]
+DisplayName="PMC Riot Suit - Left Pauldron [Bare][Patch]"
+
+[HPW_WotC_TMP_MGSV_PMC_HeavyArmor_Shoulder_Left_B2_F X2BodyPartTemplate]
+DisplayName="PMC Riot Suit - Left Pauldron [Bare][Patch]"
+
+
+
+;
+; Right Shoulder
+;
+
+[CNV_WotC_TMP_MGSV_PMC_HeavyArmor_Shoulder_Right_A1_M X2BodyPartTemplate]
+DisplayName="PMC Riot Suit - Right Pauldron [Strap]"
+
+[LPL_WotC_TMP_MGSV_PMC_HeavyArmor_Shoulder_Right_A1_M X2BodyPartTemplate]
+DisplayName="PMC Riot Suit - Right Pauldron [Strap]"
+
+[MPL_WotC_TMP_MGSV_PMC_HeavyArmor_Shoulder_Right_A1_M X2BodyPartTemplate]
+DisplayName="PMC Riot Suit - Right Pauldron [Strap]"
+
+[HPL_WotC_TMP_MGSV_PMC_HeavyArmor_Shoulder_Right_A1_M X2BodyPartTemplate]
+DisplayName="PMC Riot Suit - Right Pauldron [Strap]"
+
+[LPW_WotC_TMP_MGSV_PMC_HeavyArmor_Shoulder_Right_A1_M X2BodyPartTemplate]
+DisplayName="PMC Riot Suit - Right Pauldron [Strap]"
+
+[MPW_WotC_TMP_MGSV_PMC_HeavyArmor_Shoulder_Right_A1_M X2BodyPartTemplate]
+DisplayName="PMC Riot Suit - Right Pauldron [Strap]"
+
+[HPW_WotC_TMP_MGSV_PMC_HeavyArmor_Shoulder_Right_A1_M X2BodyPartTemplate]
+DisplayName="PMC Riot Suit - Right Pauldron [Strap]"
+
+
+[CNV_WotC_TMP_MGSV_PMC_HeavyArmor_Shoulder_Right_A1_F X2BodyPartTemplate]
+DisplayName="PMC Riot Suit - Right Pauldron [Strap]"
+
+[LPL_WotC_TMP_MGSV_PMC_HeavyArmor_Shoulder_Right_A1_F X2BodyPartTemplate]
+DisplayName="PMC Riot Suit - Right Pauldron [Strap]"
+
+[MPL_WotC_TMP_MGSV_PMC_HeavyArmor_Shoulder_Right_A1_F X2BodyPartTemplate]
+DisplayName="PMC Riot Suit - Right Pauldron [Strap]"
+
+[HPL_WotC_TMP_MGSV_PMC_HeavyArmor_Shoulder_Right_A1_F X2BodyPartTemplate]
+DisplayName="PMC Riot Suit - Right Pauldron [Strap]"
+
+[LPW_WotC_TMP_MGSV_PMC_HeavyArmor_Shoulder_Right_A1_F X2BodyPartTemplate]
+DisplayName="PMC Riot Suit - Right Pauldron [Strap]"
+
+[MPW_WotC_TMP_MGSV_PMC_HeavyArmor_Shoulder_Right_A1_F X2BodyPartTemplate]
+DisplayName="PMC Riot Suit - Right Pauldron [Strap]"
+
+[HPW_WotC_TMP_MGSV_PMC_HeavyArmor_Shoulder_Right_A1_F X2BodyPartTemplate]
+DisplayName="PMC Riot Suit - Right Pauldron [Strap]"
+
+
+
+[CNV_WotC_TMP_MGSV_PMC_HeavyArmor_Shoulder_Right_A2_M X2BodyPartTemplate]
+DisplayName="PMC Riot Suit - Right Pauldron [Strap][Patch]"
+
+[LPL_WotC_TMP_MGSV_PMC_HeavyArmor_Shoulder_Right_A2_M X2BodyPartTemplate]
+DisplayName="PMC Riot Suit - Right Pauldron [Strap][Patch]"
+
+[MPL_WotC_TMP_MGSV_PMC_HeavyArmor_Shoulder_Right_A2_M X2BodyPartTemplate]
+DisplayName="PMC Riot Suit - Right Pauldron [Strap][Patch]"
+
+[HPL_WotC_TMP_MGSV_PMC_HeavyArmor_Shoulder_Right_A2_M X2BodyPartTemplate]
+DisplayName="PMC Riot Suit - Right Pauldron [Strap][Patch]"
+
+[LPW_WotC_TMP_MGSV_PMC_HeavyArmor_Shoulder_Right_A2_M X2BodyPartTemplate]
+DisplayName="PMC Riot Suit - Right Pauldron [Strap][Patch]"
+
+[MPW_WotC_TMP_MGSV_PMC_HeavyArmor_Shoulder_Right_A2_M X2BodyPartTemplate]
+DisplayName="PMC Riot Suit - Right Pauldron [Strap][Patch]"
+
+[HPW_WotC_TMP_MGSV_PMC_HeavyArmor_Shoulder_Right_A2_M X2BodyPartTemplate]
+DisplayName="PMC Riot Suit - Right Pauldron [Strap][Patch]"
+
+
+[CNV_WotC_TMP_MGSV_PMC_HeavyArmor_Shoulder_Right_A2_F X2BodyPartTemplate]
+DisplayName="PMC Riot Suit - Right Pauldron [Strap][Patch]"
+
+[LPL_WotC_TMP_MGSV_PMC_HeavyArmor_Shoulder_Right_A2_F X2BodyPartTemplate]
+DisplayName="PMC Riot Suit - Right Pauldron [Strap][Patch]"
+
+[MPL_WotC_TMP_MGSV_PMC_HeavyArmor_Shoulder_Right_A2_F X2BodyPartTemplate]
+DisplayName="PMC Riot Suit - Right Pauldron [Strap][Patch]"
+
+[HPL_WotC_TMP_MGSV_PMC_HeavyArmor_Shoulder_Right_A2_F X2BodyPartTemplate]
+DisplayName="PMC Riot Suit - Right Pauldron [Strap][Patch]"
+
+[LPW_WotC_TMP_MGSV_PMC_HeavyArmor_Shoulder_Right_A2_F X2BodyPartTemplate]
+DisplayName="PMC Riot Suit - Right Pauldron [Strap][Patch]"
+
+[MPW_WotC_TMP_MGSV_PMC_HeavyArmor_Shoulder_Right_A2_F X2BodyPartTemplate]
+DisplayName="PMC Riot Suit - Right Pauldron [Strap][Patch]"
+
+[HPW_WotC_TMP_MGSV_PMC_HeavyArmor_Shoulder_Right_A2_F X2BodyPartTemplate]
+DisplayName="PMC Riot Suit - Right Pauldron [Strap][Patch]"
+
+;
+;
+;
+
+[CNV_WotC_TMP_MGSV_PMC_HeavyArmor_Shoulder_Right_B1_M X2BodyPartTemplate]
+DisplayName="PMC Riot Suit - Right Pauldron [Bare]"
+
+[LPL_WotC_TMP_MGSV_PMC_HeavyArmor_Shoulder_Right_B1_M X2BodyPartTemplate]
+DisplayName="PMC Riot Suit - Right Pauldron [Bare]"
+
+[MPL_WotC_TMP_MGSV_PMC_HeavyArmor_Shoulder_Right_B1_M X2BodyPartTemplate]
+DisplayName="PMC Riot Suit - Right Pauldron [Bare]"
+
+[HPL_WotC_TMP_MGSV_PMC_HeavyArmor_Shoulder_Right_B1_M X2BodyPartTemplate]
+DisplayName="PMC Riot Suit - Right Pauldron [Bare]"
+
+[LPW_WotC_TMP_MGSV_PMC_HeavyArmor_Shoulder_Right_B1_M X2BodyPartTemplate]
+DisplayName="PMC Riot Suit - Right Pauldron [Bare]"
+
+[MPW_WotC_TMP_MGSV_PMC_HeavyArmor_Shoulder_Right_B1_M X2BodyPartTemplate]
+DisplayName="PMC Riot Suit - Right Pauldron [Bare]"
+
+[HPW_WotC_TMP_MGSV_PMC_HeavyArmor_Shoulder_Right_B1_M X2BodyPartTemplate]
+DisplayName="PMC Riot Suit - Right Pauldron [Bare]"
+
+
+[CNV_WotC_TMP_MGSV_PMC_HeavyArmor_Shoulder_Right_B1_F X2BodyPartTemplate]
+DisplayName="PMC Riot Suit - Right Pauldron [Bare]"
+
+[LPL_WotC_TMP_MGSV_PMC_HeavyArmor_Shoulder_Right_B1_F X2BodyPartTemplate]
+DisplayName="PMC Riot Suit - Right Pauldron [Bare]"
+
+[MPL_WotC_TMP_MGSV_PMC_HeavyArmor_Shoulder_Right_B1_F X2BodyPartTemplate]
+DisplayName="PMC Riot Suit - Right Pauldron [Bare]"
+
+[HPL_WotC_TMP_MGSV_PMC_HeavyArmor_Shoulder_Right_B1_F X2BodyPartTemplate]
+DisplayName="PMC Riot Suit - Right Pauldron [Bare]"
+
+[LPW_WotC_TMP_MGSV_PMC_HeavyArmor_Shoulder_Right_B1_F X2BodyPartTemplate]
+DisplayName="PMC Riot Suit - Right Pauldron [Bare]"
+
+[MPW_WotC_TMP_MGSV_PMC_HeavyArmor_Shoulder_Right_B1_F X2BodyPartTemplate]
+DisplayName="PMC Riot Suit - Right Pauldron [Bare]"
+
+[HPW_WotC_TMP_MGSV_PMC_HeavyArmor_Shoulder_Right_B1_F X2BodyPartTemplate]
+DisplayName="PMC Riot Suit - Right Pauldron [Bare]"
+
+
+
+[CNV_WotC_TMP_MGSV_PMC_HeavyArmor_Shoulder_Right_B2_M X2BodyPartTemplate]
+DisplayName="PMC Riot Suit - Right Pauldron [Bare][Patch]"
+
+[LPL_WotC_TMP_MGSV_PMC_HeavyArmor_Shoulder_Right_B2_M X2BodyPartTemplate]
+DisplayName="PMC Riot Suit - Right Pauldron [Bare][Patch]"
+
+[MPL_WotC_TMP_MGSV_PMC_HeavyArmor_Shoulder_Right_B2_M X2BodyPartTemplate]
+DisplayName="PMC Riot Suit - Right Pauldron [Bare][Patch]"
+
+[HPL_WotC_TMP_MGSV_PMC_HeavyArmor_Shoulder_Right_B2_M X2BodyPartTemplate]
+DisplayName="PMC Riot Suit - Right Pauldron [Bare][Patch]"
+
+[LPW_WotC_TMP_MGSV_PMC_HeavyArmor_Shoulder_Right_B2_M X2BodyPartTemplate]
+DisplayName="PMC Riot Suit - Right Pauldron [Bare][Patch]"
+
+[MPW_WotC_TMP_MGSV_PMC_HeavyArmor_Shoulder_Right_B2_M X2BodyPartTemplate]
+DisplayName="PMC Riot Suit - Right Pauldron [Bare][Patch]"
+
+[HPW_WotC_TMP_MGSV_PMC_HeavyArmor_Shoulder_Right_B2_M X2BodyPartTemplate]
+DisplayName="PMC Riot Suit - Right Pauldron [Bare][Patch]"
+
+
+[CNV_WotC_TMP_MGSV_PMC_HeavyArmor_Shoulder_Right_B2_F X2BodyPartTemplate]
+DisplayName="PMC Riot Suit - Right Pauldron [Bare][Patch]"
+
+[LPL_WotC_TMP_MGSV_PMC_HeavyArmor_Shoulder_Right_B2_F X2BodyPartTemplate]
+DisplayName="PMC Riot Suit - Right Pauldron [Bare][Patch]"
+
+[MPL_WotC_TMP_MGSV_PMC_HeavyArmor_Shoulder_Right_B2_F X2BodyPartTemplate]
+DisplayName="PMC Riot Suit - Right Pauldron [Bare][Patch]"
+
+[HPL_WotC_TMP_MGSV_PMC_HeavyArmor_Shoulder_Right_B2_F X2BodyPartTemplate]
+DisplayName="PMC Riot Suit - Right Pauldron [Bare][Patch]"
+
+[LPW_WotC_TMP_MGSV_PMC_HeavyArmor_Shoulder_Right_B2_F X2BodyPartTemplate]
+DisplayName="PMC Riot Suit - Right Pauldron [Bare][Patch]"
+
+[MPW_WotC_TMP_MGSV_PMC_HeavyArmor_Shoulder_Right_B2_F X2BodyPartTemplate]
+DisplayName="PMC Riot Suit - Right Pauldron [Bare][Patch]"
+
+[HPW_WotC_TMP_MGSV_PMC_HeavyArmor_Shoulder_Right_B2_F X2BodyPartTemplate]
+DisplayName="PMC Riot Suit - Right Pauldron [Bare][Patch]"
+
+;
+; Thighs
+;
+
+
+[CNV_WotC_TMP_MGSV_PMC_HeavyArmor_Thighs_A_M X2BodyPartTemplate]
+DisplayName="PMC Riot Suit - Thigh Acc."
+
+[LPL_WotC_TMP_MGSV_PMC_HeavyArmor_Thighs_A_M X2BodyPartTemplate]
+DisplayName="PMC Riot Suit - Thigh Acc."
+
+[MPL_WotC_TMP_MGSV_PMC_HeavyArmor_Thighs_A_M X2BodyPartTemplate]
+DisplayName="PMC Riot Suit - Thigh Acc."
+
+[HPL_WotC_TMP_MGSV_PMC_HeavyArmor_Thighs_A_M X2BodyPartTemplate]
+DisplayName="PMC Riot Suit - Thigh Acc."
+
+[LPW_WotC_TMP_MGSV_PMC_HeavyArmor_Thighs_A_M X2BodyPartTemplate]
+DisplayName="PMC Riot Suit - Thigh Acc."
+
+[MPW_WotC_TMP_MGSV_PMC_HeavyArmor_Thighs_A_M X2BodyPartTemplate]
+DisplayName="PMC Riot Suit - Thigh Acc."
+
+[HPW_WotC_TMP_MGSV_PMC_HeavyArmor_Thighs_A_M X2BodyPartTemplate]
+DisplayName="PMC Riot Suit - Thigh Acc."
+
+
+[CNV_WotC_TMP_MGSV_PMC_HeavyArmor_Thighs_A_F X2BodyPartTemplate]
+DisplayName="PMC Riot Suit - Thigh Acc."
+
+[LPL_WotC_TMP_MGSV_PMC_HeavyArmor_Thighs_A_F X2BodyPartTemplate]
+DisplayName="PMC Riot Suit - Thigh Acc."
+
+[MPL_WotC_TMP_MGSV_PMC_HeavyArmor_Thighs_A_F X2BodyPartTemplate]
+DisplayName="PMC Riot Suit - Thigh Acc."
+
+[HPL_WotC_TMP_MGSV_PMC_HeavyArmor_Thighs_A_F X2BodyPartTemplate]
+DisplayName="PMC Riot Suit - Thigh Acc."
+
+[LPW_WotC_TMP_MGSV_PMC_HeavyArmor_Thighs_A_F X2BodyPartTemplate]
+DisplayName="PMC Riot Suit - Thigh Acc."
+
+[MPW_WotC_TMP_MGSV_PMC_HeavyArmor_Thighs_A_F X2BodyPartTemplate]
+DisplayName="PMC Riot Suit - Thigh Acc."
+
+[HPW_WotC_TMP_MGSV_PMC_HeavyArmor_Thighs_A_F X2BodyPartTemplate]
+DisplayName="PMC Riot Suit - Thigh Acc."

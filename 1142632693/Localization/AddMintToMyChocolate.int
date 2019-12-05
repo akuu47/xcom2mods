@@ -1,0 +1,5 @@
+[X2DownloadableContentInfo_AddMintToMyChocolate]
+EnableContentLabel="Detecting deprecated abilities from MINT"
+EnableContentSummary="UPDATE NOTICE: MINT updated, and a lot of features/perks got refactored - your current save might not work properly. An older vesion of MINT has been uploaded to the workshop for compatibility. MINT will attempt to respec and transfer old data on acceptance."
+EnableContentAcceptLabel="Accept"
+EnableContentCancelLabel="Cancel"

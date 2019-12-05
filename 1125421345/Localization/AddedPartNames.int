@@ -1,0 +1,56 @@
+[X2DownloadableContentInfo_AddedPartNames]
+
+;---------------------------
+; MrK's XCOM EU/EW Ports Tier 2 Armour
+;---------------------------
+
+;Armour
+;---------------------------
+
+;Tier 3
+;---------------------------
+Titan Armour
+;---------------------------
+;Torso
+.TorsoTemplate="X1_Carapace_LPW_M"
+.TorsoName="Titan Armour"
+.TorsoTemplate="X1_Carapace_LPW_F"
+.TorsoName="Titan Armour EW"
+.TorsoTemplate="X1_Carapace_LPW_FEU"
+.TorsoName="Titan Armour EU"
+
+.TorsoTemplate="X1_Carapace_MPW_M"
+.TorsoName="Titan Armour"
+.TorsoTemplate="X1_Carapace_MPW_F"
+.TorsoName="Titan Armour EW"
+.TorsoTemplate="X1_Carapace_MPW_FEU"
+.TorsoName="Titan Armour EU"
+
+.TorsoTemplate="X1_Carapace_HPW_M"
+.TorsoName="Titan Armour"
+.TorsoTemplate="X1_Carapace_HPW_F"
+.TorsoName="Titan Armour EW"
+.TorsoTemplate="X1_Carapace_HPW_FEU"
+.TorsoName="Titan Armour EU"
+
+;legs
+.LegsTemplate="X1_TitanLegs_LPW_M"
+.LegsName="Titan Legs"
+.LegsTemplate="X1_TitanLegs_LPW_F"
+.LegsName="Titan Legs EW"
+.LegsTemplate="X1_TitanLegs_LPW_FEU"
+.LegsName="Titan Legs EU"
+
+.LegsTemplate="X1_TitanLegs_MPW_M"
+.LegsName="Titan Legs"
+.LegsTemplate="X1_TitanLegs_MPW_F"
+.LegsName="Titan Legs EW"
+.LegsTemplate="X1_TitanLegs_MPW_FEU"
+.LegsName="Titan Legs EU"
+
+.LegsTemplate="X1_TitanLegs_HPW_M"
+.LegsName="Titan Legs"
+.LegsTemplate="X1_TitanLegs_HPW_F"
+.LegsName="Titan Legs EW"
+.LegsTemplate="X1_TitanLegs_HPW_FEU"
+.LegsName="Titan Legs EU"

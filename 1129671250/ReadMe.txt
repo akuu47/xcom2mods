@@ -1,0 +1,1 @@
+﻿Lost spawn 30 tiles away from XCOM vs the 18 they used to.

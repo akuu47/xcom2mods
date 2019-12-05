@@ -1,0 +1,40 @@
+[X2DownloadableContentInfo_AddedPartNames]
+
+;
+; ALIEN HUNTERS
+;
+
+
+.TorsoTemplate="Serpent_DLC2_MGSV_PMC_HeavyArmor_Full_M"
+.TorsoName="PMC Riot Suit"
+
+.TorsoTemplate="Serpent_DLC2_MGSV_PMC_HeavyArmor_Full_F"
+.TorsoName="PMC Riot Suit"
+
+
+.TorsoTemplate="SerpentMk2_DLC2_MGSV_PMC_HeavyArmor_Full_M"
+.TorsoName="PMC Riot Suit"
+
+.TorsoTemplate="SerpentMk2_DLC2_MGSV_PMC_HeavyArmor_Full_F"
+.TorsoName="PMC Riot Suit"
+
+
+.TorsoTemplate="Rage_DLC2_MGSV_PMC_HeavyArmor_Full_M"
+.TorsoName="PMC Riot Suit"
+
+.TorsoTemplate="Rage_DLC2_MGSV_PMC_HeavyArmor_Full_F"
+.TorsoName="PMC Riot Suit"
+
+
+.TorsoTemplate="RageMk2_DLC2_MGSV_PMC_HeavyArmor_Full_M"
+.TorsoName="PMC Riot Suit"
+
+.TorsoTemplate="RageMk2_DLC2_MGSV_PMC_HeavyArmor_Full_F"
+.TorsoName="PMC Riot Suit"
+
+
+.TorsoTemplate="Icarus_DLC2_MGSV_PMC_HeavyArmor_Full_M"
+.TorsoName="PMC Riot Suit"
+
+.TorsoTemplate="Icarus_DLC2_MGSV_PMC_HeavyArmor_Full_F"
+.TorsoName="PMC Riot Suit"

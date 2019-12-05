@@ -1,0 +1,43 @@
+[TC_WOTC_MWR_G36C_T1 X2WeaponTemplate]
+FriendlyName="<font color='#ECECEC'><b>G36C</b></font>"
+FriendlyNamePlural="<font color='#ECECEC'><b>G36Cs</b></font>"
+AbilityDescName="assault carbine"
+BriefSummary="The G36 was designed in the 1990s as the replacement of the heavier G3 7.62mm battle rifle. This 5.56x45mm assault rifle can feed from either a 30 round box magazine or a 100 round C-Mag drum magazine. H&K was developing a successor to the G3 rifles since the 1970s, and the efforts resulted in the G11 and G41 rifles. Sadly, production for both rifles was canceled due to budget constraints, among other problems. The actual project for the G36s, known back then as Project 50, or HK 50, was trialed and rated higher than the Steyr AUG. The G36 was selected for service in Germany, several NATO countries, and several other countries. The Compact (C) version, not to be mistaken with Commando, has a shorter barrel than the G36K, and the carry handle was replaced with an integrated MIL-STD-1913 Picatinny rail."
+TacticalText="<Bullet/>Type: Assault Rifle\n<Bullet/>Firing Profile: Full-Auto\n<Bullet/>Action: Gas-Operated, Rotating Bolt\n<Bullet/>Cartridge: 5.56x45mm NATO\n<Bullet/>Origin: Germany\n<Bullet/>Tier: Conventional"
+
+[TC_WOTC_MWR_G36C_T2 X2WeaponTemplate]
+FriendlyName="<font color='#27AAE1'><b>HK72C1</b></font>"
+FriendlyNamePlural="<font color='#27AAE1'><b>HK72C1s</b></font>"
+AbilityDescName="assault carbine"
+BriefSummary="The G36 was designed in the 1990s as the replacement of the heavier G3 7.62mm battle rifle. This 5.56x45mm assault rifle can feed from either a 30 round box magazine or a 100 round C-Mag drum magazine. H&K was developing a successor to the G3 rifles since the 1970s, and the efforts resulted in the G11 and G41 rifles. Sadly, production for both rifles was canceled due to budget constraints, among other problems. The actual project for the G36s, known back then as Project 50, or HK 50, was trialed and rated higher than the Steyr AUG. The G36 was selected for service in Germany, several NATO countries, and several other countries. The Compact (C) version, not to be mistaken with Commando, has a shorter barrel than the G36K, and the carry handle was replaced with an integrated MIL-STD-1913 Picatinny rail.\nThe prototype HK72C1 comes with new internal parts made from Alien Alloy, making the weapon more durable and function better in the battlefield. The firing system was also augmented with Elerium, increasing the G36's stopping power and effective range."
+TacticalText="<Bullet/>Type: Assault Rifle\n<Bullet/>Firing Profile: Full-Auto\n<Bullet/>Action: Gas-Operated, Rotating Bolt\n<Bullet/>Cartridge: 5.56x45mm NATO\n<Bullet/>Origin: Germany\n<Bullet/>Tier: Magnetic"
+
+
+[TC_WOTC_MWR_G36C_T3 X2WeaponTemplate]
+FriendlyName="<font color='#CF4517'><b>HK72C2</b></font>"
+FriendlyNamePlural="<font color='#CF4517'><b>HK72C2s</b></font>"
+AbilityDescName="assault carbine"
+BriefSummary="The G36 was designed in the 1990s as the replacement of the heavier G3 7.62mm battle rifle. This 5.56x45mm assault rifle can feed from either a 30 round box magazine or a 100 round C-Mag drum magazine. H&K was developing a successor to the G3 rifles since the 1970s, and the efforts resulted in the G11 and G41 rifles. Sadly, production for both rifles was canceled due to budget constraints, among other problems. The actual project for the G36s, known back then as Project 50, or HK 50, was trialed and rated higher than the Steyr AUG. The G36 was selected for service in Germany, several NATO countries, and several other countries. The Compact (C) version, not to be mistaken with Commando, has a shorter barrel than the G36K, and the carry handle was replaced with an integrated MIL-STD-1913 Picatinny rail.\nThe HK72C2 is retrofitted with a lightweight high-frequency barrel, combining beam and gauss technology together."
+TacticalText="<Bullet/>Type: Assault Rifle\n<Bullet/>Firing Profile: Full-Auto\n<Bullet/>Action: Gas-Operated, Rotating Bolt\n<Bullet/>Cartridge: 5.56x45mm NATO\n<Bullet/>Origin: Germany\n<Bullet/>Tier: Beam"
+
+[TC_WOTC_SKR_MWR_G36C_T1 X2WeaponTemplate]
+FriendlyName="<font color='#ECECEC'><b>G36C</b></font>"
+FriendlyNamePlural="<font color='#ECECEC'><b>G36Cs</b></font>"
+AbilityDescName="assault carbine"
+BriefSummary="The G36 was designed in the 1990s as the replacement of the heavier G3 7.62mm battle rifle. This 5.56x45mm assault rifle can feed from either a 30 round box magazine or a 100 round C-Mag drum magazine. H&K was developing a successor to the G3 rifles since the 1970s, and the efforts resulted in the G11 and G41 rifles. Sadly, production for both rifles was canceled due to budget constraints, among other problems. The actual project for the G36s, known back then as Project 50, or HK 50, was trialed and rated higher than the Steyr AUG. The G36 was selected for service in Germany, several NATO countries, and several other countries. The Compact (C) version, not to be mistaken with Commando, has a shorter barrel than the G36K, and the carry handle was replaced with an integrated MIL-STD-1913 Picatinny rail."
+TacticalText="<Bullet/>Type: Assault Rifle\n<Bullet/>Firing Profile: Full-Auto\n<Bullet/>Action: Gas-Operated, Rotating Bolt\n<Bullet/>Cartridge: 5.56x45mm NATO\n<Bullet/>Origin: Germany\n<Bullet/>Tier: Conventional"
+
+[TC_WOTC_SKR_MWR_G36C_T2 X2WeaponTemplate]
+FriendlyName="<font color='#27AAE1'><b>HK72C1</b></font>"
+FriendlyNamePlural="<font color='#27AAE1'><b>HK72C1s</b></font>"
+AbilityDescName="assault carbine"
+BriefSummary="The G36 was designed in the 1990s as the replacement of the heavier G3 7.62mm battle rifle. This 5.56x45mm assault rifle can feed from either a 30 round box magazine or a 100 round C-Mag drum magazine. H&K was developing a successor to the G3 rifles since the 1970s, and the efforts resulted in the G11 and G41 rifles. Sadly, production for both rifles was canceled due to budget constraints, among other problems. The actual project for the G36s, known back then as Project 50, or HK 50, was trialed and rated higher than the Steyr AUG. The G36 was selected for service in Germany, several NATO countries, and several other countries. The Compact (C) version, not to be mistaken with Commando, has a shorter barrel than the G36K, and the carry handle was replaced with an integrated MIL-STD-1913 Picatinny rail.\nThe prototype HK72C1 comes with new internal parts made from Alien Alloy, making the weapon more durable and function better in the battlefield. The firing system was also augmented with Elerium, increasing the G36's stopping power and effective range."
+TacticalText="<Bullet/>Type: Assault Rifle\n<Bullet/>Firing Profile: Full-Auto\n<Bullet/>Action: Gas-Operated, Rotating Bolt\n<Bullet/>Cartridge: 5.56x45mm NATO\n<Bullet/>Origin: Germany\n<Bullet/>Tier: Magnetic"
+
+
+[TC_WOTC_SKR_MWR_G36C_T3 X2WeaponTemplate]
+FriendlyName="<font color='#CF4517'><b>HK72C2</b></font>"
+FriendlyNamePlural="<font color='#CF4517'><b>HK72C2s</b></font>"
+AbilityDescName="assault carbine"
+BriefSummary="The G36 was designed in the 1990s as the replacement of the heavier G3 7.62mm battle rifle. This 5.56x45mm assault rifle can feed from either a 30 round box magazine or a 100 round C-Mag drum magazine. H&K was developing a successor to the G3 rifles since the 1970s, and the efforts resulted in the G11 and G41 rifles. Sadly, production for both rifles was canceled due to budget constraints, among other problems. The actual project for the G36s, known back then as Project 50, or HK 50, was trialed and rated higher than the Steyr AUG. The G36 was selected for service in Germany, several NATO countries, and several other countries. The Compact (C) version, not to be mistaken with Commando, has a shorter barrel than the G36K, and the carry handle was replaced with an integrated MIL-STD-1913 Picatinny rail.\nThe HK72C2 is retrofitted with a lightweight high-frequency barrel, combining beam and gauss technology together."
+TacticalText="<Bullet/>Type: Assault Rifle\n<Bullet/>Firing Profile: Full-Auto\n<Bullet/>Action: Gas-Operated, Rotating Bolt\n<Bullet/>Cartridge: 5.56x45mm NATO\n<Bullet/>Origin: Germany\n<Bullet/>Tier: Beam"

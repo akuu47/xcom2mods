@@ -1,0 +1,5 @@
+﻿[mod]
+publishedFileId=1129878719
+Title=AWC Cost FixW
+Description=Makes all "weapon" abilities available from AWC match the soldiers class primary weapon action cost, not abilities original class cost.
+RequiresXPACK=true

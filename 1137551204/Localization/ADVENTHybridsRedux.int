@@ -1,0 +1,101 @@
+[X2EventListener_HybridCapture]
+JoinedXCOMTitle="Retrieval Success"
+JoinedXCOM="<XGParam:StrValue0/!UnitName/> will join XCOM after the mission."
+
+LootTitle="Loot Bonus"
+Loot="Bonus loot was gained from the capture."
+
+[UICustomize_HybridMenu]
+m_strTitle=CUSTOMIZE HYBRID
+m_strEditInfo=Character Info
+m_strEditProps=Props
+
+m_strMainColor=Main Armor Color
+m_strSecondaryColor=Secondary Armor Color
+m_strWeaponColor=Weapon Color
+m_strArmorPatternSelected=Remove armor pattern to change armor color
+m_strRemoveHelmetOrLowerProp=Remove helmet or lower face prop to edit this option
+m_strAttitude=Attitude
+m_strCustomizeClass=Class
+m_strVoice=Voice
+m_strPreviewVoice=PREVIEW
+m_strType=Unit Type
+m_strSkinColor=Skin Colour
+m_strExportCharacter=Save to Character Pool
+m_strEyeColor=Eye Color
+
+m_strAllowTypeSoldier=Can Appear as Soldier
+m_strAllowTypeVIP=Can Appear as VIP
+m_strAllowTypeDarkVIP=Can Appear as Dark VIP
+m_strAllowed=Allowed
+
+m_strTimeAdded=Created at:
+
+m_strExportSuccessTitle=CHARACTER SAVED!
+m_strExportSuccessBody=This soldier's name and appearance have been added to the character pool.
+
+[UICustomize_HybridProps]
+m_strTitle=EDIT PROPS
+m_strArms=Arms
+m_strTorso=Torso
+m_strLegs=Legs
+m_strArmorPattern=Armor Pattern 
+m_strWeaponPattern=Weapon Pattern
+m_strClearButton=Clear
+m_strHead=Head/Helmets
+m_strLeftArm=Left Arm
+m_strRightArm=Right Arm
+m_strLeftArmDeco=Left Shoulder
+m_strRightArmDeco=Right Shoulder
+m_strTattoosLeft=Left Arm Tattoo
+m_strTattoosRight=Right Arm Tattoo
+m_strTattooColor=Tattoo Color
+m_strScars=Scars
+m_strFacepaint=Face Paint
+m_strUpperFaceProps=Upper Face Prop
+m_strLowerFaceProps=Lower Face Prop
+
+[UICustomize_HybridInfo]
+m_strTitle=EDIT HYBRID INFO
+m_strFirstNameLabel=First Name
+m_strLastNameLabel=Last Name
+m_strNicknameLabel=Nickname
+m_strEditBiography=Biography
+m_strGender=Gender
+m_strNationality=Nationality
+m_strBiographyLabel=CHARACTER BIOGRAPHY
+
+
+[XGCharacterGenerator_Hybrid]
+m_arrHybridFirstNames[0]=FN
+m_arrHybridFirstNames[1]=SM
+m_arrHybridFirstNames[2]=EL
+m_arrHybridFirstNames[3]=JN
+m_arrHybridFirstNames[4]=MK
+m_arrHybridFirstNames[5]=PH
+m_arrHybridFirstNames[6]=AB
+m_arrHybridFirstNames[7]=JK
+m_arrHybridFirstNames[8]=LZ
+m_arrHybridFirstNames[9]=ET
+m_arrHybridFirstNames[10]=DL
+m_arrHybridFirstNames[11]=SR
+m_arrHybridFirstNames[12]=LW
+m_arrHybridFirstNames[13]=EU
+m_arrHybridFirstNames[14]=EW
+m_arrHybridFirstNames[15]=FX
+m_arrHybridFirstNames[16]=LA
+m_arrHybridFirstNames[17]=XR
+m_arrHybridFirstNames[18]=NA
+m_arrHybridFirstNames[19]=JS
+m_arrHybridFirstNames[20]=ER
+m_arrHybridFirstNames[21]=AB
+m_arrHybridFirstNames[22]=CT
+m_arrHybridFirstNames[23]=CY
+m_arrHybridFirstNames[24]=VA
+m_arrHybridFirstNames[25]=AN
+m_arrHybridFirstNames[26]=RO
+m_arrHybridFirstNames[27]=JY
+m_arrHybridFirstNames[28]=RD
+m_arrHybridFirstNames[29]=WF
+m_arrHybridFirstNames[30]=TU
+m_arrHybridFirstNames[31]=RK

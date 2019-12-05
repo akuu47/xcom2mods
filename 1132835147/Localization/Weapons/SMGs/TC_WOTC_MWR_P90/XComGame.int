@@ -1,0 +1,41 @@
+[TC_WOTC_MWR_P90_T1 X2WeaponTemplate]
+FriendlyName="<font color='#ECECEC'><b>P90 TR</b></font>"
+FriendlyNamePlural="<font color='#ECECEC'><b>P90 TRs</b></font>"
+AbilityDescName="personal defense weapon"
+BriefSummary="Also known as FN Project 1990, the P90 is a Personal Defense Weapon chambered in FN Herstal's proprietary 5.7x28mm rounds, designed and manufactured at Belgium. This is a very compact, but powerful PDW for vehicle crews, support roles, and special forces alike. Although it's classified as a PDW, it can be considered as a assault carbine or a submachine gun. This weapon's ambidexterious controls, a top-mounted magazine, and compact bullpup design makes for a unconventional yet futuristic appearance. This version does not come with an integrated reflex sights, but a MIL-STD-1913 triple rail interface for mounting optics and other accessories."
+TacticalText="<Bullet/>Type: Submachine Gun\n<Bullet/>Firing Profile: Full-Auto\n<Bullet/>Action: Straight Blowback, Closed Bolt\n<Bullet/>Cartridge: FN 5.7x28mm\n<Bullet/>Origin: Belgium\n<Bullet/>Tier: Conventional"
+
+[TC_WOTC_MWR_P90_T2 X2WeaponTemplate]
+FriendlyName="<font color='#27AAE1'><b>RC-P90</b></font>"
+FriendlyNamePlural="<font color='#27AAE1'><b>RC-P90s</b></font>"
+AbilityDescName="personal defense weapon"
+BriefSummary="Also known as FN Project 1990, the FN P90 is a Personal Defense Weapon chambered in FN's proprietary 5.7x28mm rounds, designed and manufactured at Belgium. This is a very compact, but powerful PDW for vehicle crews, support roles, and special forces alike. Although it's classified as a PDW, it can be considered as a assault carbine or a submachine gun. This weapon's ambidexterious controls, a top-mounted magazine, and compact bullpup design makes for a unconventional yet futuristic appearance. This version does not come with an integrated reflex sights, but a MIL-STD-1913 triple rail interface for mounting optics and other accessories.\nThe RC version of the P90 is retrofitted with new parts made from alien alloy, making the weapon more sturdy when firing and increasing the stopping power of the weapon."
+TacticalText="<Bullet/>Type: Submachine Gun\n<Bullet/>Firing Profile: Full-Auto\n<Bullet/>Action: Straight Blowback, Closed Bolt\n<Bullet/>Cartridge: FN 5.7x28mm\n<Bullet/>Origin: Belgium\n<Bullet/>Tier: Magnetic"
+
+[TC_WOTC_MWR_P90_T3 X2WeaponTemplate]
+FriendlyName="<font color='#CF4517'><b>PX290</b></font>"
+FriendlyNamePlural="<font color='#CF4517'><b>PX290s</b></font>"
+AbilityDescName="personal defense weapon"
+BriefSummary="Also known as FN Project 1990, the FN P90 is a Personal Defense Weapon chambered in FN's proprietary 5.7x28mm rounds, designed and manufactured at Belgium. This is a very compact, but powerful PDW for vehicle crews, support roles, and special forces alike. Although it's classified as a PDW, it can be considered as a assault carbine or a submachine gun. This weapon's ambidexterious controls, a top-mounted magazine, and compact bullpup design makes for a unconventional yet futuristic appearance. This version does not come with an integrated reflex sights, but a MIL-STD-1913 triple rail interface for mounting optics and other accessories.\nThe PX135 is the next-generation of the P90 project. The weapon's barrel is ported with electromagentic materials, causing each projectile to travel beyond supersonic speeds. This upgrade makes the PX135 more powerful than ever."
+TacticalText="<Bullet/>Type: Submachine Gun\n<Bullet/>Firing Profile: Full-Auto\n<Bullet/>Action: Straight Blowback, Closed Bolt\n<Bullet/>Cartridge: FN 5.7x28mm\n<Bullet/>Origin: Belgium\n<Bullet/>Tier: Beam"
+
+[TC_WOTC_SKR_MWR_P90_T1 X2WeaponTemplate]
+FriendlyName="<font color='#ECECEC'><b>P90 TR</b></font>"
+FriendlyNamePlural="<font color='#ECECEC'><b>P90 TRs</b></font>"
+AbilityDescName="personal defense weapon"
+BriefSummary="Also known as FN Project 1990, the P90 is a Personal Defense Weapon chambered in FN Herstal's proprietary 5.7x28mm rounds, designed and manufactured at Belgium. This is a very compact, but powerful PDW for vehicle crews, support roles, and special forces alike. Although it's classified as a PDW, it can be considered as a assault carbine or a submachine gun. This weapon's ambidexterious controls, a top-mounted magazine, and compact bullpup design makes for a unconventional yet futuristic appearance. This version does not come with an integrated reflex sights, but a MIL-STD-1913 triple rail interface for mounting optics and other accessories."
+TacticalText="<Bullet/>Type: Submachine Gun\n<Bullet/>Firing Profile: Full-Auto\n<Bullet/>Action: Straight Blowback, Closed Bolt\n<Bullet/>Cartridge: FN 5.7x28mm\n<Bullet/>Origin: Belgium\n<Bullet/>Tier: Conventional"
+
+[TC_WOTC_SKR_MWR_P90_T2 X2WeaponTemplate]
+FriendlyName="<font color='#27AAE1'><b>RC-P90</b></font>"
+FriendlyNamePlural="<font color='#27AAE1'><b>RC-P90s</b></font>"
+AbilityDescName="personal defense weapon"
+BriefSummary="Also known as FN Project 1990, the FN P90 is a Personal Defense Weapon chambered in FN's proprietary 5.7x28mm rounds, designed and manufactured at Belgium. This is a very compact, but powerful PDW for vehicle crews, support roles, and special forces alike. Although it's classified as a PDW, it can be considered as a assault carbine or a submachine gun. This weapon's ambidexterious controls, a top-mounted magazine, and compact bullpup design makes for a unconventional yet futuristic appearance. This version does not come with an integrated reflex sights, but a MIL-STD-1913 triple rail interface for mounting optics and other accessories.\nThe RC version of the P90 is retrofitted with new parts made from alien alloy, making the weapon more sturdy when firing and increasing the stopping power of the weapon."
+TacticalText="<Bullet/>Type: Submachine Gun\n<Bullet/>Firing Profile: Full-Auto\n<Bullet/>Action: Straight Blowback, Closed Bolt\n<Bullet/>Cartridge: FN 5.7x28mm\n<Bullet/>Origin: Belgium\n<Bullet/>Tier: Magnetic"
+
+[TC_WOTC_SKR_MWR_P90_T3 X2WeaponTemplate]
+FriendlyName="<font color='#CF4517'><b>PX290</b></font>"
+FriendlyNamePlural="<font color='#CF4517'><b>PX290s</b></font>"
+AbilityDescName="personal defense weapon"
+BriefSummary="Also known as FN Project 1990, the FN P90 is a Personal Defense Weapon chambered in FN's proprietary 5.7x28mm rounds, designed and manufactured at Belgium. This is a very compact, but powerful PDW for vehicle crews, support roles, and special forces alike. Although it's classified as a PDW, it can be considered as a assault carbine or a submachine gun. This weapon's ambidexterious controls, a top-mounted magazine, and compact bullpup design makes for a unconventional yet futuristic appearance. This version does not come with an integrated reflex sights, but a MIL-STD-1913 triple rail interface for mounting optics and other accessories.\nThe PX135 is the next-generation of the P90 project. The weapon's barrel is ported with electromagentic materials, causing each projectile to travel beyond supersonic speeds. This upgrade makes the PX135 more powerful than ever."
+TacticalText="<Bullet/>Type: Submachine Gun\n<Bullet/>Firing Profile: Full-Auto\n<Bullet/>Action: Straight Blowback, Closed Bolt\n<Bullet/>Cartridge: FN 5.7x28mm\n<Bullet/>Origin: Belgium\n<Bullet/>Tier: Beam"

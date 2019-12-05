@@ -1,0 +1,41 @@
+[TC_WOTC_S79_AKS74U_T1 X2WeaponTemplate]
+FriendlyName="<font color='#ECECEC'><b>AKS-74u</b></font>"
+FriendlyNamePlural="<font color='#ECECEC'><b>AKS-74us</b></font>"
+AbilityDescName="assault carbine"
+BriefSummary="The Soviets decided to hold a contest in 1973 for the adoption of a modern assault carbine, after observing US Marines in Vietnam with Colt XM177 Commandos. The AKS-74u was adopted, since it was a shortened version of the AK-74, plus the Soviets can save production costs by utilizing parts from the AK-74. This weapon was widely used by the airborne troops and armored crews during the Soviet-Afgan War, and later adopted by the USSR's police force due to its compact rifle-caliber nature. Like the AK-74, the AKS-74u uses 5.45x39mm rounds, replacing the bulky 7.62x39mm chambering seen in older Kalashnikov weapons. The AKS-74un is a special variant of the AKS-74u, that allows attachable scopes to be mounted to the weapon."
+TacticalText="<Bullet/>Type: Assault Carbine\n<Bullet/>Firing Profile: Full-Auto\n<Bullet/>Action: Gas-Operated, Rotating Bolt\n<Bullet/>Cartridge: 5.45x39mm\n<Bullet/>Origin: Soviet Union/Russia\n<Bullet/>Tier: Conventional"
+
+[TC_WOTC_S79_AKS74U_T2 X2WeaponTemplate]
+FriendlyName="<font color='#27AAE1'><b>RVKS-74U</b></font>"
+FriendlyNamePlural="<font color='#27AAE1'><b>RVKS-74Us</b></font>"
+AbilityDescName="assault carbine"
+BriefSummary="The Soviets decided to hold a contest in 1973 for the adoption of a modern assault carbine, after observing US Marines in Vietnam with Colt XM177 Commandos. The AKS-74u was adopted, since it was a shortened version of the AK-74, plus the Soviets can save production costs by utilizing parts from the AK-74. This weapon was widely used by the airborne troops and armored crews during the Soviet-Afgan War, and later adopted by the USSR's police force due to its compact rifle-caliber nature. Like the AK-74, the AKS-74u uses 5.45x39mm rounds, replacing the 7.62x39mm chambering seen in older Kalashnikov weapons. The AKS-74un is a special variant of the AKS-74u, that allows attachable scopes to be mounted to the weapon.\nWith the magnetic research completed, we can finally replace the gas operated firing mechanism in the AKS-74un with a better firing system, reducing the recoil of the weapon while increasing the damage output."
+TacticalText="<Bullet/>Type: Assault Carbine\n<Bullet/>Firing Profile: Full-Auto\n<Bullet/>Action: Gas-Operated, Rotating Bolt\n<Bullet/>Cartridge: 5.45x39mm\n<Bullet/>Origin: Soviet Union/Russia\n<Bullet/>Tier: Conventional"
+
+[TC_WOTC_S79_AKS74U_T3 X2WeaponTemplate]
+FriendlyName="<font color='#CF4517'><b>RVKS-74U/203X</b></font>"
+FriendlyNamePlural="<font color='#CF4517'><b>RVKS-74U/203Xs</b></font>"
+AbilityDescName="assault carbine"
+BriefSummary="The Soviets decided to hold a contest in 1973 for the adoption of a modern assault carbine, after observing US Marines in Vietnam with Colt XM177 Commandos. The AKS-74u was adopted, since it was a shortened version of the AK-74, plus the Soviets can save production costs by utilizing parts from the AK-74. This weapon was widely used by the airborne troops and armored crews during the Soviet-Afgan War, and later adopted by the USSR's police force due to its compact rifle-caliber nature. Like the AK-74, the AKS-74u uses 5.45x39mm rounds, replacing the 7.62x39mm chambering seen in older Kalashnikov weapons. The AKS-74un is a special variant of the AKS-74u, that allows attachable scopes to be mounted to the weapon.\nWith the beam research completed, the AK-47's barrel can be replaced with a high frequency barrel, allowing bullets to travel at higher speeds with much less kick to the weapon."
+TacticalText="<Bullet/>Type: Assault Carbine\n<Bullet/>Firing Profile: Full-Auto\n<Bullet/>Action: Gas-Operated, Rotating Bolt\n<Bullet/>Cartridge: 5.45x39mm\n<Bullet/>Origin: Soviet Union/Russia\n<Bullet/>Tier: Conventional"
+
+[TC_WOTC_SKR_S79_AKS74U_T1 X2WeaponTemplate]
+FriendlyName="<font color='#ECECEC'><b>AKS-74u</b></font>"
+FriendlyNamePlural="<font color='#ECECEC'><b>AKS-74us</b></font>"
+AbilityDescName="assault carbine"
+BriefSummary="The Soviets decided to hold a contest in 1973 for the adoption of a modern assault carbine, after observing US Marines in Vietnam with Colt XM177 Commandos. The AKS-74u was adopted, since it was a shortened version of the AK-74, plus the Soviets can save production costs by utilizing parts from the AK-74. This weapon was widely used by the airborne troops and armored crews during the Soviet-Afgan War, and later adopted by the USSR's police force due to its compact rifle-caliber nature. Like the AK-74, the AKS-74u uses 5.45x39mm rounds, replacing the bulky 7.62x39mm chambering seen in older Kalashnikov weapons. The AKS-74un is a special variant of the AKS-74u, that allows attachable scopes to be mounted to the weapon."
+TacticalText="<Bullet/>Type: Assault Carbine\n<Bullet/>Firing Profile: Full-Auto\n<Bullet/>Action: Gas-Operated, Rotating Bolt\n<Bullet/>Cartridge: 5.45x39mm\n<Bullet/>Origin: Soviet Union/Russia\n<Bullet/>Tier: Conventional"
+
+[TC_WOTC_SKR_S79_AKS74U_T2 X2WeaponTemplate]
+FriendlyName="<font color='#27AAE1'><b>RVKS-74U</b></font>"
+FriendlyNamePlural="<font color='#27AAE1'><b>RVKS-74Us</b></font>"
+AbilityDescName="assault carbine"
+BriefSummary="The Soviets decided to hold a contest in 1973 for the adoption of a modern assault carbine, after observing US Marines in Vietnam with Colt XM177 Commandos. The AKS-74u was adopted, since it was a shortened version of the AK-74, plus the Soviets can save production costs by utilizing parts from the AK-74. This weapon was widely used by the airborne troops and armored crews during the Soviet-Afgan War, and later adopted by the USSR's police force due to its compact rifle-caliber nature. Like the AK-74, the AKS-74u uses 5.45x39mm rounds, replacing the 7.62x39mm chambering seen in older Kalashnikov weapons. The AKS-74un is a special variant of the AKS-74u, that allows attachable scopes to be mounted to the weapon.\nWith the magnetic research completed, we can finally replace the gas operated firing mechanism in the AKS-74un with a better firing system, reducing the recoil of the weapon while increasing the damage output."
+TacticalText="<Bullet/>Type: Assault Carbine\n<Bullet/>Firing Profile: Full-Auto\n<Bullet/>Action: Gas-Operated, Rotating Bolt\n<Bullet/>Cartridge: 5.45x39mm\n<Bullet/>Origin: Soviet Union/Russia\n<Bullet/>Tier: Conventional"
+
+[TC_WOTC_SKR_S79_AKS74U_T3 X2WeaponTemplate]
+FriendlyName="<font color='#CF4517'><b>RVKS-74U/203X</b></font>"
+FriendlyNamePlural="<font color='#CF4517'><b>RVKS-74U/203Xs</b></font>"
+AbilityDescName="assault carbine"
+BriefSummary="The Soviets decided to hold a contest in 1973 for the adoption of a modern assault carbine, after observing US Marines in Vietnam with Colt XM177 Commandos. The AKS-74u was adopted, since it was a shortened version of the AK-74, plus the Soviets can save production costs by utilizing parts from the AK-74. This weapon was widely used by the airborne troops and armored crews during the Soviet-Afgan War, and later adopted by the USSR's police force due to its compact rifle-caliber nature. Like the AK-74, the AKS-74u uses 5.45x39mm rounds, replacing the 7.62x39mm chambering seen in older Kalashnikov weapons. The AKS-74un is a special variant of the AKS-74u, that allows attachable scopes to be mounted to the weapon.\nWith the beam research completed, the AK-47's barrel can be replaced with a high frequency barrel, allowing bullets to travel at higher speeds with much less kick to the weapon."
+TacticalText="<Bullet/>Type: Assault Carbine\n<Bullet/>Firing Profile: Full-Auto\n<Bullet/>Action: Gas-Operated, Rotating Bolt\n<Bullet/>Cartridge: 5.45x39mm\n<Bullet/>Origin: Soviet Union/Russia\n<Bullet/>Tier: Conventional"

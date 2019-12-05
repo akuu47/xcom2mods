@@ -1,0 +1,50 @@
+History of Changes to this mod.
+
+Release ver: 1.124:
+[list]
+     [*]Fixed last update breaking the entire mission.
+	 [*]Disabled spawning duplicate Prison Break missions to prevent duplicating prisoners.
+[/list]
+
+Release ver: 1.123:
+[list]
+     [*]If the Lost & Abandonded narrative is enabled, then the Prison Break mission will be disabled until Mox is rescued, to prevent duplication bugs and other weird behavior.
+	 [*]Changed the algorithm of the spawning location. It now spawns from the prisoners centerpoint that is obtained in the beginning of the mission, with a ranged distance of [32, 48] tiles to prevent spawning on the building.
+[/list]
+
+Release ver: 1.122:
+[list]
+     [*]Fixed a bug where the Evac Zone marker does not get removed once the Skyranger leaves.
+[/list]
+
+Release ver: 1.121:
+[list]
+     [*]Fixed a bug where the two popups appeared three times.
+	 [*]Attempted to fix a bug where if the VIP was the last unit to Evac, he would be counted as killed.
+[/list]
+
+Release ver: 1.120:
+[list]
+     [*]Allows the Evac Zone's spawn to be customized: minimum, maximum distance, and whether or not the Evac zone will spawn away from XCom's inital spawnpoint.
+[/list]
+
+Release ver: 1.110:
+[list]
+     [*]Added the ability to configure all aspects of the Covert Action, from Staff Slots, to Optional Costs, to Risks.
+[/list]
+
+Release ver: 1.100:
+[list]
+     [*]Added Variety 01 mission chance for Covert Action reward. If the number of captured soldiers is less than 8, then the CA will instead generate Variety 01 which is a highly configurable mission where there's a chance for no reward (All this can be changed in this mod's XComGameData.ini). Otherwise, the standard 6 prisoner mission is picked.
+	 [*]Added Faction soldiers and other Staff (scientist and engineers) as rewards for rescuing them for both Variety 01 and the Standard mission.
+[/list]
+
+Release ver: 1.001:
+[list]
+     [*]Removed the restriction on using a random class to complete the Covert Action.
+[/list]
+
+Release ver: 1.000:
+[list]
+     [*]Initial release of this mod.
+[/list]

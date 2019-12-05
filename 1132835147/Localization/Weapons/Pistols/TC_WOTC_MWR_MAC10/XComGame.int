@@ -1,0 +1,41 @@
+[TC_WOTC_MWR_MAC10_T1 X2WeaponTemplate]
+FriendlyName="<font color='#ECECEC'><b>MAC-10</b></font>"
+FriendlyNamePlural="<font color='#ECECEC'><b>MAC-10s</b></font>"
+AbilityDescName="machine pistol"
+BriefSummary="The MAC-10 (Military Armament Corporation Model 10, officially the M-10) is a compact, blowback operated machine pistol developed by Gordon B. Ingram in 1964. It is chambered in either .45 ACP or 9mm. A two-stage suppressor by Sionics was designed for the MAC-10, which not only abated the noise created, but made it easier to control on full automatic (although it also made the gun far less compact and concealable). The M10 has a telescoping bolt, which wraps around the rear face of the barrel. This allows a more compact weapon and balances the weight of the weapon over the pistol grip, where the magazine is located. The M10 fires from an open bolt, and the light weight of the bolt results in a rapid rate of fire."
+TacticalText="<Bullet/>Type: Machine Pistol\n<Bullet/>Firing Profile: Full-Auto\n<Bullet/>Action: Straight Blowback\n<Bullet/>Cartridge: .45 ACP\n<Bullet/>Origin: United States\n<Bullet/>Tier: Conventional "
+
+[TC_WOTC_MWR_MAC10_T2 X2WeaponTemplate]
+FriendlyName="<font color='#27AAE1'><b>XDM-10</b></font>"
+FriendlyNamePlural="<font color='#27AAE1'><b>XDM-10s</b></font>"
+AbilityDescName="machine pistol"
+BriefSummary="The Magnetic variant of the MAC-10 (Military Armament Corporation Model 10, officially the M-10) is a compact, blowback operated machine pistol developed by Gordon B. Ingram in 1964. It is chambered in either .45 ACP or 9mm. A two-stage suppressor by Sionics was designed for the MAC-10, which not only abated the noise created, but made it easier to control on full automatic (although it also made the gun far less compact and concealable). The M10 has a telescoping bolt, which wraps around the rear face of the barrel. This allows a more compact weapon and balances the weight of the weapon over the pistol grip, where the magazine is located. The M10 fires from an open bolt, and the light weight of the bolt results in a rapid rate of fire. Due to the integrated magnetic weapon technology the MAC-10 Magnetic Machine Pistol receives a boost to both crit and base damage."
+TacticalText="<Bullet/>Type: Machine Pistol\n<Bullet/>Firing Profile: Full-Auto\n<Bullet/>Action: Straight Blowback\n<Bullet/>Cartridge: .45 ACP\n<Bullet/>Origin: United States\n<Bullet/>Tier: Magnetic"
+
+[TC_WOTC_MWR_MAC10_T3 X2WeaponTemplate]
+FriendlyName="<font color='#CF4517'><b>XVM-1000</b></font>"
+FriendlyNamePlural="<font color='#CF4517'><b>XVM-1000s</b></font>"
+AbilityDescName="machine pistol"
+BriefSummary="The Plasma variant of the MAC-10 (Military Armament Corporation Model 10, officially the M-10) is a compact, blowback operated machine pistol developed by Gordon B. Ingram in 1964. It is chambered in either .45 ACP or 9mm. A two-stage suppressor by Sionics was designed for the MAC-10, which not only abated the noise created, but made it easier to control on full automatic (although it also made the gun far less compact and concealable). The M10 has a telescoping bolt, which wraps around the rear face of the barrel. This allows a more compact weapon and balances the weight of the weapon over the pistol grip, where the magazine is located. The M10 fires from an open bolt, and the light weight of the bolt results in a rapid rate of fire. Due to the integrated plasma beam technology the MAC-10 Plasma Machine Pistol receives a slight boost to base damage and a significant boost to crit damage."
+TacticalText="<Bullet/>Type: Machine Pistol\n<Bullet/>Firing Profile: Full-Auto\n<Bullet/>Action: Straight Blowback\n<Bullet/>Cartridge: .45 ACP\n<Bullet/>Origin: United States\n<Bullet/>Tier: Beam"
+
+[TC_WOTC_TMP_MWR_MAC10_T1 X2WeaponTemplate]
+FriendlyName="<font color='#ECECEC'><b>MAC-10</b></font>"
+FriendlyNamePlural="<font color='#ECECEC'><b>MAC-10s</b></font>"
+AbilityDescName="machine pistol"
+BriefSummary="The MAC-10 (Military Armament Corporation Model 10, officially the M-10) is a compact, blowback operated machine pistol developed by Gordon B. Ingram in 1964. It is chambered in either .45 ACP or 9mm. A two-stage suppressor by Sionics was designed for the MAC-10, which not only abated the noise created, but made it easier to control on full automatic (although it also made the gun far less compact and concealable). The M10 has a telescoping bolt, which wraps around the rear face of the barrel. This allows a more compact weapon and balances the weight of the weapon over the pistol grip, where the magazine is located. The M10 fires from an open bolt, and the light weight of the bolt results in a rapid rate of fire."
+TacticalText="<Bullet/>Type: Machine Pistol\n<Bullet/>Firing Profile: Full-Auto\n<Bullet/>Action: Straight Blowback\n<Bullet/>Cartridge: .45 ACP\n<Bullet/>Origin: United States\n<Bullet/>Tier: Conventional "
+
+[TC_WOTC_TMP_MWR_MAC10_T2 X2WeaponTemplate]
+FriendlyName="<font color='#27AAE1'><b>XDM-10</b></font>"
+FriendlyNamePlural="<font color='#27AAE1'><b>XDM-10s</b></font>"
+AbilityDescName="machine pistol"
+BriefSummary="The Magnetic variant of the MAC-10 (Military Armament Corporation Model 10, officially the M-10) is a compact, blowback operated machine pistol developed by Gordon B. Ingram in 1964. It is chambered in either .45 ACP or 9mm. A two-stage suppressor by Sionics was designed for the MAC-10, which not only abated the noise created, but made it easier to control on full automatic (although it also made the gun far less compact and concealable). The M10 has a telescoping bolt, which wraps around the rear face of the barrel. This allows a more compact weapon and balances the weight of the weapon over the pistol grip, where the magazine is located. The M10 fires from an open bolt, and the light weight of the bolt results in a rapid rate of fire. Due to the integrated magnetic weapon technology the MAC-10 Magnetic Machine Pistol receives a boost to both crit and base damage."
+TacticalText="<Bullet/>Type: Machine Pistol\n<Bullet/>Firing Profile: Full-Auto\n<Bullet/>Action: Straight Blowback\n<Bullet/>Cartridge: .45 ACP\n<Bullet/>Origin: United States\n<Bullet/>Tier: Magnetic"
+
+[TC_WOTC_TMP_MWR_MAC10_T3 X2WeaponTemplate]
+FriendlyName="<font color='#CF4517'><b>XVM-1000</b></font>"
+FriendlyNamePlural="<font color='#CF4517'><b>XVM-1000s</b></font>"
+AbilityDescName="machine pistol"
+BriefSummary="The Plasma variant of the MAC-10 (Military Armament Corporation Model 10, officially the M-10) is a compact, blowback operated machine pistol developed by Gordon B. Ingram in 1964. It is chambered in either .45 ACP or 9mm. A two-stage suppressor by Sionics was designed for the MAC-10, which not only abated the noise created, but made it easier to control on full automatic (although it also made the gun far less compact and concealable). The M10 has a telescoping bolt, which wraps around the rear face of the barrel. This allows a more compact weapon and balances the weight of the weapon over the pistol grip, where the magazine is located. The M10 fires from an open bolt, and the light weight of the bolt results in a rapid rate of fire. Due to the integrated plasma beam technology the MAC-10 Plasma Machine Pistol receives a slight boost to base damage and a significant boost to crit damage."
+TacticalText="<Bullet/>Type: Machine Pistol\n<Bullet/>Firing Profile: Full-Auto\n<Bullet/>Action: Straight Blowback\n<Bullet/>Cartridge: .45 ACP\n<Bullet/>Origin: United States\n<Bullet/>Tier: Beam"

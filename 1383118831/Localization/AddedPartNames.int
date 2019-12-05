@@ -1,0 +1,673 @@
+[X2DownloadableContentInfo_AddedPartNames]
+
+;
+; Kevlar
+;
+
+.TorsoTemplate="CnvMed_ReachTrooper_Torso_A1_F"
+.TorsoName="Trooper BDU"
+.TorsoTemplate="CnvMed_ReachTrooper_Torso_B1_F"
+.TorsoName="Trooper BDU [[Rucksack]"
+.TorsoTemplate="CnvMed_ReachTrooper_Torso_C1_F"
+.TorsoName="Trooper BDU [Large Rucksack]"
+.TorsoTemplate="CnvMed_ReachTrooper_Torso_D1_F"
+.TorsoName="Trooper BDU [Radio]"
+
+.TorsoTemplate="CnvMed_ReachTrooper_Torso_A1_M"
+.TorsoName="Trooper BDU"
+.TorsoTemplate="CnvMed_ReachTrooper_Torso_B1_M"
+.TorsoName="Trooper BDU [Rucksack]"
+.TorsoTemplate="CnvMed_ReachTrooper_Torso_C1_M"
+.TorsoName="Trooper BDU [Large Rucksack]"
+.TorsoTemplate="CnvMed_ReachTrooper_Torso_D1_M"
+.TorsoName="Trooper BDU [Radio]"
+
+.LegsTemplate="CnvMed_ReachTrooper_Legs_A_F"
+.LegsName="Trooper BDU [A]"
+.LegsTemplate="CnvMed_ReachTrooper_Legs_B_F"
+.LegsName="Trooper BDU [B]"
+.LegsTemplate="CnvMed_ReachTrooper_Legs_C_F"
+.LegsName="Trooper BDU [C]"
+
+.LegsTemplate="CnvMed_ReachTrooper_Legs_A_M"
+.LegsName="Trooper BDU [A]"
+.LegsTemplate="CnvMed_ReachTrooper_Legs_B_M"
+.LegsName="Trooper BDU [B]"
+.LegsTemplate="CnvMed_ReachTrooper_Legs_C_M"
+.LegsName="Trooper BDU [C]"
+
+.LegsTemplate="CnvMed_ReachSpace_Legs_F"
+.LegsName="Space Trooper BDU"
+
+.LegsTemplate="CnvMed_ReachSpace_Legs_M"
+.LegsName="Space Trooper BDU"
+
+;
+; Predator
+;
+
+.TorsoTemplate="PltMed_ReachTrooper_Torso_A1_F"
+.TorsoName="Trooper BDU"
+.TorsoTemplate="PltMed_ReachTrooper_Torso_B1_F"
+.TorsoName="Trooper BDU [[Rucksack]"
+.TorsoTemplate="PltMed_ReachTrooper_Torso_C1_F"
+.TorsoName="Trooper BDU [Large Rucksack]"
+.TorsoTemplate="PltMed_ReachTrooper_Torso_D1_F"
+.TorsoName="Trooper BDU [Radio]"
+
+.TorsoTemplate="PltMed_ReachTrooper_Torso_A1_M"
+.TorsoName="Trooper BDU"
+.TorsoTemplate="PltMed_ReachTrooper_Torso_B1_M"
+.TorsoName="Trooper BDU [Rucksack]"
+.TorsoTemplate="PltMed_ReachTrooper_Torso_C1_M"
+.TorsoName="Trooper BDU [Large Rucksack]"
+.TorsoTemplate="PltMed_ReachTrooper_Torso_D1_M"
+.TorsoName="Trooper BDU [Radio]"
+
+.LegsTemplate="PltMed_ReachTrooper_Legs_A_F"
+.LegsName="Trooper BDU [A]"
+.LegsTemplate="PltMed_ReachTrooper_Legs_B_F"
+.LegsName="Trooper BDU [B]"
+.LegsTemplate="PltMed_ReachTrooper_Legs_C_F"
+.LegsName="Trooper BDU [C]"
+
+.LegsTemplate="PltMed_ReachTrooper_Legs_A_M"
+.LegsName="Trooper BDU [A]"
+.LegsTemplate="PltMed_ReachTrooper_Legs_B_M"
+.LegsName="Trooper BDU [B]"
+.LegsTemplate="PltMed_ReachTrooper_Legs_C_M"
+.LegsName="Trooper BDU [C]"
+
+.LegsTemplate="PltMed_ReachSpace_Legs_F"
+.LegsName="Space Trooper BDU"
+
+.LegsTemplate="PltMed_ReachSpace_Legs_M"
+.LegsName="Space Trooper BDU"
+
+;
+; Spider
+;
+
+.TorsoTemplate="PltLgt_ReachTrooper_Torso_A1_F"
+.TorsoName="Trooper BDU"
+.TorsoTemplate="PltLgt_ReachTrooper_Torso_B1_F"
+.TorsoName="Trooper BDU [[Rucksack]"
+.TorsoTemplate="PltLgt_ReachTrooper_Torso_C1_F"
+.TorsoName="Trooper BDU [Large Rucksack]"
+.TorsoTemplate="PltLgt_ReachTrooper_Torso_D1_F"
+.TorsoName="Trooper BDU [Radio]"
+
+.TorsoTemplate="PltLgt_ReachTrooper_Torso_A1_M"
+.TorsoName="Trooper BDU"
+.TorsoTemplate="PltLgt_ReachTrooper_Torso_B1_M"
+.TorsoName="Trooper BDU [Rucksack]"
+.TorsoTemplate="PltLgt_ReachTrooper_Torso_C1_M"
+.TorsoName="Trooper BDU [Large Rucksack]"
+.TorsoTemplate="PltLgt_ReachTrooper_Torso_D1_M"
+.TorsoName="Trooper BDU [Radio]"
+
+.LegsTemplate="PltLgt_ReachTrooper_Legs_A_F"
+.LegsName="Trooper BDU [A]"
+.LegsTemplate="PltLgt_ReachTrooper_Legs_B_F"
+.LegsName="Trooper BDU [B]"
+.LegsTemplate="PltLgt_ReachTrooper_Legs_C_F"
+.LegsName="Trooper BDU [C]"
+
+.LegsTemplate="PltLgt_ReachTrooper_Legs_A_M"
+.LegsName="Trooper BDU [A]"
+.LegsTemplate="PltLgt_ReachTrooper_Legs_B_M"
+.LegsName="Trooper BDU [B]"
+.LegsTemplate="PltLgt_ReachTrooper_Legs_C_M"
+.LegsName="Trooper BDU [C]"
+
+.LegsTemplate="PltLgt_ReachSpace_Legs_F"
+.LegsName="Space Trooper BDU"
+
+.LegsTemplate="PltLgt_ReachSpace_Legs_M"
+.LegsName="Space Trooper BDU"
+
+;
+; E.X.O.
+;
+
+.TorsoTemplate="PltHvy_ReachTrooper_Torso_A1_F"
+.TorsoName="Trooper BDU"
+.TorsoTemplate="PltHvy_ReachTrooper_Torso_B1_F"
+.TorsoName="Trooper BDU [[Rucksack]"
+.TorsoTemplate="PltHvy_ReachTrooper_Torso_C1_F"
+.TorsoName="Trooper BDU [Large Rucksack]"
+.TorsoTemplate="PltHvy_ReachTrooper_Torso_D1_F"
+.TorsoName="Trooper BDU [Radio]"
+
+.TorsoTemplate="PltHvy_ReachTrooper_Torso_A1_M"
+.TorsoName="Trooper BDU"
+.TorsoTemplate="PltHvy_ReachTrooper_Torso_B1_M"
+.TorsoName="Trooper BDU [Rucksack]"
+.TorsoTemplate="PltHvy_ReachTrooper_Torso_C1_M"
+.TorsoName="Trooper BDU [Large Rucksack]"
+.TorsoTemplate="PltHvy_ReachTrooper_Torso_D1_M"
+.TorsoName="Trooper BDU [Radio]"
+
+.LegsTemplate="PltHvy_ReachTrooper_Legs_A_F"
+.LegsName="Trooper BDU [A]"
+.LegsTemplate="PltHvy_ReachTrooper_Legs_B_F"
+.LegsName="Trooper BDU [B]"
+.LegsTemplate="PltHvy_ReachTrooper_Legs_C_F"
+.LegsName="Trooper BDU [C]"
+
+.LegsTemplate="PltHvy_ReachTrooper_Legs_A_M"
+.LegsName="Trooper BDU [A]"
+.LegsTemplate="PltHvy_ReachTrooper_Legs_B_M"
+.LegsName="Trooper BDU [B]"
+.LegsTemplate="PltHvy_ReachTrooper_Legs_C_M"
+.LegsName="Trooper BDU [C]"
+
+.LegsTemplate="PltHvy_ReachSpace_Legs_F"
+.LegsName="Space Trooper BDU"
+
+.LegsTemplate="PltHvy_ReachSpace_Legs_M"
+.LegsName="Space Trooper BDU"
+
+;
+; Warden	
+;
+
+.TorsoTemplate="PwrMed_ReachTrooper_Torso_A1_F"
+.TorsoName="Trooper BDU"
+.TorsoTemplate="PwrMed_ReachTrooper_Torso_B1_F"
+.TorsoName="Trooper BDU [[Rucksack]"
+.TorsoTemplate="PwrMed_ReachTrooper_Torso_C1_F"
+.TorsoName="Trooper BDU [Large Rucksack]"
+.TorsoTemplate="PwrMed_ReachTrooper_Torso_D1_F"
+.TorsoName="Trooper BDU [Radio]"
+
+.TorsoTemplate="PwrMed_ReachTrooper_Torso_A1_M"
+.TorsoName="Trooper BDU"
+.TorsoTemplate="PwrMed_ReachTrooper_Torso_B1_M"
+.TorsoName="Trooper BDU [Rucksack]"
+.TorsoTemplate="PwrMed_ReachTrooper_Torso_C1_M"
+.TorsoName="Trooper BDU [Large Rucksack]"
+.TorsoTemplate="PwrMed_ReachTrooper_Torso_D1_M"
+.TorsoName="Trooper BDU [Radio]"
+
+.LegsTemplate="PwrMed_ReachTrooper_Legs_A_F"
+.LegsName="Trooper BDU [A]"
+.LegsTemplate="PwrMed_ReachTrooper_Legs_B_F"
+.LegsName="Trooper BDU [B]"
+.LegsTemplate="PwrMed_ReachTrooper_Legs_C_F"
+.LegsName="Trooper BDU [C]"
+
+.LegsTemplate="PwrMed_ReachTrooper_Legs_A_M"
+.LegsName="Trooper BDU [A]"
+.LegsTemplate="PwrMed_ReachTrooper_Legs_B_M"
+.LegsName="Trooper BDU [B]"
+.LegsTemplate="PwrMed_ReachTrooper_Legs_C_M"
+.LegsName="Trooper BDU [C]"
+
+.LegsTemplate="PwrMed_ReachSpace_Legs_F"
+.LegsName="Space Trooper BDU"
+
+.LegsTemplate="PwrMed_ReachSpace_Legs_M"
+.LegsName="Space Trooper BDU"
+
+;
+; Wraith
+;
+
+.TorsoTemplate="PwrLgt_ReachTrooper_Torso_A1_F"
+.TorsoName="Trooper BDU"
+.TorsoTemplate="PwrLgt_ReachTrooper_Torso_B1_F"
+.TorsoName="Trooper BDU [[Rucksack]"
+.TorsoTemplate="PwrLgt_ReachTrooper_Torso_C1_F"
+.TorsoName="Trooper BDU [Large Rucksack]"
+.TorsoTemplate="PwrLgt_ReachTrooper_Torso_D1_F"
+.TorsoName="Trooper BDU [Radio]"
+
+.TorsoTemplate="PwrLgt_ReachTrooper_Torso_A1_M"
+.TorsoName="Trooper BDU"
+.TorsoTemplate="PwrLgt_ReachTrooper_Torso_B1_M"
+.TorsoName="Trooper BDU [Rucksack]"
+.TorsoTemplate="PwrLgt_ReachTrooper_Torso_C1_M"
+.TorsoName="Trooper BDU [Large Rucksack]"
+.TorsoTemplate="PwrLgt_ReachTrooper_Torso_D1_M"
+.TorsoName="Trooper BDU [Radio]"
+
+.LegsTemplate="PwrLgt_ReachTrooper_Legs_A_F"
+.LegsName="Trooper BDU [A]"
+.LegsTemplate="PwrLgt_ReachTrooper_Legs_B_F"
+.LegsName="Trooper BDU [B]"
+.LegsTemplate="PwrLgt_ReachTrooper_Legs_C_F"
+.LegsName="Trooper BDU [C]"
+
+.LegsTemplate="PwrLgt_ReachTrooper_Legs_A_M"
+.LegsName="Trooper BDU [A]"
+.LegsTemplate="PwrLgt_ReachTrooper_Legs_B_M"
+.LegsName="Trooper BDU [B]"
+.LegsTemplate="PwrLgt_ReachTrooper_Legs_C_M"
+.LegsName="Trooper BDU [C]"
+
+.LegsTemplate="PwrLgt_ReachSpace_Legs_F"
+.LegsName="Space Trooper BDU"
+
+.LegsTemplate="PwrLgt_ReachSpace_Legs_M"
+.LegsName="Space Trooper BDU"
+
+;
+; W.A.R.
+;
+
+.TorsoTemplate="PwrHvy_ReachTrooper_Torso_A1_F"
+.TorsoName="Trooper BDU"
+.TorsoTemplate="PwrHvy_ReachTrooper_Torso_B1_F"
+.TorsoName="Trooper BDU [[Rucksack]"
+.TorsoTemplate="PwrHvy_ReachTrooper_Torso_C1_F"
+.TorsoName="Trooper BDU [Large Rucksack]"
+.TorsoTemplate="PwrHvy_ReachTrooper_Torso_D1_F"
+.TorsoName="Trooper BDU [Radio]"
+
+.TorsoTemplate="PwrHvy_ReachTrooper_Torso_A1_M"
+.TorsoName="Trooper BDU"
+.TorsoTemplate="PwrHvy_ReachTrooper_Torso_B1_M"
+.TorsoName="Trooper BDU [Rucksack]"
+.TorsoTemplate="PwrHvy_ReachTrooper_Torso_C1_M"
+.TorsoName="Trooper BDU [Large Rucksack]"
+.TorsoTemplate="PwrHvy_ReachTrooper_Torso_D1_M"
+.TorsoName="Trooper BDU [Radio]"
+
+.LegsTemplate="PwrHvy_ReachTrooper_Legs_A_F"
+.LegsName="Trooper BDU [A]"
+.LegsTemplate="PwrHvy_ReachTrooper_Legs_B_F"
+.LegsName="Trooper BDU [B]"
+.LegsTemplate="PwrHvy_ReachTrooper_Legs_C_F"
+.LegsName="Trooper BDU [C]"
+
+.LegsTemplate="PwrHvy_ReachTrooper_Legs_A_M"
+.LegsName="Trooper BDU [A]"
+.LegsTemplate="PwrHvy_ReachTrooper_Legs_B_M"
+.LegsName="Trooper BDU [B]"
+.LegsTemplate="PwrHvy_ReachTrooper_Legs_C_M"
+.LegsName="Trooper BDU [C]"
+
+.LegsTemplate="PwrHvy_ReachSpace_Legs_F"
+.LegsName="Space Trooper BDU"
+
+.LegsTemplate="PwrHvy_ReachSpace_Legs_M"
+.LegsName="Space Trooper BDU"
+
+;
+; Reaper Conventional
+;
+
+.TorsoTemplate="Reaper_CnvMed_ReachTrooper_Torso_A1_F"
+.TorsoName="Trooper BDU"
+.TorsoTemplate="Reaper_CnvMed_ReachTrooper_Torso_B1_F"
+.TorsoName="Trooper BDU [[Rucksack]"
+.TorsoTemplate="Reaper_CnvMed_ReachTrooper_Torso_C1_F"
+.TorsoName="Trooper BDU [Large Rucksack]"
+.TorsoTemplate="Reaper_CnvMed_ReachTrooper_Torso_D1_F"
+.TorsoName="Trooper BDU [Radio]"
+
+.TorsoTemplate="Reaper_CnvMed_ReachTrooper_Torso_A1_M"
+.TorsoName="Trooper BDU"
+.TorsoTemplate="Reaper_CnvMed_ReachTrooper_Torso_B1_M"
+.TorsoName="Trooper BDU [Rucksack]"
+.TorsoTemplate="Reaper_CnvMed_ReachTrooper_Torso_C1_M"
+.TorsoName="Trooper BDU [Large Rucksack]"
+.TorsoTemplate="Reaper_CnvMed_ReachTrooper_Torso_D1_M"
+.TorsoName="Trooper BDU [Radio]"
+
+.LegsTemplate="Reaper_CnvMed_ReachTrooper_Legs_A_F"
+.LegsName="Trooper BDU [A]"
+.LegsTemplate="Reaper_CnvMed_ReachTrooper_Legs_B_F"
+.LegsName="Trooper BDU [B]"
+.LegsTemplate="Reaper_CnvMed_ReachTrooper_Legs_C_F"
+.LegsName="Trooper BDU [C]"
+
+.LegsTemplate="Reaper_CnvMed_ReachTrooper_Legs_A_M"
+.LegsName="Trooper BDU [A]"
+.LegsTemplate="Reaper_CnvMed_ReachTrooper_Legs_B_M"
+.LegsName="Trooper BDU [B]"
+.LegsTemplate="Reaper_CnvMed_ReachTrooper_Legs_C_M"
+.LegsName="Trooper BDU [C]"
+
+.LegsTemplate="Reaper_CnvMed_ReachSpace_Legs_F"
+.LegsName="Space Trooper BDU"
+
+.LegsTemplate="Reaper_CnvMed_ReachSpace_Legs_M"
+.LegsName="Space Trooper BDU"
+
+;
+; Reaper Plated
+;
+
+.TorsoTemplate="Reaper_PltMed_ReachTrooper_Torso_A1_F"
+.TorsoName="Trooper BDU"
+.TorsoTemplate="Reaper_PltMed_ReachTrooper_Torso_B1_F"
+.TorsoName="Trooper BDU [[Rucksack]"
+.TorsoTemplate="Reaper_PltMed_ReachTrooper_Torso_C1_F"
+.TorsoName="Trooper BDU [Large Rucksack]"
+.TorsoTemplate="Reaper_PltMed_ReachTrooper_Torso_D1_F"
+.TorsoName="Trooper BDU [Radio]"
+
+.TorsoTemplate="Reaper_PltMed_ReachTrooper_Torso_A1_M"
+.TorsoName="Trooper BDU"
+.TorsoTemplate="Reaper_PltMed_ReachTrooper_Torso_B1_M"
+.TorsoName="Trooper BDU [Rucksack]"
+.TorsoTemplate="Reaper_PltMed_ReachTrooper_Torso_C1_M"
+.TorsoName="Trooper BDU [Large Rucksack]"
+.TorsoTemplate="Reaper_PltMed_ReachTrooper_Torso_D1_M"
+.TorsoName="Trooper BDU [Radio]"
+
+.LegsTemplate="Reaper_PltMed_ReachTrooper_Legs_A_F"
+.LegsName="Trooper BDU [A]"
+.LegsTemplate="Reaper_PltMed_ReachTrooper_Legs_B_F"
+.LegsName="Trooper BDU [B]"
+.LegsTemplate="Reaper_PltMed_ReachTrooper_Legs_C_F"
+.LegsName="Trooper BDU [C]"
+
+.LegsTemplate="Reaper_PltMed_ReachTrooper_Legs_A_M"
+.LegsName="Trooper BDU [A]"
+.LegsTemplate="Reaper_PltMed_ReachTrooper_Legs_B_M"
+.LegsName="Trooper BDU [B]"
+.LegsTemplate="Reaper_PltMed_ReachTrooper_Legs_C_M"
+.LegsName="Trooper BDU [C]"
+
+.LegsTemplate="Reaper_PltMed_ReachSpace_Legs_F"
+.LegsName="Space Trooper BDU"
+
+.LegsTemplate="Reaper_PltMed_ReachSpace_Legs_M"
+.LegsName="Space Trooper BDU"
+
+;
+; Reaper Powered
+;
+
+.TorsoTemplate="Reaper_PwrMed_ReachTrooper_Torso_A1_F"
+.TorsoName="Trooper BDU"
+.TorsoTemplate="Reaper_PwrMed_ReachTrooper_Torso_B1_F"
+.TorsoName="Trooper BDU [[Rucksack]"
+.TorsoTemplate="Reaper_PwrMed_ReachTrooper_Torso_C1_F"
+.TorsoName="Trooper BDU [Large Rucksack]"
+.TorsoTemplate="Reaper_PwrMed_ReachTrooper_Torso_D1_F"
+.TorsoName="Trooper BDU [Radio]"
+
+.TorsoTemplate="Reaper_PwrMed_ReachTrooper_Torso_A1_M"
+.TorsoName="Trooper BDU"
+.TorsoTemplate="Reaper_PwrMed_ReachTrooper_Torso_B1_M"
+.TorsoName="Trooper BDU [Rucksack]"
+.TorsoTemplate="Reaper_PwrMed_ReachTrooper_Torso_C1_M"
+.TorsoName="Trooper BDU [Large Rucksack]"
+.TorsoTemplate="Reaper_PwrMed_ReachTrooper_Torso_D1_M"
+.TorsoName="Trooper BDU [Radio]"
+
+.LegsTemplate="Reaper_PwrMed_ReachTrooper_Legs_A_F"
+.LegsName="Trooper BDU [A]"
+.LegsTemplate="Reaper_PwrMed_ReachTrooper_Legs_B_F"
+.LegsName="Trooper BDU [B]"
+.LegsTemplate="Reaper_PwrMed_ReachTrooper_Legs_C_F"
+.LegsName="Trooper BDU [C]"
+
+.LegsTemplate="Reaper_PwrMed_ReachTrooper_Legs_A_M"
+.LegsName="Trooper BDU [A]"
+.LegsTemplate="Reaper_PwrMed_ReachTrooper_Legs_B_M"
+.LegsName="Trooper BDU [B]"
+.LegsTemplate="Reaper_PwrMed_ReachTrooper_Legs_C_M"
+.LegsName="Trooper BDU [C]"
+
+.LegsTemplate="Reaper_PwrMed_ReachSpace_Legs_F"
+.LegsName="Space Trooper BDU"
+
+.LegsTemplate="Reaper_PwrMed_ReachSpace_Legs_M"
+.LegsName="Space Trooper BDU"
+
+;
+; Skirmisher Conventional
+;
+
+.TorsoTemplate="Skirmisher_CnvMed_ReachTrooper_Torso_A1_F"
+.TorsoName="Trooper BDU"
+.TorsoTemplate="Skirmisher_CnvMed_ReachTrooper_Torso_B1_F"
+.TorsoName="Trooper BDU [[Rucksack]"
+.TorsoTemplate="Skirmisher_CnvMed_ReachTrooper_Torso_C1_F"
+.TorsoName="Trooper BDU [Large Rucksack]"
+.TorsoTemplate="Skirmisher_CnvMed_ReachTrooper_Torso_D1_F"
+.TorsoName="Trooper BDU [Radio]"
+
+.TorsoTemplate="Skirmisher_CnvMed_ReachTrooper_Torso_A1_M"
+.TorsoName="Trooper BDU"
+.TorsoTemplate="Skirmisher_CnvMed_ReachTrooper_Torso_B1_M"
+.TorsoName="Trooper BDU [Rucksack]"
+.TorsoTemplate="Skirmisher_CnvMed_ReachTrooper_Torso_C1_M"
+.TorsoName="Trooper BDU [Large Rucksack]"
+.TorsoTemplate="Skirmisher_CnvMed_ReachTrooper_Torso_D1_M"
+.TorsoName="Trooper BDU [Radio]"
+
+.LegsTemplate="Skirmisher_CnvMed_ReachTrooper_Legs_A_F"
+.LegsName="Trooper BDU [A]"
+.LegsTemplate="Skirmisher_CnvMed_ReachTrooper_Legs_B_F"
+.LegsName="Trooper BDU [B]"
+.LegsTemplate="Skirmisher_CnvMed_ReachTrooper_Legs_C_F"
+.LegsName="Trooper BDU [C]"
+
+.LegsTemplate="Skirmisher_CnvMed_ReachTrooper_Legs_A_M"
+.LegsName="Trooper BDU [A]"
+.LegsTemplate="Skirmisher_CnvMed_ReachTrooper_Legs_B_M"
+.LegsName="Trooper BDU [B]"
+.LegsTemplate="Skirmisher_CnvMed_ReachTrooper_Legs_C_M"
+.LegsName="Trooper BDU [C]"
+
+.LegsTemplate="Skirmisher_CnvMed_ReachSpace_Legs_F"
+.LegsName="Space Trooper BDU"
+
+.LegsTemplate="Skirmisher_CnvMed_ReachSpace_Legs_M"
+.LegsName="Space Trooper BDU"
+
+;
+; Skirmisher Plated
+;
+
+.TorsoTemplate="Skirmisher_PltMed_ReachTrooper_Torso_A1_F"
+.TorsoName="Trooper BDU"
+.TorsoTemplate="Skirmisher_PltMed_ReachTrooper_Torso_B1_F"
+.TorsoName="Trooper BDU [[Rucksack]"
+.TorsoTemplate="Skirmisher_PltMed_ReachTrooper_Torso_C1_F"
+.TorsoName="Trooper BDU [Large Rucksack]"
+.TorsoTemplate="Skirmisher_PltMed_ReachTrooper_Torso_D1_F"
+.TorsoName="Trooper BDU [Radio]"
+
+.TorsoTemplate="Skirmisher_PltMed_ReachTrooper_Torso_A1_M"
+.TorsoName="Trooper BDU"
+.TorsoTemplate="Skirmisher_PltMed_ReachTrooper_Torso_B1_M"
+.TorsoName="Trooper BDU [Rucksack]"
+.TorsoTemplate="Skirmisher_PltMed_ReachTrooper_Torso_C1_M"
+.TorsoName="Trooper BDU [Large Rucksack]"
+.TorsoTemplate="Skirmisher_PltMed_ReachTrooper_Torso_D1_M"
+.TorsoName="Trooper BDU [Radio]"
+
+.LegsTemplate="Skirmisher_PltMed_ReachTrooper_Legs_A_F"
+.LegsName="Trooper BDU [A]"
+.LegsTemplate="Skirmisher_PltMed_ReachTrooper_Legs_B_F"
+.LegsName="Trooper BDU [B]"
+.LegsTemplate="Skirmisher_PltMed_ReachTrooper_Legs_C_F"
+.LegsName="Trooper BDU [C]"
+
+.LegsTemplate="Skirmisher_PltMed_ReachTrooper_Legs_A_M"
+.LegsName="Trooper BDU [A]"
+.LegsTemplate="Skirmisher_PltMed_ReachTrooper_Legs_B_M"
+.LegsName="Trooper BDU [B]"
+.LegsTemplate="Skirmisher_PltMed_ReachTrooper_Legs_C_M"
+.LegsName="Trooper BDU [C]"
+
+.LegsTemplate="Skirmisher_PltMed_ReachSpace_Legs_F"
+.LegsName="Space Trooper BDU"
+
+.LegsTemplate="Skirmisher_PltMed_ReachSpace_Legs_M"
+.LegsName="Space Trooper BDU"
+
+;
+; Skirmisher Powered
+;
+
+.TorsoTemplate="Skirmisher_PwrMed_ReachTrooper_Torso_A1_F"
+.TorsoName="Trooper BDU"
+.TorsoTemplate="Skirmisher_PwrMed_ReachTrooper_Torso_B1_F"
+.TorsoName="Trooper BDU [[Rucksack]"
+.TorsoTemplate="Skirmisher_PwrMed_ReachTrooper_Torso_C1_F"
+.TorsoName="Trooper BDU [Large Rucksack]"
+.TorsoTemplate="Skirmisher_PwrMed_ReachTrooper_Torso_D1_F"
+.TorsoName="Trooper BDU [Radio]"
+
+.TorsoTemplate="Skirmisher_PwrMed_ReachTrooper_Torso_A1_M"
+.TorsoName="Trooper BDU"
+.TorsoTemplate="Skirmisher_PwrMed_ReachTrooper_Torso_B1_M"
+.TorsoName="Trooper BDU [Rucksack]"
+.TorsoTemplate="Skirmisher_PwrMed_ReachTrooper_Torso_C1_M"
+.TorsoName="Trooper BDU [Large Rucksack]"
+.TorsoTemplate="Skirmisher_PwrMed_ReachTrooper_Torso_D1_M"
+.TorsoName="Trooper BDU [Radio]"
+
+.LegsTemplate="Skirmisher_PwrMed_ReachTrooper_Legs_A_F"
+.LegsName="Trooper BDU [A]"
+.LegsTemplate="Skirmisher_PwrMed_ReachTrooper_Legs_B_F"
+.LegsName="Trooper BDU [B]"
+.LegsTemplate="Skirmisher_PwrMed_ReachTrooper_Legs_C_F"
+.LegsName="Trooper BDU [C]"
+
+.LegsTemplate="Skirmisher_PwrMed_ReachTrooper_Legs_A_M"
+.LegsName="Trooper BDU [A]"
+.LegsTemplate="Skirmisher_PwrMed_ReachTrooper_Legs_B_M"
+.LegsName="Trooper BDU [B]"
+.LegsTemplate="Skirmisher_PwrMed_ReachTrooper_Legs_C_M"
+.LegsName="Trooper BDU [C]"
+
+.LegsTemplate="Skirmisher_PwrMed_ReachSpace_Legs_F"
+.LegsName="Space Trooper BDU"
+
+.LegsTemplate="Skirmisher_PwrMed_ReachSpace_Legs_M"
+.LegsName="Space Trooper BDU"
+
+;
+; Templar Conventional
+;
+
+.TorsoTemplate="Templar_CnvMed_ReachTrooper_Torso_A1_F"
+.TorsoName="Trooper BDU"
+.TorsoTemplate="Templar_CnvMed_ReachTrooper_Torso_B1_F"
+.TorsoName="Trooper BDU [[Rucksack]"
+.TorsoTemplate="Templar_CnvMed_ReachTrooper_Torso_C1_F"
+.TorsoName="Trooper BDU [Large Rucksack]"
+.TorsoTemplate="Templar_CnvMed_ReachTrooper_Torso_D1_F"
+.TorsoName="Trooper BDU [Radio]"
+
+.TorsoTemplate="Templar_CnvMed_ReachTrooper_Torso_A1_M"
+.TorsoName="Trooper BDU"
+.TorsoTemplate="Templar_CnvMed_ReachTrooper_Torso_B1_M"
+.TorsoName="Trooper BDU [Rucksack]"
+.TorsoTemplate="Templar_CnvMed_ReachTrooper_Torso_C1_M"
+.TorsoName="Trooper BDU [Large Rucksack]"
+.TorsoTemplate="Templar_CnvMed_ReachTrooper_Torso_D1_M"
+.TorsoName="Trooper BDU [Radio]"
+
+.LegsTemplate="Templar_CnvMed_ReachTrooper_Legs_A_F"
+.LegsName="Trooper BDU [A]"
+.LegsTemplate="Templar_CnvMed_ReachTrooper_Legs_B_F"
+.LegsName="Trooper BDU [B]"
+.LegsTemplate="Templar_CnvMed_ReachTrooper_Legs_C_F"
+.LegsName="Trooper BDU [C]"
+
+.LegsTemplate="Templar_CnvMed_ReachTrooper_Legs_A_M"
+.LegsName="Trooper BDU [A]"
+.LegsTemplate="Templar_CnvMed_ReachTrooper_Legs_B_M"
+.LegsName="Trooper BDU [B]"
+.LegsTemplate="Templar_CnvMed_ReachTrooper_Legs_C_M"
+.LegsName="Trooper BDU [C]"
+
+.LegsTemplate="Templar_CnvMed_ReachSpace_Legs_F"
+.LegsName="Space Trooper BDU"
+
+.LegsTemplate="Templar_CnvMed_ReachSpace_Legs_M"
+.LegsName="Space Trooper BDU"
+
+;
+; Templar Plated
+;
+
+.TorsoTemplate="Templar_PltMed_ReachTrooper_Torso_A1_F"
+.TorsoName="Trooper BDU"
+.TorsoTemplate="Templar_PltMed_ReachTrooper_Torso_B1_F"
+.TorsoName="Trooper BDU [[Rucksack]"
+.TorsoTemplate="Templar_PltMed_ReachTrooper_Torso_C1_F"
+.TorsoName="Trooper BDU [Large Rucksack]"
+.TorsoTemplate="Templar_PltMed_ReachTrooper_Torso_D1_F"
+.TorsoName="Trooper BDU [Radio]"
+
+.TorsoTemplate="Templar_PltMed_ReachTrooper_Torso_A1_M"
+.TorsoName="Trooper BDU"
+.TorsoTemplate="Templar_PltMed_ReachTrooper_Torso_B1_M"
+.TorsoName="Trooper BDU [Rucksack]"
+.TorsoTemplate="Templar_PltMed_ReachTrooper_Torso_C1_M"
+.TorsoName="Trooper BDU [Large Rucksack]"
+.TorsoTemplate="Templar_PltMed_ReachTrooper_Torso_D1_M"
+.TorsoName="Trooper BDU [Radio]"
+
+.LegsTemplate="Templar_PltMed_ReachTrooper_Legs_A_F"
+.LegsName="Trooper BDU [A]"
+.LegsTemplate="Templar_PltMed_ReachTrooper_Legs_B_F"
+.LegsName="Trooper BDU [B]"
+.LegsTemplate="Templar_PltMed_ReachTrooper_Legs_C_F"
+.LegsName="Trooper BDU [C]"
+
+.LegsTemplate="Templar_PltMed_ReachTrooper_Legs_A_M"
+.LegsName="Trooper BDU [A]"
+.LegsTemplate="Templar_PltMed_ReachTrooper_Legs_B_M"
+.LegsName="Trooper BDU [B]"
+.LegsTemplate="Templar_PltMed_ReachTrooper_Legs_C_M"
+.LegsName="Trooper BDU [C]"
+
+.LegsTemplate="Templar_PltMed_ReachSpace_Legs_F"
+.LegsName="Space Trooper BDU"
+
+.LegsTemplate="Templar_PltMed_ReachSpace_Legs_M"
+.LegsName="Space Trooper BDU"
+
+;
+; Templar Powered
+;
+
+.TorsoTemplate="Templar_PwrMed_ReachTrooper_Torso_A1_F"
+.TorsoName="Trooper BDU"
+.TorsoTemplate="Templar_PwrMed_ReachTrooper_Torso_B1_F"
+.TorsoName="Trooper BDU [[Rucksack]"
+.TorsoTemplate="Templar_PwrMed_ReachTrooper_Torso_C1_F"
+.TorsoName="Trooper BDU [Large Rucksack]"
+.TorsoTemplate="Templar_PwrMed_ReachTrooper_Torso_D1_F"
+.TorsoName="Trooper BDU [Radio]"
+
+.TorsoTemplate="Templar_PwrMed_ReachTrooper_Torso_A1_M"
+.TorsoName="Trooper BDU"
+.TorsoTemplate="Templar_PwrMed_ReachTrooper_Torso_B1_M"
+.TorsoName="Trooper BDU [Rucksack]"
+.TorsoTemplate="Templar_PwrMed_ReachTrooper_Torso_C1_M"
+.TorsoName="Trooper BDU [Large Rucksack]"
+.TorsoTemplate="Templar_PwrMed_ReachTrooper_Torso_D1_M"
+.TorsoName="Trooper BDU [Radio]"
+
+.LegsTemplate="Templar_PwrMed_ReachTrooper_Legs_A_F"
+.LegsName="Trooper BDU [A]"
+.LegsTemplate="Templar_PwrMed_ReachTrooper_Legs_B_F"
+.LegsName="Trooper BDU [B]"
+.LegsTemplate="Templar_PwrMed_ReachTrooper_Legs_C_F"
+.LegsName="Trooper BDU [C]"
+
+.LegsTemplate="Templar_PwrMed_ReachTrooper_Legs_A_M"
+.LegsName="Trooper BDU [A]"
+.LegsTemplate="Templar_PwrMed_ReachTrooper_Legs_B_M"
+.LegsName="Trooper BDU [B]"
+.LegsTemplate="Templar_PwrMed_ReachTrooper_Legs_C_M"
+.LegsName="Trooper BDU [C]"
+
+.LegsTemplate="Templar_PwrMed_ReachSpace_Legs_F"
+.LegsName="Space Trooper BDU"
+
+.LegsTemplate="Templar_PwrMed_ReachSpace_Legs_M"
+.LegsName="Space Trooper BDU"

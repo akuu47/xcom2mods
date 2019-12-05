@@ -1,0 +1,41 @@
+[TC_WOTC_S79_XM177E2_T1 X2WeaponTemplate]
+FriendlyName="<font color='#ECECEC'><b>XM177E2 'Commando'</b></font>"
+FriendlyNamePlural="<font color='#ECECEC'><b>XM177E2s</b></font>"
+AbilityDescName="assault carbine"
+BriefSummary="Originally called the Colt Model 629, the XM177E2 Commando is carbine version of the M16 deployed in Vietnam, due to a demand for shorter rifles. This weapon originated from the CAR-15 family of short-barrel M16s before the M4s were developed. Like the rest of the Colt family, it uses 5.56x45mm ammuniton. The name XM177E2 was a new designation MACV-SOG gave to the Model 629. Sadly, the Commando was plagued with a lot of problems, including the lack of a 30-round magazine. The production of the civilian version of the Commando ended in 1970, however production for military use continued."
+TacticalText="<Bullet/>Type: Assault Carbine\n<Bullet/>Firing Profile: Full-Auto\n<Bullet/>Action: Gas-Operated, Rotating Bolt (direct impingement)\n<Bullet/>Cartridge: 5.56x45mm NATO\n<Bullet/>Origin: United States\n<Bullet/>Tier: Conventional"
+
+[TC_WOTC_S79_XM177E2_T2 X2WeaponTemplate]
+FriendlyName="<font color='#27AAE1'><b>MRS-17C</b></font>"
+FriendlyNamePlural="<font color='#27AAE1'><b>MRS-17Cs</b></font>"
+AbilityDescName="assault carbine"
+BriefSummary="Originally called the Colt Model 629, the XM177E2 Commando is carbine version of the M16 deployed in Vietnam, due to a demand for shorter rifles. This weapon originated from the CAR-15 family of short-barrel M16s before the M4s were developed. Like the rest of the Colt family, it uses 5.56x45mm ammuniton. The name XM177E2 was a new designation MACV-SOG gave to the Model 629. Sadly, the Commando was plagued with a lot of problems, including the lack of a 30-round magazine. The production of the civilian version of the Commando ended in 1970, however production for military use continued.\n The LMAW edition of the XM177 addresses the issue with the Commandos' range and accuracy."
+TacticalText="<Bullet/>Type: Assault Carbine\n<Bullet/>Firing Profile: Full-Auto\n<Bullet/>Action: Gas-Operated, Rotating Bolt (direct impingement)\n<Bullet/>Cartridge: 5.56x45mm NATO\n<Bullet/>Origin: United States\n<Bullet/>Tier: Magnetic"
+
+[TC_WOTC_S79_XM177E2_T3 X2WeaponTemplate]
+FriendlyName="<font color='#CF4517'><b>XNV177/I02</b></font>"
+FriendlyNamePlural="<font color='#CF4517'><b>XNV177/I02s</b></font>"
+AbilityDescName="assault carbine"
+BriefSummary="Originally called the Colt Model 629, the XM177E2 Commando is carbine version of the M16 deployed in Vietnam, due to a demand for shorter rifles. This weapon originated from the CAR-15 family of short-barrel M16s before the M4s were developed. Like the rest of the Colt family, it uses 5.56x45mm ammuniton. The name XM177E2 was a new designation MACV-SOG gave to the Model 629. Sadly, the Commando was plagued with a lot of problems, including the lack of a 30-round magazine. The production of the civilian version of the Commando ended in 1970, however production for military use continued.\n In addition to the LMAW's fixes, the XNV177/I2 enchances the range and accuracy with a new ported high frequency barrel."
+TacticalText="<Bullet/>Type: Assault Carbine\n<Bullet/>Firing Profile: Full-Auto\n<Bullet/>Action: Gas-Operated, Rotating Bolt (direct impingement)\n<Bullet/>Cartridge: 5.56x45mm NATO\n<Bullet/>Origin: United States\n<Bullet/>Tier: Beam"
+
+[TC_WOTC_SKR_S79_XM177E2_T1 X2WeaponTemplate]
+FriendlyName="<font color='#ECECEC'><b>XM177E2 'Commando'</b></font>"
+FriendlyNamePlural="<font color='#ECECEC'><b>XM177E2s</b></font>"
+AbilityDescName="assault carbine"
+BriefSummary="Originally called the Colt Model 629, the XM177E2 Commando is carbine version of the M16 deployed in Vietnam, due to a demand for shorter rifles. This weapon originated from the CAR-15 family of short-barrel M16s before the M4s were developed. Like the rest of the Colt family, it uses 5.56x45mm ammuniton. The name XM177E2 was a new designation MACV-SOG gave to the Model 629. Sadly, the Commando was plagued with a lot of problems, including the lack of a 30-round magazine. The production of the civilian version of the Commando ended in 1970, however production for military use continued."
+TacticalText="<Bullet/>Type: Assault Carbine\n<Bullet/>Firing Profile: Full-Auto\n<Bullet/>Action: Gas-Operated, Rotating Bolt (direct impingement)\n<Bullet/>Cartridge: 5.56x45mm NATO\n<Bullet/>Origin: United States\n<Bullet/>Tier: Conventional"
+
+[TC_WOTC_SKR_S79_XM177E2_T2 X2WeaponTemplate]
+FriendlyName="<font color='#27AAE1'><b>MRS-17C</b></font>"
+FriendlyNamePlural="<font color='#27AAE1'><b>MRS-17Cs</b></font>"
+AbilityDescName="assault carbine"
+BriefSummary="Originally called the Colt Model 629, the XM177E2 Commando is carbine version of the M16 deployed in Vietnam, due to a demand for shorter rifles. This weapon originated from the CAR-15 family of short-barrel M16s before the M4s were developed. Like the rest of the Colt family, it uses 5.56x45mm ammuniton. The name XM177E2 was a new designation MACV-SOG gave to the Model 629. Sadly, the Commando was plagued with a lot of problems, including the lack of a 30-round magazine. The production of the civilian version of the Commando ended in 1970, however production for military use continued.\n The LMAW edition of the XM177 addresses the issue with the Commandos' range and accuracy."
+TacticalText="<Bullet/>Type: Assault Carbine\n<Bullet/>Firing Profile: Full-Auto\n<Bullet/>Action: Gas-Operated, Rotating Bolt (direct impingement)\n<Bullet/>Cartridge: 5.56x45mm NATO\n<Bullet/>Origin: United States\n<Bullet/>Tier: Magnetic"
+
+[TC_WOTC_SKR_S79_XM177E2_T3 X2WeaponTemplate]
+FriendlyName="<font color='#CF4517'><b>XNV177/I02</b></font>"
+FriendlyNamePlural="<font color='#CF4517'><b>XNV177/I02s</b></font>"
+AbilityDescName="assault carbine"
+BriefSummary="Originally called the Colt Model 629, the XM177E2 Commando is carbine version of the M16 deployed in Vietnam, due to a demand for shorter rifles. This weapon originated from the CAR-15 family of short-barrel M16s before the M4s were developed. Like the rest of the Colt family, it uses 5.56x45mm ammuniton. The name XM177E2 was a new designation MACV-SOG gave to the Model 629. Sadly, the Commando was plagued with a lot of problems, including the lack of a 30-round magazine. The production of the civilian version of the Commando ended in 1970, however production for military use continued.\n In addition to the LMAW's fixes, the XNV177/I2 enchances the range and accuracy with a new ported high frequency barrel."
+TacticalText="<Bullet/>Type: Assault Carbine\n<Bullet/>Firing Profile: Full-Auto\n<Bullet/>Action: Gas-Operated, Rotating Bolt (direct impingement)\n<Bullet/>Cartridge: 5.56x45mm NATO\n<Bullet/>Origin: United States\n<Bullet/>Tier: Beam"

@@ -1,0 +1,291 @@
+
+Content Index:
+-----------------------
+PROPS - 128 (base pack - 88) (update #1 - 40)
+TORSO - 51 (base pack - 30) (update #1 - 21)
+LEGS - 32 (base pack - 19) (update #1 - 13)
+ 
+PROPS - Starter Items 
+----------------------- 
+Bare Arms 
+Thin Arm L 
+Thin Arm R 
+Empty Slots 
+ 
+PROPS - Head 
+----------------------- 
+1. Fitted Beanie 
+2. Aviators Forehead 
+3. Thick-rimmed Glasses Forehead 
+4. Bunch of Earrings L 
+5. Bunch of Earrings R 
+6. Nose Bridge Studs 
+7. Mannequin Scarf 
+8. Resistance Scarf 
+9. Tintable Scarf 
+10. Wool Scarf 
+11. Dogtags 
+12. Necklace Jade 
+13. Necklace Dragon 
+14. Necklace Ethereal 
+15. Necklace Exalt 
+16. Necklace Firestorm 
+17. Necklace Scout 
+18. Necklace Sectoid 
+19. Necklace XCom 
+20. Necklace Tribal 
+21. Necklace Bullet 
+ 
+PROPS - Torso Deco 
+----------------------- 
+22. Belly Ring 
+23. Belly Stud 
+24. Resistance Deco 
+25. Bioshock Top 
+26. ME3 Aria Top 
+27. ME3 Jack Jacket
+28. Drum Jacket 
+29. Drum Jacket Secondary Tint 
+30. Civilian Coat 
+31. Punk Jacket 
+32. Rebel Vest 
+33. Suit Coat 
+34. Sheepskin Jacket 
+35. Winter Jacket 
+36. Shaundi Jacket 
+37. Shaundi Jacket Secondary Tint 
+38. Black Leather Jacket
+39. Watchdogs Jacket 
+40. Watchdogs Jacket Secondary Tint 
+41 Joy Cargo Jacket 
+42. Jinx Bullet Belt 
+43. Jinx Padded Belt 
+ 
+PROPS - Forearm Deco 
+----------------------- 
+44. Tattered Glove L 
+45. Tattered Glove R 
+46. Knuckle Duster L 
+47. Knuckle Duster R 
+48. Ammo Gauntlet L 
+49. Ammo Gauntlet R 
+50. Knuckle Straps L 
+51. Knuckle Straps R 
+52. Ammo Straps L 
+53. Ammo Straps R 
+54. Shen Glove L 
+55. Shen Glove R 
+56. Knitted Warmer L 
+57. Knitted Warmer R 
+58. Tribal Bracer L 
+59. Tribal Bracer R 
+60. Jinx Warmer L 
+61. Jinx Warmer R 
+ 
+PROPS - Arms L/R 
+----------------------- 
+62. Leather Bracer L 
+63. Leather Bracer R 
+64. Stitched Bracer L 
+65. Stitched Bracer R 
+ 
+PROPS - Thigh & Shin Deco 
+----------------------- 
+66. Stockings Sheer Lo 
+67. Stockings Sheer Hi 
+68. Stockings Fishnet Lo 
+69. Stockings Fishnet Hi
+70. Low Boots
+71. Knee Boots 
+72. Power Boots 
+73. Leg Wraps 
+74. Stirrups Low 
+75. Stirrups Knee 
+76. Leg Warmers 
+ 
+PROPS - Scars 
+----------------------- 
+77. Baby Dinosaur Mole 
+78. Crawford Mole 
+79. Monroe Mole 
+80. Blake Lively Mole 
+81. Samus Aran Mole 
+82. Robert De Niro Mole 
+ 
+PROPS - Tattoos 
+----------------------- 
+83. Body Freckles Heavy 
+84. Body Freckles Light 
+85. Fingernails 
+ 
+PROPS - Facepaints 
+----------------------- 
+86. Resistance Warrior Eyes Black 
+87. Freckles Light 
+88. Freckles Full 
+ 
+-------------------------------------------------------------- 
+ 
+TORSO 
+----------------------- 
+1. Resistance Warrior T-Shirt A Cup 
+2. Resistance Warrior T-Shirt B Cup 
+3. Resistance Warrior T-Shirt C Cup 
+4. Shen Vest 
+5. Jane Shirt 
+6. Lost Shirt
+7. Oriental Midriff 
+8. Chinese Dress 
+9. Tifa Shirt 
+10. Knot Shirt 
+11. Corset
+12. Lara Tank Top 
+13. Lara Tank Top Secondary Tint 
+14. Flow  Top 
+15. Succubus Jacket 
+16. Marionette Jacket
+17. Frill Shirt Sleeveless
+18. Button Blouse 
+19. Button Blouse Sleeveless 
+20. Tight Long Sleeve Shirt 
+21. Trishka Tank Top
+22. Trishka Tank Top Secondary Tint 
+23. Tracer Jacket 
+24. N7 Hoodie 
+25. Lara Hoodie Jacket 
+26. Napkin Top
+27. Stitched Midriff 
+28. Tribal Midriff 
+29. Jinx Bullet Bikini Top 
+30. Peebee Jacket 
+ 
+-------------------------------------------------------------- 
+ 
+LEGS 
+----------------------- 
+1. Shorter Hot Shorts 
+2. Lost Pants 
+3. Ninja Pants 
+4. Sweatpants 
+5. Jeans 
+6. Prison Jumpsuit
+7. Pantsuit 
+8. Pantsuit Secondary Tint 
+9. Resistance Pants 
+10. Resistance Pants & Knee Boots 
+11. Lara Cargo Pants
+12. Trishka Pants 
+13. Elika Pants 
+14. Elika Pants Secondary Tint 
+15. Arkham Ninja Pants 
+16. Lara Jeans
+17. Hitman Pants 
+18. Stitched Tights 
+19. Peebee Pants 
+ 
+-------------------------------------------------------------- 
+-------------------------------------------------------------- 
+                        UPDATE #1
+-------------------------------------------------------------- 
+-------------------------------------------------------------- 
+PROPS - 40
+TORSO - 21
+LEGS - 13
+
+PROPS - Head 
+----------------------- 
+1. Bunch of Earrings Both (MERGED FROM ORIGINAL)
+2. Necklace Egyptian Guard
+3. Necklace Pearl
+4. Necklace Oriental Choker
+5. Necklace Long
+
+PROPS - Torso Deco 
+----------------------- 
+1. Bioshock Top Secondary Tint (RETINT FROM ORIGINAL)
+2. Asari Maiden Vest
+3. Asari Maiden Vest Secondary Tint
+4. Alliance Jacket
+5. Evil Within Jacket
+6. Hoodie Sweater Zipped Open
+7. Grease Monkey Jacket
+8. Short Jacket
+9. Short Jacket Secondary Tint
+10. Dragon Jacket
+11. Winter Parka Vest
+12. Winter Parka Vest Secondary Tint
+13. Dark Storm Padded Jacket
+14. Dark Storm Padded Jacket Secondary Tint
+15. Resistance Belt (SPLICED & MIRRORED FROM ORIGINAL)
+16. Splatterhouse Belt
+17. Damnation Yakecan Belt
+18. Marvel GOTG Gamora Belt
+19. Ninja Gaiden Irene Belt
+
+PROPS - Forearm Deco L/R
+----------------------- 
+1. Oriental Bracers L
+2. Oriental Bracers R
+3. Bandages L
+4. Bandages R
+5. Tera Biker Gauntlets L
+6. Tera Biker Gauntlets R
+7. Batman: Arkham City Talia Bracers L
+8. Batman: Arkham City Talia Bracers R
+
+PROPS - Arms L/R 
+----------------------- 
+1. Thin Arm Knuckle Duster L (KITBASHED FROM ORIGINAL)
+2. Thin Arm Knuckle Duster R (KITBASHED FROM ORIGINAL)
+
+PROPS - Thigh & Shin Deco 
+----------------------- 
+1. Joy Leg Warmers Secondary Tint (RETINT FROM ORIGINAL)
+2. Marvel GOTG Gamora Boots
+3. Splatterhouse Sneakers
+4. L4D Zoey Sneakers
+5. Converse Sneakers
+6. Dark Storm Padded Boots
+
+TORSOS
+----------------------- 
+1. TERA Online Tactical Top
+2. TERA Online Tactical Vest
+3. Bare Shoulder Midriff
+4. Bare Shoulder Midriff Secondary Tint
+5. Left 4 Dead Zoey Sweater
+6. Left 4 Dead Zoey Sweater Tintable
+7. Left 4 Dead Zoey Sweater Bare Tintable
+8. Velvet Assassin Pilot Jacket
+9. DOA Ayane Oriental Corset
+10. DOA Ayane Oriental Corset Tintable
+11. Baseball Tee
+12. Baseball Tee Sleeveless
+13. Succubus Jacket Tintable (RETINT FROM ORIGINAL)
+14. Hitman Suit
+15. Ninja Gaiden Irene Top
+16. TERA Online Black Leathers Biker Jacket
+17. TERA Online Black Leathers Biker Jacket Alternate Tint
+18. TERA Online Black Leathers Biker Jacket Modest
+19. TERA Online Black Leathers Biker Jacket Modest Alternate Tint
+20. Batman: Arkham City Talia Jacket
+21. Batman: Arkham City Talia Jacket Tintable
+
+LEGS 
+----------------------- 
+1. Batman: Arkham City Talia Pants
+2. Batman: Arkham City Talia Pants Tintable
+3. Batman: Arkham City Talia Pants Tintable 2
+4. DOA Ayane Leather Laced Pants
+5. Splatterhouse Jeans
+6. Damnation Yakecan Pants
+7. Left 4 Dead Zoey Jeans
+8. Marvel's GOTG Gamora Pants
+9. Marvel's GOTG Gamora Pants Tintable
+10. Ninja Gaiden Irene Leather Pants
+11. Velvet Assassin Pilot Pants
+12. Velvet Assassin Pilot Pants Secondary Tint
+13. Dark Storm Padded Legs
+
+
+

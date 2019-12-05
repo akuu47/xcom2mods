@@ -1,0 +1,5 @@
+﻿[mod]
+publishedFileId=1531883724
+Title=Catastrophic Victories
+Description=Allow for missions to be considered successful, even if you had to evac or otherwise lose all operatives in a mission.
+RequiresXPACK=true

@@ -1,0 +1,6 @@
+[StabilizeMedkitOwner X2AbilityTemplate]
+LocFriendlyName="Estabilizar"
+LocLongDescription="Para el sangrado de un soldado. Utiliza el botiquín del soldado afectado."
+LocHelpText="Para el sangrado de un soldado."
+LocFlyOverText="Estabilizado"
+LocPromotionPopupText=""

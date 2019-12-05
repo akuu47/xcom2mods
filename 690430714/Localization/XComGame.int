@@ -1,0 +1,140 @@
+
+
+[EldritchFacepaints_Aperture X2BodyPartTemplate]
+DisplayName="Aperture Science"
+
+[EldritchFacepaints_DeathTatt X2BodyPartTemplate]
+DisplayName="Ankh"
+
+[EldritchFacepaints_TriOptimum X2BodyPartTemplate]
+DisplayName="TriOptimum"
+
+[EldritchFacepaints_TriOptimumSleeve X2BodyPartTemplate]
+DisplayName="TriOptimum Sleeve"
+
+[EldritchFacepaints_LeopardTatt X2BodyPartTemplate]
+DisplayName="Leopard Spots"
+
+[EldritchFacepaints_TigerTatt X2BodyPartTemplate]
+DisplayName="Tiger Stripes"
+
+[EldritchFacepaints_ZebraTatt X2BodyPartTemplate]
+DisplayName="Zebra Stripes"
+
+[MinscFace X2BodyPartTemplate]
+DisplayName="Minsc"
+
+[BoudicaFace X2BodyPartTemplate]
+DisplayName="Boudica"
+
+[JaylahFace X2BodyPartTemplate]
+DisplayName="Jaylah"
+
+[DeathFace X2BodyPartTemplate]
+DisplayName="Death"
+
+[DeathLiner X2BodyPartTemplate]
+DisplayName="Death - Eyeliner Only"
+
+[DeathSkull X2BodyPartTemplate]
+DisplayName="Death with Skull"
+
+[DoomsdayFace X2BodyPartTemplate]
+DisplayName="Doomsday Warrior"
+
+[FuryFace X2BodyPartTemplate]
+DisplayName="Doomsday Fury"
+
+[WarBoyFace X2BodyPartTemplate]
+DisplayName="War Boy"
+
+[FuturistFace X2BodyPartTemplate]
+DisplayName="Futurist"
+
+[TronFace X2BodyPartTemplate]
+DisplayName="Aztech"
+
+[LuxurFace X2BodyPartTemplate]
+DisplayName="Luxur"
+
+[SiriusFace X2BodyPartTemplate]
+DisplayName="Sirius"
+
+[PSIWarriorFace X2BodyPartTemplate]
+DisplayName="PSI Warrior Alpha"
+
+[PSIWarriorDFace X2BodyPartTemplate]
+DisplayName="PSI Warrior Delta"
+
+[PSIWarriorGFace X2BodyPartTemplate]
+DisplayName="PSI Warrior Gamma"
+
+[PSIWarriorSFace X2BodyPartTemplate]
+DisplayName="PSI Warrior Sigma"
+
+[PSIWarriorOFace X2BodyPartTemplate]
+DisplayName="PSI Warrior Omicron"
+
+[KerriganFace X2BodyPartTemplate]
+DisplayName="Kerrigan - Wild Dreads Ponytail"
+
+[KerriganBFace X2BodyPartTemplate]
+DisplayName="Kerrigan - Other"
+
+[CortanaFace X2BodyPartTemplate]
+DisplayName="Cortana"
+
+[CortanaFrameFace X2BodyPartTemplate]
+DisplayName="Cortana v2.0"
+
+[GladOSFace X2BodyPartTemplate]
+DisplayName="GlaDOS - Alpha"
+
+[GladOSBFace X2BodyPartTemplate]
+DisplayName="GlaDOS - Omega"
+
+[SHODANFace X2BodyPartTemplate]
+DisplayName="S.H.O.D.A.N."
+
+[SHODANFaceFrame X2BodyPartTemplate]
+DisplayName="S.H.O.D.A.N. v2.0"
+
+[CheetahFace X2BodyPartTemplate]
+DisplayName="Cheetah"
+
+[SphinxLiner X2BodyPartTemplate]
+DisplayName="Sphinx - Eyeliner Only"
+
+[SphinxColour X2BodyPartTemplate]
+DisplayName="First Sphinx"
+
+[SphinxBColour X2BodyPartTemplate]
+DisplayName="Last Sphinx"
+
+[TigerFace X2BodyPartTemplate]
+DisplayName="Tiger"
+
+[ZebraFace X2BodyPartTemplate]
+DisplayName="Zebra"
+
+[BeautySpotsC X2BodyPartTemplate]
+DisplayName="Beauty Spot - Cindy"
+
+[BeautySpotsD X2BodyPartTemplate]
+DisplayName="Beauty Spot - Dita"
+
+[BeautySpotsMad X2BodyPartTemplate]
+DisplayName="Beauty Spot - Madonna"
+
+[BeautySpotsMar X2BodyPartTemplate]
+DisplayName="Beauty Spot - Marilyn"
+
+[BeautySpotsS X2BodyPartTemplate]
+DisplayName="Beauty Spot - Sophia"
+
+[FrecklesLight X2BodyPartTemplate]
+DisplayName="Freckles - Light"
+
+[FrecklesHeavy X2BodyPartTemplate]
+DisplayName="Freckles - Heavy"
+

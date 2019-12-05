@@ -1,0 +1,58 @@
+﻿[mod]
+publishedFileId=1162708210
+Title=ADVENT Future Complete AI Pack
+Description=If you want to sub to only 1 mod for all these, this is it. The ultimate AI pack for the ADVENT forces.
+
+This mod transforms poor behavior experienced by units during play and renders them dangerous, thinking adversaries custom tailored for their different roles within ADVENT.
+
+-= INCLUDED =-
+You'll need to unsub from these if you use this package.
+
+ADVENT Purifier:
+http://steamcommunity.com/sharedfiles/filedetails/?id=1134479867
+Improved Turrets:
+http://steamcommunity.com/sharedfiles/filedetails/?id=1157291258
+Sectopod AI:
+http://steamcommunity.com/sharedfiles/filedetails/?id=1153061520
+
+-= INCLUDED BUT INDIVIDUAL MODS DONT EXIST FOR THESE =-
+- Resistance Militia AI for XCOM is now unchained (Aim has been reduced as an effect, 95 is insane)
+- ADVENT Troopers
+- ADVENT Stunlancers (No longer suicidal 100%)
+- ADVENT Shieldbearers (More defensive)
+- ADVENT Captains
+- ADVENT MECs
+- Sectopods are now a dangerous threat
+- Psi Zombies can now melee and move!
+- Julian is now a Full Fledged Sectopod!
+
+-= FUTURE WORK =-
+Upcoming in this pack:
+- ADVENT Priest is not currently done, will be released in this pack soon.
+- ADVENT General will also get its own AI redone.
+
+Upcoming in different releases:
+- The Lost
+- The Chosen, The Rulers
+
+-= ADDITIONAL CHANGES =-
+My AI suite contains some gameplay element changes, just a warning. It's not strictly 100% AI.
+
+- Collateral Damage Dark Event suppport for all units : All ADVENT units will grenade slightly more often!
+- If given the proper outfit or abilities, all units now check for Suppression and Grenading as part of their actions.
+- Zombie melee ranged was 2 in the original game, fixed to 1. This is likely an old bug.
+
+-= ISSUES =-
+AI is a continous effort that never finishes. Report any weird behavior and mention the conditions in which it took place. The goal is to eliminate dumb behavior as much as possible, not to make the units perfect and unbeatable. Some units have voluntary weaknesses.
+
+-= ON THE UPDATE LIST FOR FIXING =-
+- Units sometimes take double movements even though I disallowed most of it, probably a Hunting code bug.
+- Sectopod Lightning Field targeting in original game counts allies, need to make an AOE version.
+- The Sectopod attack distributor will be removed, unchain him! Fire 3 times on same target if you have to.
+
+-= COMPATIBILITY =-
+This pack is grossly incompatible with ABAI.
+
+-= CURRENT LIVE VERSION =-
+V1.00 Release 08-10-2017
+RequiresXPACK=true

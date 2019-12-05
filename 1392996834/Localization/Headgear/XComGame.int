@@ -1,0 +1,141 @@
+;
+; Helmets
+;
+
+[ALL_WotC_MGSV_Scout_FacePropsUpper_StandardHeadset_M X2BodyPartTemplate]
+DisplayName="Headset"
+
+[ALL_WotC_MGSV_Scout_FacePropsUpper_StandardHeadset_F X2BodyPartTemplate]
+DisplayName="Headset"
+
+[ALL_WotC_MGSV_Scout_FacePropsLower_Integrated_Headset_Primary_M X2BodyPartTemplate]
+DisplayName="Integrated Headset [Primary]"
+
+[ALL_WotC_MGSV_Scout_FacePropsLower_Integrated_Headset_Primary_F X2BodyPartTemplate]
+DisplayName="Integrated Headset [Primary]"
+
+[ALL_WotC_MGSV_Scout_FacePropsLower_Integrated_Headset_Secondary_M X2BodyPartTemplate]
+DisplayName="Integrated Headset [Secondary]"
+
+[ALL_WotC_MGSV_Scout_FacePropsLower_Integrated_Headset_Secondary_F X2BodyPartTemplate]
+DisplayName="Integrated Headset [Secondary]"
+
+[ALL_WotC_MGSV_Scout_Helmet_Targeting_Headset_Primary_M X2BodyPartTemplate]
+DisplayName="Targeting Headset [Primary]"
+
+[ALL_WotC_MGSV_Scout_Helmet_Targeting_Headset_Primary_F X2BodyPartTemplate]
+DisplayName="Targeting Headset [Primary]"
+
+[ALL_WotC_MGSV_Scout_Helmet_Targeting_Headset_Secondary_M X2BodyPartTemplate]
+DisplayName="Targeting Headset [Secondary]"
+
+[ALL_WotC_MGSV_Scout_Helmet_Targeting_Headset_Secondary_F X2BodyPartTemplate]
+DisplayName="Targeting Headset [Secondary]"
+
+[ALL_WotC_MGSV_Scout_Helmet_Targeting_Monocle_Primary_M X2BodyPartTemplate]
+DisplayName="Targeting Monocle [Primary]"
+
+[ALL_WotC_MGSV_Scout_Helmet_Targeting_Monocle_Primary_F X2BodyPartTemplate]
+DisplayName="Targeting Monocle [Primary]"
+
+[ALL_WotC_MGSV_Scout_Helmet_Targeting_Monocle_Secondary_M X2BodyPartTemplate]
+DisplayName="Targeting Monocle [Secondary]"
+
+[ALL_WotC_MGSV_Scout_Helmet_Targeting_Monocle_Secondary_F X2BodyPartTemplate]
+DisplayName="Targeting Monocle [Secondary]"
+
+;
+; Ghillie Hoods (Independent)
+;
+
+[ALL_WotC_MGSV_Scout_Ghillie_Hood_Ind_A_M X2BodyPartTemplate]
+DisplayName="Ghille Hood (Independent)[Default]"
+
+[ALL_WotC_MGSV_Scout_Ghillie_Hood_Ind_A_F X2BodyPartTemplate]
+DisplayName="Ghille Hood (Independent)[Default]"
+
+[ALL_WotC_MGSV_Scout_Ghillie_Hood_Ind_B_M X2BodyPartTemplate]
+DisplayName="Ghille Hood (Independent)[No Foilage]"
+
+[ALL_WotC_MGSV_Scout_Ghillie_Hood_Ind_B_F X2BodyPartTemplate]
+DisplayName="Ghille Hood (Independent)[No Foilage]"
+
+[ALL_WotC_MGSV_Scout_Ghillie_Hood_Ind_C_M X2BodyPartTemplate]
+DisplayName="Ghille Hood (Independent)[No Balaclava]"
+
+[ALL_WotC_MGSV_Scout_Ghillie_Hood_Ind_C_F X2BodyPartTemplate]
+DisplayName="Ghille Hood (Independent)[No Balaclava]"
+
+[ALL_WotC_MGSV_Scout_Ghillie_Hood_Ind_D_M X2BodyPartTemplate]
+DisplayName="Ghille Hood (Independent)[Hood Only]"
+
+[ALL_WotC_MGSV_Scout_Ghillie_Hood_Ind_D_F X2BodyPartTemplate]
+DisplayName="Ghille Hood (Independent)[Hood Only]"
+
+;
+; Ghillie Hoods (Dependent)
+;
+
+[ALL_WotC_MGSV_Scout_Ghillie_Hood_A1_M X2BodyPartTemplate]
+DisplayName="Ghille Hood (Suit-Only)[Default]"
+
+[ALL_WotC_MGSV_Scout_Ghillie_Hood_A1_F X2BodyPartTemplate]
+DisplayName="Ghille Hood (Suit-Only)[Default]"
+
+[ALL_WotC_MGSV_Scout_Ghillie_Hood_A2_M X2BodyPartTemplate]
+DisplayName="Ghille Hood (Suit-Only)[No Foilage]"
+
+[ALL_WotC_MGSV_Scout_Ghillie_Hood_A2_F X2BodyPartTemplate]
+DisplayName="Ghille Hood (Suit-Only)[No Foilage]"
+
+[ALL_WotC_MGSV_Scout_Ghillie_Hood_B1_M X2BodyPartTemplate]
+DisplayName="Ghille Hood (Suit-Only)[No Balaclava]"
+
+[ALL_WotC_MGSV_Scout_Ghillie_Hood_B1_F X2BodyPartTemplate]
+DisplayName="Ghille Hood (Suit-Only)[No Balaclava]"
+
+[ALL_WotC_MGSV_Scout_Ghillie_Hood_B2_M X2BodyPartTemplate]
+DisplayName="Ghille Hood (Suit-Only)[Hood Only]"
+
+[ALL_WotC_MGSV_Scout_Ghillie_Hood_B2_F X2BodyPartTemplate]
+DisplayName="Ghille Hood (Suit-Only)[Hood Only]"
+
+;
+; Lower Face Props only
+;
+
+[ALL_WotC_MGSV_Scout_FacePropsLower_Integrated_Headset_Primary_M X2BodyPartTemplate]
+DisplayName="Integrated Headset [Primary]"
+
+[ALL_WotC_MGSV_Scout_FacePropsLower_Integrated_Headset_Primary_F X2BodyPartTemplate]
+DisplayName="Integrated Headset [Primary]"
+
+[ALL_WotC_MGSV_Scout_FacePropsLower_Integrated_Headset_Secondary_M X2BodyPartTemplate]
+DisplayName="Integrated Headset [Secondary]"
+
+[ALL_WotC_MGSV_Scout_FacePropsLower_Integrated_Headset_Secondary_F X2BodyPartTemplate]
+DisplayName="Integrated Headset [Secondary]"
+
+[ALL_WotC_MGSV_Scout_FacePropsLower_Targeting_Headset_Primary_M X2BodyPartTemplate]
+DisplayName="Targeting Headset [Primary]"
+
+[ALL_WotC_MGSV_Scout_FacePropsLower_Targeting_Headset_Primary_F X2BodyPartTemplate]
+DisplayName="Targeting Headset [Primary]"
+
+[ALL_WotC_MGSV_Scout_FacePropsLower_Targeting_Headset_Secondary_M X2BodyPartTemplate]
+DisplayName="Targeting Headset [Secondary]"
+
+[ALL_WotC_MGSV_Scout_FacePropsLower_Integrated_Headset_Secondary_F X2BodyPartTemplate]
+DisplayName="Targeting Headset [Secondary]"
+
+[ALL_WotC_MGSV_Scout_FacePropsLower_Targeting_Monocle_Primary_M X2BodyPartTemplate]
+DisplayName="Targeting Monocle [Primary]"
+
+[ALL_WotC_MGSV_Scout_FacePropsLower_Targeting_Monocle_Primary_F X2BodyPartTemplate]
+DisplayName="Targeting Monocle [Primary]"
+
+[ALL_WotC_MGSV_Scout_FacePropsLower_Targeting_Monocle_Secondary_M X2BodyPartTemplate]
+DisplayName="Targeting Monocle [Secondary]"
+
+[ALL_WotC_MGSV_Scout_FacePropsLower_Integrated_Monocle_Secondary_F X2BodyPartTemplate]
+DisplayName="Targeting Monocle [Secondary]"

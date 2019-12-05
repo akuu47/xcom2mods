@@ -1,0 +1,80 @@
+;Place localized text in this file
+
+;Arm Tattoos
+
+[Machina X2BodyPartTemplate]
+DisplayName="Bellator in Machina"
+[MachinaSmall X2BodyPartTemplate]
+DisplayName="Bellator in Machina Small"
+[MachinaS X2BodyPartTemplate]
+DisplayName="Bellator in Machina Sleeve"
+
+[CircuitS X2BodyPartTemplate]
+DisplayName="Circuit Board"
+
+[Hacker X2BodyPartTemplate]
+DisplayName="Digital Circuitry"
+[HackerS X2BodyPartTemplate]
+DisplayName="Digital Circuitry Sleeve"
+
+[Hacker3 X2BodyPartTemplate]
+DisplayName="Digital Skull"
+[Hacker31 X2BodyPartTemplate]
+DisplayName="Digital Skull Small"
+[Hacker3S X2BodyPartTemplate]
+DisplayName="Digital Skull Sleeve"
+
+[Hacker2 X2BodyPartTemplate]
+DisplayName="Electronics Sleeve"
+
+[Exalt X2BodyPartTemplate]
+DisplayName="Exalt"
+[ExaltSmall X2BodyPartTemplate]
+DisplayName="Exalt Small"
+[ExaltS X2BodyPartTemplate]
+DisplayName="Exalt Sleeve"
+
+[BeatifulFlowers X2BodyPartTemplate]
+DisplayName="Flower Girl"
+
+[Floral1 X2BodyPartTemplate]
+DisplayName="Halftone Flora"
+
+[Custodiam X2BodyPartTemplate]
+DisplayName="Mutare ad Custodiam"
+[CustodiamSmall X2BodyPartTemplate]
+DisplayName="Mutare ad Custodiam Small"
+[CustodiamS X2BodyPartTemplate]
+DisplayName="Mutare ad Custodiam Sleeve"
+
+[Panther X2BodyPartTemplate]
+DisplayName="Panther"
+[PantherS X2BodyPartTemplate]
+DisplayName="Panther Sleeve"
+
+[RockS X2BodyPartTemplate]
+DisplayName="Rock & Roll Sleeve"
+
+[SolarS X2BodyPartTemplate]
+DisplayName="Solar System Sleeve"
+
+[Resist X2BodyPartTemplate]
+DisplayName="Take Earth Back"
+[ResistS X2BodyPartTemplate]
+DisplayName="Take Earth Back Sleeve"
+
+;Face Tattoos
+[Blank X2BodyPartTemplate]
+DisplayName="None"
+
+[Hand1 X2BodyPartTemplate]
+DisplayName="Hand 1"
+
+[Hand2 X2BodyPartTemplate]
+DisplayName="Hand 2"
+
+[HexagonalFace X2BodyPartTemplate]
+DisplayName="Hex Left"
+
+[HexagonalFace2 X2BodyPartTemplate]
+DisplayName="Hex Both Sides "

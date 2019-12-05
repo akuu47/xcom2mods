@@ -1,0 +1,41 @@
+[TC_WOTC_IW_M200_T1 X2WeaponTemplate]
+FriendlyName="<font color='#ECECEC'><b>M-200 'Intervention'</b></font>"
+FriendlyNamePlural="<font color='#ECECEC'><b>Interventions</b></font>"
+AbilityDescName="anti-materiel sniper rifle"
+BriefSummary="The Cheyenne Tactical M-200 'Intervention', often referred to as the CheyTac M200, is a bolt-action anti-materiel rifle. Unlike the Barrett M82 series, the Intervention takes proprietary .408 CheyTec rounds, which performs slightly better than .50 BMG and weights less per pound when carrying in bulk. Compared to the M82, the M-200 is better geared towards accuracy and stability rather than stopping power."
+TacticalText="<Bullet/>Type: Anti-Materiel Rifle\n<Bullet/>Firing Profile: Single\n<Bullet/>Action: Bolt-Action\n<Bullet/>Cartridge: .408 CheyTac\n<Bullet/>Origin: United States\n<Bullet/>Origin: United States\n<Bullet/>Tier: Conventional"
+
+[TC_WOTC_IW_M200_T2 X2WeaponTemplate]
+FriendlyName="<font color='#27AAE1'><b>AMX-275 'Arbitration'</b></font>"
+FriendlyNamePlural="<font color='#27AAE1'><b>Arbitrations</b></font>"
+AbilityDescName="anti-materiel bolt-action rifle"
+BriefSummary="The Cheyenne Tactical M-200 'Intervention', often referred to as the CheyTac M200, is a bolt-action anti-materiel rifle. Unlike the Barrett M82 series, the Intervention takes proprietary .408 CheyTec rounds, which performs slightly better than .50 BMG and weights less per pound when carrying in bulk. Compared to the M82, the M-200 is better geared towards accuracy and stability rather than stopping power.\nThe AMX-275 'Arbitration' can settle any argument with an improved barrel that supports customized .408 rounds. The rounds are coated in depleted uranium mixed with alien alloy to give the extra kick you need."
+TacticalText="<Bullet/>Type: Anti-Materiel Rifle\n<Bullet/>Firing Profile: Single\n<Bullet/>Action: Bolt-Action\n<Bullet/>Cartridge: .416 CheyTac\n<Bullet/>Origin: United States\n<Bullet/>Tier: Magnetic"
+
+[TC_WOTC_IW_M200_T3 X2WeaponTemplate]
+FriendlyName="<font color='#CF4517'><b>AMX-350 'Adjudication'</b></font>"
+FriendlyNamePlural="<font color='#CF4517'><b>Adjudications</b></font>"
+AbilityDescName="anti-materiel sniper rifle"
+BriefSummary="The Cheyenne Tactical M-200 'Intervention', often referred to as the CheyTac M200, is a bolt-action anti-materiel rifle. Unlike the Barrett M82 series, the Intervention takes proprietary .408 CheyTec rounds, which performs slightly better than .50 BMG and weights less per pound when carrying in bulk. Compared to the M82, the M-200 is better geared towards accuracy and stability rather than stopping power.\nThe AMX-350 'Adjudication' is an improved version of the AMX-275 rifle. The barrel is re-ported with alien alloy to increase the kinetic energy of each traveling projectile."
+TacticalText="<Bullet/>Type: Anti-Materiel Rifle\n<Bullet/>Firing Profile: Single\n<Bullet/>Action: Bolt-Action\n<Bullet/>Cartridge: .424 CheyTac\n<Bullet/>Origin: United States\n<Bullet/>Tier: Beam"
+
+[TC_WOTC_RPR_IW_M200_T1 X2WeaponTemplate]
+FriendlyName="<font color='#ECECEC'><b>M-200 'Intervention'</b></font>"
+FriendlyNamePlural="<font color='#ECECEC'><b>Interventions</b></font>"
+AbilityDescName="anti-materiel sniper rifle"
+BriefSummary="The Cheyenne Tactical M-200 'Intervention', often referred to as the CheyTac M200, is a bolt-action anti-materiel rifle. Unlike the Barrett M82 series, the Intervention takes proprietary .408 CheyTec rounds, which performs slightly better than .50 BMG and weights less per pound when carrying in bulk. Compared to the M82, the M-200 is better geared towards accuracy and stability rather than stopping power."
+TacticalText="<Bullet/>Type: Anti-Materiel Rifle\n<Bullet/>Firing Profile: Single\n<Bullet/>Action: Bolt-Action\n<Bullet/>Cartridge: .408 CheyTac\n<Bullet/>Origin: United States\n<Bullet/>Origin: United States\n<Bullet/>Tier: Conventional"
+
+[TC_WOTC_RPR_IW_M200_T2 X2WeaponTemplate]
+FriendlyName="<font color='#27AAE1'><b>AMX-275 'Arbitration'</b></font>"
+FriendlyNamePlural="<font color='#27AAE1'><b>Arbitrations</b></font>"
+AbilityDescName="anti-materiel bolt-action rifle"
+BriefSummary="The Cheyenne Tactical M-200 'Intervention', often referred to as the CheyTac M200, is a bolt-action anti-materiel rifle. Unlike the Barrett M82 series, the Intervention takes proprietary .408 CheyTec rounds, which performs slightly better than .50 BMG and weights less per pound when carrying in bulk. Compared to the M82, the M-200 is better geared towards accuracy and stability rather than stopping power.\nThe AMX-275 'Arbitration' can settle any argument with an improved barrel that supports customized .408 rounds. The rounds are coated in depleted uranium mixed with alien alloy to give the extra kick you need."
+TacticalText="<Bullet/>Type: Anti-Materiel Rifle\n<Bullet/>Firing Profile: Single\n<Bullet/>Action: Bolt-Action\n<Bullet/>Cartridge: .416 CheyTac\n<Bullet/>Origin: United States\n<Bullet/>Tier: Magnetic"
+
+[TC_WOTC_RPR_IW_M200_T3 X2WeaponTemplate]
+FriendlyName="<font color='#CF4517'><b>AMX-350 'Adjudication'</b></font>"
+FriendlyNamePlural="<font color='#CF4517'><b>Adjudications</b></font>"
+AbilityDescName="anti-materiel sniper rifle"
+BriefSummary="The Cheyenne Tactical M-200 'Intervention', often referred to as the CheyTac M200, is a bolt-action anti-materiel rifle. Unlike the Barrett M82 series, the Intervention takes proprietary .408 CheyTec rounds, which performs slightly better than .50 BMG and weights less per pound when carrying in bulk. Compared to the M82, the M-200 is better geared towards accuracy and stability rather than stopping power.\nThe AMX-350 'Adjudication' is an improved version of the AMX-275 rifle. The barrel is re-ported with alien alloy to increase the kinetic energy of each traveling projectile."
+TacticalText="<Bullet/>Type: Anti-Materiel Rifle\n<Bullet/>Firing Profile: Single\n<Bullet/>Action: Bolt-Action\n<Bullet/>Cartridge: .424 CheyTac\n<Bullet/>Origin: United States\n<Bullet/>Tier: Beam"

@@ -1,0 +1,4 @@
+[CarryUnitWorkaround X2AbilityTemplate]
+LocFriendlyName="Cargar unidad"
+LocHelpText="Recoje a la unidad objetivo y llévalo contigo."
+LocFlyOverText="Cargar unidad"

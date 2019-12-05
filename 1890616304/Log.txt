@@ -1,0 +1,13 @@
+History of Changes:
+
+Release ver: 1.010:
+[list]
+     [*]Added ExtraSitrep parameter in Config/Missions/XComGameData.ini. This will allow you to set extra sitreps in addition to the current sitreps that will always appear if and only if the current ForceLevel > Minimum Force Level and ForceLevel < Maximum Force Level.
+	 [*]Added a new sitrep: Counter Operations that only stops appearing after Force Level 10. The pods have a maximum of 3 units, the FL is reduced by 3, and the Alert Level is reduced by 2.
+	 [*]Fixed possible bug where reinforcements would attempt to spawn if the objective failed.
+[/list]
+
+Release ver: 1.000:
+[list]
+     [*]Initial release of this mod.
+[/list]

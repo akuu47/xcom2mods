@@ -1,0 +1,37 @@
+﻿[mod]
+publishedFileId=1917373824
+Title=Modular AC
+Description=This cosmetic mod adds modular cosmetic options for the Anarchy Children DLC.
+
+[h1][b] Features: [/b][/h1]
+[list]
+[*] 1 torso option for Predator Armor
+[*] 3 torso options for E.X.O. Suit
+[*] 3 torso options for Warden Armor
+[*] 9 torso options for W.A.R. Suit
+[*] 2 arm options for Predator Armor
+[*] 2 right arm options for Spider Suit
+[*] 5 arm options for E.X.O. Suit
+[*] 10 arm options for Warden Armor
+[*] 4 left arm options for Wraith Suit
+[*] 7 right arm options for Wraith Suit
+[*] 14 arm options for W.A.R. Suit
+[*] 15 shoulder options for Tier 3
+[*] 4 forearm deco options for Tier 1
+[*] 4 forearm deco options for Tier 2
+[*] 2 forearm deco options for Tier 3
+[*] 3 leg options for Predator Armor
+[*] 3 leg options for E.X.O. Suit
+[*] 3 leg options for Warden Armor
+[*] 3 leg options for W.A.R. Suit
+[*] [url=https://steamcommunity.com/sharedfiles/filedetails/?id=878158600]Add Part Names[/url] implementation
+[/list]
+
+[h1][b] Mod Directory: [/b][/h1]
+[code]
+"Your Steam Directory"...\steamapps\workshop\content\268500\1917373824
+[/code]
+
+[h1][b] Credits: [/b][/h1]
+Firaxis - XCOM 2 and Anarchy Children assets
+RequiresXPACK=true

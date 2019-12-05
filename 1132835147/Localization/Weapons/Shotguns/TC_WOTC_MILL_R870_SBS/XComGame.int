@@ -1,0 +1,21 @@
+[TC_WOTC_MILL_R870_SBS_T1 X2WeaponTemplate]
+FriendlyName="<font color='#ECECEC'><b>Remington 870 SBS</b></font>"
+FriendlyNamePlural="<font color='#ECECEC'><b>R870s</b></font>"
+AbilityDescName="short barrel shotgun"
+BriefSummary="The Remington Model 870 is a 12-gauge pump action shotgun developed in 1951, and still used before the onset of the Alien Invasion. This shotgun was used for sporting events, self-defense, hunting, you name it. It uses a 4+1 tubular magazine, so soldiers must time his or her shots carefully. This version has the stock sawn-off, most likely to better conceal this weapon."
+TacticalText="<Bullet/>Type: Pump-Action Shotgun\n<Bullet/>Firing Profile: Single\n<Bullet/>Action: Pump-Action\n<Bullet/>Cartridge: 12ga\n<Bullet/>Origin: United States\n<Bullet/>Tier: Conventional"
+
+[TC_WOTC_MILL_R870_SBS_T2 X2WeaponTemplate]
+FriendlyName="<font color='#27AAE1'><b>870 Tunguska</b></font>"
+FriendlyNamePlural="<font color='#27AAE1'><b>870 Tunguskas</b></font>"
+AbilityDescName="short barrel shotgun"
+BriefSummary="The Remington Model 870 is a 12-gauge pump action shotgun developed in 1951, and still used before the onset of the Alien Invasion. This shotgun was used for sporting events, self-defense, hunting, you name it. It uses a 4+1 tubular magazine, so soldiers must time his or her shots carefully. This version has the stock sawn-off, most likely to better conceal this weapon.\n With new technological leaps, the upgraded 870, codenamed Tunguska, can accept and fire custom shotshells mixed with Elerium, which helps in the fight against the aliens. They pack a punch compared to its conventional counterpart."
+TacticalText="<Bullet/>Type: Pump-Action Shotgun\n<Bullet/>Firing Profile: Single\n<Bullet/>Action: Pump-Action\n<Bullet/>Cartridge: 12ga\n<Bullet/>Origin: United States\n<Bullet/>Tier: Conventional"
+
+
+[TC_WOTC_MILL_R870_SBS_T3 X2WeaponTemplate]
+FriendlyName="<font color='#CF4517'><b>870 Matrix</b></font>"
+FriendlyNamePlural="<font color='#CF4517'><b>870 Matrices</b></font>"
+AbilityDescName="short barrel shotgun"
+BriefSummary="The Remington Model 870 is a 12-gauge pump action shotgun developed in 1951, and still used before the onset of the Alien Invasion. This shotgun was used for sporting events, self-defense, hunting, you name it. It uses a 4+1 tubular magazine, so soldiers must time his or her shots carefully. This version has the stock sawn-off, most likely to better conceal this weapon.\n The prototype Matrix's barrel is replaced with a ported version embedded with electromagnets thanks to the advent of beam tech. The gas-operated system is also replaced with a high energy firing system infused with Elerium, drastically increasing its range and power."
+TacticalText="<Bullet/>Type: Pump-Action Shotgun\n<Bullet/>Firing Profile: Single\n<Bullet/>Action: Pump-Action\n<Bullet/>Cartridge: 12ga\n<Bullet/>Origin: United States\n<Bullet/>Tier: Conventional"

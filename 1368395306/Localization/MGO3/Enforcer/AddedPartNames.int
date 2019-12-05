@@ -1,0 +1,127 @@
+[X2DownloadableContentInfo_AddedPartNames]
+
+;
+; SOLDIER
+;
+
+.TorsoTemplate="CNV_WotC_SLD_MGSV_Enforcer_HBG_Torso_M"
+.TorsoName="Hardened Battle Gear - Torso"
+
+.TorsoTemplate="LPL_WotC_SLD_MGSV_Enforcer_HBG_Torso_M"
+.TorsoName="Hardened Battle Gear - Torso"
+
+.TorsoTemplate="MPL_WotC_SLD_MGSV_Enforcer_HBG_Torso_M"
+.TorsoName="Hardened Battle Gear - Torso"
+
+.TorsoTemplate="HPL_WotC_SLD_MGSV_Enforcer_HBG_Torso_M"
+.TorsoName="Hardened Battle Gear - Torso"
+
+.TorsoTemplate="LPW_WotC_SLD_MGSV_Enforcer_HBG_Torso_M"
+.TorsoName="Hardened Battle Gear - Torso"
+
+.TorsoTemplate="MPW_WotC_SLD_MGSV_Enforcer_HBG_Torso_M"
+.TorsoName="Hardened Battle Gear - Torso"
+
+.TorsoTemplate="HPW_WotC_SLD_MGSV_Enforcer_HBG_Torso_M"
+.TorsoName="Hardened Battle Gear - Torso"
+
+
+.TorsoTemplate="CNV_WotC_SLD_MGSV_Enforcer_HBG_Torso_F"
+.TorsoName="Hardened Battle Gear - Torso"
+
+.TorsoTemplate="LPL_WotC_SLD_MGSV_Enforcer_HBG_Torso_F"
+.TorsoName="Hardened Battle Gear - Torso"
+
+.TorsoTemplate="MPL_WotC_SLD_MGSV_Enforcer_HBG_Torso_F"
+.TorsoName="Hardened Battle Gear - Torso"
+
+.TorsoTemplate="HPL_WotC_SLD_MGSV_Enforcer_HBG_Torso_F"
+.TorsoName="Hardened Battle Gear - Torso"
+
+.TorsoTemplate="LPW_WotC_SLD_MGSV_Enforcer_HBG_Torso_F"
+.TorsoName="Hardened Battle Gear - Torso"
+
+.TorsoTemplate="MPW_WotC_SLD_MGSV_Enforcer_HBG_Torso_F"
+.TorsoName="Hardened Battle Gear - Torso"
+
+.TorsoTemplate="HPW_WotC_SLD_MGSV_Enforcer_HBG_Torso_F"
+.TorsoName="Hardened Battle Gear - Torso"
+
+
+.LegsTemplate="CNV_WotC_SLD_MGSV_Enforcer_HBG_Legs_M"
+.LegsName="Hardened Battle Gear - Legs"
+
+.LegsTemplate="LPL_WotC_SLD_MGSV_Enforcer_HBG_Legs_M"
+.LegsName="Hardened Battle Gear - Legs"
+
+.LegsTemplate="MPL_WotC_SLD_MGSV_Enforcer_HBG_Legs_M"
+.LegsName="Hardened Battle Gear - Legs"
+
+.LegsTemplate="HPL_WotC_SLD_MGSV_Enforcer_HBG_Legs_M"
+.LegsName="Hardened Battle Gear - Legs"
+
+.LegsTemplate="LPW_WotC_SLD_MGSV_Enforcer_HBG_Legs_M"
+.LegsName="Hardened Battle Gear - Legs"
+
+.LegsTemplate="MPW_WotC_SLD_MGSV_Enforcer_HBG_Legs_M"
+.LegsName="Hardened Battle Gear - Legs"
+
+
+.LegsTemplate="CNV_WotC_SLD_MGSV_Enforcer_HBG_Legs_F"
+.LegsName="Hardened Battle Gear - Legs"
+
+.LegsTemplate="LPL_WotC_SLD_MGSV_Enforcer_HBG_Legs_F"
+.LegsName="Hardened Battle Gear - Legs"
+
+.LegsTemplate="MPL_WotC_SLD_MGSV_Enforcer_HBG_Legs_F"
+.LegsName="Hardened Battle Gear - Legs"
+
+.LegsTemplate="HPL_WotC_SLD_MGSV_Enforcer_HBG_Legs_F"
+.LegsName="Hardened Battle Gear - Legs"
+
+.LegsTemplate="LPW_WotC_SLD_MGSV_Enforcer_HBG_Legs_F"
+.LegsName="Hardened Battle Gear - Legs"
+
+.LegsTemplate="MPW_WotC_SLD_MGSV_Enforcer_HBG_Legs_F"
+.LegsName="Hardened Battle Gear - Legs"
+
+;
+;
+;
+
+.LegsTemplate="CNV_WotC_SLD_MGSV_Enforcer_HBG_Legs_Bare_M"
+.LegsName="Hardened Battle Gear - Legs [Bare]"
+
+.LegsTemplate="LPL_WotC_SLD_MGSV_Enforcer_HBG_Legs_Bare_M"
+.LegsName="Hardened Battle Gear - Legs [Bare]"
+
+.LegsTemplate="MPL_WotC_SLD_MGSV_Enforcer_HBG_Legs_Bare_M"
+.LegsName="Hardened Battle Gear - Legs [Bare]"
+
+.LegsTemplate="HPL_WotC_SLD_MGSV_Enforcer_HBG_Legs_Bare_M"
+.LegsName="Hardened Battle Gear - Legs [Bare]"
+
+.LegsTemplate="LPW_WotC_SLD_MGSV_Enforcer_HBG_Legs_Bare_M"
+.LegsName="Hardened Battle Gear - Legs [Bare]"
+
+.LegsTemplate="MPW_WotC_SLD_MGSV_Enforcer_HBG_Legs_Bare_M"
+.LegsName="Hardened Battle Gear - Legs [Bare]"
+
+
+.LegsTemplate="CNV_WotC_SLD_MGSV_Enforcer_HBG_Legs_Bare_F"
+.LegsName="Hardened Battle Gear - Legs [Bare]"
+
+.LegsTemplate="LPL_WotC_SLD_MGSV_Enforcer_HBG_Legs_Bare_F"
+.LegsName="Hardened Battle Gear - Legs [Bare]"
+
+.LegsTemplate="MPL_WotC_SLD_MGSV_Enforcer_HBG_Legs_Bare_F"
+.LegsName="Hardened Battle Gear - Legs [Bare]"
+
+.LegsTemplate="HPL_WotC_SLD_MGSV_Enforcer_HBG_Legs_Bare_F"
+.LegsName="Hardened Battle Gear - Legs [Bare]"
+
+.LegsTemplate="LPW_WotC_SLD_MGSV_Enforcer_HBG_Legs_Bare_F"
+.LegsName="Hardened Battle Gear - Legs [Bare]"
+
+.LegsTemplate="MPW_WotC_SLD_MGSV_Enforcer_HBG_Legs_Bare_F"
+.LegsName="Hardened Battle Gear - Legs [Bare]"

@@ -1,0 +1,20 @@
+[TC_WOTC_IW_SPAS12_T1 X2WeaponTemplate]
+FriendlyName="<font color='#ECECEC'><b>SPAS-12</b></font>"
+FriendlyNamePlural="<font color='#ECECEC'><b>SPAS-12s</b></font>"
+AbilityDescName="combat shotgun"
+BriefSummary="The Franchi SPAS-12, short for Special Purpose Automatic Shotgun, is an 12-gauge dual-adjusted combat shotgun manufactured by Italian firearms company Franchi from 1979 to 2000. It's primarily a semi-automatic shotgun, but it can be adjusted for pump-action operation which is used to fire low-pressure ammunition. A unique feature of the SPAS-12 is the folding stock, which can be folded to fit the users' forearm."
+TacticalText="<Bullet/>Type: Combat Shotgun\n<Bullet/>Firing Profile: Pump-Action\n<Bullet/>Action: Pump-Action/Gas-Actuated\n<Bullet/>Cartridge: 12ga\n<Bullet/>Origin: Italy\n<Bullet/>Tier: Conventional"
+
+[TC_WOTC_IW_SPAS12_T2 X2WeaponTemplate]
+FriendlyName="<font color='#27AAE1'><b>DEF-12</b></font>"
+FriendlyNamePlural="<font color='#27AAE1'><b>DEF-12s</b></font>"
+AbilityDescName="combat shotgun"
+BriefSummary="The Franchi SPAS-12, short for Special Purpose Automatic Shotgun, is an 12-gauge dual-adjusted combat shotgun manufactured by Italian firearms company Franchi from 1979 to 2000. It's primarily a semi-automatic shotgun, but it can be adjusted for pump-action operation which is used to fire low-pressure ammunition. A unique feature of the SPAS-12 is the folding stock, which can be folded to fit the users' forearm.\nThe DEF-12 features improvements over the SPAS-12. It comes with a integrated full choke, which keeps the pellets in a tighter pattern over a longer distance. The pump-action is also modified to increase the power of each shot."
+TacticalText="<Bullet/>Type: Combat Shotgun\n<Bullet/>Firing Profile: Pump-Action\n<Bullet/>Action: Pump-Action/Gas-Actuated\n<Bullet/>Cartridge: 12ga\n<Bullet/>Origin: Italy\n<Bullet/>Tier: Magnetic"
+
+[TC_WOTC_IW_SPAS12_T3 X2WeaponTemplate]
+FriendlyName="<font color='#CF4517'><b>XS Ultimax-15</b></font>"
+FriendlyNamePlural="<font color='#CF4517'><b>XS-Ultimax 15s</b></font>"
+AbilityDescName="combat shotgun"
+BriefSummary="The Franchi SPAS-12, short for Special Purpose Automatic Shotgun, is an 12-gauge dual-adjusted combat shotgun manufactured by Italian firearms company Franchi from 1979 to 2000. It's primarily a semi-automatic shotgun, but it can be adjusted for pump-action operation which is used to fire low-pressure ammunition. A unique feature of the SPAS-12 is the folding stock, which can be folded to fit the users' forearm.\nIf the DEF-12 doesn't quench your thirst for alien blood, then the XS Ultimax-15 might. The terrestial 12 gauge shotgun shells is replaced with a specially crafted shotshells with pellets made from alien alloys, allowing for tighter patterns and an increase in stopping power."
+TacticalText="<Bullet/>Type: Combat Shotgun\n<Bullet/>Firing Profile: Pump-Action\n<Bullet/>Action: Pump-Action/Gas-Actuated\n<Bullet/>Cartridge: 12ga\n<Bullet/>Origin: Italy\n<Bullet/>Tier: Beam"

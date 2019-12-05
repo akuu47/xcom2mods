@@ -1,0 +1,40 @@
+[X2DownloadableContentInfo_AddedPartNames]
+
+;
+; ALIEN HUNTERS
+;
+
+
+.TorsoTemplate="Serpent_DLC2_MGSV_Enforcer_HBG_Full_M"
+.TorsoName="Hardened Battle Gear"
+
+.TorsoTemplate="Serpent_DLC2_MGSV_Enforcer_HBG_Full_F"
+.TorsoName="Hardened Battle Gear"
+
+
+.TorsoTemplate="SerpentMk2_DLC2_MGSV_Enforcer_HBG_Full_M"
+.TorsoName="Hardened Battle Gear"
+
+.TorsoTemplate="SerpentMk2_DLC2_MGSV_Enforcer_HBG_Full_F"
+.TorsoName="Hardened Battle Gear"
+
+
+.TorsoTemplate="Rage_DLC2_MGSV_Enforcer_HBG_Full_M"
+.TorsoName="Hardened Battle Gear"
+
+.TorsoTemplate="Rage_DLC2_MGSV_Enforcer_HBG_Full_F"
+.TorsoName="Hardened Battle Gear"
+
+
+.TorsoTemplate="RageMk2_DLC2_MGSV_Enforcer_HBG_Full_M"
+.TorsoName="Hardened Battle Gear"
+
+.TorsoTemplate="RageMk2_DLC2_MGSV_Enforcer_HBG_Full_F"
+.TorsoName="Hardened Battle Gear"
+
+
+.TorsoTemplate="Icarus_DLC2_MGSV_Enforcer_HBG_Full_M"
+.TorsoName="Hardened Battle Gear"
+
+.TorsoTemplate="Icarus_DLC2_MGSV_Enforcer_HBG_Full_F"
+.TorsoName="Hardened Battle Gear"

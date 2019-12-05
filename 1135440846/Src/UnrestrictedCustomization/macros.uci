@@ -1,0 +1,64 @@
+
+`define ModPackage "UnrestrictedCustomization"
+`define ModVersion "2.4.3"
+`define Test true
+`define VerboseLog false
+`define VeryVerboseLog false
+`define Wotc true
+
+`define ChangeLog "§\
+- Enhancement: added tool panel back (can be disabled in options menu) for compatibilty with mod that does not extend specific menu classes, such as Allies Unknown.§\
+- Enhancement: added global option to use a single appearance per soldier, instead of one per armor§\
+- Regression: removed NewArmorEquippedBehavior setting§\
+- Bugfix: editing body parts no longer remove their icon (not retroactive)§\
+- Bugfix: only transfer outfit to new armors.§\
+"
+
+
+`define LogUpper `CHEATMGR.OutputMsg
+
+`define Assertion true
+`if( `Assertion )
+	`define Assert(expr) if(!(`{expr})) { `LogError("Assertion FAILED :" @ "`{expr}"); }
+`else
+	`define Assert(expr)
+`endif
+
+
+`define ToString(var) ("`{var} = " $ `var)
+
+`define Localize(var) class'uc_Localizer'.static.GetLocalizedText(`var)
+//Localize( "uc_Localizer", `var, `ModPackage )
+
+`define LogMessageHeader "[" $ `ModPackage $ "]" @ "`ClassName::" $ class'Object'.static.GetFuncName() @ ":"
+`undefine(ClassName)
+
+//`define LogMessageHeader "[" $ `ModPackage $ "]" @ class'Object'.static.GetFuncName() @ :
+
+`define LogError(msg) `Log( "ERROR" @ `LogMessageHeader @ `msg $ Chr(10)$class'Object'.static.GetScriptTrace() )
+`define LogWarning(msg) `Log( "WARNING" @ `LogMessageHeader @ `msg $ Chr(10)$class'Object'.static.GetScriptTrace() )
+`define LogInfo(msg) `Log( `LogMessageHeader @ `msg )
+`define LogVar(var) `Log( `LogMessageHeader @ `ToString(`{var}) )
+
+
+// note: when undefined log macros call len to prevent "variable unused" warnings
+
+`if( `VerboseLog )
+	`define VLogInfo(msg) `LogInfo(`msg )
+	`define VLogVar(var) `LogVar(`var )
+`else
+	`define VLogInfo(msg) Len(`msg)
+	`define VLogVar(var) Len(`var)
+`endif
+
+`if( `VeryVerboseLog )
+	`define VVLogInfo(msg) `LogInfo(`msg )
+	`define VVLogVar(var) `LogVar(`var )
+`else
+	`define VVLogInfo(msg) Len(`msg)
+	`define VVLogVar(var) Len(`var)
+`endif
+
+
+
+`define Rescale( _value, _oldMin, _oldMax, _newMin, _newMax ) `_newMin + ( `_value - `_oldMin ) / ( `_oldMax - `_oldMin ) * ( `_newMax - `_newMin )

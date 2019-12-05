@@ -1,0 +1,511 @@
+
+; ============================================================================================================================
+;
+;	Reaper
+;
+; ============================================================================================================================
+
+;
+; Torso Accessories
+;
+
+[CNV_WotC_RPR_MGO3_Scout_Uniform_TorsoDeco_CJT_M X2BodyPartTemplate]
+DisplayName="Canvas Jacket"
+
+[MPL_WotC_RPR_MGO3_Scout_Uniform_TorsoDeco_CJT_M X2BodyPartTemplate]
+DisplayName="Canvas Jacket"
+
+[MPW_WotC_RPR_MGO3_Scout_Uniform_TorsoDeco_CJT_M X2BodyPartTemplate]
+DisplayName="Canvas Jacket"
+
+
+[CNV_WotC_RPR_MGO3_Scout_Uniform_TorsoDeco_CJT_F X2BodyPartTemplate]
+DisplayName="Canvas Jacket"
+
+[MPL_WotC_RPR_MGO3_Scout_Uniform_TorsoDeco_CJT_F X2BodyPartTemplate]
+DisplayName="Canvas Jacket"
+
+[MPW_WotC_RPR_MGO3_Scout_Uniform_TorsoDeco_CJT_F X2BodyPartTemplate]
+DisplayName="Canvas Jacket"
+
+[CNV_WotC_RPR_MGO3_Scout_Uniform_TorsoDeco_RVT_M X2BodyPartTemplate]
+DisplayName="Recon Vest"
+
+[MPL_WotC_RPR_MGO3_Scout_Uniform_TorsoDeco_RVT_M X2BodyPartTemplate]
+DisplayName="Recon Vest"
+
+[MPW_WotC_RPR_MGO3_Scout_Uniform_TorsoDeco_RVT_M X2BodyPartTemplate]
+DisplayName="Recon Vest"
+
+
+[CNV_WotC_RPR_MGO3_Scout_Uniform_TorsoDeco_RVT_F X2BodyPartTemplate]
+DisplayName="Recon Vest"
+
+[MPL_WotC_RPR_MGO3_Scout_Uniform_TorsoDeco_RVT_F X2BodyPartTemplate]
+DisplayName="Recon Vest"
+
+[MPW_WotC_RPR_MGO3_Scout_Uniform_TorsoDeco_RVT_F X2BodyPartTemplate]
+DisplayName="Recon Vest"
+
+
+[CNV_WotC_RPR_MGO3_Scout_Uniform_TorsoDeco_SHE_M X2BodyPartTemplate]
+DisplayName="Shoulder Hoodie"
+
+[MPL_WotC_RPR_MGO3_Scout_Uniform_TorsoDeco_SHE_M X2BodyPartTemplate]
+DisplayName="Shoulder Hoodie"
+
+[MPW_WotC_RPR_MGO3_Scout_Uniform_TorsoDeco_SHE_M X2BodyPartTemplate]
+DisplayName="Shoulder Hoodie"
+
+
+[CNV_WotC_RPR_MGO3_Scout_Uniform_TorsoDeco_SHE_F X2BodyPartTemplate]
+DisplayName="Shoulder Hoodie"
+
+[MPL_WotC_RPR_MGO3_Scout_Uniform_TorsoDeco_SHE_F X2BodyPartTemplate]
+DisplayName="Shoulder Hoodie"
+
+[MPW_WotC_RPR_MGO3_Scout_Uniform_TorsoDeco_SHE_F X2BodyPartTemplate]
+DisplayName="Shoulder Hoodie"
+
+
+[CNV_WotC_RPR_MGO3_Scout_Uniform_TorsoDeco_THE_M X2BodyPartTemplate]
+DisplayName="Tactical Hoodie"
+
+[MPL_WotC_RPR_MGO3_Scout_Uniform_TorsoDeco_THE_M X2BodyPartTemplate]
+DisplayName="Tactical Hoodie"
+
+[MPW_WotC_RPR_MGO3_Scout_Uniform_TorsoDeco_THE_M X2BodyPartTemplate]
+DisplayName="Tactical Hoodie"
+
+
+[CNV_WotC_RPR_MGO3_Scout_Uniform_TorsoDeco_THE_F X2BodyPartTemplate]
+DisplayName="Tactical Hoodie"
+
+[MPL_WotC_RPR_MGO3_Scout_Uniform_TorsoDeco_THE_F X2BodyPartTemplate]
+DisplayName="Tactical Hoodie"
+
+[MPW_WotC_RPR_MGO3_Scout_Uniform_TorsoDeco_THE_F X2BodyPartTemplate]
+DisplayName="Tactical Hoodie"
+
+
+[CNV_WotC_RPR_MGO3_Scout_Uniform_TorsoDeco_TSF_M X2BodyPartTemplate]
+DisplayName="Tactical Scarf"
+
+[MPL_WotC_RPR_MGO3_Scout_Uniform_TorsoDeco_TSF_M X2BodyPartTemplate]
+DisplayName="Tactical Scarf"
+
+[MPW_WotC_RPR_MGO3_Scout_Uniform_TorsoDeco_TSF_M X2BodyPartTemplate]
+DisplayName="Tactical Scarf"
+
+
+[CNV_WotC_RPR_MGO3_Scout_Uniform_TorsoDeco_TSF_F X2BodyPartTemplate]
+DisplayName="Tactical Scarf"
+
+[MPL_WotC_RPR_MGO3_Scout_Uniform_TorsoDeco_TSF_F X2BodyPartTemplate]
+DisplayName="Tactical Scarf"
+
+[MPW_WotC_RPR_MGO3_Scout_Uniform_TorsoDeco_TSF_F X2BodyPartTemplate]
+DisplayName="Tactical Scarf"
+
+;
+; Left Arm
+;
+
+
+[CNV_WotC_RPR_MGO3_LRR_Scout_Uniform_Arm_Left_M X2BodyPartTemplate]
+DisplayName="LRR Concealment - Left Arm"
+
+[CNV_WotC_RPR_MGO3_LRR_Scout_Uniform_Arm_Left_F X2BodyPartTemplate]
+DisplayName="LRR Concealment - Left Arm"
+
+
+[CNV_WotC_RPR_MGO3_Scout_Uniform_RVT_Forearm_Left_M X2BodyPartTemplate]
+DisplayName="Recon Vest - Left Forearm"
+
+[MPL_WotC_RPR_MGO3_Scout_Uniform_RVT_Forearm_Left_M X2BodyPartTemplate]
+DisplayName="Recon Vest - Left Forearm"
+
+[MPW_WotC_RPR_MGO3_Scout_Uniform_RVT_Forearm_Left_M X2BodyPartTemplate]
+DisplayName="Recon Vest - Left Forearm"
+
+
+[CNV_WotC_RPR_MGO3_Scout_Uniform_RVT_Forearm_Left_F X2BodyPartTemplate]
+DisplayName="Recon Vest - Left Forearm"
+
+[MPL_WotC_RPR_MGO3_Scout_Uniform_RVT_Forearm_Left_F X2BodyPartTemplate]
+DisplayName="Recon Vest - Left Forearm"
+
+[MPW_WotC_RPR_MGO3_Scout_Uniform_RVT_Forearm_Left_F X2BodyPartTemplate]
+DisplayName="Recon Vest - Left Forearm"
+
+
+;
+; Right Arm
+;
+
+[CNV_WotC_RPR_MGO3_LRR_Scout_Uniform_Arm_Right_M X2BodyPartTemplate]
+DisplayName="LRR Concealment - Right Arm"
+
+[CNV_WotC_RPR_MGO3_LRR_Scout_Uniform_Arm_Right_F X2BodyPartTemplate]
+DisplayName="LRR Concealment - Right Arm"
+
+
+[CNV_WotC_RPR_MGO3_Scout_Uniform_RVT_Forearm_Right_M X2BodyPartTemplate]
+DisplayName="Recon Vest - Right Forearm"
+
+[MPL_WotC_RPR_MGO3_Scout_Uniform_RVT_Forearm_Right_M X2BodyPartTemplate]
+DisplayName="Recon Vest - Right Forearm"
+
+[MPW_WotC_RPR_MGO3_Scout_Uniform_RVT_Forearm_Right_M X2BodyPartTemplate]
+DisplayName="Recon Vest - Right Forearm"
+
+
+[CNV_WotC_RPR_MGO3_Scout_Uniform_RVT_Forearm_Right_F X2BodyPartTemplate]
+DisplayName="Recon Vest - Right Forearm"
+
+[MPL_WotC_RPR_MGO3_Scout_Uniform_RVT_Forearm_Right_F X2BodyPartTemplate]
+DisplayName="Recon Vest - Right Forearm"
+
+[MPW_WotC_RPR_MGO3_Scout_Uniform_RVT_Forearm_Right_F X2BodyPartTemplate]
+DisplayName="Recon Vest - Right Forearm"
+
+; ============================================================================================================================
+;
+;	Skirmisher
+;
+; ============================================================================================================================
+
+;
+; Torso Accessories
+;
+
+[CNV_WotC_SKR_MGO3_Scout_Uniform_TorsoDeco_CJT_M X2BodyPartTemplate]
+DisplayName="Canvas Jacket"
+
+[MPL_WotC_SKR_MGO3_Scout_Uniform_TorsoDeco_CJT_M X2BodyPartTemplate]
+DisplayName="Canvas Jacket"
+
+[MPW_WotC_SKR_MGO3_Scout_Uniform_TorsoDeco_CJT_M X2BodyPartTemplate]
+DisplayName="Canvas Jacket"
+
+
+[CNV_WotC_SKR_MGO3_Scout_Uniform_TorsoDeco_CJT_F X2BodyPartTemplate]
+DisplayName="Canvas Jacket"
+
+[MPL_WotC_SKR_MGO3_Scout_Uniform_TorsoDeco_CJT_F X2BodyPartTemplate]
+DisplayName="Canvas Jacket"
+
+[MPW_WotC_SKR_MGO3_Scout_Uniform_TorsoDeco_CJT_F X2BodyPartTemplate]
+DisplayName="Canvas Jacket"
+
+[CNV_WotC_SKR_MGO3_Scout_Uniform_TorsoDeco_RVT_M X2BodyPartTemplate]
+DisplayName="Recon Vest"
+
+[MPL_WotC_SKR_MGO3_Scout_Uniform_TorsoDeco_RVT_M X2BodyPartTemplate]
+DisplayName="Recon Vest"
+
+[MPW_WotC_SKR_MGO3_Scout_Uniform_TorsoDeco_RVT_M X2BodyPartTemplate]
+DisplayName="Recon Vest"
+
+
+[CNV_WotC_SKR_MGO3_Scout_Uniform_TorsoDeco_RVT_F X2BodyPartTemplate]
+DisplayName="Recon Vest"
+
+[MPL_WotC_SKR_MGO3_Scout_Uniform_TorsoDeco_RVT_F X2BodyPartTemplate]
+DisplayName="Recon Vest"
+
+[MPW_WotC_SKR_MGO3_Scout_Uniform_TorsoDeco_RVT_F X2BodyPartTemplate]
+DisplayName="Recon Vest"
+
+
+[CNV_WotC_SKR_MGO3_Scout_Uniform_TorsoDeco_SHE_M X2BodyPartTemplate]
+DisplayName="Shoulder Hoodie"
+
+[MPL_WotC_SKR_MGO3_Scout_Uniform_TorsoDeco_SHE_M X2BodyPartTemplate]
+DisplayName="Shoulder Hoodie"
+
+[MPW_WotC_SKR_MGO3_Scout_Uniform_TorsoDeco_SHE_M X2BodyPartTemplate]
+DisplayName="Shoulder Hoodie"
+
+
+[CNV_WotC_SKR_MGO3_Scout_Uniform_TorsoDeco_SHE_F X2BodyPartTemplate]
+DisplayName="Shoulder Hoodie"
+
+[MPL_WotC_SKR_MGO3_Scout_Uniform_TorsoDeco_SHE_F X2BodyPartTemplate]
+DisplayName="Shoulder Hoodie"
+
+[MPW_WotC_SKR_MGO3_Scout_Uniform_TorsoDeco_SHE_F X2BodyPartTemplate]
+DisplayName="Shoulder Hoodie"
+
+
+[CNV_WotC_SKR_MGO3_Scout_Uniform_TorsoDeco_THE_M X2BodyPartTemplate]
+DisplayName="Tactical Hoodie"
+
+[MPL_WotC_SKR_MGO3_Scout_Uniform_TorsoDeco_THE_M X2BodyPartTemplate]
+DisplayName="Tactical Hoodie"
+
+[MPW_WotC_SKR_MGO3_Scout_Uniform_TorsoDeco_THE_M X2BodyPartTemplate]
+DisplayName="Tactical Hoodie"
+
+
+[CNV_WotC_SKR_MGO3_Scout_Uniform_TorsoDeco_THE_F X2BodyPartTemplate]
+DisplayName="Tactical Hoodie"
+
+[MPL_WotC_SKR_MGO3_Scout_Uniform_TorsoDeco_THE_F X2BodyPartTemplate]
+DisplayName="Tactical Hoodie"
+
+[MPW_WotC_SKR_MGO3_Scout_Uniform_TorsoDeco_THE_F X2BodyPartTemplate]
+DisplayName="Tactical Hoodie"
+
+
+[CNV_WotC_SKR_MGO3_Scout_Uniform_TorsoDeco_TSF_M X2BodyPartTemplate]
+DisplayName="Tactical Scarf"
+
+[MPL_WotC_SKR_MGO3_Scout_Uniform_TorsoDeco_TSF_M X2BodyPartTemplate]
+DisplayName="Tactical Scarf"
+
+[MPW_WotC_SKR_MGO3_Scout_Uniform_TorsoDeco_TSF_M X2BodyPartTemplate]
+DisplayName="Tactical Scarf"
+
+
+[CNV_WotC_SKR_MGO3_Scout_Uniform_TorsoDeco_TSF_F X2BodyPartTemplate]
+DisplayName="Tactical Scarf"
+
+[MPL_WotC_SKR_MGO3_Scout_Uniform_TorsoDeco_TSF_F X2BodyPartTemplate]
+DisplayName="Tactical Scarf"
+
+[MPW_WotC_SKR_MGO3_Scout_Uniform_TorsoDeco_TSF_F X2BodyPartTemplate]
+DisplayName="Tactical Scarf"
+
+;
+; Left Arm
+;
+
+
+[CNV_WotC_SKR_MGO3_LRR_Scout_Uniform_Arm_Left_M X2BodyPartTemplate]
+DisplayName="LRR Concealment - Left Arm"
+
+[CNV_WotC_SKR_MGO3_LRR_Scout_Uniform_Arm_Left_F X2BodyPartTemplate]
+DisplayName="LRR Concealment - Left Arm"
+
+
+[CNV_WotC_SKR_MGO3_Scout_Uniform_RVT_Forearm_Left_M X2BodyPartTemplate]
+DisplayName="Recon Vest - Left Forearm"
+
+[MPL_WotC_SKR_MGO3_Scout_Uniform_RVT_Forearm_Left_M X2BodyPartTemplate]
+DisplayName="Recon Vest - Left Forearm"
+
+[MPW_WotC_SKR_MGO3_Scout_Uniform_RVT_Forearm_Left_M X2BodyPartTemplate]
+DisplayName="Recon Vest - Left Forearm"
+
+
+[CNV_WotC_SKR_MGO3_Scout_Uniform_RVT_Forearm_Left_F X2BodyPartTemplate]
+DisplayName="Recon Vest - Left Forearm"
+
+[MPL_WotC_SKR_MGO3_Scout_Uniform_RVT_Forearm_Left_F X2BodyPartTemplate]
+DisplayName="Recon Vest - Left Forearm"
+
+[MPW_WotC_SKR_MGO3_Scout_Uniform_RVT_Forearm_Left_F X2BodyPartTemplate]
+DisplayName="Recon Vest - Left Forearm"
+
+
+;
+; Right Arm
+;
+
+[CNV_WotC_SKR_MGO3_LRR_Scout_Uniform_Arm_Right_M X2BodyPartTemplate]
+DisplayName="LRR Concealment - Right Arm"
+
+[CNV_WotC_SKR_MGO3_LRR_Scout_Uniform_Arm_Right_F X2BodyPartTemplate]
+DisplayName="LRR Concealment - Right Arm"
+
+
+[CNV_WotC_SKR_MGO3_Scout_Uniform_RVT_Forearm_Right_M X2BodyPartTemplate]
+DisplayName="Recon Vest - Right Forearm"
+
+[MPL_WotC_SKR_MGO3_Scout_Uniform_RVT_Forearm_Right_M X2BodyPartTemplate]
+DisplayName="Recon Vest - Right Forearm"
+
+[MPW_WotC_SKR_MGO3_Scout_Uniform_RVT_Forearm_Right_M X2BodyPartTemplate]
+DisplayName="Recon Vest - Right Forearm"
+
+
+[CNV_WotC_SKR_MGO3_Scout_Uniform_RVT_Forearm_Right_F X2BodyPartTemplate]
+DisplayName="Recon Vest - Right Forearm"
+
+[MPL_WotC_SKR_MGO3_Scout_Uniform_RVT_Forearm_Right_F X2BodyPartTemplate]
+DisplayName="Recon Vest - Right Forearm"
+
+[MPW_WotC_SKR_MGO3_Scout_Uniform_RVT_Forearm_Right_F X2BodyPartTemplate]
+DisplayName="Recon Vest - Right Forearm"
+
+
+; ============================================================================================================================
+;
+;	Templar
+;
+; ============================================================================================================================
+
+;
+; Torso Accessories
+;
+
+[CNV_WotC_TMP_MGO3_Scout_Uniform_TorsoDeco_CJT_M X2BodyPartTemplate]
+DisplayName="Canvas Jacket"
+
+[MPL_WotC_TMP_MGO3_Scout_Uniform_TorsoDeco_CJT_M X2BodyPartTemplate]
+DisplayName="Canvas Jacket"
+
+[MPW_WotC_TMP_MGO3_Scout_Uniform_TorsoDeco_CJT_M X2BodyPartTemplate]
+DisplayName="Canvas Jacket"
+
+
+[CNV_WotC_TMP_MGO3_Scout_Uniform_TorsoDeco_CJT_F X2BodyPartTemplate]
+DisplayName="Canvas Jacket"
+
+[MPL_WotC_TMP_MGO3_Scout_Uniform_TorsoDeco_CJT_F X2BodyPartTemplate]
+DisplayName="Canvas Jacket"
+
+[MPW_WotC_TMP_MGO3_Scout_Uniform_TorsoDeco_CJT_F X2BodyPartTemplate]
+DisplayName="Canvas Jacket"
+
+[CNV_WotC_TMP_MGO3_Scout_Uniform_TorsoDeco_RVT_M X2BodyPartTemplate]
+DisplayName="Recon Vest"
+
+[MPL_WotC_TMP_MGO3_Scout_Uniform_TorsoDeco_RVT_M X2BodyPartTemplate]
+DisplayName="Recon Vest"
+
+[MPW_WotC_TMP_MGO3_Scout_Uniform_TorsoDeco_RVT_M X2BodyPartTemplate]
+DisplayName="Recon Vest"
+
+
+[CNV_WotC_TMP_MGO3_Scout_Uniform_TorsoDeco_RVT_F X2BodyPartTemplate]
+DisplayName="Recon Vest"
+
+[MPL_WotC_TMP_MGO3_Scout_Uniform_TorsoDeco_RVT_F X2BodyPartTemplate]
+DisplayName="Recon Vest"
+
+[MPW_WotC_TMP_MGO3_Scout_Uniform_TorsoDeco_RVT_F X2BodyPartTemplate]
+DisplayName="Recon Vest"
+
+
+[CNV_WotC_TMP_MGO3_Scout_Uniform_TorsoDeco_SHE_M X2BodyPartTemplate]
+DisplayName="Shoulder Hoodie"
+
+[MPL_WotC_TMP_MGO3_Scout_Uniform_TorsoDeco_SHE_M X2BodyPartTemplate]
+DisplayName="Shoulder Hoodie"
+
+[MPW_WotC_TMP_MGO3_Scout_Uniform_TorsoDeco_SHE_M X2BodyPartTemplate]
+DisplayName="Shoulder Hoodie"
+
+
+[CNV_WotC_TMP_MGO3_Scout_Uniform_TorsoDeco_SHE_F X2BodyPartTemplate]
+DisplayName="Shoulder Hoodie"
+
+[MPL_WotC_TMP_MGO3_Scout_Uniform_TorsoDeco_SHE_F X2BodyPartTemplate]
+DisplayName="Shoulder Hoodie"
+
+[MPW_WotC_TMP_MGO3_Scout_Uniform_TorsoDeco_SHE_F X2BodyPartTemplate]
+DisplayName="Shoulder Hoodie"
+
+
+[CNV_WotC_TMP_MGO3_Scout_Uniform_TorsoDeco_THE_M X2BodyPartTemplate]
+DisplayName="Tactical Hoodie"
+
+[MPL_WotC_TMP_MGO3_Scout_Uniform_TorsoDeco_THE_M X2BodyPartTemplate]
+DisplayName="Tactical Hoodie"
+
+[MPW_WotC_TMP_MGO3_Scout_Uniform_TorsoDeco_THE_M X2BodyPartTemplate]
+DisplayName="Tactical Hoodie"
+
+
+[CNV_WotC_TMP_MGO3_Scout_Uniform_TorsoDeco_THE_F X2BodyPartTemplate]
+DisplayName="Tactical Hoodie"
+
+[MPL_WotC_TMP_MGO3_Scout_Uniform_TorsoDeco_THE_F X2BodyPartTemplate]
+DisplayName="Tactical Hoodie"
+
+[MPW_WotC_TMP_MGO3_Scout_Uniform_TorsoDeco_THE_F X2BodyPartTemplate]
+DisplayName="Tactical Hoodie"
+
+
+[CNV_WotC_TMP_MGO3_Scout_Uniform_TorsoDeco_TSF_M X2BodyPartTemplate]
+DisplayName="Tactical Scarf"
+
+[MPL_WotC_TMP_MGO3_Scout_Uniform_TorsoDeco_TSF_M X2BodyPartTemplate]
+DisplayName="Tactical Scarf"
+
+[MPW_WotC_TMP_MGO3_Scout_Uniform_TorsoDeco_TSF_M X2BodyPartTemplate]
+DisplayName="Tactical Scarf"
+
+
+[CNV_WotC_TMP_MGO3_Scout_Uniform_TorsoDeco_TSF_F X2BodyPartTemplate]
+DisplayName="Tactical Scarf"
+
+[MPL_WotC_TMP_MGO3_Scout_Uniform_TorsoDeco_TSF_F X2BodyPartTemplate]
+DisplayName="Tactical Scarf"
+
+[MPW_WotC_TMP_MGO3_Scout_Uniform_TorsoDeco_TSF_F X2BodyPartTemplate]
+DisplayName="Tactical Scarf"
+
+;
+; Left Arm
+;
+
+
+[CNV_WotC_TMP_MGO3_LRR_Scout_Uniform_Arm_Left_M X2BodyPartTemplate]
+DisplayName="LRR Concealment - Left Arm"
+
+[CNV_WotC_TMP_MGO3_LRR_Scout_Uniform_Arm_Left_F X2BodyPartTemplate]
+DisplayName="LRR Concealment - Left Arm"
+
+
+[CNV_WotC_TMP_MGO3_Scout_Uniform_RVT_Forearm_Left_M X2BodyPartTemplate]
+DisplayName="Recon Vest - Left Forearm"
+
+[MPL_WotC_TMP_MGO3_Scout_Uniform_RVT_Forearm_Left_M X2BodyPartTemplate]
+DisplayName="Recon Vest - Left Forearm"
+
+[MPW_WotC_TMP_MGO3_Scout_Uniform_RVT_Forearm_Left_M X2BodyPartTemplate]
+DisplayName="Recon Vest - Left Forearm"
+
+
+[CNV_WotC_TMP_MGO3_Scout_Uniform_RVT_Forearm_Left_F X2BodyPartTemplate]
+DisplayName="Recon Vest - Left Forearm"
+
+[MPL_WotC_TMP_MGO3_Scout_Uniform_RVT_Forearm_Left_F X2BodyPartTemplate]
+DisplayName="Recon Vest - Left Forearm"
+
+[MPW_WotC_TMP_MGO3_Scout_Uniform_RVT_Forearm_Left_F X2BodyPartTemplate]
+DisplayName="Recon Vest - Left Forearm"
+
+
+;
+; Right Arm
+;
+
+[CNV_WotC_TMP_MGO3_LRR_Scout_Uniform_Arm_Right_M X2BodyPartTemplate]
+DisplayName="LRR Concealment - Right Arm"
+
+[CNV_WotC_TMP_MGO3_LRR_Scout_Uniform_Arm_Right_F X2BodyPartTemplate]
+DisplayName="LRR Concealment - Right Arm"
+
+
+[CNV_WotC_TMP_MGO3_Scout_Uniform_RVT_Forearm_Right_M X2BodyPartTemplate]
+DisplayName="Recon Vest - Right Forearm"
+
+[MPL_WotC_TMP_MGO3_Scout_Uniform_RVT_Forearm_Right_M X2BodyPartTemplate]
+DisplayName="Recon Vest - Right Forearm"
+
+[MPW_WotC_TMP_MGO3_Scout_Uniform_RVT_Forearm_Right_M X2BodyPartTemplate]
+DisplayName="Recon Vest - Right Forearm"
+
+
+[CNV_WotC_TMP_MGO3_Scout_Uniform_RVT_Forearm_Right_F X2BodyPartTemplate]
+DisplayName="Recon Vest - Right Forearm"
+
+[MPL_WotC_TMP_MGO3_Scout_Uniform_RVT_Forearm_Right_F X2BodyPartTemplate]
+DisplayName="Recon Vest - Right Forearm"
+
+[MPW_WotC_TMP_MGO3_Scout_Uniform_RVT_Forearm_Right_F X2BodyPartTemplate]
+DisplayName="Recon Vest - Right Forearm"

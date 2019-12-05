@@ -1,0 +1,17 @@
+[X2WOTCCH_Components]
+VersionFormat="v%MAJOR.%MINOR.%PATCH"
+
+RequiredNotFound="NOT LOADED - REQUIRED"
+ExpectedNotFound="NOT LOADED - EXPECTED"
+NotExpectedNotFound="Optional"
+
+VersionMismatches="- Version Mismatches"
+WarningsLabel="- Warnings"
+ErrorsLabel="- ERRORS - CHECK LOG"
+
+[X2WOTCCH_ModDependencies]
+ModRequiredPopupTitle="missing REQUIRED mods"
+ModRequired="Please ACTIVATE the following mods and restart or %s will not work properly:"
+ModIncompatiblePopupTitle="detected INCOMPATIBLE mods"
+ModIncompatible="Please DEACTIVATE the following mods and restart or %s will not work properly:"
+DisablePopup="DO NOT SHOW ME THIS AGAIN"

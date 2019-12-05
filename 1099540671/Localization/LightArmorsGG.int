@@ -1,0 +1,628 @@
+[X2DownloadableContentInfo_LightArmorsGG]
+
+
+; ////////////////////////////////////////////
+; ********************************************
+; JACK
+; ********************************************
+; ////////////////////////////////////////////
+; ********************************************
+
+;Jack Torso
+
+.TorsoTemplate="CNV_Jack_Torso" 
+.TorsoName="Jack Torso (ME)" 
+
+.TorsoTemplate="LPL_Jack_Torso" 
+.TorsoName="Jack Torso (ME)" 
+
+.TorsoTemplate="MPL_Jack_Torso" 
+.TorsoName="Jack Torso (ME)" 
+
+.TorsoTemplate="HPL_Jack_Torso" 
+.TorsoName="Jack Torso (ME)" 
+
+.TorsoTemplate="LPW_Jack_Torso" 
+.TorsoName="Jack Torso (ME)" 
+
+.TorsoTemplate="MPW_Jack_Torso" 
+.TorsoName="Jack Torso (ME)" 
+
+.TorsoTemplate="HPW_Jack_Torso" 
+.TorsoName="Jack Torso (ME)" 
+
+;Jack Torso No Tats
+
+.TorsoTemplate="CNV_Jack_Torso_NoTats" 
+.TorsoName="Jack Torso No Tatoos (ME)" 
+
+.TorsoTemplate="LPL_Jack_Torso_NoTats" 
+.TorsoName="Jack Torso No Tatoos (ME)" 
+
+.TorsoTemplate="MPL_Jack_Torso_NoTats" 
+.TorsoName="Jack Torso No Tatoos (ME)" 
+
+.TorsoTemplate="HPL_Jack_Torso_NoTats" 
+.TorsoName="Jack Torso No Tatoos (ME)" 
+
+.TorsoTemplate="LPW_Jack_Torso_NoTats" 
+.TorsoName="Jack Torso No Tatoos (ME)" 
+
+.TorsoTemplate="MPW_Jack_Torso_NoTats" 
+.TorsoName="Jack Torso No Tatoos (ME)" 
+
+.TorsoTemplate="HPW_Jack_Torso_NoTats" 
+.TorsoName="Jack Torso No Tatoos (ME)" 
+
+;Bare Arms
+.ArmsTemplate="Bare_Arms_CNV_F" 
+.ArmsName="Bare Arms"
+
+.ArmsTemplate="Bare_Arms_LPL_F" 
+.ArmsName="Bare Arms"
+
+.ArmsTemplate="Bare_Arms_MPL_F" 
+.ArmsName="Bare Arms"
+
+.ArmsTemplate="Bare_Arms_HPL_F" 
+.ArmsName="Bare Arms"
+
+.ArmsTemplate="Bare_Arms_LPW_F" 
+.ArmsName="Bare Arms"
+
+.ArmsTemplate="Bare_Arms_LPW_F" 
+.ArmsName="Bare Arms"
+
+.ArmsTemplate="Bare_Arms_MPW_F" 
+.ArmsName="Bare Arms"
+
+;Jack Legs
+
+.LegsTemplate="CNV_Jack_Legs" 
+.LegsName="Jack Legs (ME)" 
+
+.LegsTemplate="LPL_Jack_Legs" 
+.LegsName="Jack Legs (ME)" 
+
+.LegsTemplate="MPL_Jack_Legs" 
+.LegsName="Jack Legs (ME)" 
+
+.LegsTemplate="HPL_Jack_Legs" 
+.LegsName="Jack Legs (ME)" 
+
+.LegsTemplate="LPW_Jack_Legs" 
+.LegsName="Jack Legs (ME)" 
+
+.LegsTemplate="MPW_Jack_Legs" 
+.LegsName="Jack Legs (ME)" 
+
+.LegsTemplate="HPW_Jack_Legs" 
+.LegsName="Jack Legs (ME)" 
+
+;Jack Legs No Tats
+
+.LegsTemplate="CNV_Jack_Legs_NoTats" 
+.LegsName="Jack Legs No Tatoos (ME)" 
+
+.LegsTemplate="LPL_Jack_Legs_NoTats" 
+.LegsName="Jack Legs No Tatoos (ME)" 
+
+.LegsTemplate="MPL_Jack_Legs_NoTats" 
+.LegsName="Jack Legs No Tatoos (ME)" 
+
+.LegsTemplate="HPL_Jack_Legs_NoTats" 
+.LegsName="Jack Legs No Tatoos (ME)" 
+
+.LegsTemplate="LPW_Jack_Legs_NoTats" 
+.LegsName="Jack Legs No Tatoos (ME)" 
+
+.LegsTemplate="MPW_Jack_Legs_NoTats" 
+.LegsName="Jack Legs No Tatoos (ME)" 
+
+.LegsTemplate="HPW_Jack_Legs_NoTats" 
+.LegsName="Jack Legs No Tatoos (ME)" 
+
+; ////////////////////////////////////////////
+; ********************************************
+; Kerrigan
+; ********************************************
+; ////////////////////////////////////////////
+; ********************************************
+
+;Kerrigan Torso
+
+.TorsoTemplate="CNV_Kerrigan_Torso" 
+.TorsoName="Kerrigan Torso (SC)" 
+
+.TorsoTemplate="LPL_Kerrigan_Torso" 
+.TorsoName="Kerrigan Torso (SC)" 
+
+.TorsoTemplate="MPL_Kerrigan_Torso" 
+.TorsoName="Kerrigan Torso (SC)" 
+
+.TorsoTemplate="HPL_Kerrigan_Torso" 
+.TorsoName="Kerrigan Torso (SC)" 
+
+.TorsoTemplate="LPW_Kerrigan_Torso" 
+.TorsoName="Kerrigan Torso (SC)" 
+
+.TorsoTemplate="MPW_Kerrigan_Torso" 
+.TorsoName="Kerrigan Torso (SC)" 
+
+.TorsoTemplate="HPW_Kerrigan_Torso" 
+.TorsoName="Kerrigan Torso (SC)"
+
+;Kerrigan Legs
+
+.LegsTemplate="CNV_Kerrigan_Legs" 
+.LegsName="Kerrigan Legs (SC)"  
+
+.LegsTemplate="LPL_Kerrigan_Legs" 
+.LegsName="Kerrigan Legs (SC)" 
+
+.LegsTemplate="MPL_Kerrigan_Legs" 
+.LegsName="Kerrigan Legs (SC)"
+
+.LegsTemplate="HPL_Kerrigan_Legs" 
+.LegsName="Kerrigan Legs (SC)"
+
+.LegsTemplate="LPW_Kerrigan_Legs" 
+.LegsName="Kerrigan Legs (SC)"
+
+.LegsTemplate="MPW_Kerrigan_Legs" 
+.LegsName="Kerrigan Legs (SC)"
+
+.LegsTemplate="HPW_Kerrigan_Legs" 
+.LegsName="Kerrigan Legs (SC)"
+
+; ////////////////////////////////////////////
+; ********************************************
+; MIRANDA
+; ********************************************
+; ////////////////////////////////////////////
+; ********************************************
+
+;Miranda Torso
+
+.TorsoTemplate="CNV_Miranda_Torso" 
+.TorsoName="Miranda Torso (ME)" 
+
+.TorsoTemplate="LPL_Miranda_Torso" 
+.TorsoName="Miranda Torso (ME)" 
+
+.TorsoTemplate="MPL_Miranda_Torso" 
+.TorsoName="Miranda Torso (ME)" 
+
+.TorsoTemplate="HPL_Miranda_Torso" 
+.TorsoName="Miranda Torso (ME)" 
+
+.TorsoTemplate="LPW_Miranda_Torso" 
+.TorsoName="Miranda Torso (ME)" 
+
+.TorsoTemplate="MPW_Miranda_Torso" 
+.TorsoName="Miranda Torso (ME)" 
+
+.TorsoTemplate="HPW_Miranda_Torso" 
+.TorsoName="Miranda Torso (ME)"
+
+;Kerrigan Legs
+
+.LegsTemplate="CNV_Miranda_Legs" 
+.LegsName="Miranda Legs (ME)"  
+
+.LegsTemplate="LPL_Miranda_Legs" 
+.LegsName="Miranda Legs (ME)" 
+
+.LegsTemplate="MPL_Miranda_Legs" 
+.LegsName="Miranda Legs (ME)"
+
+.LegsTemplate="HPL_Miranda_Legs" 
+.LegsName="Miranda Legs (ME)"
+
+.LegsTemplate="LPW_Miranda_Legs" 
+.LegsName="Miranda Legs (ME)"
+
+.LegsTemplate="MPW_Miranda_Legs" 
+.LegsName="Miranda Legs (ME)"
+
+.LegsTemplate="HPW_Miranda_Legs" 
+.LegsName="Miranda Legs (ME)"
+
+; ////////////////////////////////////////////
+; ********************************************
+; LIARA
+; ********************************************
+; ////////////////////////////////////////////
+; ********************************************
+
+;Miranda Torso
+
+.TorsoTemplate="CNV_Liara_Torso_Suit" 
+.TorsoName="Liara Torso (ME)" 
+
+.TorsoTemplate="LPL_Liara_Torso_Suit" 
+.TorsoName="Liara Torso (ME)" 
+
+.TorsoTemplate="MPL_Liara_Torso_Suit" 
+.TorsoName="Liara Torso (ME)" 
+
+.TorsoTemplate="HPL_Liara_Torso_Suit" 
+.TorsoName="Liara Torso (ME)" 
+
+.TorsoTemplate="LPW_Liara_Torso_Suit" 
+.TorsoName="Liara Torso (ME)" 
+
+.TorsoTemplate="MPW_Liara_Torso_Suit" 
+.TorsoName="Liara Torso (ME)" 
+
+.TorsoTemplate="HPW_Liara_Torso_Suit" 
+.TorsoName="Liara Torso (ME)"
+
+;Kerrigan Legs
+
+.LegsTemplate="CNV_Liara_Legs_Suit" 
+.LegsName="Liara Legs (ME)"  
+
+.LegsTemplate="LPL_Liara_Legs_Suit" 
+.LegsName="Liara Legs (ME)" 
+
+.LegsTemplate="MPL_Liara_Legs_Suit" 
+.LegsName="Liara Legs (ME)"
+
+.LegsTemplate="HPL_Liara_Legs_Suit" 
+.LegsName="Liara Legs (ME)"
+
+.LegsTemplate="LPW_Liara_Legs_Suit" 
+.LegsName="Liara Legs (ME)"
+
+.LegsTemplate="MPW_Liara_Legs_Suit" 
+.LegsName="Liara Legs (ME)"
+
+.LegsTemplate="HPW_Liara_Legs_Suit" 
+.LegsName="Liara Legs (ME)"
+
+
+; ////////////////////////////////////////////
+; ********************************************
+; KASUMI
+; ********************************************
+; ////////////////////////////////////////////
+; ********************************************
+
+;Kasumi Torso
+
+.TorsoTemplate="CNV_Kasumi_Torso" 
+.TorsoName="Kasumi Torso (ME)" 
+
+.TorsoTemplate="LPL_Kasumi_Torso" 
+.TorsoName="Kasumi Torso (ME)" 
+
+.TorsoTemplate="MPL_Kasumi_Torso" 
+.TorsoName="Kasumi Torso (ME)" 
+
+.TorsoTemplate="HPL_Kasumi_Torso" 
+.TorsoName="Kasumi Torso (ME)" 
+
+.TorsoTemplate="LPW_Kasumi_Torso" 
+.TorsoName="Kasumi Torso (ME)" 
+
+.TorsoTemplate="MPW_Kasumi_Torso" 
+.TorsoName="Kasumi Torso (ME)" 
+
+.TorsoTemplate="HPW_Kasumi_Torso" 
+.TorsoName="Kasumi Torso (ME)"
+
+;Kasumi Legs
+
+.LegsTemplate="CNV_Kasumi_Legs" 
+.LegsName="Kasumi Legs (ME)"  
+
+.LegsTemplate="LPL_Kasumi_Legs" 
+.LegsName="Kasumi Legs (ME)" 
+
+.LegsTemplate="MPL_Kasumi_Legs" 
+.LegsName="Kasumi Legs (ME)"
+
+.LegsTemplate="HPL_Kasumi_Legs" 
+.LegsName="Kasumi Legs (ME)"
+
+.LegsTemplate="LPW_Kasumi_Legs" 
+.LegsName="Kasumi Legs (ME)"
+
+.LegsTemplate="MPW_Kasumi_Legs" 
+.LegsName="Kasumi Legs (ME)"
+
+.LegsTemplate="HPW_Kasumi_Legs" 
+.LegsName="Kasumi Legs (ME)"
+
+
+; ********************************************
+; ////////////////////////////////////////////
+; NOVA
+; ********************************************
+; ////////////////////////////////////////////
+; ********************************************
+
+;Nova Torso
+
+.TorsoTemplate="CNV_Nova_Torso" 
+.TorsoName="Nova Torso (SC)" 
+
+.TorsoTemplate="LPL_Nova_Torso" 
+.TorsoName="Nova Torso (SC)" 
+
+.TorsoTemplate="MPL_Nova_Torso" 
+.TorsoName="Nova Torso (SC)" 
+
+.TorsoTemplate="HPL_Nova_Torso" 
+.TorsoName="Nova Torso (SC)" 
+
+.TorsoTemplate="LPW_Nova_Torso" 
+.TorsoName="Nova Torso (SC)" 
+
+.TorsoTemplate="MPW_Nova_Torso" 
+.TorsoName="Nova Torso (SC)" 
+
+.TorsoTemplate="HPW_Nova_Torso" 
+.TorsoName="Nova Torso (SC)"
+
+;Nova Legs
+
+.LegsTemplate="CNV_Nova_Legs" 
+.LegsName="Nova Legs (SC)"  
+
+.LegsTemplate="LPL_Nova_Legs" 
+.LegsName="Nova Legs (SC)" 
+
+.LegsTemplate="MPL_Nova_Legs" 
+.LegsName="Nova Legs (SC)"
+
+.LegsTemplate="HPL_Nova_Legs" 
+.LegsName="Nova Legs (SC)"
+
+.LegsTemplate="LPW_Nova_Legs" 
+.LegsName="Nova Legs (SC)"
+
+.LegsTemplate="MPW_Nova_Legs" 
+.LegsName="Nova Legs (SC)"
+
+.LegsTemplate="HPW_Nova_Legs" 
+.LegsName="Nova Legs (SC)"
+
+; ********************************************
+; ////////////////////////////////////////////
+; ASARI
+; ********************************************
+; ////////////////////////////////////////////
+; ********************************************
+
+;Aria Torso
+
+.TorsoTemplate="CNV_Aria_Torso" 
+.TorsoName="Aria Torso (ME)" 
+
+.TorsoTemplate="LPL_Aria_Torso" 
+.TorsoName="Aria Torso (ME)" 
+
+.TorsoTemplate="MPL_Aria_Torso" 
+.TorsoName="Aria Torso (ME)" 
+
+.TorsoTemplate="HPL_Aria_Torso" 
+.TorsoName="Aria Torso (ME)" 
+
+.TorsoTemplate="LPW_Aria_Torso" 
+.TorsoName="Aria Torso (ME)" 
+
+.TorsoTemplate="MPW_Aria_Torso" 
+.TorsoName="Aria Torso (ME)" 
+
+.TorsoTemplate="HPW_Aria_Torso" 
+.TorsoName="Aria Torso (ME)"
+
+;Aria Legs
+
+.LegsTemplate="CNV_Aria_Legs" 
+.LegsName="Aria Legs (ME)"  
+
+.LegsTemplate="LPL_Aria_Legs" 
+.LegsName="Aria Legs (ME)"
+
+.LegsTemplate="MPL_Aria_Legs" 
+.LegsName="Aria Legs (ME)"
+
+.LegsTemplate="HPL_Aria_Legs" 
+.LegsName="Aria Legs (ME)"
+
+.LegsTemplate="LPW_Aria_Legs" 
+.LegsName="Aria Legs (ME)"
+
+.LegsTemplate="MPW_Aria_Legs" 
+.LegsName="Aria Legs (ME)"
+
+.LegsTemplate="HPW_Aria_Legs" 
+.LegsName="Aria Legs (ME)"
+
+;Samara Torso
+
+.TorsoTemplate="CNV_Samara_Torso" 
+.TorsoName="Samara Torso (ME)" 
+
+.TorsoTemplate="LPL_Samara_Torso" 
+.TorsoName="Samara Torso (ME)" 
+
+.TorsoTemplate="MPL_Samara_Torso" 
+.TorsoName="Samara Torso (ME)" 
+
+.TorsoTemplate="HPL_Samara_Torso" 
+.TorsoName="Samara Torso (ME)" 
+
+.TorsoTemplate="LPW_Samara_Torso" 
+.TorsoName="Samara Torso (ME)" 
+
+.TorsoTemplate="MPW_Samara_Torso" 
+.TorsoName="Samara Torso (ME)" 
+
+.TorsoTemplate="HPW_Samara_Torso" 
+.TorsoName="Samara Torso (ME)"
+
+;Samara Legs
+
+.LegsTemplate="CNV_Samara_Legs" 
+.LegsName="Samara Legs (ME)"  
+
+.LegsTemplate="LPL_Samara_Legs" 
+.LegsName="Samara Legs (ME)"
+
+.LegsTemplate="MPL_Samara_Legs" 
+.LegsName="Samara Legs (ME)"
+
+.LegsTemplate="HPL_Samara_Legs" 
+.LegsName="Samara Legs (ME)"
+
+.LegsTemplate="LPW_Samara_Legs" 
+.LegsName="Samara Legs (ME)"
+
+.LegsTemplate="MPW_Samara_Legs" 
+.LegsName="Samara Legs (ME)"
+
+.LegsTemplate="HPW_Samara_Legs" 
+.LegsName="Samara Legs (ME)"
+
+;TelaVasir Torso
+
+.TorsoTemplate="CNV_TelaVasir_Torso" 
+.TorsoName="Tela Vasir Torso (ME)" 
+
+.TorsoTemplate="LPL_TelaVasir_Torso" 
+.TorsoName="Tela Vasir Torso (ME)" 
+
+.TorsoTemplate="MPL_TelaVasir_Torso" 
+.TorsoName="Tela Vasir Torso (ME)" 
+
+.TorsoTemplate="HPL_TelaVasir_Torso" 
+.TorsoName="Tela Vasir Torso (ME)" 
+
+.TorsoTemplate="LPW_TelaVasir_Torso" 
+.TorsoName="Tela Vasir Torso (ME)" 
+
+.TorsoTemplate="MPW_TelaVasir_Torso" 
+.TorsoName="Tela Vasir Torso (ME)" 
+
+.TorsoTemplate="HPW_TelaVasir_Torso" 
+.TorsoName="Tela Vasir Torso (ME)"
+
+;TelaVasir Legs
+
+.LegsTemplate="CNV_TelaVasir_Legs" 
+.LegsName="Tela Vasir Legs (ME)"  
+
+.LegsTemplate="LPL_TelaVasir_Legs" 
+.LegsName="Tela Vasir Legs (ME)"
+
+.LegsTemplate="MPL_TelaVasir_Legs" 
+.LegsName="Tela Vasir Legs (ME)"
+
+.LegsTemplate="HPL_TelaVasir_Legs" 
+.LegsName="Tela Vasir Legs (ME)"
+
+.LegsTemplate="LPW_TelaVasir_Legs" 
+.LegsName="Tela Vasir Legs (ME)"
+
+.LegsTemplate="MPW_TelaVasir_Legs" 
+.LegsName="Tela Vasir Legs (ME)"
+
+.LegsTemplate="HPW_TelaVasir_Legs" 
+.LegsName="Tela Vasir Legs (ME)"
+
+;Commando Torso
+
+.TorsoTemplate="CNV_Commando_Torso" 
+.TorsoName="Asari Commando Torso (ME)" 
+
+.TorsoTemplate="LPL_Commando_Torso" 
+.TorsoName="Asari Commando Torso (ME)" 
+
+.TorsoTemplate="MPL_Commando_Torso" 
+.TorsoName="Asari Commando Torso (ME)" 
+
+.TorsoTemplate="HPL_Commando_Torso" 
+.TorsoName="Asari Commando Torso (ME)" 
+
+.TorsoTemplate="LPW_Commando_Torso" 
+.TorsoName="Asari Commando Torso (ME)" 
+
+.TorsoTemplate="MPW_Commando_Torso" 
+.TorsoName="Asari Commando Torso (ME)" 
+
+.TorsoTemplate="HPW_Commando_Torso" 
+.TorsoName="Asari Commando Torso (ME)"
+
+;Commando Legs
+
+.LegsTemplate="CNV_Commando_Legs" 
+.LegsName="Asari Commando Legs (ME)"  
+
+.LegsTemplate="LPL_Commando_Legs" 
+.LegsName="Asari Commando Legs (ME)"
+
+.LegsTemplate="MPL_Commando_Legs" 
+.LegsName="Asari Commando Legs (ME)"
+
+.LegsTemplate="HPL_Commando_Legs" 
+.LegsName="Asari Commando Legs (ME)"
+
+.LegsTemplate="LPW_Commando_Legs" 
+.LegsName="Asari Commando Legs (ME)"
+
+.LegsTemplate="MPW_Commando_Legs" 
+.LegsName="Asari Commando Legs (ME)"
+
+.LegsTemplate="HPW_Commando_Legs" 
+.LegsName="Asari Commando Legs (ME)"
+
+;Adept Torso
+
+.TorsoTemplate="CNV_Adept_Torso" 
+.TorsoName="Asari Adept Torso (ME)" 
+
+.TorsoTemplate="LPL_Adept_Torso" 
+.TorsoName="Asari Adept Torso (ME)" 
+
+.TorsoTemplate="MPL_Adept_Torso" 
+.TorsoName="Asari Adept Torso (ME)" 
+
+.TorsoTemplate="HPL_Adept_Torso" 
+.TorsoName="Asari Adept Torso (ME)" 
+
+.TorsoTemplate="LPW_Adept_Torso" 
+.TorsoName="Asari Adept Torso (ME)" 
+
+.TorsoTemplate="MPW_Adept_Torso" 
+.TorsoName="Asari Adept Torso (ME)" 
+
+.TorsoTemplate="HPW_Adept_Torso" 
+.TorsoName="Asari Adept Torso (ME)"
+
+;Adept Legs
+
+.LegsTemplate="CNV_Adept_Legs" 
+.LegsName="Asari Adept Legs (ME)"  
+
+.LegsTemplate="LPL_Adept_Legs" 
+.LegsName="Asari Adept Legs (ME)"
+
+.LegsTemplate="MPL_Adept_Legs" 
+.LegsName="Asari Adept Legs (ME)"
+
+.LegsTemplate="HPL_Adept_Legs" 
+.LegsName="Asari Adept Legs (ME)"
+
+.LegsTemplate="LPW_Adept_Legs" 
+.LegsName="Asari Adept Legs (ME)"
+
+.LegsTemplate="MPW_Adept_Legs" 
+.LegsName="Asari Adept Legs (ME)"
+
+.LegsTemplate="HPW_Adept_Legs" 
+.LegsName="Asari Adept Legs (ME)"
+

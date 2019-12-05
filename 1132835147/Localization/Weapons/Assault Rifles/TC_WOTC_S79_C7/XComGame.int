@@ -1,0 +1,41 @@
+[TC_WOTC_S79_C7_T1 X2WeaponTemplate]
+FriendlyName="<font color='#ECECEC'><b>C7</b></font>"
+FriendlyNamePlural="<font color='#ECECEC'><b>C7s</b></font>"
+AbilityDescName="assault rifle"
+BriefSummary="The Colt Canada, formerly known as Diemaco, C7 rifle is a 5.56mm assault rifle developed in conjunction to the Colt Model 715/M16A2 rifle, with some minor changes. The grips and stock are painted green to differinate from the M16A2. The C7 also features a removable carryhandle with a mounting rail underneath. Other than that, it's pretty much identical to the M16 series."
+TacticalText="<Bullet/>Type: Assault Rifle\n<Bullet/>Firing Profile: Full-Auto\n<Bullet/>Action: Gas-Operated, Rotating Bolt (direct impingement)\n<Bullet/>Cartridge: 5.56x45mm NATO\n<Bullet/>Origin: United States/Canada\n<Bullet/>Tier: Conventional"
+
+[TC_WOTC_S79_C7_T2 X2WeaponTemplate]
+FriendlyName="<font color='#27AAE1'><b>KC7 Custom</b></font>"
+FriendlyNamePlural="<font color='#27AAE1'><b>YCS/C7s</b></font>"
+AbilityDescName="assault rifle"
+BriefSummary="The Colt Canada, formerly known as Diemaco, C7 rifle is a 5.56mm assault rifle developed in conjunction to the Colt Model 715/M16A2 rifle, with some minor changes. The grips and stock are painted green to differinate from the M16A2. The C7 also features a removable carryhandle with a mounting rail underneath. Other than that, it's pretty much identical to the M16 series.\n The KC7 improves upon the C7 rifle to match the characteristics of the Magnetic rifle, by replacing the internal parts with custom made parts built with alien alloys. The gas-operated firing mechanism is also replaced with a elerium based firing system which drastically alters the ballistic profile, allowing for much better accuracy and damage."
+TacticalText="<Bullet/>Type: Assault Rifle\n<Bullet/>Firing Profile: Full-Auto\n<Bullet/>Action: Gas-Operated, Rotating Bolt (direct impingement)\n<Bullet/>Cartridge: 5.56x45mm NATO\n<Bullet/>Origin: United States/Canada\n<Bullet/>Tier: Magnetic"
+
+[TC_WOTC_S79_C7_T3 X2WeaponTemplate]
+FriendlyName="<font color='#CF4517'><b>KC7-32</b></font>"
+FriendlyNamePlural="<font color='#CF4517'><b>KC7-32s</b></font>"
+AbilityDescName="assault rifle"
+BriefSummary="The Colt Canada, formerly known as Diemaco, C7 rifle is a 5.56mm assault rifle developed in conjunction to the Colt Model 715/M16A2 rifle, with some minor changes. The grips and stock are painted green to differinate from the M16A2. The C7 also features a removable carryhandle with a mounting rail underneath. Other than that, it's pretty much identical to the M16 series.\n The barrel of the KC7 was replaced with a custom high frequency barrel, allowing projectiles to travel beyond supersonic speeds, while further decreasing the recoil of the weapon."
+TacticalText="<Bullet/>Type: Assault Rifle\n<Bullet/>Firing Profile: Full-Auto\n<Bullet/>Action: Gas-Operated, Rotating Bolt (direct impingement)\n<Bullet/>Cartridge: 5.56x45mm NATO\n<Bullet/>Origin: United States/Canada\n<Bullet/>Tier: Beam"
+
+[TC_WOTC_SKR_S79_C7_T1 X2WeaponTemplate]
+FriendlyName="<font color='#ECECEC'><b>C7</b></font>"
+FriendlyNamePlural="<font color='#ECECEC'><b>C7s</b></font>"
+AbilityDescName="assault rifle"
+BriefSummary="The Colt Canada, formerly known as Diemaco, C7 rifle is a 5.56mm assault rifle developed in conjunction to the Colt Model 715/M16A2 rifle, with some minor changes. The grips and stock are painted green to differinate from the M16A2. The C7 also features a removable carryhandle with a mounting rail underneath. Other than that, it's pretty much identical to the M16 series."
+TacticalText="<Bullet/>Type: Assault Rifle\n<Bullet/>Firing Profile: Full-Auto\n<Bullet/>Action: Gas-Operated, Rotating Bolt (direct impingement)\n<Bullet/>Cartridge: 5.56x45mm NATO\n<Bullet/>Origin: United States/Canada\n<Bullet/>Tier: Conventional"
+
+[TC_WOTC_SKR_S79_C7_T2 X2WeaponTemplate]
+FriendlyName="<font color='#27AAE1'><b>KC7 Custom</b></font>"
+FriendlyNamePlural="<font color='#27AAE1'><b>YCS/C7s</b></font>"
+AbilityDescName="assault rifle"
+BriefSummary="The Colt Canada, formerly known as Diemaco, C7 rifle is a 5.56mm assault rifle developed in conjunction to the Colt Model 715/M16A2 rifle, with some minor changes. The grips and stock are painted green to differinate from the M16A2. The C7 also features a removable carryhandle with a mounting rail underneath. Other than that, it's pretty much identical to the M16 series.\n The KC7 improves upon the C7 rifle to match the characteristics of the Magnetic rifle, by replacing the internal parts with custom made parts built with alien alloys. The gas-operated firing mechanism is also replaced with a elerium based firing system which drastically alters the ballistic profile, allowing for much better accuracy and damage."
+TacticalText="<Bullet/>Type: Assault Rifle\n<Bullet/>Firing Profile: Full-Auto\n<Bullet/>Action: Gas-Operated, Rotating Bolt (direct impingement)\n<Bullet/>Cartridge: 5.56x45mm NATO\n<Bullet/>Origin: United States/Canada\n<Bullet/>Tier: Magnetic"
+
+[TC_WOTC_SKR_S79_C7_T3 X2WeaponTemplate]
+FriendlyName="<font color='#CF4517'><b>KC7-32</b></font>"
+FriendlyNamePlural="<font color='#CF4517'><b>KC7-32s</b></font>"
+AbilityDescName="assault rifle"
+BriefSummary="The Colt Canada, formerly known as Diemaco, C7 rifle is a 5.56mm assault rifle developed in conjunction to the Colt Model 715/M16A2 rifle, with some minor changes. The grips and stock are painted green to differinate from the M16A2. The C7 also features a removable carryhandle with a mounting rail underneath. Other than that, it's pretty much identical to the M16 series.\n The barrel of the KC7 was replaced with a custom high frequency barrel, allowing projectiles to travel beyond supersonic speeds, while further decreasing the recoil of the weapon."
+TacticalText="<Bullet/>Type: Assault Rifle\n<Bullet/>Firing Profile: Full-Auto\n<Bullet/>Action: Gas-Operated, Rotating Bolt (direct impingement)\n<Bullet/>Cartridge: 5.56x45mm NATO\n<Bullet/>Origin: United States/Canada\n<Bullet/>Tier: Beam"

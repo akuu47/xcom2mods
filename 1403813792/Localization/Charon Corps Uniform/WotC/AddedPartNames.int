@@ -1,0 +1,130 @@
+[X2DownloadableContentInfo_AddedPartNames]
+
+;
+; REAPER
+;
+
+.TorsoTemplate="CNV_WotC_RPR_MGV_CC_Uniform_Torso_A_M"
+.TorsoName="Charon Corps Uniform - Torso"
+
+.TorsoTemplate="MPL_WotC_RPR_MGV_CC_Uniform_Torso_A_M"
+.TorsoName="Charon Corps Uniform - Torso"
+
+.TorsoTemplate="MPW_WotC_RPR_MGV_CC_Uniform_Torso_A_M"
+.TorsoName="Charon Corps Uniform - Torso"
+
+
+.TorsoTemplate="CNV_WotC_RPR_MGV_CC_Uniform_Torso_A_F"
+.TorsoName="Charon Corps Uniform - Torso"
+
+.TorsoTemplate="MPL_WotC_RPR_MGV_CC_Uniform_Torso_A_F"
+.TorsoName="Charon Corps Uniform - Torso"
+
+.TorsoTemplate="MPW_WotC_RPR_MGV_CC_Uniform_Torso_A_F"
+.TorsoName="Charon Corps Uniform - Torso"
+
+
+.TorsoTemplate="CNV_WotC_RPR_MGV_CC_Uniform_Torso_B_M"
+.TorsoName="Charon Corps Uniform - Torso [Backpack]"
+
+.TorsoTemplate="MPL_WotC_RPR_MGV_CC_Uniform_Torso_B_M"
+.TorsoName="Charon Corps Uniform - Torso [Backpack]"
+
+.TorsoTemplate="MPW_WotC_RPR_MGV_CC_Uniform_Torso_B_M"
+.TorsoName="Charon Corps Uniform - Torso [Backpack]"
+
+
+.TorsoTemplate="CNV_WotC_RPR_MGV_CC_Uniform_Torso_B_F"
+.TorsoName="Charon Corps Uniform - Torso [Backpack]"
+
+.TorsoTemplate="MPL_WotC_RPR_MGV_CC_Uniform_Torso_B_F"
+.TorsoName="Charon Corps Uniform - Torso [Backpack]"
+
+.TorsoTemplate="MPW_WotC_RPR_MGV_CC_Uniform_Torso_B_F"
+.TorsoName="Charon Corps Uniform - Torso [Backpack]"
+
+;
+; SKIRMISHER
+;
+
+.TorsoTemplate="CNV_WotC_SKR_MGV_CC_Uniform_Torso_A_M"
+.TorsoName="Charon Corps Uniform - Torso"
+
+.TorsoTemplate="MPL_WotC_SKR_MGV_CC_Uniform_Torso_A_M"
+.TorsoName="Charon Corps Uniform - Torso"
+
+.TorsoTemplate="MPW_WotC_SKR_MGV_CC_Uniform_Torso_A_M"
+.TorsoName="Charon Corps Uniform - Torso"
+
+
+.TorsoTemplate="CNV_WotC_SKR_MGV_CC_Uniform_Torso_A_F"
+.TorsoName="Charon Corps Uniform - Torso"
+
+.TorsoTemplate="MPL_WotC_SKR_MGV_CC_Uniform_Torso_A_F"
+.TorsoName="Charon Corps Uniform - Torso"
+
+.TorsoTemplate="MPW_WotC_SKR_MGV_CC_Uniform_Torso_A_F"
+.TorsoName="Charon Corps Uniform - Torso"
+
+
+.TorsoTemplate="CNV_WotC_SKR_MGV_CC_Uniform_Torso_B_M"
+.TorsoName="Charon Corps Uniform - Torso [Backpack]"
+
+.TorsoTemplate="MPL_WotC_SKR_MGV_CC_Uniform_Torso_B_M"
+.TorsoName="Charon Corps Uniform - Torso [Backpack]"
+
+.TorsoTemplate="MPW_WotC_SKR_MGV_CC_Uniform_Torso_B_M"
+.TorsoName="Charon Corps Uniform - Torso [Backpack]"
+
+
+.TorsoTemplate="CNV_WotC_SKR_MGV_CC_Uniform_Torso_B_F"
+.TorsoName="Charon Corps Uniform - Torso [Backpack]"
+
+.TorsoTemplate="MPL_WotC_SKR_MGV_CC_Uniform_Torso_B_F"
+.TorsoName="Charon Corps Uniform - Torso [Backpack]"
+
+.TorsoTemplate="MPW_WotC_SKR_MGV_CC_Uniform_Torso_B_F"
+.TorsoName="Charon Corps Uniform - Torso [Backpack]"
+
+;
+; TEMPLAR
+;
+
+.TorsoTemplate="CNV_WotC_TMP_MGV_CC_Uniform_Torso_A_M"
+.TorsoName="Charon Corps Uniform - Torso"
+
+.TorsoTemplate="MPL_WotC_TMP_MGV_CC_Uniform_Torso_A_M"
+.TorsoName="Charon Corps Uniform - Torso"
+
+.TorsoTemplate="MPW_WotC_TMP_MGV_CC_Uniform_Torso_A_M"
+.TorsoName="Charon Corps Uniform - Torso"
+
+
+.TorsoTemplate="CNV_WotC_TMP_MGV_CC_Uniform_Torso_A_F"
+.TorsoName="Charon Corps Uniform - Torso"
+
+.TorsoTemplate="MPL_WotC_TMP_MGV_CC_Uniform_Torso_A_F"
+.TorsoName="Charon Corps Uniform - Torso"
+
+.TorsoTemplate="MPW_WotC_TMP_MGV_CC_Uniform_Torso_A_F"
+.TorsoName="Charon Corps Uniform - Torso"
+
+
+.TorsoTemplate="CNV_WotC_TMP_MGV_CC_Uniform_Torso_B_M"
+.TorsoName="Charon Corps Uniform - Torso [Backpack]"
+
+.TorsoTemplate="MPL_WotC_TMP_MGV_CC_Uniform_Torso_B_M"
+.TorsoName="Charon Corps Uniform - Torso [Backpack]"
+
+.TorsoTemplate="MPW_WotC_TMP_MGV_CC_Uniform_Torso_B_M"
+.TorsoName="Charon Corps Uniform - Torso [Backpack]"
+
+
+.TorsoTemplate="CNV_WotC_TMP_MGV_CC_Uniform_Torso_B_F"
+.TorsoName="Charon Corps Uniform - Torso [Backpack]"
+
+.TorsoTemplate="MPL_WotC_TMP_MGV_CC_Uniform_Torso_B_F"
+.TorsoName="Charon Corps Uniform - Torso [Backpack]"
+
+.TorsoTemplate="MPW_WotC_TMP_MGV_CC_Uniform_Torso_B_F"
+.TorsoName="Charon Corps Uniform - Torso [Backpack]"

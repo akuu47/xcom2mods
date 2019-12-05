@@ -1,0 +1,28 @@
+[mod]
+publishedFileId=619525059
+Title=Custom Face Paints
+Description=A package of custom, handmade facepaints. JUST UPDATED!
+
+Currently contains [b]20 custom facepaints[/b] for your XCOM Soldiers (found under Props/Facepaint), including a "Collar" Option for Helmets.
+
+Eyeliner B and C made by Phnx (thank you!)
+
+Does not require the Resistance Pack DLC. 
+
+I have added an extra "None" Option for those players who do not own the DLC. 
+If you do own the DLC and dislike the duplicate "None" Option, you can go to steamapps\workshop\content\268500\619525059\Config\XComContent.ini and comment the line out by adding a ; at the beginning of the line I marked.
+
+######################################### 
+
+This was mostly for myself to figure out how to get the XCOM2 SDK do what I want, how to get the textures in there etc. 
+
+######################################### 
+
+I might add some more facepaints in the future, if you have any ideas, leave them in the comments please!
+
+######################################### 
+
+If you still have problems with the latest version not being recognized on your save files, [url=http://steamcommunity.com/sharedfiles/filedetails/?id=619141883]please try this mod.[/url]
+While the issue seems fixed for most users, there still seem some savegames that have been messed up by the temporary name problem. I am very sorry for any inconvenience caused, and hope that you can load your savegames again.
+tags= soldier customization, face paint
+

@@ -1,0 +1,132 @@
+[X2DownloadableContentInfo_AddedPartNames]
+
+;
+; SOLDIER
+;
+
+.TorsoTemplate="CNV_WotC_SLD_MGSV_MSF_SneakingSuit_Torso_M"
+.TorsoName="MSF Sneaking Suit - Torso"
+
+.TorsoTemplate="LPL_WotC_SLD_MGSV_MSF_SneakingSuit_Torso_M"
+.TorsoName="MSF Sneaking Suit - Torso"
+
+.TorsoTemplate="MPL_WotC_SLD_MGSV_MSF_SneakingSuit_Torso_M"
+.TorsoName="MSF Sneaking Suit - Torso"
+
+.TorsoTemplate="HPL_WotC_SLD_MGSV_MSF_SneakingSuit_Torso_M"
+.TorsoName="MSF Sneaking Suit - Torso"
+
+.TorsoTemplate="LPW_WotC_SLD_MGSV_MSF_SneakingSuit_Torso_M"
+.TorsoName="MSF Sneaking Suit - Torso"
+
+.TorsoTemplate="MPW_WotC_SLD_MGSV_MSF_SneakingSuit_Torso_M"
+.TorsoName="MSF Sneaking Suit - Torso"
+
+.TorsoTemplate="HPW_WotC_SLD_MGSV_MSF_SneakingSuit_Torso_M"
+.TorsoName="MSF Sneaking Suit - Torso"
+
+
+.TorsoTemplate="CNV_WotC_SLD_MGSV_MSF_SneakingSuit_Torso_F"
+.TorsoName="MSF Sneaking Suit - Torso"
+
+.TorsoTemplate="LPL_WotC_SLD_MGSV_MSF_SneakingSuit_Torso_F"
+.TorsoName="MSF Sneaking Suit - Torso"
+
+.TorsoTemplate="MPL_WotC_SLD_MGSV_MSF_SneakingSuit_Torso_F"
+.TorsoName="MSF Sneaking Suit - Torso"
+
+.TorsoTemplate="HPL_WotC_SLD_MGSV_MSF_SneakingSuit_Torso_F"
+.TorsoName="MSF Sneaking Suit - Torso"
+
+.TorsoTemplate="LPW_WotC_SLD_MGSV_MSF_SneakingSuit_Torso_F"
+.TorsoName="MSF Sneaking Suit - Torso"
+
+.TorsoTemplate="MPW_WotC_SLD_MGSV_MSF_SneakingSuit_Torso_F"
+.TorsoName="MSF Sneaking Suit - Torso"
+
+.TorsoTemplate="HPW_WotC_SLD_MGSV_MSF_SneakingSuit_Torso_F"
+.TorsoName="MSF Sneaking Suit - Torso"
+
+
+
+.TorsoTemplate="CNV_WotC_SLD_MGSV_MSF_SneakingSuit_Torso_Bare_M"
+.TorsoName="MSF Sneaking Suit - Torso [Bare]"
+
+.TorsoTemplate="LPL_WotC_SLD_MGSV_MSF_SneakingSuit_Torso_Bare_M"
+.TorsoName="MSF Sneaking Suit - Torso [Bare]"
+
+.TorsoTemplate="MPL_WotC_SLD_MGSV_MSF_SneakingSuit_Torso_Bare_M"
+.TorsoName="MSF Sneaking Suit - Torso [Bare]"
+
+.TorsoTemplate="HPL_WotC_SLD_MGSV_MSF_SneakingSuit_Torso_Bare_M"
+.TorsoName="MSF Sneaking Suit - Torso [Bare]"
+
+.TorsoTemplate="LPW_WotC_SLD_MGSV_MSF_SneakingSuit_Torso_Bare_M"
+.TorsoName="MSF Sneaking Suit - Torso [Bare]"
+
+.TorsoTemplate="MPW_WotC_SLD_MGSV_MSF_SneakingSuit_Torso_Bare_M"
+.TorsoName="MSF Sneaking Suit - Torso [Bare]"
+
+.TorsoTemplate="HPW_WotC_SLD_MGSV_MSF_SneakingSuit_Torso_Bare_M"
+.TorsoName="MSF Sneaking Suit - Torso [Bare]"
+
+
+.TorsoTemplate="CNV_WotC_SLD_MGSV_MSF_SneakingSuit_Torso_Bare_F"
+.TorsoName="MSF Sneaking Suit - Torso [Bare]"
+
+.TorsoTemplate="LPL_WotC_SLD_MGSV_MSF_SneakingSuit_Torso_Bare_F"
+.TorsoName="MSF Sneaking Suit - Torso [Bare]"
+
+.TorsoTemplate="MPL_WotC_SLD_MGSV_MSF_SneakingSuit_Torso_Bare_F"
+.TorsoName="MSF Sneaking Suit - Torso [Bare]"
+
+.TorsoTemplate="HPL_WotC_SLD_MGSV_MSF_SneakingSuit_Torso_Bare_F"
+.TorsoName="MSF Sneaking Suit - Torso [Bare]"
+
+.TorsoTemplate="LPW_WotC_SLD_MGSV_MSF_SneakingSuit_Torso_Bare_F"
+.TorsoName="MSF Sneaking Suit - Torso [Bare]"
+
+.TorsoTemplate="MPW_WotC_SLD_MGSV_MSF_SneakingSuit_Torso_Bare_F"
+.TorsoName="MSF Sneaking Suit - Torso [Bare]"
+
+.TorsoTemplate="HPW_WotC_SLD_MGSV_MSF_SneakingSuit_Torso_Bare_F"
+.TorsoName="MSF Sneaking Suit - Torso [Bare]"
+
+
+
+.LegsTemplate="CNV_WotC_SLD_MGSV_MSF_SneakingSuit_Legs_M"
+.LegsName="MSF Sneaking Suit - Legs"
+
+.LegsTemplate="LPL_WotC_SLD_MGSV_MSF_SneakingSuit_Legs_M"
+.LegsName="MSF Sneaking Suit - Legs"
+
+.LegsTemplate="MPL_WotC_SLD_MGSV_MSF_SneakingSuit_Legs_M"
+.LegsName="MSF Sneaking Suit - Legs"
+
+.LegsTemplate="HPL_WotC_SLD_MGSV_MSF_SneakingSuit_Legs_M"
+.LegsName="MSF Sneaking Suit - Legs"
+
+.LegsTemplate="LPW_WotC_SLD_MGSV_MSF_SneakingSuit_Legs_M"
+.LegsName="MSF Sneaking Suit - Legs"
+
+.LegsTemplate="MPW_WotC_SLD_MGSV_MSF_SneakingSuit_Legs_M"
+.LegsName="MSF Sneaking Suit - Legs"
+
+
+.LegsTemplate="CNV_WotC_SLD_MGSV_MSF_SneakingSuit_Legs_F"
+.LegsName="MSF Sneaking Suit - Legs"
+
+.LegsTemplate="LPL_WotC_SLD_MGSV_MSF_SneakingSuit_Legs_F"
+.LegsName="MSF Sneaking Suit - Legs"
+
+.LegsTemplate="MPL_WotC_SLD_MGSV_MSF_SneakingSuit_Legs_F"
+.LegsName="MSF Sneaking Suit - Legs"
+
+.LegsTemplate="HPL_WotC_SLD_MGSV_MSF_SneakingSuit_Legs_F"
+.LegsName="MSF Sneaking Suit - Legs"
+
+.LegsTemplate="LPW_WotC_SLD_MGSV_MSF_SneakingSuit_Legs_F"
+.LegsName="MSF Sneaking Suit - Legs"
+
+.LegsTemplate="MPW_WotC_SLD_MGSV_MSF_SneakingSuit_Legs_F"
+.LegsName="MSF Sneaking Suit - Legs"

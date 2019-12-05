@@ -1,0 +1,97 @@
+;
+; Helmets
+;
+
+
+[ALL_WotC_MGSV_DiamondDogs_Helmets_Beret_M X2BodyPartTemplate]
+DisplayName="Diamond Dogs Beret [Primary]"
+
+[ALL_WotC_MGSV_DiamondDogs_Helmets_Beret_F X2BodyPartTemplate]
+DisplayName="Diamond Dogs Beret [Primary]"
+
+[ALL_WotC_MGSV_DiamondDogs_Helmets_Beret_Secondary_M X2BodyPartTemplate]
+DisplayName="Diamond Dogs Beret [Secondary]"
+
+[ALL_WotC_MGSV_DiamondDogs_Helmets_Beret_Secondary_F X2BodyPartTemplate]
+DisplayName="Diamond Dogs Beret [Secondary]"
+
+[ALL_WotC_MGSV_DiamondDogs_FacePropsUpper_NVG_M X2BodyPartTemplate]
+DisplayName="NVG [SP-Headgear Only]"
+
+[ALL_WotC_MGSV_DiamondDogs_FacePropsUpper_NVG_F X2BodyPartTemplate]
+DisplayName="NVG [SP-Headgear Only]"
+
+
+[ALL_WotC_MGSV_DiamondDogs_FacePropsLower_Gasmask_SLEID_M X2BodyPartTemplate]
+DisplayName="Venom Snake's Gasmask"
+
+[ALL_WotC_MGSV_DiamondDogs_FacePropsLower_Gasmask_SLEID_F X2BodyPartTemplate]
+DisplayName="Venom Snake's Gasmask"
+
+
+[ALL_WotC_MGSV_DiamondDogs_FacePropsLower_Gasmask_Alt_M X2BodyPartTemplate]
+DisplayName="Gasmask [No Straps]"
+
+[ALL_WotC_MGSV_DiamondDogs_FacePropsLower_Gasmask_Alt_F X2BodyPartTemplate]
+DisplayName="Gasmask [No Straps]"
+
+
+[ALL_WotC_MGSV_DiamondDogs_FacePropsLower_PhantomCigar_M X2BodyPartTemplate]
+DisplayName="Phantom Cigar"
+
+[ALL_WotC_MGSV_DiamondDogs_FacePropsLower_PhantomCigar_F X2BodyPartTemplate]
+DisplayName="Phantom Cigar"
+
+
+[ALL_WotC_MGSV_DiamondDogs_Helmet_Hood_M X2BodyPartTemplate]
+DisplayName="Diamond Dogs Hood"
+
+[ALL_WotC_MGSV_DiamondDogs_Helmet_Hood_F X2BodyPartTemplate]
+DisplayName="Diamond Dogs Hood"
+
+
+[ALL_WotC_MGSV_DiamondDogs_Helmet_Hood_Gasmask_M X2BodyPartTemplate]
+DisplayName="Diamond Dogs Hood w/Gasmask"
+
+[ALL_WotC_MGSV_DiamondDogs_Helmet_Hood_Gasmask_F X2BodyPartTemplate]
+DisplayName="Diamond Dogs Hood w/Gasmask"
+
+
+[ALL_WotC_MGSV_DiamondDogs_Helmet_Ski_A_M X2BodyPartTemplate]
+DisplayName="Diamond Dogs Balaclava"
+
+[ALL_WotC_MGSV_DiamondDogs_Helmet_Ski_A_F X2BodyPartTemplate]
+DisplayName="Diamond Dogs Balaclava"
+
+[ALL_WotC_MGSV_DiamondDogs_Helmet_Ski_B_M X2BodyPartTemplate]
+DisplayName="Diamond Dogs SP-Headgear"
+
+[ALL_WotC_MGSV_DiamondDogs_Helmet_Ski_B_F X2BodyPartTemplate]
+DisplayName="Diamond Dogs SP-Headgear"
+
+[ALL_WotC_MGSV_DiamondDogs_Helmet_Ski_C_M X2BodyPartTemplate]
+DisplayName="Diamond Dogs HP-Headgear"
+
+[ALL_WotC_MGSV_DiamondDogs_Helmet_Ski_C_F X2BodyPartTemplate]
+DisplayName="Diamond Dogs HP-Headgear"
+
+
+[ALL_WotC_MGSV_DiamondDogs_Helmet_Ski_A_Gasmask_M X2BodyPartTemplate]
+DisplayName="Diamond Dogs Balaclava w/Gasmask"
+
+[ALL_WotC_MGSV_DiamondDogs_Helmet_Ski_A_Gasmask_F X2BodyPartTemplate]
+DisplayName="Diamond Dogs Balaclava w/Gasmask"
+
+
+[ALL_WotC_MGSV_DiamondDogs_Helmet_Ski_B_Gasmask_M X2BodyPartTemplate]
+DisplayName="Diamond Dogs SP-Headgear w/Gasmask"
+
+[ALL_WotC_MGSV_DiamondDogs_Helmet_Ski_B_Gasmask_F X2BodyPartTemplate]
+DisplayName="Diamond Dogs SP-Headgear w/Gasmask"
+
+
+[ALL_WotC_MGSV_DiamondDogs_Helmet_Ski_C_Gasmask_M X2BodyPartTemplate]
+DisplayName="Diamond Dogs HP-Headgear w/Gasmask"
+
+[ALL_WotC_MGSV_DiamondDogs_Helmet_Ski_C_Gasmask_F X2BodyPartTemplate]
+DisplayName="Diamond Dogs HP-Headgear w/Gasmask"

@@ -1,0 +1,362 @@
+[X2DownloadableContentInfo_AddedPartNames]
+
+.TorsoTemplate="CNV_WotC_SLD_SCB_SneakingSuit_Torso_Default_M"
+.TorsoName="SC: Blacklist - Sneaking Suit - Torso [Default]"
+
+.TorsoTemplate="LPL_WotC_SLD_SCB_SneakingSuit_Torso_Default_M"
+.TorsoName="SC: Blacklist - Sneaking Suit - Torso [Default]"
+
+.TorsoTemplate="MPL_WotC_SLD_SCB_SneakingSuit_Torso_Default_M"
+.TorsoName="SC: Blacklist - Sneaking Suit - Torso [Default]"
+
+.TorsoTemplate="HPL_WotC_SLD_SCB_SneakingSuit_Torso_Default_M"
+.TorsoName="SC: Blacklist - Sneaking Suit - Torso [Default]"
+
+.TorsoTemplate="LPW_WotC_SLD_SCB_SneakingSuit_Torso_Default_M"
+.TorsoName="SC: Blacklist - Sneaking Suit - Torso [Default]"
+
+.TorsoTemplate="MPW_WotC_SLD_SCB_SneakingSuit_Torso_Default_M"
+.TorsoName="SC: Blacklist - Sneaking Suit - Torso [Default]"
+
+.TorsoTemplate="HPW_WotC_SLD_SCB_SneakingSuit_Torso_Default_M"
+.TorsoName="SC: Blacklist - Sneaking Suit - Torso [Default]"
+
+
+.TorsoTemplate="CNV_WotC_SLD_SCB_SneakingSuit_Torso_Default_F"
+.TorsoName="SC: Blacklist - Sneaking Suit - Torso [Default]"
+
+.TorsoTemplate="LPL_WotC_SLD_SCB_SneakingSuit_Torso_Default_F"
+.TorsoName="SC: Blacklist - Sneaking Suit - Torso [Default]"
+
+.TorsoTemplate="MPL_WotC_SLD_SCB_SneakingSuit_Torso_Default_F"
+.TorsoName="SC: Blacklist - Sneaking Suit - Torso [Default]"
+
+.TorsoTemplate="HPL_WotC_SLD_SCB_SneakingSuit_Torso_Default_F"
+.TorsoName="SC: Blacklist - Sneaking Suit - Torso [Default]"
+
+.TorsoTemplate="LPW_WotC_SLD_SCB_SneakingSuit_Torso_Default_F"
+.TorsoName="SC: Blacklist - Sneaking Suit - Torso [Default]"
+
+.TorsoTemplate="MPW_WotC_SLD_SCB_SneakingSuit_Torso_Default_F"
+.TorsoName="SC: Blacklist - Sneaking Suit - Torso [Default]"
+
+.TorsoTemplate="HPW_WotC_SLD_SCB_SneakingSuit_Torso_Default_F"
+.TorsoName="SC: Blacklist - Sneaking Suit - Torso [Default]"
+
+
+
+.TorsoTemplate="CNV_WotC_SLD_SCB_SneakingSuit_Torso_Cust_M"
+.TorsoName="SC: Blacklist - Sneaking Suit - Torso [Tintable]"
+
+.TorsoTemplate="LPL_WotC_SLD_SCB_SneakingSuit_Torso_Cust_M"
+.TorsoName="SC: Blacklist - Sneaking Suit - Torso [Tintable]"
+
+.TorsoTemplate="MPL_WotC_SLD_SCB_SneakingSuit_Torso_Cust_M"
+.TorsoName="SC: Blacklist - Sneaking Suit - Torso [Tintable]"
+
+.TorsoTemplate="HPL_WotC_SLD_SCB_SneakingSuit_Torso_Cust_M"
+.TorsoName="SC: Blacklist - Sneaking Suit - Torso [Tintable]"
+
+.TorsoTemplate="LPW_WotC_SLD_SCB_SneakingSuit_Torso_Cust_M"
+.TorsoName="SC: Blacklist - Sneaking Suit - Torso [Tintable]"
+
+.TorsoTemplate="MPW_WotC_SLD_SCB_SneakingSuit_Torso_Cust_M"
+.TorsoName="SC: Blacklist - Sneaking Suit - Torso [Tintable]"
+
+.TorsoTemplate="HPW_WotC_SLD_SCB_SneakingSuit_Torso_Cust_M"
+.TorsoName="SC: Blacklist - Sneaking Suit - Torso [Tintable]"
+
+
+.TorsoTemplate="CNV_WotC_SLD_SCB_SneakingSuit_Torso_Cust_F"
+.TorsoName="SC: Blacklist - Sneaking Suit - Torso [Tintable]"
+
+.TorsoTemplate="LPL_WotC_SLD_SCB_SneakingSuit_Torso_Cust_F"
+.TorsoName="SC: Blacklist - Sneaking Suit - Torso [Tintable]"
+
+.TorsoTemplate="MPL_WotC_SLD_SCB_SneakingSuit_Torso_Cust_F"
+.TorsoName="SC: Blacklist - Sneaking Suit - Torso [Tintable]"
+
+.TorsoTemplate="HPL_WotC_SLD_SCB_SneakingSuit_Torso_Cust_F"
+.TorsoName="SC: Blacklist - Sneaking Suit - Torso [Tintable]"
+
+.TorsoTemplate="LPW_WotC_SLD_SCB_SneakingSuit_Torso_Cust_F"
+.TorsoName="SC: Blacklist - Sneaking Suit - Torso [Tintable]"
+
+.TorsoTemplate="MPW_WotC_SLD_SCB_SneakingSuit_Torso_Cust_F"
+.TorsoName="SC: Blacklist - Sneaking Suit - Torso [Tintable]"
+
+.TorsoTemplate="HPW_WotC_SLD_SCB_SneakingSuit_Torso_Cust_F"
+.TorsoName="SC: Blacklist - Sneaking Suit - Torso [Tintable]"
+
+
+.LegsTemplate="CNV_WotC_SLD_SCB_SneakingSuit_Legs_Default_M"
+.LegsName="SC: Blacklist - Sneaking Suit - Legs [Default]"
+
+.LegsTemplate="LPL_WotC_SLD_SCB_SneakingSuit_Legs_Default_M"
+.LegsName="SC: Blacklist - Sneaking Suit - Legs [Default]"
+
+.LegsTemplate="MPL_WotC_SLD_SCB_SneakingSuit_Legs_Default_M"
+.LegsName="SC: Blacklist - Sneaking Suit - Legs [Default]"
+
+.LegsTemplate="HPL_WotC_SLD_SCB_SneakingSuit_Legs_Default_M"
+.LegsName="SC: Blacklist - Sneaking Suit - Legs [Default]"
+
+.LegsTemplate="LPW_WotC_SLD_SCB_SneakingSuit_Legs_Default_M"
+.LegsName="SC: Blacklist - Sneaking Suit - Legs [Default]"
+
+.LegsTemplate="MPW_WotC_SLD_SCB_SneakingSuit_Legs_Default_M"
+.LegsName="SC: Blacklist - Sneaking Suit - Legs [Default]"
+
+.LegsTemplate="HPW_WotC_SLD_SCB_SneakingSuit_Legs_Default_M"
+.LegsName="SC: Blacklist - Sneaking Suit - Legs [Default]"
+
+.LegsTemplate="CNV_WotC_SLD_SCB_SneakingSuit_Legs_Default_F"
+.LegsName="SC: Blacklist - Sneaking Suit - Legs [Default]"
+
+.LegsTemplate="LPL_WotC_SLD_SCB_SneakingSuit_Legs_Default_F"
+.LegsName="SC: Blacklist - Sneaking Suit - Legs [Default]"
+
+.LegsTemplate="MPL_WotC_SLD_SCB_SneakingSuit_Legs_Default_F"
+.LegsName="SC: Blacklist - Sneaking Suit - Legs [Default]"
+
+.LegsTemplate="HPL_WotC_SLD_SCB_SneakingSuit_Legs_Default_F"
+.LegsName="SC: Blacklist - Sneaking Suit - Legs [Default]"
+
+.LegsTemplate="LPW_WotC_SLD_SCB_SneakingSuit_Legs_Default_F"
+.LegsName="SC: Blacklist - Sneaking Suit - Legs [Default]"
+
+.LegsTemplate="MPW_WotC_SLD_SCB_SneakingSuit_Legs_Default_F"
+.LegsName="SC: Blacklist - Sneaking Suit - Legs [Default]"
+
+.LegsTemplate="HPW_WotC_SLD_SCB_SneakingSuit_Legs_Default_F"
+.LegsName="SC: Blacklist - Sneaking Suit - Legs [Default]"
+
+
+.LegsTemplate="CNV_WotC_SLD_SCB_SneakingSuit_Legs_Cust_M"
+.LegsName="SC: Blacklist - Sneaking Suit - Legs [Tintable]"
+
+.LegsTemplate="LPL_WotC_SLD_SCB_SneakingSuit_Legs_Cust_M"
+.LegsName="SC: Blacklist - Sneaking Suit - Legs [Tintable]"
+
+.LegsTemplate="MPL_WotC_SLD_SCB_SneakingSuit_Legs_Cust_M"
+.LegsName="SC: Blacklist - Sneaking Suit - Legs [Tintable]"
+
+.LegsTemplate="HPL_WotC_SLD_SCB_SneakingSuit_Legs_Cust_M"
+.LegsName="SC: Blacklist - Sneaking Suit - Legs [Tintable]"
+
+.LegsTemplate="LPW_WotC_SLD_SCB_SneakingSuit_Legs_Cust_M"
+.LegsName="SC: Blacklist - Sneaking Suit - Legs [Tintable]"
+
+.LegsTemplate="MPW_WotC_SLD_SCB_SneakingSuit_Legs_Cust_M"
+.LegsName="SC: Blacklist - Sneaking Suit - Legs [Tintable]"
+
+.LegsTemplate="HPW_WotC_SLD_SCB_SneakingSuit_Legs_Cust_M"
+.LegsName="SC: Blacklist - Sneaking Suit - Legs [Tintable]"
+
+.LegsTemplate="CNV_WotC_SLD_SCB_SneakingSuit_Legs_Cust_F"
+.LegsName="SC: Blacklist - Sneaking Suit - Legs [Tintable]"
+
+.LegsTemplate="LPL_WotC_SLD_SCB_SneakingSuit_Legs_Cust_F"
+.LegsName="SC: Blacklist - Sneaking Suit - Legs [Tintable]"
+
+.LegsTemplate="MPL_WotC_SLD_SCB_SneakingSuit_Legs_Cust_F"
+.LegsName="SC: Blacklist - Sneaking Suit - Legs [Tintable]"
+
+.LegsTemplate="HPL_WotC_SLD_SCB_SneakingSuit_Legs_Cust_F"
+.LegsName="SC: Blacklist - Sneaking Suit - Legs [Tintable]"
+
+.LegsTemplate="LPW_WotC_SLD_SCB_SneakingSuit_Legs_Cust_F"
+.LegsName="SC: Blacklist - Sneaking Suit - Legs [Tintable]"
+
+.LegsTemplate="MPW_WotC_SLD_SCB_SneakingSuit_Legs_Cust_F"
+.LegsName="SC: Blacklist - Sneaking Suit - Legs [Tintable]"
+
+.LegsTemplate="HPW_WotC_SLD_SCB_SneakingSuit_Legs_Cust_F"
+.LegsName="SC: Blacklist - Sneaking Suit - Legs [Tintable]"
+
+;
+;Reaper Soldier Cosmetics
+;
+
+
+.TorsoTemplate="CNV_WotC_RPR_SCB_SneakingSuit_Torso_Default_M"
+.TorsoName="SC: Blacklist - Sneaking Suit - Torso [Default]"
+
+.TorsoTemplate="MPL_WotC_RPR_SCB_SneakingSuit_Torso_Default_M"
+.TorsoName="SC: Blacklist - Sneaking Suit - Torso [Default]"
+
+.TorsoTemplate="MPW_WotC_RPR_SCB_SneakingSuit_Torso_Default_M"
+.TorsoName="SC: Blacklist - Sneaking Suit - Torso [Default]"
+
+
+.TorsoTemplate="CNV_WotC_RPR_SCB_SneakingSuit_Torso_Default_F"
+.TorsoName="SC: Blacklist - Sneaking Suit - Torso [Default]"
+
+.TorsoTemplate="MPL_WotC_RPR_SCB_SneakingSuit_Torso_Default_F"
+.TorsoName="SC: Blacklist - Sneaking Suit - Torso [Default]"
+
+.TorsoTemplate="MPW_WotC_RPR_SCB_SneakingSuit_Torso_Default_F"
+.TorsoName="SC: Blacklist - Sneaking Suit - Torso [Default]"
+
+
+
+.TorsoTemplate="CNV_WotC_RPR_SCB_SneakingSuit_Torso_Cust_M"
+.TorsoName="SC: Blacklist - Sneaking Suit - Torso [Tintable]"
+
+.TorsoTemplate="MPL_WotC_RPR_SCB_SneakingSuit_Torso_Cust_M"
+.TorsoName="SC: Blacklist - Sneaking Suit - Torso [Tintable]"
+
+.TorsoTemplate="MPW_WotC_RPR_SCB_SneakingSuit_Torso_Cust_M"
+.TorsoName="SC: Blacklist - Sneaking Suit - Torso [Tintable]"
+
+
+.TorsoTemplate="CNV_WotC_RPR_SCB_SneakingSuit_Torso_Cust_F"
+.TorsoName="SC: Blacklist - Sneaking Suit - Torso [Tintable]"
+
+.TorsoTemplate="MPL_WotC_RPR_SCB_SneakingSuit_Torso_Cust_F"
+.TorsoName="SC: Blacklist - Sneaking Suit - Torso [Tintable]"
+
+.TorsoTemplate="MPW_WotC_RPR_SCB_SneakingSuit_Torso_Cust_F"
+.TorsoName="SC: Blacklist - Sneaking Suit - Torso [Tintable]"
+
+
+.LegsTemplate="CNV_WotC_RPR_SCB_SneakingSuit_Legs_Default_M"
+.LegsName="SC: Blacklist - Sneaking Suit - Legs [Default]"
+
+.LegsTemplate="CNV_WotC_RPR_SCB_SneakingSuit_Legs_Default_F"
+.LegsName="SC: Blacklist - Sneaking Suit - Legs [Default]"
+
+
+.LegsTemplate="CNV_WotC_RPR_SCB_SneakingSuit_Legs_Cust_M"
+.LegsName="SC: Blacklist - Sneaking Suit - Legs [Tintable]"
+
+.LegsTemplate="CNV_WotC_RPR_SCB_SneakingSuit_Legs_Cust_F"
+.LegsName="SC: Blacklist - Sneaking Suit - Legs [Tintable]"
+
+
+;
+;Skirmisher Soldier Cosmetics
+;
+
+.TorsoTemplate="CNV_WotC_SKR_SCB_SneakingSuit_Torso_Default_M"
+.TorsoName="SC: Blacklist - Sneaking Suit - Torso [Default]"
+
+.TorsoTemplate="MPL_WotC_SKR_SCB_SneakingSuit_Torso_Default_M"
+.TorsoName="SC: Blacklist - Sneaking Suit - Torso [Default]"
+
+.TorsoTemplate="MPW_WotC_SKR_SCB_SneakingSuit_Torso_Default_M"
+.TorsoName="SC: Blacklist - Sneaking Suit - Torso [Default]"
+
+
+.TorsoTemplate="CNV_WotC_SKR_SCB_SneakingSuit_Torso_Default_F"
+.TorsoName="SC: Blacklist - Sneaking Suit - Torso [Default]"
+
+.TorsoTemplate="MPL_WotC_SKR_SCB_SneakingSuit_Torso_Default_F"
+.TorsoName="SC: Blacklist - Sneaking Suit - Torso [Default]"
+
+.TorsoTemplate="MPW_WotC_SKR_SCB_SneakingSuit_Torso_Default_F"
+.TorsoName="SC: Blacklist - Sneaking Suit - Torso [Default]"
+
+
+
+.TorsoTemplate="CNV_WotC_SKR_SCB_SneakingSuit_Torso_Cust_M"
+.TorsoName="SC: Blacklist - Sneaking Suit - Torso [Tintable]"
+
+.TorsoTemplate="MPL_WotC_SKR_SCB_SneakingSuit_Torso_Cust_M"
+.TorsoName="SC: Blacklist - Sneaking Suit - Torso [Tintable]"
+
+.TorsoTemplate="MPW_WotC_SKR_SCB_SneakingSuit_Torso_Cust_M"
+.TorsoName="SC: Blacklist - Sneaking Suit - Torso [Tintable]"
+
+
+.TorsoTemplate="CNV_WotC_SKR_SCB_SneakingSuit_Torso_Cust_F"
+.TorsoName="SC: Blacklist - Sneaking Suit - Torso [Tintable]"
+
+.TorsoTemplate="MPL_WotC_SKR_SCB_SneakingSuit_Torso_Cust_F"
+.TorsoName="SC: Blacklist - Sneaking Suit - Torso [Tintable]"
+
+.TorsoTemplate="MPW_WotC_SKR_SCB_SneakingSuit_Torso_Cust_F"
+.TorsoName="SC: Blacklist - Sneaking Suit - Torso [Tintable]"
+
+
+.LegsTemplate="CNV_WotC_SKR_SCB_SneakingSuit_Legs_Default_M"
+.LegsName="SC: Blacklist - Sneaking Suit - Legs [Default]"
+
+.LegsTemplate="CNV_WotC_SKR_SCB_SneakingSuit_Legs_Default_F"
+.LegsName="SC: Blacklist - Sneaking Suit - Legs [Default]"
+
+
+.LegsTemplate="CNV_WotC_SKR_SCB_SneakingSuit_Legs_Cust_M"
+.LegsName="SC: Blacklist - Sneaking Suit - Legs [Tintable]"
+
+.LegsTemplate="CNV_WotC_SKR_SCB_SneakingSuit_Legs_Cust_F"
+.LegsName="SC: Blacklist - Sneaking Suit - Legs [Tintable]"
+
+
+;
+;Templar Soldier Cosmetics
+;
+
+.TorsoTemplate="CNV_WotC_TMP_SCB_SneakingSuit_Torso_Default_M"
+.TorsoName="SC: Blacklist - Sneaking Suit - Torso [Default]"
+
+.TorsoTemplate="MPL_WotC_TMP_SCB_SneakingSuit_Torso_Default_M"
+.TorsoName="SC: Blacklist - Sneaking Suit - Torso [Default]"
+
+.TorsoTemplate="MPW_WotC_TMP_SCB_SneakingSuit_Torso_Default_M"
+.TorsoName="SC: Blacklist - Sneaking Suit - Torso [Default]"
+
+
+.TorsoTemplate="CNV_WotC_TMP_SCB_SneakingSuit_Torso_Default_F"
+.TorsoName="SC: Blacklist - Sneaking Suit - Torso [Default]"
+
+.TorsoTemplate="MPL_WotC_TMP_SCB_SneakingSuit_Torso_Default_F"
+.TorsoName="SC: Blacklist - Sneaking Suit - Torso [Default]"
+
+.TorsoTemplate="MPW_WotC_TMP_SCB_SneakingSuit_Torso_Default_F"
+.TorsoName="SC: Blacklist - Sneaking Suit - Torso [Default]"
+
+
+
+.TorsoTemplate="CNV_WotC_TMP_SCB_SneakingSuit_Torso_Cust_M"
+.TorsoName="SC: Blacklist - Sneaking Suit - Torso [Tintable]"
+
+.TorsoTemplate="MPL_WotC_TMP_SCB_SneakingSuit_Torso_Cust_M"
+.TorsoName="SC: Blacklist - Sneaking Suit - Torso [Tintable]"
+
+.TorsoTemplate="MPW_WotC_TMP_SCB_SneakingSuit_Torso_Cust_M"
+.TorsoName="SC: Blacklist - Sneaking Suit - Torso [Tintable]"
+
+
+.TorsoTemplate="CNV_WotC_TMP_SCB_SneakingSuit_Torso_Cust_F"
+.TorsoName="SC: Blacklist - Sneaking Suit - Torso [Tintable]"
+
+.TorsoTemplate="MPL_WotC_TMP_SCB_SneakingSuit_Torso_Cust_F"
+.TorsoName="SC: Blacklist - Sneaking Suit - Torso [Tintable]"
+
+.TorsoTemplate="MPW_WotC_TMP_SCB_SneakingSuit_Torso_Cust_F"
+.TorsoName="SC: Blacklist - Sneaking Suit - Torso [Tintable]"
+
+.TorsoTemplate="CNV_WotC_TMP_SCB_SneakingSuit_Torso_Cust_F"
+.TorsoName="SC: Blacklist - Sneaking Suit - Torso [Tintable]"
+
+.TorsoTemplate="MPL_WotC_TMP_SCB_SneakingSuit_Torso_Cust_F"
+.TorsoName="SC: Blacklist - Sneaking Suit - Torso [Tintable]"
+
+.TorsoTemplate="MPW_WotC_TMP_SCB_SneakingSuit_Torso_Cust_F"
+.TorsoName="SC: Blacklist - Sneaking Suit - Torso [Tintable]"
+
+
+.LegsTemplate="CNV_WotC_TMP_SCB_SneakingSuit_Legs_Default_M"
+.LegsName="SC: Blacklist - Sneaking Suit - Legs [Default]"
+
+.LegsTemplate="CNV_WotC_TMP_SCB_SneakingSuit_Legs_Default_F"
+.LegsName="SC: Blacklist - Sneaking Suit - Legs [Default]"
+
+
+.LegsTemplate="CNV_WotC_TMP_SCB_SneakingSuit_Legs_Cust_M"
+.LegsName="SC: Blacklist - Sneaking Suit - Legs [Tintable]"
+
+.LegsTemplate="CNV_WotC_TMP_SCB_SneakingSuit_Legs_Cust_F"
+.LegsName="SC: Blacklist - Sneaking Suit - Legs [Tintable]"
+

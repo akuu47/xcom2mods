@@ -1,0 +1,41 @@
+[TC_WOTC_MWR_M4A1_S_T1 X2WeaponTemplate]
+FriendlyName="<font color='#ECECEC'><b>M4A1 SOPMOD</b></font>"
+FriendlyNamePlural="<font color='#ECECEC'><b>M4A1s with a SOPMOD kit installed</b></font>"
+AbilityDescName="assault carbine"
+BriefSummary="The M4A1 is a 5.56x45mm assault rifle derived from the XM177 Commando; this one having the SOPMOD kit installed. It's actually shorter than the M16A2 rifle, with 80% parts interchangability. The other 20% that's not interchangable with the M16A2 is the barrel, gas tube, and the buffer spring. Just like every other M16 rifles, the M4 can accept a wide variety of attachments, including those that can mount to a Picatinny rail. This version is the Carbine, meaning that it can only fire in semi-auto or full-auto mode."
+TacticalText="<Bullet/>Type: Assault Carbine\n<Bullet/>Firing Profile: Full-Auto\n<Bullet/>Action: Gas-Operated, Rotating Bolt (direct impingement)\n<Bullet/>Cartridge: 5.56x45mm NATO\n<Bullet/>Origin: United States\n<Bullet/>Tier: Conventional."
+
+[TC_WOTC_MWR_M4A1_S_T2 X2WeaponTemplate]
+FriendlyName="<font color='#27AAE1'><b>MRS-4C1</b></font>"
+FriendlyNamePlural="<font color='#27AAE1'><b>MRS-4C1s</b></font>"
+AbilityDescName="assault carbine"
+BriefSummary="The M4A1 is a 5.56x45mm assault rifle derived from the XM177 Commando; this one having the SOPMOD kit installed. It's actually shorter than the M16A2 rifle, with 80% parts interchangability. The other 20% that's not interchangable with the M16A2 is the barrel, gas tube, and the buffer spring. Just like every other M16 rifles, the M4 can accept a wide variety of attachments, including those that can mount to a Picatinny rail. This version is the Carbine, meaning that it can only fire in semi-auto or full-auto mode.\n The M4A1 Custom is an upgraded version of its conventional counterpart. The gas-operated system is replaced with a newer, magnetic pulser, allowing bullets to travel beyond supersonic speeds, and able to puncture weak alien alloys. Most of the parts are replaced with a stronger material made from Alien Alloy, to prevent the weapon from warping under extreme conditions."
+TacticalText="<Bullet/>Type: Assault Carbine\n<Bullet/>Firing Profile: Full-Auto\n<Bullet/>Action: Gas-Operated, Rotating Bolt (direct impingement)\n<Bullet/>Cartridge: 5.56x45mm NATO\n<Bullet/>Origin: United States\n<Bullet/>Tier: Magnetic."
+
+[TC_WOTC_MWR_M4A1_S_T3 X2WeaponTemplate]
+FriendlyName="<font color='#CF4517'><b>NV4/I01</b></font>"
+FriendlyNamePlural="<font color='#CF4517'><b>NV4/I01</b></font>"
+AbilityDescName="assault carbine"
+BriefSummary="The M4A1 is a 5.56x45mm assault rifle derived from the XM177 Commando; this one having the SOPMOD kit installed. It's actually shorter than the M16A2 rifle, with 80% parts interchangability. The other 20% that's not interchangable with the M16A2 is the barrel, gas tube, and the buffer spring. Just like every other M16 rifles, the M4 can accept a wide variety of attachments, including those that can mount to a Picatinny rail. This version is the Carbine, meaning that it can only fire in semi-auto or full-auto mode.\n The NV4/I01 Modular Weapon System rifle is a drastic improvement over the older models of its family. The magnetic pulser is upgraded with a new technology that we dub, 'extreme harmonics'. With this tech, the bullets' vibrate after leaving the weapon in order to puncture even the toughest armors that the aliens carry."
+TacticalText="<Bullet/>Type: Assault Carbine\n<Bullet/>Firing Profile: Full-Auto\n<Bullet/>Action: Gas-Operated, Rotating Bolt (direct impingement)\n<Bullet/>Cartridge: 5.56x45mm NATO\n<Bullet/>Origin: United States\n<Bullet/>Tier: Beam."
+
+[TC_WOTC_SKR_MWR_M4A1_S_T1 X2WeaponTemplate]
+FriendlyName="<font color='#ECECEC'><b>M4A1 SOPMOD</b></font>"
+FriendlyNamePlural="<font color='#ECECEC'><b>M4A1s with a SOPMOD kit installed</b></font>"
+AbilityDescName="assault carbine"
+BriefSummary="The M4A1 is a 5.56x45mm assault rifle derived from the XM177 Commando; this one having the SOPMOD kit installed. It's actually shorter than the M16A2 rifle, with 80% parts interchangability. The other 20% that's not interchangable with the M16A2 is the barrel, gas tube, and the buffer spring. Just like every other M16 rifles, the M4 can accept a wide variety of attachments, including those that can mount to a Picatinny rail. This version is the Carbine, meaning that it can only fire in semi-auto or full-auto mode."
+TacticalText="<Bullet/>Type: Assault Carbine\n<Bullet/>Firing Profile: Full-Auto\n<Bullet/>Action: Gas-Operated, Rotating Bolt (direct impingement)\n<Bullet/>Cartridge: 5.56x45mm NATO\n<Bullet/>Origin: United States\n<Bullet/>Tier: Conventional."
+
+[TC_WOTC_SKR_MWR_M4A1_S_T2 X2WeaponTemplate]
+FriendlyName="<font color='#27AAE1'><b>MRS-4C1</b></font>"
+FriendlyNamePlural="<font color='#27AAE1'><b>MRS-4C1s</b></font>"
+AbilityDescName="assault carbine"
+BriefSummary="The M4A1 is a 5.56x45mm assault rifle derived from the XM177 Commando; this one having the SOPMOD kit installed. It's actually shorter than the M16A2 rifle, with 80% parts interchangability. The other 20% that's not interchangable with the M16A2 is the barrel, gas tube, and the buffer spring. Just like every other M16 rifles, the M4 can accept a wide variety of attachments, including those that can mount to a Picatinny rail. This version is the Carbine, meaning that it can only fire in semi-auto or full-auto mode.\n The M4A1 Custom is an upgraded version of its conventional counterpart. The gas-operated system is replaced with a newer, magnetic pulser, allowing bullets to travel beyond supersonic speeds, and able to puncture weak alien alloys. Most of the parts are replaced with a stronger material made from Alien Alloy, to prevent the weapon from warping under extreme conditions."
+TacticalText="<Bullet/>Type: Assault Carbine\n<Bullet/>Firing Profile: Full-Auto\n<Bullet/>Action: Gas-Operated, Rotating Bolt (direct impingement)\n<Bullet/>Cartridge: 5.56x45mm NATO\n<Bullet/>Origin: United States\n<Bullet/>Tier: Magnetic."
+
+[TC_WOTC_SKR_MWR_M4A1_S_T3 X2WeaponTemplate]
+FriendlyName="<font color='#CF4517'><b>NV4/I01</b></font>"
+FriendlyNamePlural="<font color='#CF4517'><b>NV4/I01</b></font>"
+AbilityDescName="assault carbine"
+BriefSummary="The M4A1 is a 5.56x45mm assault rifle derived from the XM177 Commando; this one having the SOPMOD kit installed. It's actually shorter than the M16A2 rifle, with 80% parts interchangability. The other 20% that's not interchangable with the M16A2 is the barrel, gas tube, and the buffer spring. Just like every other M16 rifles, the M4 can accept a wide variety of attachments, including those that can mount to a Picatinny rail. This version is the Carbine, meaning that it can only fire in semi-auto or full-auto mode.\n The NV4/I01 Modular Weapon System rifle is a drastic improvement over the older models of its family. The magnetic pulser is upgraded with a new technology that we dub, 'extreme harmonics'. With this tech, the bullets' vibrate after leaving the weapon in order to puncture even the toughest armors that the aliens carry."
+TacticalText="<Bullet/>Type: Assault Carbine\n<Bullet/>Firing Profile: Full-Auto\n<Bullet/>Action: Gas-Operated, Rotating Bolt (direct impingement)\n<Bullet/>Cartridge: 5.56x45mm NATO\n<Bullet/>Origin: United States\n<Bullet/>Tier: Beam."

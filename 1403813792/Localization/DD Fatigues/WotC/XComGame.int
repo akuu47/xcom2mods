@@ -1,0 +1,776 @@
+
+; ============================================================================================================================
+;
+;	Reaper
+;
+; ============================================================================================================================
+
+;
+; Left Arm
+;
+
+
+[CNV_WotC_RPR_MGSV_DD_Fatigues_Arm_Left_A_M X2BodyPartTemplate]
+DisplayName="DD Uniform - Left Arm"
+
+[MPL_WotC_RPR_MGSV_DD_Fatigues_Arm_Left_A_M X2BodyPartTemplate]
+DisplayName="DD Uniform - Left Arm"
+
+[MPW_WotC_RPR_MGSV_DD_Fatigues_Arm_Left_A_M X2BodyPartTemplate]
+DisplayName="DD Uniform - Left Arm"
+
+
+[CNV_WotC_RPR_MGSV_DD_Fatigues_Arm_Left_A_F X2BodyPartTemplate]
+DisplayName="DD Uniform - Left Arm"
+
+[MPL_WotC_RPR_MGSV_DD_Fatigues_Arm_Left_A_F X2BodyPartTemplate]
+DisplayName="DD Uniform - Left Arm"
+
+[MPW_WotC_RPR_MGSV_DD_Fatigues_Arm_Left_A_F X2BodyPartTemplate]
+DisplayName="DD Uniform - Left Arm"
+
+
+[CNV_WotC_RPR_MGSV_DD_Fatigues_Arm_Left_B1_M X2BodyPartTemplate]
+DisplayName="DD Uniform - Left Arm [Rolled-Up Sleeve]"
+
+[MPL_WotC_RPR_MGSV_DD_Fatigues_Arm_Left_B1_M X2BodyPartTemplate]
+DisplayName="DD Uniform - Left Arm [Rolled-Up Sleeve]"
+
+[MPW_WotC_RPR_MGSV_DD_Fatigues_Arm_Left_B1_M X2BodyPartTemplate]
+DisplayName="DD Uniform - Left Arm [Rolled-Up Sleeve]"
+
+
+[CNV_WotC_RPR_MGSV_DD_Fatigues_Arm_Left_B1_F X2BodyPartTemplate]
+DisplayName="DD Uniform - Left Arm [Rolled-Up Sleeve]"
+
+[MPL_WotC_RPR_MGSV_DD_Fatigues_Arm_Left_B1_F X2BodyPartTemplate]
+DisplayName="DD Uniform - Left Arm [Rolled-Up Sleeve]"
+
+[MPW_WotC_RPR_MGSV_DD_Fatigues_Arm_Left_B1_F X2BodyPartTemplate]
+DisplayName="DD Uniform - Left Arm [Rolled-Up Sleeve]"
+
+
+[CNV_WotC_RPR_MGSV_DD_Fatigues_Arm_Left_B2_M X2BodyPartTemplate]
+DisplayName="DD Uniform - Left Arm [Rolled-Up Sleeve][No Gloves]"
+
+[MPL_WotC_RPR_MGSV_DD_Fatigues_Arm_Left_B2_M X2BodyPartTemplate]
+DisplayName="DD Uniform - Left Arm [Rolled-Up Sleeve][No Gloves]"
+
+[MPW_WotC_RPR_MGSV_DD_Fatigues_Arm_Left_B2_M X2BodyPartTemplate]
+DisplayName="DD Uniform - Left Arm [Rolled-Up Sleeve][No Gloves]"
+
+
+[CNV_WotC_RPR_MGSV_DD_Fatigues_Arm_Left_B2_F X2BodyPartTemplate]
+DisplayName="DD Uniform - Left Arm [Rolled-Up Sleeve][No Gloves]"
+
+[MPL_WotC_RPR_MGSV_DD_Fatigues_Arm_Left_B2_F X2BodyPartTemplate]
+DisplayName="DD Uniform - Left Arm [Rolled-Up Sleeve][No Gloves]"
+
+[MPW_WotC_RPR_MGSV_DD_Fatigues_Arm_Left_B2_F X2BodyPartTemplate]
+DisplayName="DD Uniform - Left Arm [Rolled-Up Sleeve][No Gloves]"
+
+
+[CNV_WotC_RPR_MGSV_DD_Fatigues_Arm_Left_C_M X2BodyPartTemplate]
+DisplayName="DD Uniform - Left Arm [Bracer]"
+
+[MPL_WotC_RPR_MGSV_DD_Fatigues_Arm_Left_C_M X2BodyPartTemplate]
+DisplayName="DD Uniform - Left Arm [Bracer]"
+
+[MPW_WotC_RPR_MGSV_DD_Fatigues_Arm_Left_C_M X2BodyPartTemplate]
+DisplayName="DD Uniform - Left Arm [Bracer]"
+
+
+[CNV_WotC_RPR_MGSV_DD_Fatigues_Arm_Left_C_F X2BodyPartTemplate]
+DisplayName="DD Uniform - Left Arm [Bracer]"
+
+[MPL_WotC_RPR_MGSV_DD_Fatigues_Arm_Left_C_F X2BodyPartTemplate]
+DisplayName="DD Uniform - Left Arm [Bracer]"
+
+[MPW_WotC_RPR_MGSV_DD_Fatigues_Arm_Left_C_F X2BodyPartTemplate]
+DisplayName="DD Uniform - Left Arm [Bracer]"
+
+
+[CNV_WotC_RPR_MGSV_DD_Fatigues_Shoulder_Left_Patch_M X2BodyPartTemplate]
+DisplayName="Diamond Dogs Patch"
+
+[MPL_WotC_RPR_MGSV_DD_Fatigues_Shoulder_Left_Patch_M X2BodyPartTemplate]
+DisplayName="Diamond Dogs Patch"
+
+[MPW_WotC_RPR_MGSV_DD_Fatigues_Shoulder_Left_Patch_M X2BodyPartTemplate]
+DisplayName="Diamond Dogs Patch"
+
+
+[CNV_WotC_RPR_MGSV_DD_Fatigues_Shoulder_Left_Patch_F X2BodyPartTemplate]
+DisplayName="Diamond Dogs Patch"
+
+[MPL_WotC_RPR_MGSV_DD_Fatigues_Shoulder_Left_Patch_F X2BodyPartTemplate]
+DisplayName="Diamond Dogs Patch"
+
+[MPW_WotC_RPR_MGSV_DD_Fatigues_Shoulder_Left_Patch_F X2BodyPartTemplate]
+DisplayName="Diamond Dogs Patch"
+
+
+;
+; Right Arm
+;
+
+[CNV_WotC_RPR_MGSV_DD_Fatigues_Arm_Right_A_M X2BodyPartTemplate]
+DisplayName="DD Uniform - Right Arm"
+
+[MPL_WotC_RPR_MGSV_DD_Fatigues_Arm_Right_A_M X2BodyPartTemplate]
+DisplayName="DD Uniform - Right Arm"
+
+[MPW_WotC_RPR_MGSV_DD_Fatigues_Arm_Right_A_M X2BodyPartTemplate]
+DisplayName="DD Uniform - Right Arm"
+
+
+
+[CNV_WotC_RPR_MGSV_DD_Fatigues_Arm_Right_A_F X2BodyPartTemplate]
+DisplayName="DD Uniform - Right Arm"
+
+[MPL_WotC_RPR_MGSV_DD_Fatigues_Arm_Right_A_F X2BodyPartTemplate]
+DisplayName="DD Uniform - Right Arm"
+
+[MPW_WotC_RPR_MGSV_DD_Fatigues_Arm_Right_A_F X2BodyPartTemplate]
+DisplayName="DD Uniform - Right Arm"
+
+[CNV_WotC_RPR_MGSV_DD_Fatigues_Arm_Right_B1_M X2BodyPartTemplate]
+DisplayName="DD Uniform - Right Arm [Rolled-Up Sleeve]"
+
+[MPL_WotC_RPR_MGSV_DD_Fatigues_Arm_Right_B1_M X2BodyPartTemplate]
+DisplayName="DD Uniform - Right Arm [Rolled-Up Sleeve]"
+
+[MPW_WotC_RPR_MGSV_DD_Fatigues_Arm_Right_B1_M X2BodyPartTemplate]
+DisplayName="DD Uniform - Right Arm [Rolled-Up Sleeve]"
+
+
+[CNV_WotC_RPR_MGSV_DD_Fatigues_Arm_Right_B1_F X2BodyPartTemplate]
+DisplayName="DD Uniform - Right Arm [Rolled-Up Sleeve]"
+
+[MPL_WotC_RPR_MGSV_DD_Fatigues_Arm_Right_B1_F X2BodyPartTemplate]
+DisplayName="DD Uniform - Right Arm [Rolled-Up Sleeve]"
+
+[MPW_WotC_RPR_MGSV_DD_Fatigues_Arm_Right_B1_F X2BodyPartTemplate]
+DisplayName="DD Uniform - Right Arm [Rolled-Up Sleeve]"
+
+
+
+[CNV_WotC_RPR_MGSV_DD_Fatigues_Arm_Right_B2_M X2BodyPartTemplate]
+DisplayName="DD Uniform - Right Arm [Rolled-Up Sleeve][No Gloves]"
+
+[MPL_WotC_RPR_MGSV_DD_Fatigues_Arm_Right_B2_M X2BodyPartTemplate]
+DisplayName="DD Uniform - Right Arm [Rolled-Up Sleeve][No Gloves]"
+
+[MPW_WotC_RPR_MGSV_DD_Fatigues_Arm_Right_B2_M X2BodyPartTemplate]
+DisplayName="DD Uniform - Right Arm [Rolled-Up Sleeve][No Gloves]"
+
+
+[CNV_WotC_RPR_MGSV_DD_Fatigues_Arm_Right_B2_F X2BodyPartTemplate]
+DisplayName="DD Uniform - Right Arm [Rolled-Up Sleeve][No Gloves]"
+
+[MPL_WotC_RPR_MGSV_DD_Fatigues_Arm_Right_B2_F X2BodyPartTemplate]
+DisplayName="DD Uniform - Right Arm [Rolled-Up Sleeve][No Gloves]"
+
+[MPW_WotC_RPR_MGSV_DD_Fatigues_Arm_Right_B2_F X2BodyPartTemplate]
+DisplayName="DD Uniform - Right Arm [Rolled-Up Sleeve][No Gloves]"
+
+
+[CNV_WotC_RPR_MGSV_DD_Fatigues_Arm_Right_C_M X2BodyPartTemplate]
+DisplayName="DD Uniform - Right Arm [Bracer]"
+
+[MPL_WotC_RPR_MGSV_DD_Fatigues_Arm_Right_C_M X2BodyPartTemplate]
+DisplayName="DD Uniform - Right Arm [Bracer]"
+
+[MPW_WotC_RPR_MGSV_DD_Fatigues_Arm_Right_C_M X2BodyPartTemplate]
+DisplayName="DD Uniform - Right Arm [Bracer]"
+
+
+[CNV_WotC_RPR_MGSV_DD_Fatigues_Arm_Right_C_F X2BodyPartTemplate]
+DisplayName="DD Uniform - Right Arm [Bracer]"
+
+[MPL_WotC_RPR_MGSV_DD_Fatigues_Arm_Right_C_F X2BodyPartTemplate]
+DisplayName="DD Uniform - Right Arm [Bracer]"
+
+[MPW_WotC_RPR_MGSV_DD_Fatigues_Arm_Right_C_F X2BodyPartTemplate]
+DisplayName="DD Uniform - Right Arm [Bracer]"
+
+
+[CNV_WotC_RPR_MGSV_DD_Fatigues_Shoulder_Right_Patch_M X2BodyPartTemplate]
+DisplayName="Diamond Dogs Patch"
+
+[MPL_WotC_RPR_MGSV_DD_Fatigues_Shoulder_Right_Patch_M X2BodyPartTemplate]
+DisplayName="Diamond Dogs Patch"
+
+[MPW_WotC_RPR_MGSV_DD_Fatigues_Shoulder_Right_Patch_M X2BodyPartTemplate]
+DisplayName="Diamond Dogs Patch"
+
+
+[CNV_WotC_RPR_MGSV_DD_Fatigues_Shoulder_Right_Patch_F X2BodyPartTemplate]
+DisplayName="Diamond Dogs Patch"
+
+[MPL_WotC_RPR_MGSV_DD_Fatigues_Shoulder_Right_Patch_F X2BodyPartTemplate]
+DisplayName="Diamond Dogs Patch"
+
+[MPW_WotC_RPR_MGSV_DD_Fatigues_Shoulder_Right_Patch_F X2BodyPartTemplate]
+DisplayName="Diamond Dogs Patch"
+
+;
+; Thighs
+;
+
+[CNV_WotC_RPR_MGSV_DD_Fatigues_Thighs_A_M X2BodyPartTemplate]
+DisplayName="DD - Fatigues - Equipment [Default]"
+
+[MPL_WotC_RPR_MGSV_DD_Fatigues_Thighs_A_M X2BodyPartTemplate]
+DisplayName="DD - Fatigues - Equipment [Default]"
+
+[MPW_WotC_RPR_MGSV_DD_Fatigues_Thighs_A_M X2BodyPartTemplate]
+DisplayName="DD - Fatigues - Equipment [Default]"
+
+
+[CNV_WotC_RPR_MGSV_DD_Fatigues_Thighs_A_F X2BodyPartTemplate]
+DisplayName="DD - Fatigues - Equipment [Default]"
+
+[MPL_WotC_RPR_MGSV_DD_Fatigues_Thighs_A_F X2BodyPartTemplate]
+DisplayName="DD - Fatigues - Equipment [Default]"
+
+[MPW_WotC_RPR_MGSV_DD_Fatigues_Thighs_A_F X2BodyPartTemplate]
+DisplayName="DD - Fatigues - Equipment [Default]"
+
+
+[CNV_WotC_RPR_MGSV_DD_Fatigues_Thighs_B_M X2BodyPartTemplate]
+DisplayName="DD - Fatigues - Equipment [No Pistol Holster]"
+
+[MPL_WotC_RPR_MGSV_DD_Fatigues_Thighs_B_M X2BodyPartTemplate]
+DisplayName="DD - Fatigues - Equipment [No Pistol Holster]"
+
+[MPW_WotC_RPR_MGSV_DD_Fatigues_Thighs_B_M X2BodyPartTemplate]
+DisplayName="DD - Fatigues - Equipment [No Pistol Holster]"
+
+
+[CNV_WotC_RPR_MGSV_DD_Fatigues_Thighs_B_F X2BodyPartTemplate]
+DisplayName="DD - Fatigues - Equipment [No Pistol Holster]"
+
+[MPL_WotC_RPR_MGSV_DD_Fatigues_Thighs_B_F X2BodyPartTemplate]
+DisplayName="DD - Fatigues - Equipment [No Pistol Holster]"
+
+[MPW_WotC_RPR_MGSV_DD_Fatigues_Thighs_B_F X2BodyPartTemplate]
+DisplayName="DD - Fatigues - Equipment [No Pistol Holster]"
+
+
+; ============================================================================================================================
+;
+;	Skirmisher
+;
+; ============================================================================================================================
+
+;
+; Left Arm
+;
+
+
+[CNV_WotC_SKR_MGSV_DD_Fatigues_Arm_Left_A_M X2BodyPartTemplate]
+DisplayName="DD Uniform - Left Arm"
+
+[MPL_WotC_SKR_MGSV_DD_Fatigues_Arm_Left_A_M X2BodyPartTemplate]
+DisplayName="DD Uniform - Left Arm"
+
+[MPW_WotC_SKR_MGSV_DD_Fatigues_Arm_Left_A_M X2BodyPartTemplate]
+DisplayName="DD Uniform - Left Arm"
+
+
+[CNV_WotC_SKR_MGSV_DD_Fatigues_Arm_Left_A_F X2BodyPartTemplate]
+DisplayName="DD Uniform - Left Arm"
+
+[MPL_WotC_SKR_MGSV_DD_Fatigues_Arm_Left_A_F X2BodyPartTemplate]
+DisplayName="DD Uniform - Left Arm"
+
+[MPW_WotC_SKR_MGSV_DD_Fatigues_Arm_Left_A_F X2BodyPartTemplate]
+DisplayName="DD Uniform - Left Arm"
+
+
+[CNV_WotC_SKR_MGSV_DD_Fatigues_Arm_Left_B1_M X2BodyPartTemplate]
+DisplayName="DD Uniform - Left Arm [Rolled-Up Sleeve]"
+
+[MPL_WotC_SKR_MGSV_DD_Fatigues_Arm_Left_B1_M X2BodyPartTemplate]
+DisplayName="DD Uniform - Left Arm [Rolled-Up Sleeve]"
+
+[MPW_WotC_SKR_MGSV_DD_Fatigues_Arm_Left_B1_M X2BodyPartTemplate]
+DisplayName="DD Uniform - Left Arm [Rolled-Up Sleeve]"
+
+
+[CNV_WotC_SKR_MGSV_DD_Fatigues_Arm_Left_B1_F X2BodyPartTemplate]
+DisplayName="DD Uniform - Left Arm [Rolled-Up Sleeve]"
+
+[MPL_WotC_SKR_MGSV_DD_Fatigues_Arm_Left_B1_F X2BodyPartTemplate]
+DisplayName="DD Uniform - Left Arm [Rolled-Up Sleeve]"
+
+[MPW_WotC_SKR_MGSV_DD_Fatigues_Arm_Left_B1_F X2BodyPartTemplate]
+DisplayName="DD Uniform - Left Arm [Rolled-Up Sleeve]"
+
+
+[CNV_WotC_SKR_MGSV_DD_Fatigues_Arm_Left_B2_M X2BodyPartTemplate]
+DisplayName="DD Uniform - Left Arm [Rolled-Up Sleeve][No Gloves]"
+
+[MPL_WotC_SKR_MGSV_DD_Fatigues_Arm_Left_B2_M X2BodyPartTemplate]
+DisplayName="DD Uniform - Left Arm [Rolled-Up Sleeve][No Gloves]"
+
+[MPW_WotC_SKR_MGSV_DD_Fatigues_Arm_Left_B2_M X2BodyPartTemplate]
+DisplayName="DD Uniform - Left Arm [Rolled-Up Sleeve][No Gloves]"
+
+
+[CNV_WotC_SKR_MGSV_DD_Fatigues_Arm_Left_B2_F X2BodyPartTemplate]
+DisplayName="DD Uniform - Left Arm [Rolled-Up Sleeve][No Gloves]"
+
+[MPL_WotC_SKR_MGSV_DD_Fatigues_Arm_Left_B2_F X2BodyPartTemplate]
+DisplayName="DD Uniform - Left Arm [Rolled-Up Sleeve][No Gloves]"
+
+[MPW_WotC_SKR_MGSV_DD_Fatigues_Arm_Left_B2_F X2BodyPartTemplate]
+DisplayName="DD Uniform - Left Arm [Rolled-Up Sleeve][No Gloves]"
+
+
+[CNV_WotC_SKR_MGSV_DD_Fatigues_Arm_Left_C_M X2BodyPartTemplate]
+DisplayName="DD Uniform - Left Arm [Bracer]"
+
+[MPL_WotC_SKR_MGSV_DD_Fatigues_Arm_Left_C_M X2BodyPartTemplate]
+DisplayName="DD Uniform - Left Arm [Bracer]"
+
+[MPW_WotC_SKR_MGSV_DD_Fatigues_Arm_Left_C_M X2BodyPartTemplate]
+DisplayName="DD Uniform - Left Arm [Bracer]"
+
+
+[CNV_WotC_SKR_MGSV_DD_Fatigues_Arm_Left_C_F X2BodyPartTemplate]
+DisplayName="DD Uniform - Left Arm [Bracer]"
+
+[MPL_WotC_SKR_MGSV_DD_Fatigues_Arm_Left_C_F X2BodyPartTemplate]
+DisplayName="DD Uniform - Left Arm [Bracer]"
+
+[MPW_WotC_SKR_MGSV_DD_Fatigues_Arm_Left_C_F X2BodyPartTemplate]
+DisplayName="DD Uniform - Left Arm [Bracer]"
+
+
+[CNV_WotC_SKR_MGSV_DD_Fatigues_Shoulder_Left_Patch_M X2BodyPartTemplate]
+DisplayName="Diamond Dogs Patch"
+
+[MPL_WotC_SKR_MGSV_DD_Fatigues_Shoulder_Left_Patch_M X2BodyPartTemplate]
+DisplayName="Diamond Dogs Patch"
+
+[MPW_WotC_SKR_MGSV_DD_Fatigues_Shoulder_Left_Patch_M X2BodyPartTemplate]
+DisplayName="Diamond Dogs Patch"
+
+
+[CNV_WotC_SKR_MGSV_DD_Fatigues_Shoulder_Left_Patch_F X2BodyPartTemplate]
+DisplayName="Diamond Dogs Patch"
+
+[MPL_WotC_SKR_MGSV_DD_Fatigues_Shoulder_Left_Patch_F X2BodyPartTemplate]
+DisplayName="Diamond Dogs Patch"
+
+[MPW_WotC_SKR_MGSV_DD_Fatigues_Shoulder_Left_Patch_F X2BodyPartTemplate]
+DisplayName="Diamond Dogs Patch"
+
+
+;
+; Right Arm
+;
+
+[CNV_WotC_SKR_MGSV_DD_Fatigues_Arm_Right_A_M X2BodyPartTemplate]
+DisplayName="DD Uniform - Right Arm"
+
+[MPL_WotC_SKR_MGSV_DD_Fatigues_Arm_Right_A_M X2BodyPartTemplate]
+DisplayName="DD Uniform - Right Arm"
+
+[MPW_WotC_SKR_MGSV_DD_Fatigues_Arm_Right_A_M X2BodyPartTemplate]
+DisplayName="DD Uniform - Right Arm"
+
+
+
+[CNV_WotC_SKR_MGSV_DD_Fatigues_Arm_Right_A_F X2BodyPartTemplate]
+DisplayName="DD Uniform - Right Arm"
+
+[MPL_WotC_SKR_MGSV_DD_Fatigues_Arm_Right_A_F X2BodyPartTemplate]
+DisplayName="DD Uniform - Right Arm"
+
+[MPW_WotC_SKR_MGSV_DD_Fatigues_Arm_Right_A_F X2BodyPartTemplate]
+DisplayName="DD Uniform - Right Arm"
+
+[CNV_WotC_SKR_MGSV_DD_Fatigues_Arm_Right_B1_M X2BodyPartTemplate]
+DisplayName="DD Uniform - Right Arm [Rolled-Up Sleeve]"
+
+[MPL_WotC_SKR_MGSV_DD_Fatigues_Arm_Right_B1_M X2BodyPartTemplate]
+DisplayName="DD Uniform - Right Arm [Rolled-Up Sleeve]"
+
+[MPW_WotC_SKR_MGSV_DD_Fatigues_Arm_Right_B1_M X2BodyPartTemplate]
+DisplayName="DD Uniform - Right Arm [Rolled-Up Sleeve]"
+
+
+[CNV_WotC_SKR_MGSV_DD_Fatigues_Arm_Right_B1_F X2BodyPartTemplate]
+DisplayName="DD Uniform - Right Arm [Rolled-Up Sleeve]"
+
+[MPL_WotC_SKR_MGSV_DD_Fatigues_Arm_Right_B1_F X2BodyPartTemplate]
+DisplayName="DD Uniform - Right Arm [Rolled-Up Sleeve]"
+
+[MPW_WotC_SKR_MGSV_DD_Fatigues_Arm_Right_B1_F X2BodyPartTemplate]
+DisplayName="DD Uniform - Right Arm [Rolled-Up Sleeve]"
+
+
+
+[CNV_WotC_SKR_MGSV_DD_Fatigues_Arm_Right_B2_M X2BodyPartTemplate]
+DisplayName="DD Uniform - Right Arm [Rolled-Up Sleeve][No Gloves]"
+
+[MPL_WotC_SKR_MGSV_DD_Fatigues_Arm_Right_B2_M X2BodyPartTemplate]
+DisplayName="DD Uniform - Right Arm [Rolled-Up Sleeve][No Gloves]"
+
+[MPW_WotC_SKR_MGSV_DD_Fatigues_Arm_Right_B2_M X2BodyPartTemplate]
+DisplayName="DD Uniform - Right Arm [Rolled-Up Sleeve][No Gloves]"
+
+
+[CNV_WotC_SKR_MGSV_DD_Fatigues_Arm_Right_B2_F X2BodyPartTemplate]
+DisplayName="DD Uniform - Right Arm [Rolled-Up Sleeve][No Gloves]"
+
+[MPL_WotC_SKR_MGSV_DD_Fatigues_Arm_Right_B2_F X2BodyPartTemplate]
+DisplayName="DD Uniform - Right Arm [Rolled-Up Sleeve][No Gloves]"
+
+[MPW_WotC_SKR_MGSV_DD_Fatigues_Arm_Right_B2_F X2BodyPartTemplate]
+DisplayName="DD Uniform - Right Arm [Rolled-Up Sleeve][No Gloves]"
+
+
+[CNV_WotC_SKR_MGSV_DD_Fatigues_Arm_Right_C_M X2BodyPartTemplate]
+DisplayName="DD Uniform - Right Arm [Bracer]"
+
+[MPL_WotC_SKR_MGSV_DD_Fatigues_Arm_Right_C_M X2BodyPartTemplate]
+DisplayName="DD Uniform - Right Arm [Bracer]"
+
+[MPW_WotC_SKR_MGSV_DD_Fatigues_Arm_Right_C_M X2BodyPartTemplate]
+DisplayName="DD Uniform - Right Arm [Bracer]"
+
+
+[CNV_WotC_SKR_MGSV_DD_Fatigues_Arm_Right_C_F X2BodyPartTemplate]
+DisplayName="DD Uniform - Right Arm [Bracer]"
+
+[MPL_WotC_SKR_MGSV_DD_Fatigues_Arm_Right_C_F X2BodyPartTemplate]
+DisplayName="DD Uniform - Right Arm [Bracer]"
+
+[MPW_WotC_SKR_MGSV_DD_Fatigues_Arm_Right_C_F X2BodyPartTemplate]
+DisplayName="DD Uniform - Right Arm [Bracer]"
+
+
+[CNV_WotC_SKR_MGSV_DD_Fatigues_Shoulder_Right_Patch_M X2BodyPartTemplate]
+DisplayName="Diamond Dogs Patch"
+
+[MPL_WotC_SKR_MGSV_DD_Fatigues_Shoulder_Right_Patch_M X2BodyPartTemplate]
+DisplayName="Diamond Dogs Patch"
+
+[MPW_WotC_SKR_MGSV_DD_Fatigues_Shoulder_Right_Patch_M X2BodyPartTemplate]
+DisplayName="Diamond Dogs Patch"
+
+
+[CNV_WotC_SKR_MGSV_DD_Fatigues_Shoulder_Right_Patch_F X2BodyPartTemplate]
+DisplayName="Diamond Dogs Patch"
+
+[MPL_WotC_SKR_MGSV_DD_Fatigues_Shoulder_Right_Patch_F X2BodyPartTemplate]
+DisplayName="Diamond Dogs Patch"
+
+[MPW_WotC_SKR_MGSV_DD_Fatigues_Shoulder_Right_Patch_F X2BodyPartTemplate]
+DisplayName="Diamond Dogs Patch"
+
+;
+; Thighs
+;
+
+[CNV_WotC_SKR_MGSV_DD_Fatigues_Thighs_A_M X2BodyPartTemplate]
+DisplayName="DD - Fatigues - Equipment [Default]"
+
+[MPL_WotC_SKR_MGSV_DD_Fatigues_Thighs_A_M X2BodyPartTemplate]
+DisplayName="DD - Fatigues - Equipment [Default]"
+
+[MPW_WotC_SKR_MGSV_DD_Fatigues_Thighs_A_M X2BodyPartTemplate]
+DisplayName="DD - Fatigues - Equipment [Default]"
+
+
+[CNV_WotC_SKR_MGSV_DD_Fatigues_Thighs_A_F X2BodyPartTemplate]
+DisplayName="DD - Fatigues - Equipment [Default]"
+
+[MPL_WotC_SKR_MGSV_DD_Fatigues_Thighs_A_F X2BodyPartTemplate]
+DisplayName="DD - Fatigues - Equipment [Default]"
+
+[MPW_WotC_SKR_MGSV_DD_Fatigues_Thighs_A_F X2BodyPartTemplate]
+DisplayName="DD - Fatigues - Equipment [Default]"
+
+
+[CNV_WotC_SKR_MGSV_DD_Fatigues_Thighs_B_M X2BodyPartTemplate]
+DisplayName="DD - Fatigues - Equipment [No Pistol Holster]"
+
+[MPL_WotC_SKR_MGSV_DD_Fatigues_Thighs_B_M X2BodyPartTemplate]
+DisplayName="DD - Fatigues - Equipment [No Pistol Holster]"
+
+[MPW_WotC_SKR_MGSV_DD_Fatigues_Thighs_B_M X2BodyPartTemplate]
+DisplayName="DD - Fatigues - Equipment [No Pistol Holster]"
+
+
+[CNV_WotC_SKR_MGSV_DD_Fatigues_Thighs_B_F X2BodyPartTemplate]
+DisplayName="DD - Fatigues - Equipment [No Pistol Holster]"
+
+[MPL_WotC_SKR_MGSV_DD_Fatigues_Thighs_B_F X2BodyPartTemplate]
+DisplayName="DD - Fatigues - Equipment [No Pistol Holster]"
+
+[MPW_WotC_SKR_MGSV_DD_Fatigues_Thighs_B_F X2BodyPartTemplate]
+DisplayName="DD - Fatigues - Equipment [No Pistol Holster]"
+
+
+; ============================================================================================================================
+;
+;	Templar
+;
+; ============================================================================================================================
+
+;
+; Left Arm
+;
+
+
+[CNV_WotC_TMP_MGSV_DD_Fatigues_Arm_Left_A_M X2BodyPartTemplate]
+DisplayName="DD Uniform - Left Arm"
+
+[MPL_WotC_TMP_MGSV_DD_Fatigues_Arm_Left_A_M X2BodyPartTemplate]
+DisplayName="DD Uniform - Left Arm"
+
+[MPW_WotC_TMP_MGSV_DD_Fatigues_Arm_Left_A_M X2BodyPartTemplate]
+DisplayName="DD Uniform - Left Arm"
+
+
+[CNV_WotC_TMP_MGSV_DD_Fatigues_Arm_Left_A_F X2BodyPartTemplate]
+DisplayName="DD Uniform - Left Arm"
+
+[MPL_WotC_TMP_MGSV_DD_Fatigues_Arm_Left_A_F X2BodyPartTemplate]
+DisplayName="DD Uniform - Left Arm"
+
+[MPW_WotC_TMP_MGSV_DD_Fatigues_Arm_Left_A_F X2BodyPartTemplate]
+DisplayName="DD Uniform - Left Arm"
+
+
+[CNV_WotC_TMP_MGSV_DD_Fatigues_Arm_Left_B1_M X2BodyPartTemplate]
+DisplayName="DD Uniform - Left Arm [Rolled-Up Sleeve]"
+
+[MPL_WotC_TMP_MGSV_DD_Fatigues_Arm_Left_B1_M X2BodyPartTemplate]
+DisplayName="DD Uniform - Left Arm [Rolled-Up Sleeve]"
+
+[MPW_WotC_TMP_MGSV_DD_Fatigues_Arm_Left_B1_M X2BodyPartTemplate]
+DisplayName="DD Uniform - Left Arm [Rolled-Up Sleeve]"
+
+
+[CNV_WotC_TMP_MGSV_DD_Fatigues_Arm_Left_B1_F X2BodyPartTemplate]
+DisplayName="DD Uniform - Left Arm [Rolled-Up Sleeve]"
+
+[MPL_WotC_TMP_MGSV_DD_Fatigues_Arm_Left_B1_F X2BodyPartTemplate]
+DisplayName="DD Uniform - Left Arm [Rolled-Up Sleeve]"
+
+[MPW_WotC_TMP_MGSV_DD_Fatigues_Arm_Left_B1_F X2BodyPartTemplate]
+DisplayName="DD Uniform - Left Arm [Rolled-Up Sleeve]"
+
+
+[CNV_WotC_TMP_MGSV_DD_Fatigues_Arm_Left_B2_M X2BodyPartTemplate]
+DisplayName="DD Uniform - Left Arm [Rolled-Up Sleeve][No Gloves]"
+
+[MPL_WotC_TMP_MGSV_DD_Fatigues_Arm_Left_B2_M X2BodyPartTemplate]
+DisplayName="DD Uniform - Left Arm [Rolled-Up Sleeve][No Gloves]"
+
+[MPW_WotC_TMP_MGSV_DD_Fatigues_Arm_Left_B2_M X2BodyPartTemplate]
+DisplayName="DD Uniform - Left Arm [Rolled-Up Sleeve][No Gloves]"
+
+
+[CNV_WotC_TMP_MGSV_DD_Fatigues_Arm_Left_B2_F X2BodyPartTemplate]
+DisplayName="DD Uniform - Left Arm [Rolled-Up Sleeve][No Gloves]"
+
+[MPL_WotC_TMP_MGSV_DD_Fatigues_Arm_Left_B2_F X2BodyPartTemplate]
+DisplayName="DD Uniform - Left Arm [Rolled-Up Sleeve][No Gloves]"
+
+[MPW_WotC_TMP_MGSV_DD_Fatigues_Arm_Left_B2_F X2BodyPartTemplate]
+DisplayName="DD Uniform - Left Arm [Rolled-Up Sleeve][No Gloves]"
+
+
+[CNV_WotC_TMP_MGSV_DD_Fatigues_Arm_Left_C_M X2BodyPartTemplate]
+DisplayName="DD Uniform - Left Arm [Bracer]"
+
+[MPL_WotC_TMP_MGSV_DD_Fatigues_Arm_Left_C_M X2BodyPartTemplate]
+DisplayName="DD Uniform - Left Arm [Bracer]"
+
+[MPW_WotC_TMP_MGSV_DD_Fatigues_Arm_Left_C_M X2BodyPartTemplate]
+DisplayName="DD Uniform - Left Arm [Bracer]"
+
+
+[CNV_WotC_TMP_MGSV_DD_Fatigues_Arm_Left_C_F X2BodyPartTemplate]
+DisplayName="DD Uniform - Left Arm [Bracer]"
+
+[MPL_WotC_TMP_MGSV_DD_Fatigues_Arm_Left_C_F X2BodyPartTemplate]
+DisplayName="DD Uniform - Left Arm [Bracer]"
+
+[MPW_WotC_TMP_MGSV_DD_Fatigues_Arm_Left_C_F X2BodyPartTemplate]
+DisplayName="DD Uniform - Left Arm [Bracer]"
+
+
+[CNV_WotC_TMP_MGSV_DD_Fatigues_Shoulder_Left_Patch_M X2BodyPartTemplate]
+DisplayName="Diamond Dogs Patch"
+
+[MPL_WotC_TMP_MGSV_DD_Fatigues_Shoulder_Left_Patch_M X2BodyPartTemplate]
+DisplayName="Diamond Dogs Patch"
+
+[MPW_WotC_TMP_MGSV_DD_Fatigues_Shoulder_Left_Patch_M X2BodyPartTemplate]
+DisplayName="Diamond Dogs Patch"
+
+
+[CNV_WotC_TMP_MGSV_DD_Fatigues_Shoulder_Left_Patch_F X2BodyPartTemplate]
+DisplayName="Diamond Dogs Patch"
+
+[MPL_WotC_TMP_MGSV_DD_Fatigues_Shoulder_Left_Patch_F X2BodyPartTemplate]
+DisplayName="Diamond Dogs Patch"
+
+[MPW_WotC_TMP_MGSV_DD_Fatigues_Shoulder_Left_Patch_F X2BodyPartTemplate]
+DisplayName="Diamond Dogs Patch"
+
+
+;
+; Right Arm
+;
+
+[CNV_WotC_TMP_MGSV_DD_Fatigues_Arm_Right_A_M X2BodyPartTemplate]
+DisplayName="DD Uniform - Right Arm"
+
+[MPL_WotC_TMP_MGSV_DD_Fatigues_Arm_Right_A_M X2BodyPartTemplate]
+DisplayName="DD Uniform - Right Arm"
+
+[MPW_WotC_TMP_MGSV_DD_Fatigues_Arm_Right_A_M X2BodyPartTemplate]
+DisplayName="DD Uniform - Right Arm"
+
+
+
+[CNV_WotC_TMP_MGSV_DD_Fatigues_Arm_Right_A_F X2BodyPartTemplate]
+DisplayName="DD Uniform - Right Arm"
+
+[MPL_WotC_TMP_MGSV_DD_Fatigues_Arm_Right_A_F X2BodyPartTemplate]
+DisplayName="DD Uniform - Right Arm"
+
+[MPW_WotC_TMP_MGSV_DD_Fatigues_Arm_Right_A_F X2BodyPartTemplate]
+DisplayName="DD Uniform - Right Arm"
+
+[CNV_WotC_TMP_MGSV_DD_Fatigues_Arm_Right_B1_M X2BodyPartTemplate]
+DisplayName="DD Uniform - Right Arm [Rolled-Up Sleeve]"
+
+[MPL_WotC_TMP_MGSV_DD_Fatigues_Arm_Right_B1_M X2BodyPartTemplate]
+DisplayName="DD Uniform - Right Arm [Rolled-Up Sleeve]"
+
+[MPW_WotC_TMP_MGSV_DD_Fatigues_Arm_Right_B1_M X2BodyPartTemplate]
+DisplayName="DD Uniform - Right Arm [Rolled-Up Sleeve]"
+
+
+[CNV_WotC_TMP_MGSV_DD_Fatigues_Arm_Right_B1_F X2BodyPartTemplate]
+DisplayName="DD Uniform - Right Arm [Rolled-Up Sleeve]"
+
+[MPL_WotC_TMP_MGSV_DD_Fatigues_Arm_Right_B1_F X2BodyPartTemplate]
+DisplayName="DD Uniform - Right Arm [Rolled-Up Sleeve]"
+
+[MPW_WotC_TMP_MGSV_DD_Fatigues_Arm_Right_B1_F X2BodyPartTemplate]
+DisplayName="DD Uniform - Right Arm [Rolled-Up Sleeve]"
+
+
+
+[CNV_WotC_TMP_MGSV_DD_Fatigues_Arm_Right_B2_M X2BodyPartTemplate]
+DisplayName="DD Uniform - Right Arm [Rolled-Up Sleeve][No Gloves]"
+
+[MPL_WotC_TMP_MGSV_DD_Fatigues_Arm_Right_B2_M X2BodyPartTemplate]
+DisplayName="DD Uniform - Right Arm [Rolled-Up Sleeve][No Gloves]"
+
+[MPW_WotC_TMP_MGSV_DD_Fatigues_Arm_Right_B2_M X2BodyPartTemplate]
+DisplayName="DD Uniform - Right Arm [Rolled-Up Sleeve][No Gloves]"
+
+
+[CNV_WotC_TMP_MGSV_DD_Fatigues_Arm_Right_B2_F X2BodyPartTemplate]
+DisplayName="DD Uniform - Right Arm [Rolled-Up Sleeve][No Gloves]"
+
+[MPL_WotC_TMP_MGSV_DD_Fatigues_Arm_Right_B2_F X2BodyPartTemplate]
+DisplayName="DD Uniform - Right Arm [Rolled-Up Sleeve][No Gloves]"
+
+[MPW_WotC_TMP_MGSV_DD_Fatigues_Arm_Right_B2_F X2BodyPartTemplate]
+DisplayName="DD Uniform - Right Arm [Rolled-Up Sleeve][No Gloves]"
+
+
+[CNV_WotC_TMP_MGSV_DD_Fatigues_Arm_Right_C_M X2BodyPartTemplate]
+DisplayName="DD Uniform - Right Arm [Bracer]"
+
+[MPL_WotC_TMP_MGSV_DD_Fatigues_Arm_Right_C_M X2BodyPartTemplate]
+DisplayName="DD Uniform - Right Arm [Bracer]"
+
+[MPW_WotC_TMP_MGSV_DD_Fatigues_Arm_Right_C_M X2BodyPartTemplate]
+DisplayName="DD Uniform - Right Arm [Bracer]"
+
+
+[CNV_WotC_TMP_MGSV_DD_Fatigues_Arm_Right_C_F X2BodyPartTemplate]
+DisplayName="DD Uniform - Right Arm [Bracer]"
+
+[MPL_WotC_TMP_MGSV_DD_Fatigues_Arm_Right_C_F X2BodyPartTemplate]
+DisplayName="DD Uniform - Right Arm [Bracer]"
+
+[MPW_WotC_TMP_MGSV_DD_Fatigues_Arm_Right_C_F X2BodyPartTemplate]
+DisplayName="DD Uniform - Right Arm [Bracer]"
+
+
+[CNV_WotC_TMP_MGSV_DD_Fatigues_Shoulder_Right_Patch_M X2BodyPartTemplate]
+DisplayName="Diamond Dogs Patch"
+
+[MPL_WotC_TMP_MGSV_DD_Fatigues_Shoulder_Right_Patch_M X2BodyPartTemplate]
+DisplayName="Diamond Dogs Patch"
+
+[MPW_WotC_TMP_MGSV_DD_Fatigues_Shoulder_Right_Patch_M X2BodyPartTemplate]
+DisplayName="Diamond Dogs Patch"
+
+
+[CNV_WotC_TMP_MGSV_DD_Fatigues_Shoulder_Right_Patch_F X2BodyPartTemplate]
+DisplayName="Diamond Dogs Patch"
+
+[MPL_WotC_TMP_MGSV_DD_Fatigues_Shoulder_Right_Patch_F X2BodyPartTemplate]
+DisplayName="Diamond Dogs Patch"
+
+[MPW_WotC_TMP_MGSV_DD_Fatigues_Shoulder_Right_Patch_F X2BodyPartTemplate]
+DisplayName="Diamond Dogs Patch"
+
+;
+; Thighs
+;
+
+[CNV_WotC_TMP_MGSV_DD_Fatigues_Thighs_A_M X2BodyPartTemplate]
+DisplayName="DD - Fatigues - Equipment [Default]"
+
+[MPL_WotC_TMP_MGSV_DD_Fatigues_Thighs_A_M X2BodyPartTemplate]
+DisplayName="DD - Fatigues - Equipment [Default]"
+
+[MPW_WotC_TMP_MGSV_DD_Fatigues_Thighs_A_M X2BodyPartTemplate]
+DisplayName="DD - Fatigues - Equipment [Default]"
+
+
+[CNV_WotC_TMP_MGSV_DD_Fatigues_Thighs_A_F X2BodyPartTemplate]
+DisplayName="DD - Fatigues - Equipment [Default]"
+
+[MPL_WotC_TMP_MGSV_DD_Fatigues_Thighs_A_F X2BodyPartTemplate]
+DisplayName="DD - Fatigues - Equipment [Default]"
+
+[MPW_WotC_TMP_MGSV_DD_Fatigues_Thighs_A_F X2BodyPartTemplate]
+DisplayName="DD - Fatigues - Equipment [Default]"
+
+
+[CNV_WotC_TMP_MGSV_DD_Fatigues_Thighs_B_M X2BodyPartTemplate]
+DisplayName="DD - Fatigues - Equipment [No Pistol Holster]"
+
+[MPL_WotC_TMP_MGSV_DD_Fatigues_Thighs_B_M X2BodyPartTemplate]
+DisplayName="DD - Fatigues - Equipment [No Pistol Holster]"
+
+[MPW_WotC_TMP_MGSV_DD_Fatigues_Thighs_B_M X2BodyPartTemplate]
+DisplayName="DD - Fatigues - Equipment [No Pistol Holster]"
+
+
+[CNV_WotC_TMP_MGSV_DD_Fatigues_Thighs_B_F X2BodyPartTemplate]
+DisplayName="DD - Fatigues - Equipment [No Pistol Holster]"
+
+[MPL_WotC_TMP_MGSV_DD_Fatigues_Thighs_B_F X2BodyPartTemplate]
+DisplayName="DD - Fatigues - Equipment [No Pistol Holster]"
+
+[MPW_WotC_TMP_MGSV_DD_Fatigues_Thighs_B_F X2BodyPartTemplate]
+DisplayName="DD - Fatigues - Equipment [No Pistol Holster]"

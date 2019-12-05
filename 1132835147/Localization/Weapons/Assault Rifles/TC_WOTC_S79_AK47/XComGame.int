@@ -1,0 +1,63 @@
+[TC_WOTC_S79_AK47_T1 X2WeaponTemplate]
+FriendlyName="<font color='#ECECEC'><b>AK-47 Type 1</b></font>"
+FriendlyNamePlural="<font color='#ECECEC'><b>AK-47s</b></font>"
+AbilityDescName="assault rifle"
+BriefSummary="What kind of modern resistance group are you if you don't carry a Kalash? Famous for its reliability and low cost, the Avtomat Kalashnikov, or Kalsh in Russian slang, is a powerful 7.62x39mm assault rifle developed by the Soviets in 1945 near the end of World War II. This version is the actual AK47 Type 1, not the AKM, which are uncommon to find due to the fact that the Soviets manufactured more AKMs than AK47s. Although the AK47 and the AKM was replaced by the AK74 in 1974, many PMCs, resistance groups, and small militias continue to use the AK47 to this day."
+TacticalText="<Bullet/>Type: Assault Rifle\n<Bullet/>Firing Profile: Full-Auto\n<Bullet/>Action: Gas-Operated, Rotating Bolt\n<Bullet/>Cartridge: 7.62x39mm\n<Bullet/>Origin: Soviet Union/Russia\n<Bullet/>Tier: Conventional"
+
+[TC_WOTC_S79_AK47_T2 X2WeaponTemplate]
+FriendlyName="<font color='#27AAE1'><b>RVK-47</b></font>"
+FriendlyNamePlural="<font color='#27AAE1'><b>RVK-47s</b></font>"
+AbilityDescName="assault rifle"
+BriefSummary="What kind of modern resistance group are you if you don't carry a Kalash? Famous for its reliability and low cost, the Avtomat Kalashnikov, or Kalsh in Russian slang, is a powerful 7.62x39mm assault rifle developed by the Soviets in 1945 near the end of World War II. This version is the actual AK47 Type 1, not the AKM, which are uncommon to find due to the fact that the Soviets manufactured more AKMs than AK47s. Although the AK47 and the AKM was replaced by the AK74 in 1974, many PMCs, resistance groups, and small militias continue to use the AK47 to this day.\n The RVK-47 is a improved version of the AK-47. The gas operated mechanism is replaced with a more powerful magnetic mechanism made from small crystals of elerium. The upgrade enhanced the ballistic profile of the weapon, allowing the projectile to hit harder with better accuracy and precision."
+TacticalText="<Bullet/>Type: Assault Rifle\n<Bullet/>Firing Profile: Full-Auto\n<Bullet/>Action: Rotating Bolt\n<Bullet/>Cartridge: 7.62x39mm\n<Bullet/>Origin: Soviet Union/Russia\n<Bullet/>Tier: Magnetic"
+
+[TC_WOTC_S79_AK47_T3 X2WeaponTemplate]
+FriendlyName="<font color='#CF4517'><b>RVK-47/203X</b></font>"
+FriendlyNamePlural="<font color='#CF4517'><b>RVK-47/203Xs</b></font>"
+AbilityDescName="assault rifle"
+BriefSummary="What kind of modern resistance group are you if you don't carry a Kalash? Famous for its reliability and low cost, the Avtomat Kalashnikov, or Kalsh in Russian slang, is a powerful 7.62x39mm assault rifle developed by the Soviets in 1945 near the end of World War II. This version is the actual AK47 Type 1, not the AKM, which are uncommon to find due to the fact that the Soviets manufactured more AKMs than AK47s. Although the AK47 and the AKM was replaced by the AK74 in 1974, many PMCs, resistance groups, and small militias continue to use the AK47 to this day.\n The custom version of the RVK includes a replacement of the AK-47's original barrel with a new one made from alien alloy. The new elerium-based firing system is compacted to make more room for elerium batteries, allowing the weapon to cause more damage with almost perfect precision."
+TacticalText="<Bullet/>Type: Assault Rifle\n<Bullet/>Firing Profile: Full-Auto\n<Bullet/>Action: Rotating Bolt\n<Bullet/>Cartridge: 7.62x39mm\n<Bullet/>Origin: Soviet Union/Russia\n<Bullet/>Tier: Beam"
+
+[TC_WOTC_SKR_S79_AK47_T1 X2WeaponTemplate]
+FriendlyName="<font color='#ECECEC'><b>AK-47 Type 1</b></font>"
+FriendlyNamePlural="<font color='#ECECEC'><b>AK-47s</b></font>"
+AbilityDescName="assault rifle"
+BriefSummary="What kind of modern resistance group are you if you don't carry a Kalash? Famous for its reliability and low cost, the Avtomat Kalashnikov, or Kalsh in Russian slang, is a powerful 7.62x39mm assault rifle developed by the Soviets in 1945 near the end of World War II. This version is the actual AK47 Type 1, not the AKM, which are uncommon to find due to the fact that the Soviets manufactured more AKMs than AK47s. Although the AK47 and the AKM was replaced by the AK74 in 1974, many PMCs, resistance groups, and small militias continue to use the AK47 to this day."
+TacticalText="<Bullet/>Type: Assault Rifle\n<Bullet/>Firing Profile: Full-Auto\n<Bullet/>Action: Gas-Operated, Rotating Bolt\n<Bullet/>Cartridge: 7.62x39mm\n<Bullet/>Origin: Soviet Union/Russia\n<Bullet/>Tier: Conventional"
+
+[TC_WOTC_SKR_S79_AK47_T2 X2WeaponTemplate]
+FriendlyName="<font color='#27AAE1'><b>RVK-47</b></font>"
+FriendlyNamePlural="<font color='#27AAE1'><b>RVK-47s</b></font>"
+AbilityDescName="assault rifle"
+BriefSummary="What kind of modern resistance group are you if you don't carry a Kalash? Famous for its reliability and low cost, the Avtomat Kalashnikov, or Kalsh in Russian slang, is a powerful 7.62x39mm assault rifle developed by the Soviets in 1945 near the end of World War II. This version is the actual AK47 Type 1, not the AKM, which are uncommon to find due to the fact that the Soviets manufactured more AKMs than AK47s. Although the AK47 and the AKM was replaced by the AK74 in 1974, many PMCs, resistance groups, and small militias continue to use the AK47 to this day.\n The RVK-47 is a improved version of the AK-47. The gas operated mechanism is replaced with a more powerful magnetic mechanism made from small crystals of elerium. The upgrade enhanced the ballistic profile of the weapon, allowing the projectile to hit harder with better accuracy and precision."
+TacticalText="<Bullet/>Type: Assault Rifle\n<Bullet/>Firing Profile: Full-Auto\n<Bullet/>Action: Rotating Bolt\n<Bullet/>Cartridge: 7.62x39mm\n<Bullet/>Origin: Soviet Union/Russia\n<Bullet/>Tier: Magnetic"
+
+[TC_WOTC_SKR_S79_AK47_T3 X2WeaponTemplate]
+FriendlyName="<font color='#CF4517'><b>RVK-47/203X</b></font>"
+FriendlyNamePlural="<font color='#CF4517'><b>RVK-47/203Xs</b></font>"
+AbilityDescName="assault rifle"
+BriefSummary="What kind of modern resistance group are you if you don't carry a Kalash? Famous for its reliability and low cost, the Avtomat Kalashnikov, or Kalsh in Russian slang, is a powerful 7.62x39mm assault rifle developed by the Soviets in 1945 near the end of World War II. This version is the actual AK47 Type 1, not the AKM, which are uncommon to find due to the fact that the Soviets manufactured more AKMs than AK47s. Although the AK47 and the AKM was replaced by the AK74 in 1974, many PMCs, resistance groups, and small militias continue to use the AK47 to this day.\n The custom version of the RVK includes a replacement of the AK-47's original barrel with a new one made from alien alloy. The new elerium-based firing system is compacted to make more room for elerium batteries, allowing the weapon to cause more damage with almost perfect precision."
+TacticalText="<Bullet/>Type: Assault Rifle\n<Bullet/>Firing Profile: Full-Auto\n<Bullet/>Action: Rotating Bolt\n<Bullet/>Cartridge: 7.62x39mm\n<Bullet/>Origin: Soviet Union/Russia\n<Bullet/>Tier: Beam"
+
+
+[TC_WOTC_MLT_S79_AK_T1 X2WeaponTemplate]
+FriendlyName="<font color='#ECECEC'><b>AK-47 Type 1</b></font>"
+FriendlyNamePlural="<font color='#ECECEC'><b>AK-47s</b></font>"
+AbilityDescName="assault rifle"
+BriefSummary="What kind of modern resistance group are you if you don't carry a Kalash? Famous for its reliability and low cost, the Avtomat Kalashnikov, or Kalsh in Russian slang, is a powerful 7.62x39mm assault rifle developed by the Soviets in 1945 near the end of World War II. This version is the actual AK47 Type 1, not the AKM, which are uncommon to find due to the fact that the Soviets manufactured more AKMs than AK47s. Although the AK47 and the AKM was replaced by the AK74 in 1974, many PMCs, resistance groups, and small militias continue to use the AK47 to this day."
+TacticalText="<Bullet/>Type: Assault Rifle\n<Bullet/>Firing Profile: Full-Auto\n<Bullet/>Action: Gas-Operated, Rotating Bolt\n<Bullet/>Cartridge: 7.62x39mm\n<Bullet/>Origin: Soviet Union/Russia\n<Bullet/>Tier: Conventional"
+
+[TC_WOTC_MLT_S79_AK_T2 X2WeaponTemplate]
+FriendlyName="<font color='#27AAE1'><b>RVK-47</b></font>"
+FriendlyNamePlural="<font color='#27AAE1'><b>RVK-47s</b></font>"
+AbilityDescName="assault rifle"
+BriefSummary="What kind of modern resistance group are you if you don't carry a Kalash? Famous for its reliability and low cost, the Avtomat Kalashnikov, or Kalsh in Russian slang, is a powerful 7.62x39mm assault rifle developed by the Soviets in 1945 near the end of World War II. This version is the actual AK47 Type 1, not the AKM, which are uncommon to find due to the fact that the Soviets manufactured more AKMs than AK47s. Although the AK47 and the AKM was replaced by the AK74 in 1974, many PMCs, resistance groups, and small militias continue to use the AK47 to this day.\n The RVK-47 is a improved version of the AK-47. The gas operated mechanism is replaced with a more powerful magnetic mechanism made from small crystals of elerium. The upgrade enhanced the ballistic profile of the weapon, allowing the projectile to hit harder with better accuracy and precision."
+TacticalText="<Bullet/>Type: Assault Rifle\n<Bullet/>Firing Profile: Full-Auto\n<Bullet/>Action: Rotating Bolt\n<Bullet/>Cartridge: 7.62x39mm\n<Bullet/>Origin: Soviet Union/Russia\n<Bullet/>Tier: Magnetic"
+
+[TC_WOTC_MLT_S79_AK_T3 X2WeaponTemplate]
+FriendlyName="<font color='#CF4517'><b>RVK-47/203X</b></font>"
+FriendlyNamePlural="<font color='#CF4517'><b>RVK-47/203Xs</b></font>"
+AbilityDescName="assault rifle"
+BriefSummary="What kind of modern resistance group are you if you don't carry a Kalash? Famous for its reliability and low cost, the Avtomat Kalashnikov, or Kalsh in Russian slang, is a powerful 7.62x39mm assault rifle developed by the Soviets in 1945 near the end of World War II. This version is the actual AK47 Type 1, not the AKM, which are uncommon to find due to the fact that the Soviets manufactured more AKMs than AK47s. Although the AK47 and the AKM was replaced by the AK74 in 1974, many PMCs, resistance groups, and small militias continue to use the AK47 to this day.\n The custom version of the RVK includes a replacement of the AK-47's original barrel with a new one made from alien alloy. The new elerium-based firing system is compacted to make more room for elerium batteries, allowing the weapon to cause more damage with almost perfect precision."
+TacticalText="<Bullet/>Type: Assault Rifle\n<Bullet/>Firing Profile: Full-Auto\n<Bullet/>Action: Rotating Bolt\n<Bullet/>Cartridge: 7.62x39mm\n<Bullet/>Origin: Soviet Union/Russia\n<Bullet/>Tier: Beam"

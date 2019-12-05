@@ -1,0 +1,41 @@
+[TC_WOTC_CTM_G11_T1 X2WeaponTemplate]
+FriendlyName="<font color='#ECECEC'><b>G11 K2</b></font>"
+FriendlyNamePlural="<font color='#ECECEC'><b>G11s</b></font>"
+AbilityDescName="assault rifle"
+BriefSummary="An assault rifle noted for it use of caseless rounds. Technically, the project was completed in the 1990s and was a success. However, due to the shift in geopolitics and a lack of contracts, the weapon never went into full production."
+TacticalText="<Bullet/>Type: Assault Rifle\n<Bullet/>Firing Profile: Full-Auto\n<Bullet/>Action: Gas-Operated, Rotary Breech\n<Bullet/>Cartridge: 4.73x33mm Caseless\n<Bullet/>Origin: Germany\n<Bullet/>Tier: Conventional"
+
+[TC_WOTC_CTM_G11_T2 X2WeaponTemplate]
+FriendlyName="<font color='#27AAE1'><b>G11E</b></font>"
+FriendlyNamePlural="<font color='#27AAE1'><b>G11Es</b></font>"
+AbilityDescName="assault rifle"
+BriefSummary="An assault rifle noted for it use of caseless rounds. Technically, the project was completed in the 1990s and was a success. However, due to the shift in geopolitics and a lack of contracts, the weapon never went into full production."
+TacticalText="<Bullet/>Type: Assault Rifle\n<Bullet/>Firing Profile: Full-Auto\n<Bullet/>Action: Gas-Operated, Rotary Breech\n<Bullet/>Cartridge: 4.73x33mm Caseless\n<Bullet/>Origin: Germany\n<Bullet/>Tier: Magnetic"
+
+[TC_WOTC_CTM_G11_T3 X2WeaponTemplate]
+FriendlyName="<font color='#CF4517'><b>ACR-11</b></font>"
+FriendlyNamePlural="<font color='#CF4517'><b>ACR-11s</b></font>"
+AbilityDescName="assault rifle"
+BriefSummary="An assault rifle noted for it use of caseless rounds. Technically, the project was completed in the 1990s and was a success. However, due to the shift in geopolitics and a lack of contracts, the weapon never went into full production."
+TacticalText="<Bullet/>Type: Assault Rifle\n<Bullet/>Firing Profile: Full-Auto\n<Bullet/>Action: Gas-Operated, Rotary Breech\n<Bullet/>Cartridge: 4.73x33mm Caseless\n<Bullet/>Origin: Germany\n<Bullet/>Tier: Beam"
+
+[TC_WOTC_SKR_CTM_G11_T1 X2WeaponTemplate]
+FriendlyName="<font color='#ECECEC'><b>G11 K2</b></font>"
+FriendlyNamePlural="<font color='#ECECEC'><b>G11s</b></font>"
+AbilityDescName="assault rifle"
+BriefSummary="An assault rifle noted for it use of caseless rounds. Technically, the project was completed in the 1990s and was a success. However, due to the shift in geopolitics and a lack of contracts, the weapon never went into full production."
+TacticalText="<Bullet/>Type: Assault Rifle\n<Bullet/>Firing Profile: Full-Auto\n<Bullet/>Action: Gas-Operated, Rotary Breech\n<Bullet/>Cartridge: 4.73x33mm Caseless\n<Bullet/>Origin: Germany\n<Bullet/>Tier: Conventional"
+
+[TC_WOTC_SKR_CTM_G11_T2 X2WeaponTemplate]
+FriendlyName="<font color='#27AAE1'><b>G11E</b></font>"
+FriendlyNamePlural="<font color='#27AAE1'><b>G11Es</b></font>"
+AbilityDescName="assault rifle"
+BriefSummary="An assault rifle noted for it use of caseless rounds. Technically, the project was completed in the 1990s and was a success. However, due to the shift in geopolitics and a lack of contracts, the weapon never went into full production."
+TacticalText="<Bullet/>Type: Assault Rifle\n<Bullet/>Firing Profile: Full-Auto\n<Bullet/>Action: Gas-Operated, Rotary Breech\n<Bullet/>Cartridge: 4.73x33mm Caseless\n<Bullet/>Origin: Germany\n<Bullet/>Tier: Magnetic"
+
+[TC_WOTC_SKR_CTM_G11_T3 X2WeaponTemplate]
+FriendlyName="<font color='#CF4517'><b>ACR-11</b></font>"
+FriendlyNamePlural="<font color='#CF4517'><b>ACR-11s</b></font>"
+AbilityDescName="assault rifle"
+BriefSummary="An assault rifle noted for it use of caseless rounds. Technically, the project was completed in the 1990s and was a success. However, due to the shift in geopolitics and a lack of contracts, the weapon never went into full production."
+TacticalText="<Bullet/>Type: Assault Rifle\n<Bullet/>Firing Profile: Full-Auto\n<Bullet/>Action: Gas-Operated, Rotary Breech\n<Bullet/>Cartridge: 4.73x33mm Caseless\n<Bullet/>Origin: Germany\n<Bullet/>Tier: Beam"

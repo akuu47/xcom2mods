@@ -1,0 +1,222 @@
+[LostZombie X2CharacterTemplate]
+strCharacterName="Dispersi"
+
+[LostZombieHuman X2CharacterTemplate]
+strCharacterName="Zombi"
+
+[TheLostHowler X2CharacterTemplate]
+strCharacterName="Disperso urlatore"
+
+[TheLostBrute X2CharacterTemplate]
+strCharacterName="Disperso colosso"
+
+[TheLostHowlerHP4 X2CharacterTemplate]
+strCharacterName="Disperso urlatore"
+
+[TheLostHowlerHP5 X2CharacterTemplate]
+strCharacterName="Disperso urlatore"
+
+[TheLostHowlerHP6 X2CharacterTemplate]
+strCharacterName="Disperso urlatore"
+
+[TheLostHowlerHP7 X2CharacterTemplate]
+strCharacterName="Disperso urlatore"
+
+[TheLostHowlerHP8 X2CharacterTemplate]
+strCharacterName="Disperso urlatore"
+
+[TheLostHowlerHP9 X2CharacterTemplate]
+strCharacterName="Disperso urlatore"
+
+[TheLostHowlerHP10 X2CharacterTemplate]
+strCharacterName="Disperso urlatore"
+
+[TheLostHowlerHP11 X2CharacterTemplate]
+strCharacterName="Disperso urlatore"
+
+[TheLostHowlerHP12 X2CharacterTemplate]
+strCharacterName="Disperso urlatore"
+
+[TheLostHowlerHP13 X2CharacterTemplate]
+strCharacterName="Disperso urlatore"
+
+[TheLostHowlerHP14 X2CharacterTemplate]
+strCharacterName="Disperso urlatore"
+
+[TheLostHowlerHP15 X2CharacterTemplate]
+strCharacterName="Disperso urlatore"
+
+[TheLostHowlerHP16 X2CharacterTemplate]
+strCharacterName="Disperso urlatore"
+
+[TheLostHowlerHP17 X2CharacterTemplate]
+strCharacterName="Disperso urlatore"
+
+[TheLostHowlerHP18 X2CharacterTemplate]
+strCharacterName="Disperso urlatore"
+
+[TheLostHowlerHP19 X2CharacterTemplate]
+strCharacterName="Disperso urlatore"
+
+[TheLostHowlerHP20 X2CharacterTemplate]
+strCharacterName="Disperso urlatore"
+
+[TheLostHowlerHP21 X2CharacterTemplate]
+strCharacterName="Disperso urlatore"
+
+[TheLostHowlerHP22 X2CharacterTemplate]
+strCharacterName="Disperso urlatore"
+
+[TheLostBruteHP10 X2CharacterTemplate]
+strCharacterName="Disperso colosso"
+
+[TheLostBruteHP11 X2CharacterTemplate]
+strCharacterName="Disperso colosso"
+
+[TheLostBruteHP12 X2CharacterTemplate]
+strCharacterName="Disperso colosso"
+
+[TheLostBruteHP14 X2CharacterTemplate]
+strCharacterName="Disperso colosso"
+
+[TheLostBruteHP15 X2CharacterTemplate]
+strCharacterName="Disperso colosso"
+
+[TheLostBruteHP16 X2CharacterTemplate]
+strCharacterName="Disperso colosso"
+
+[TheLostBruteHP19 X2CharacterTemplate]
+strCharacterName="Disperso colosso"
+
+[TheLostBruteHP22 X2CharacterTemplate]
+strCharacterName="Disperso colosso"
+
+[TheLostBruteHP24 X2CharacterTemplate]
+strCharacterName="Disperso colosso"
+
+[TheLostBruteHP26 X2CharacterTemplate]
+strCharacterName="Disperso colosso"
+
+[LostAttack X2AbilityTemplate]
+LocFriendlyName="Colpo"
+LocLongDescription="Attacco in mischia del Disperso."
+LocHelpText="Attacco in mischia del Disperso."
+
+[LostHowl X2AbilityTemplate]
+LocFriendlyName="Urlo dello Sciame"
+LocLongDescription="Richiama a se un'orda di Dispersi."
+LocHelpText="Urlo dello Sciame."
+
+[LostCatchingFire X2AbilityTemplate]
+LocFriendlyName="Debolezza al fuoco"
+LocLongDescription="I Dispersi sono deboli al fuoco."
+LocHelpText="In fiamme"
+
+[BrutePoison X2AbilityTemplate]
+LocFriendlyName="Pustola esplosiva"
+LocFlyOverText="Pustola esplosiva"
+LocHelpText="Pustole velenose esplodono quando viene preso del danno."
+LocLongDescription="Pustole velenose esplodono quando viene preso del danno."
+
+[FearOfTheLost X2TraitTemplate]
+TraitFriendlyName="Terrore per i Dispersi"
+TraitScientificName="Necrofobia"
+TraitDescription="Probabilità di cadere nel panico quando si incontrano i Dispersi."
+TraitQuotes[0]="\"Non è possibile! Come possono ancora muoversi?!\""
+TraitQuotes[1]="\"Erano solo persone una volta, vero?\""
+TraitQuotes[2]="\"Questo non è un film! Questa è la realtà dannazione!\""
+TraitQuotes[3]="\"Potremmo finire proprio come loro...\""
+TraitQuotes[4]="\"Non abbiamo scampo, moriremo tutti!\""
+TraitQuotes[5]="\"Hai visto!? Si sono trasformati in una di quelle cose!\""
+TraitQuotes[6]="\"Erano degli zombi...ho guardato nei loro occhi...quella era la mia famiglia!\""
+TraitQuotes[7]="\"Sai cosa...quelli non sono normali! Ho sentito che sono stati creati in un laboratorio. Quei bastardi malati li hanno fabbricati!!!\""
+TraitQuotes[8]="\"Hai sentito? Ha sussurrato il mio nome! Lo hai sentito, giusto!?!? Giusto?????!!!\""
+TraitQuotes[9]="\"Mi ha morso!! Il mio braccio è sparito! Ho sentito che mi mangiava! Aspetta...!!! Dove sono? Tu chi sei?\""
+
+[XLocalizedData]
+LostLoudNoiseMessage="Il forte rumore fa avvicinare un'orda di Dispersi!"
+
+[GamePosterCrumbledDirty X2ItemTemplate]
+FriendlyName="Vecchia locandina logora del FXFL"
+FriendlyNamePlural="Vecchie locandine logore del FXFL"
+BriefSummary="La prima partita in assoluto del FXFL è cominciata il 9 Ottobre 2012 di un martedì notte. La Lega sarebbe durata fino alla primavere del 2015 quando la Terra fu invasa per poi cadere in mano agli alieni. L'ultima partita decisiva arrivò fino ai tempi supplementari, vedendo entrambe le squadre con un punteggio di 21 a 21. I Quebec Odd Ones stavano per segnare il punto vincente quando l'invasione ebbe inizio. Lo stadio fu preso di mira e in molti persero la vita in una manciata di secondi. MA EHI!! Ora hai collezionato un pezzo di storia del Fake Xtreme Football League. Non è in ottime condizioni, ma al Mercato Nero ne potresti ricavare qualcosa."
+
+[GamePosterPristine X2ItemTemplate]
+FriendlyName="Locandina incontaminata del FXFL"
+FriendlyNamePlural="Locandine incontaminate del FXFL"
+BriefSummary="La prima partita in assoluto del FXFL è cominciata il 9 Ottobre 2012 di un martedì notte. La Lega sarebbe durata fino alla primavere del 2015 quando la Terra fu invasa per poi cadere in mano agli alieni. L'ultima partita decisiva arrivò fino ai tempi supplementari, vedendo entrambe le squadre con un punteggio di 21 a 21. I Quebec Odd Ones stavano per segnare il punto vincente quando l'invasione ebbe inizio. Lo stadio fu preso di mira e in molti persero la vita in una manciata di secondi. MA EHI!! Ora hai collezionato un pezzo di storia del Fake Xtreme Football League. Sorprendentemente è in ottime condizioni e potrebbe essere venduto, molto bene, al Mercato Nero."
+
+[VintagePoster001 X2ItemTemplate]
+FriendlyName="Poster Vintage 1 di 15"
+FriendlyNamePlural="Vari Poster Vintage 1 di 15"
+BriefSummary="Una volta i Dispersi erano delle persone normali... e le persone normali hanno degli effetti personali. Potrebbero essere foto, soldi, armi o anche cose come lettere e poster. Potresti trovare dei poster vintage che puoi conservare o vendere per fare un po di soldi extra!"
+
+[VintagePoster002 X2ItemTemplate]
+FriendlyName="Poster Vintage 2 di 15"
+FriendlyNamePlural="Vari Poster Vintage 2 di 15"
+BriefSummary="Una volta i Dispersi erano delle persone normali... e le persone normali hanno degli effetti personali. Potrebbero essere foto, soldi, armi o anche cose come lettere e poster. Potresti trovare dei poster vintage che puoi conservare o vendere per fare un po di soldi extra!"
+
+[VintagePoster003 X2ItemTemplate]
+FriendlyName="Poster Vintage 3 di 15"
+FriendlyNamePlural="Vari Poster Vintage 3 di 15"
+BriefSummary="Una volta i Dispersi erano delle persone normali... e le persone normali hanno degli effetti personali. Potrebbero essere foto, soldi, armi o anche cose come lettere e poster. Potresti trovare dei poster vintage che puoi conservare o vendere per fare un po di soldi extra!"
+
+[VintagePoster004 X2ItemTemplate]
+FriendlyName="Poster Vintage 4 di 15"
+FriendlyNamePlural="Vari Poster Vintage 4 di 15"
+BriefSummary="Una volta i Dispersi erano delle persone normali... e le persone normali hanno degli effetti personali. Potrebbero essere foto, soldi, armi o anche cose come lettere e poster. Potresti trovare dei poster vintage che puoi conservare o vendere per fare un po di soldi extra!"
+
+[VintagePoster005 X2ItemTemplate]
+FriendlyName="Poster Vintage 5 di 15"
+FriendlyNamePlural="Vari Poster Vintage 5 di 15"
+BriefSummary="Una volta i Dispersi erano delle persone normali... e le persone normali hanno degli effetti personali. Potrebbero essere foto, soldi, armi o anche cose come lettere e poster. Potresti trovare dei poster vintage che puoi conservare o vendere per fare un po di soldi extra!"
+
+[VintagePoster006 X2ItemTemplate]
+FriendlyName="Poster Vintage 6 di 15"
+FriendlyNamePlural="Vari Poster Vintage 6 di 15"
+BriefSummary="Una volta i Dispersi erano delle persone normali... e le persone normali hanno degli effetti personali. Potrebbero essere foto, soldi, armi o anche cose come lettere e poster. Potresti trovare dei poster vintage che puoi conservare o vendere per fare un po di soldi extra!"
+
+[VintagePoster007 X2ItemTemplate]
+FriendlyName="Poster Vintage 7 di 15"
+FriendlyNamePlural="Vari Poster Vintage 7 di 15"
+BriefSummary="Una volta i Dispersi erano delle persone normali... e le persone normali hanno degli effetti personali. Potrebbero essere foto, soldi, armi o anche cose come lettere e poster. Potresti trovare dei poster vintage che puoi conservare o vendere per fare un po di soldi extra!"
+
+[VintagePoster008 X2ItemTemplate]
+FriendlyName="Poster Vintage 8 di 15"
+FriendlyNamePlural="Vari Poster Vintage 8 di 15"
+BriefSummary="Una volta i Dispersi erano delle persone normali... e le persone normali hanno degli effetti personali. Potrebbero essere foto, soldi, armi o anche cose come lettere e poster. Potresti trovare dei poster vintage che puoi conservare o vendere per fare un po di soldi extra!"
+
+[VintagePoster009 X2ItemTemplate]
+FriendlyName="Poster Vintage 9 di 15"
+FriendlyNamePlural="Vari Poster Vintage 9 di 15"
+BriefSummary="Una volta i Dispersi erano delle persone normali... e le persone normali hanno degli effetti personali. Potrebbero essere foto, soldi, armi o anche cose come lettere e poster. Potresti trovare dei poster vintage che puoi conservare o vendere per fare un po di soldi extra!"
+
+[VintagePoster010 X2ItemTemplate]
+FriendlyName="Poster Vintage 10 di 15"
+FriendlyNamePlural="Vari Poster Vintage 10 di 15"
+BriefSummary="Una volta i Dispersi erano delle persone normali... e le persone normali hanno degli effetti personali. Potrebbero essere foto, soldi, armi o anche cose come lettere e poster. Potresti trovare dei poster vintage che puoi conservare o vendere per fare un po di soldi extra!"
+
+[VintagePoster011 X2ItemTemplate]
+FriendlyName="Poster Vintage 11 di 15"
+FriendlyNamePlural="Vari Poster Vintage 11 di 15"
+BriefSummary="Una volta i Dispersi erano delle persone normali... e le persone normali hanno degli effetti personali. Potrebbero essere foto, soldi, armi o anche cose come lettere e poster. Potresti trovare dei poster vintage che puoi conservare o vendere per fare un po di soldi extra!"
+
+[VintagePoster012 X2ItemTemplate]
+FriendlyName="Poster Vintage 12 di 15"
+FriendlyNamePlural="Vari Poster Vintage 12 di 15"
+BriefSummary="Una volta i Dispersi erano delle persone normali... e le persone normali hanno degli effetti personali. Potrebbero essere foto, soldi, armi o anche cose come lettere e poster. Potresti trovare dei poster vintage che puoi conservare o vendere per fare un po di soldi extra!"
+
+[VintagePoster013 X2ItemTemplate]
+FriendlyName="Poster Vintage 13 di 15"
+FriendlyNamePlural="Vari Poster Vintage 13 di 15"
+BriefSummary="Una volta i Dispersi erano delle persone normali... e le persone normali hanno degli effetti personali. Potrebbero essere foto, soldi, armi o anche cose come lettere e poster. Potresti trovare dei poster vintage che puoi conservare o vendere per fare un po di soldi extra!"
+
+[VintagePoster014 X2ItemTemplate]
+FriendlyName="Poster Vintage 14 di 15"
+FriendlyNamePlural="Vari Poster Vintage 14 di 15"
+BriefSummary="Una volta i Dispersi erano delle persone normali... e le persone normali hanno degli effetti personali. Potrebbero essere foto, soldi, armi o anche cose come lettere e poster. Potresti trovare dei poster vintage che puoi conservare o vendere per fare un po di soldi extra!"
+
+[VintagePoster015 X2ItemTemplate]
+FriendlyName="Poster Vintage 15 di 15"
+FriendlyNamePlural="Vari Poster Vintage 15 di 15"
+BriefSummary="Una volta i Dispersi erano delle persone normali... e le persone normali hanno degli effetti personali. Potrebbero essere foto, soldi, armi o anche cose come lettere e poster. Potresti trovare dei poster vintage che puoi conservare o vendere per fare un po di soldi extra!"

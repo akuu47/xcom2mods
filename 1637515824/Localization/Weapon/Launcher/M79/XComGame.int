@@ -1,0 +1,13 @@
+[MD_WOTC_GL_M79_STD_T1 X2GrenadeLauncherTemplate]
+FriendlyName="M79 'Thumper'"
+FriendlyNamePlural="M79 'Thumpers'"
+AbilityDescName="grenade launcher"
+BriefSummary="The classic M79 is a break-action grenade launcher that can launch grenades accurately over longer distances."
+TacticalText="<Bullet/>Type: Grenade Launcher\n<Bullet/>Firing Profile: Single\n<Bullet/>Action: Break-Action\n<Bullet/>Cartridge: 40x46mm Grenades\n<Bullet/>Origin: United States\n<Bullet/>Tier: Conventional"
+
+[MD_WOTC_GL_M79_STD_T2 X2GrenadeLauncherTemplate]
+FriendlyName="XGL-79 'Raider'"
+FriendlyNamePlural="XGL-79 'Raiders'"
+AbilityDescName="grenade launcher"
+BriefSummary="The classic M79 is a break-action grenade launcher that can launch grenades accurately over longer distances. The 'Raider' version improves upon the original design by augmenting the original rifle with magnetic techology."
+TacticalText="<Bullet/>Type: Grenade Launcher\n<Bullet/>Firing Profile: Single\n<Bullet/>Action: Break-Action\n<Bullet/>Cartridge: 40x46mm Grenades\n<Bullet/>Origin: United States\n<Bullet/>Tier: Magnetic"

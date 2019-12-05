@@ -1,0 +1,33 @@
+
+Release Version 3.001:
+[list]
+	[*]Fixed MW4 textures being too shiny.
+	[*]Added XXtended magazine textures.
+[/list]
+
+Release Version 3.000 (Cold Autumn Update):
+[list]
+	[*]Added attachments from MW4.
+[/list]
+
+Release Version 2.001:
+[list]
+	[*]Fixed some texture bugs with the IW attachments.
+[/list]
+
+Release Version 2.000 (Summer Weekday Update):
+[list]
+	[*]Added new attachments from the game Insurgency: Sandstorm by New World Interactive.
+	[*]Completely overhauled 02_Stoy79_Attachments_Shared_Assets.upk, as part of the retexture update of RF's 3.000 Content update.
+	[*]Some underbarrel attachments.
+[/list]
+
+Release Version 1.001:
+[list]
+	[*]Fixed some bugs.
+[/list]
+
+Release Version 1.000
+[list]
+	[*]Initial Release.
+[/list]

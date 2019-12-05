@@ -1,0 +1,262 @@
+;
+; Arms
+;
+
+[CNV_WotC_SLD_MGSV_MSF_SneakingSuit_Arm_Left_M X2BodyPartTemplate]
+DisplayName="MSF Sneaking Suit - Left Arm"
+
+[LPL_WotC_SLD_MGSV_MSF_SneakingSuit_Arm_Left_M X2BodyPartTemplate]
+DisplayName="MSF Sneaking Suit - Left Arm"
+
+[MPL_WotC_SLD_MGSV_MSF_SneakingSuit_Arm_Left_M X2BodyPartTemplate]
+DisplayName="MSF Sneaking Suit - Left Arm"
+
+[HPL_WotC_SLD_MGSV_MSF_SneakingSuit_Arm_Left_M X2BodyPartTemplate]
+DisplayName="MSF Sneaking Suit - Left Arm"
+
+[LPW_WotC_SLD_MGSV_MSF_SneakingSuit_Arm_Left_M X2BodyPartTemplate]
+DisplayName="MSF Sneaking Suit - Left Arm"
+
+[MPW_WotC_SLD_MGSV_MSF_SneakingSuit_Arm_Left_M X2BodyPartTemplate]
+DisplayName="MSF Sneaking Suit - Left Arm"
+
+[HPW_WotC_SLD_MGSV_MSF_SneakingSuit_Arm_Left_M X2BodyPartTemplate]
+DisplayName="MSF Sneaking Suit - Left Arm"
+
+
+[CNV_WotC_SLD_MGSV_MSF_SneakingSuit_Arm_Left_F X2BodyPartTemplate]
+DisplayName="MSF Sneaking Suit - Left Arm"
+
+[LPL_WotC_SLD_MGSV_MSF_SneakingSuit_Arm_Left_F X2BodyPartTemplate]
+DisplayName="MSF Sneaking Suit - Left Arm"
+
+[MPL_WotC_SLD_MGSV_MSF_SneakingSuit_Arm_Left_F X2BodyPartTemplate]
+DisplayName="MSF Sneaking Suit - Left Arm"
+
+[HPL_WotC_SLD_MGSV_MSF_SneakingSuit_Arm_Left_F X2BodyPartTemplate]
+DisplayName="MSF Sneaking Suit - Left Arm"
+
+[LPW_WotC_SLD_MGSV_MSF_SneakingSuit_Arm_Left_F X2BodyPartTemplate]
+DisplayName="MSF Sneaking Suit - Left Arm"
+
+[MPW_WotC_SLD_MGSV_MSF_SneakingSuit_Arm_Left_F X2BodyPartTemplate]
+DisplayName="MSF Sneaking Suit - Left Arm"
+
+[HPW_WotC_SLD_MGSV_MSF_SneakingSuit_Arm_Left_F X2BodyPartTemplate]
+DisplayName="MSF Sneaking Suit - Left Arm"
+
+
+[CNV_WotC_SLD_MGSV_MSF_SneakingSuit_Arm_Right_M X2BodyPartTemplate]
+DisplayName="MSF Sneaking Suit - Right Arm"
+
+[LPL_WotC_SLD_MGSV_MSF_SneakingSuit_Arm_Right_M X2BodyPartTemplate]
+DisplayName="MSF Sneaking Suit - Right Arm"
+
+[MPL_WotC_SLD_MGSV_MSF_SneakingSuit_Arm_Right_M X2BodyPartTemplate]
+DisplayName="MSF Sneaking Suit - Right Arm"
+
+[HPL_WotC_SLD_MGSV_MSF_SneakingSuit_Arm_Right_M X2BodyPartTemplate]
+DisplayName="MSF Sneaking Suit - Right Arm"
+
+[LPW_WotC_SLD_MGSV_MSF_SneakingSuit_Arm_Right_M X2BodyPartTemplate]
+DisplayName="MSF Sneaking Suit - Right Arm"
+
+[MPW_WotC_SLD_MGSV_MSF_SneakingSuit_Arm_Right_M X2BodyPartTemplate]
+DisplayName="MSF Sneaking Suit - Right Arm"
+
+[HPW_WotC_SLD_MGSV_MSF_SneakingSuit_Arm_Right_M X2BodyPartTemplate]
+DisplayName="MSF Sneaking Suit - Right Arm"
+
+
+[CNV_WotC_SLD_MGSV_MSF_SneakingSuit_Arm_Right_F X2BodyPartTemplate]
+DisplayName="MSF Sneaking Suit - Right Arm"
+
+[LPL_WotC_SLD_MGSV_MSF_SneakingSuit_Arm_Right_F X2BodyPartTemplate]
+DisplayName="MSF Sneaking Suit - Right Arm"
+
+[MPL_WotC_SLD_MGSV_MSF_SneakingSuit_Arm_Right_F X2BodyPartTemplate]
+DisplayName="MSF Sneaking Suit - Right Arm"
+
+[HPL_WotC_SLD_MGSV_MSF_SneakingSuit_Arm_Right_F X2BodyPartTemplate]
+DisplayName="MSF Sneaking Suit - Right Arm"
+
+[LPW_WotC_SLD_MGSV_MSF_SneakingSuit_Arm_Right_F X2BodyPartTemplate]
+DisplayName="MSF Sneaking Suit - Right Arm"
+
+[MPW_WotC_SLD_MGSV_MSF_SneakingSuit_Arm_Right_F X2BodyPartTemplate]
+DisplayName="MSF Sneaking Suit - Right Arm"
+
+[HPW_WotC_SLD_MGSV_MSF_SneakingSuit_Arm_Right_F X2BodyPartTemplate]
+DisplayName="MSF Sneaking Suit - Right Arm"
+
+
+[CNV_WotC_SLD_MGSV_MSF_SneakingSuit_Patch_MSF_Left_M X2BodyPartTemplate]
+DisplayName="MSF Patch - Left Shoulder"
+
+[LPL_WotC_SLD_MGSV_MSF_SneakingSuit_Patch_MSF_Left_M X2BodyPartTemplate]
+DisplayName="MSF Patch - Left Shoulder"
+
+[MPL_WotC_SLD_MGSV_MSF_SneakingSuit_Patch_MSF_Left_M X2BodyPartTemplate]
+DisplayName="MSF Patch - Left Shoulder"
+
+[HPL_WotC_SLD_MGSV_MSF_SneakingSuit_Patch_MSF_Left_M X2BodyPartTemplate]
+DisplayName="MSF Patch - Left Shoulder"
+
+[LPW_WotC_SLD_MGSV_MSF_SneakingSuit_Patch_MSF_Left_M X2BodyPartTemplate]
+DisplayName="MSF Patch - Left Shoulder"
+
+[MPW_WotC_SLD_MGSV_MSF_SneakingSuit_Patch_MSF_Left_M X2BodyPartTemplate]
+DisplayName="MSF Patch - Left Shoulder"
+
+[HPW_WotC_SLD_MGSV_MSF_SneakingSuit_Patch_MSF_Left_M X2BodyPartTemplate]
+DisplayName="MSF Patch - Left Shoulder"
+
+[CNV_WotC_SLD_MGSV_MSF_SneakingSuit_Patch_MSF_Left_F X2BodyPartTemplate]
+DisplayName="MSF Patch - Left Shoulder"
+
+[LPL_WotC_SLD_MGSV_MSF_SneakingSuit_Patch_MSF_Left_F X2BodyPartTemplate]
+DisplayName="MSF Patch - Left Shoulder"
+
+[MPL_WotC_SLD_MGSV_MSF_SneakingSuit_Patch_MSF_Left_F X2BodyPartTemplate]
+DisplayName="MSF Patch - Left Shoulder"
+
+[HPL_WotC_SLD_MGSV_MSF_SneakingSuit_Patch_MSF_Left_F X2BodyPartTemplate]
+DisplayName="MSF Patch - Left Shoulder"
+
+[LPW_WotC_SLD_MGSV_MSF_SneakingSuit_Patch_MSF_Left_F X2BodyPartTemplate]
+DisplayName="MSF Patch - Left Shoulder"
+
+[MPW_WotC_SLD_MGSV_MSF_SneakingSuit_Patch_MSF_Left_F X2BodyPartTemplate]
+DisplayName="MSF Patch - Left Shoulder"
+
+[HPW_WotC_SLD_MGSV_MSF_SneakingSuit_Patch_MSF_Left_F X2BodyPartTemplate]
+DisplayName="MSF Patch - Left Shoulder"
+
+
+[CNV_WotC_SLD_MGSV_MSF_SneakingSuit_Patch_MSF_Right_M X2BodyPartTemplate]
+DisplayName="MSF Patch - Right Shoulder"
+
+[LPL_WotC_SLD_MGSV_MSF_SneakingSuit_Patch_MSF_Right_M X2BodyPartTemplate]
+DisplayName="MSF Patch - Right Shoulder"
+
+[MPL_WotC_SLD_MGSV_MSF_SneakingSuit_Patch_MSF_Right_M X2BodyPartTemplate]
+DisplayName="MSF Patch - Right Shoulder"
+
+[HPL_WotC_SLD_MGSV_MSF_SneakingSuit_Patch_MSF_Right_M X2BodyPartTemplate]
+DisplayName="MSF Patch - Right Shoulder"
+
+[LPW_WotC_SLD_MGSV_MSF_SneakingSuit_Patch_MSF_Right_M X2BodyPartTemplate]
+DisplayName="MSF Patch - Right Shoulder"
+
+[MPW_WotC_SLD_MGSV_MSF_SneakingSuit_Patch_MSF_Right_M X2BodyPartTemplate]
+DisplayName="MSF Patch - Right Shoulder"
+
+[HPW_WotC_SLD_MGSV_MSF_SneakingSuit_Patch_MSF_Right_M X2BodyPartTemplate]
+DisplayName="MSF Patch - Right Shoulder"
+
+[CNV_WotC_SLD_MGSV_MSF_SneakingSuit_Patch_MSF_Right_F X2BodyPartTemplate]
+DisplayName="MSF Patch - Right Shoulder"
+
+[LPL_WotC_SLD_MGSV_MSF_SneakingSuit_Patch_MSF_Right_F X2BodyPartTemplate]
+DisplayName="MSF Patch - Right Shoulder"
+
+[MPL_WotC_SLD_MGSV_MSF_SneakingSuit_Patch_MSF_Right_F X2BodyPartTemplate]
+DisplayName="MSF Patch - Right Shoulder"
+
+[HPL_WotC_SLD_MGSV_MSF_SneakingSuit_Patch_MSF_Right_F X2BodyPartTemplate]
+DisplayName="MSF Patch - Right Shoulder"
+
+[LPW_WotC_SLD_MGSV_MSF_SneakingSuit_Patch_MSF_Right_F X2BodyPartTemplate]
+DisplayName="MSF Patch - Right Shoulder"
+
+[MPW_WotC_SLD_MGSV_MSF_SneakingSuit_Patch_MSF_Right_F X2BodyPartTemplate]
+DisplayName="MSF Patch - Right Shoulder"
+
+[HPW_WotC_SLD_MGSV_MSF_SneakingSuit_Patch_MSF_Right_F X2BodyPartTemplate]
+DisplayName="MSF Patch - Right Shoulder"
+
+
+[CNV_WotC_SLD_MGSV_MSF_SneakingSuit_Patch_FOX_Left_M X2BodyPartTemplate]
+DisplayName="FOX Patch - Left Shoulder"
+
+[LPL_WotC_SLD_MGSV_MSF_SneakingSuit_Patch_FOX_Left_M X2BodyPartTemplate]
+DisplayName="FOX Patch - Left Shoulder"
+
+[MPL_WotC_SLD_MGSV_MSF_SneakingSuit_Patch_FOX_Left_M X2BodyPartTemplate]
+DisplayName="FOX Patch - Left Shoulder"
+
+[HPL_WotC_SLD_MGSV_MSF_SneakingSuit_Patch_FOX_Left_M X2BodyPartTemplate]
+DisplayName="FOX Patch - Left Shoulder"
+
+[LPW_WotC_SLD_MGSV_MSF_SneakingSuit_Patch_FOX_Left_M X2BodyPartTemplate]
+DisplayName="FOX Patch - Left Shoulder"
+
+[MPW_WotC_SLD_MGSV_MSF_SneakingSuit_Patch_FOX_Left_M X2BodyPartTemplate]
+DisplayName="FOX Patch - Left Shoulder"
+
+[HPW_WotC_SLD_MGSV_MSF_SneakingSuit_Patch_FOX_Left_M X2BodyPartTemplate]
+DisplayName="FOX Patch - Left Shoulder"
+
+[CNV_WotC_SLD_MGSV_MSF_SneakingSuit_Patch_FOX_Left_F X2BodyPartTemplate]
+DisplayName="FOX Patch - Left Shoulder"
+
+[LPL_WotC_SLD_MGSV_MSF_SneakingSuit_Patch_FOX_Left_F X2BodyPartTemplate]
+DisplayName="FOX Patch - Left Shoulder"
+
+[MPL_WotC_SLD_MGSV_MSF_SneakingSuit_Patch_FOX_Left_F X2BodyPartTemplate]
+DisplayName="FOX Patch - Left Shoulder"
+
+[HPL_WotC_SLD_MGSV_MSF_SneakingSuit_Patch_FOX_Left_F X2BodyPartTemplate]
+DisplayName="FOX Patch - Left Shoulder"
+
+[LPW_WotC_SLD_MGSV_MSF_SneakingSuit_Patch_FOX_Left_F X2BodyPartTemplate]
+DisplayName="FOX Patch - Left Shoulder"
+
+[MPW_WotC_SLD_MGSV_MSF_SneakingSuit_Patch_FOX_Left_F X2BodyPartTemplate]
+DisplayName="FOX Patch - Left Shoulder"
+
+[HPW_WotC_SLD_MGSV_MSF_SneakingSuit_Patch_FOX_Left_F X2BodyPartTemplate]
+DisplayName="FOX Patch - Left Shoulder"
+
+
+[CNV_WotC_SLD_MGSV_MSF_SneakingSuit_Patch_FOX_Right_M X2BodyPartTemplate]
+DisplayName="FOX Patch - Right Shoulder"
+
+[LPL_WotC_SLD_MGSV_MSF_SneakingSuit_Patch_FOX_Right_M X2BodyPartTemplate]
+DisplayName="FOX Patch - Right Shoulder"
+
+[MPL_WotC_SLD_MGSV_MSF_SneakingSuit_Patch_FOX_Right_M X2BodyPartTemplate]
+DisplayName="FOX Patch - Right Shoulder"
+
+[HPL_WotC_SLD_MGSV_MSF_SneakingSuit_Patch_FOX_Right_M X2BodyPartTemplate]
+DisplayName="FOX Patch - Right Shoulder"
+
+[LPW_WotC_SLD_MGSV_MSF_SneakingSuit_Patch_FOX_Right_M X2BodyPartTemplate]
+DisplayName="FOX Patch - Right Shoulder"
+
+[MPW_WotC_SLD_MGSV_MSF_SneakingSuit_Patch_FOX_Right_M X2BodyPartTemplate]
+DisplayName="FOX Patch - Right Shoulder"
+
+[HPW_WotC_SLD_MGSV_MSF_SneakingSuit_Patch_FOX_Right_M X2BodyPartTemplate]
+DisplayName="FOX Patch - Right Shoulder"
+
+[CNV_WotC_SLD_MGSV_MSF_SneakingSuit_Patch_FOX_Right_F X2BodyPartTemplate]
+DisplayName="FOX Patch - Right Shoulder"
+
+[LPL_WotC_SLD_MGSV_MSF_SneakingSuit_Patch_FOX_Right_F X2BodyPartTemplate]
+DisplayName="FOX Patch - Right Shoulder"
+
+[MPL_WotC_SLD_MGSV_MSF_SneakingSuit_Patch_FOX_Right_F X2BodyPartTemplate]
+DisplayName="FOX Patch - Right Shoulder"
+
+[HPL_WotC_SLD_MGSV_MSF_SneakingSuit_Patch_FOX_Right_F X2BodyPartTemplate]
+DisplayName="FOX Patch - Right Shoulder"
+
+[LPW_WotC_SLD_MGSV_MSF_SneakingSuit_Patch_FOX_Right_F X2BodyPartTemplate]
+DisplayName="FOX Patch - Right Shoulder"
+
+[MPW_WotC_SLD_MGSV_MSF_SneakingSuit_Patch_FOX_Right_F X2BodyPartTemplate]
+DisplayName="FOX Patch - Right Shoulder"
+
+[HPW_WotC_SLD_MGSV_MSF_SneakingSuit_Patch_FOX_Right_F X2BodyPartTemplate]
+DisplayName="FOX Patch - Right Shoulder"

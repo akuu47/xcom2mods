@@ -1,0 +1,70 @@
+;************************************************************************************************************
+;XComGame.int - This File manages the names of custom classes, their descriptions & also their nicknames.
+;In Addition custom soldier rank names can be applied here if you want to differ from normal xcom.
+;************************************************************************************************************
+
+[XComGame.X2SoldierClass_DefaultClasses]
++SoldierClasses=SkirmisherRecruit
+
+;************************************************************************************************************
+; EXAMPLE CLASS
+;************************************************************************************************************
+[SkirmisherRecruit X2SoldierClassTemplate]
+
+;This is the Name of the Class shown in the Game
++DisplayName="Skirmisher"
+
+;This is the Class Description shown in the Guerilla Tactics School & Promotion Screen
++ClassSummary="The Skirmisher is a highly mobile unit specializing in Hit-and-Run style combat."
+
+;These 2 lines dictate the name of the left & right ability trees show in the promotion screen (not the training centre)
++AbilityTreeTitles[0]="Hussar"
++AbilityTreeTitles[1]="Judge"
++AbilityTreeTitles[2]="Tactician"
++AbilityTreeTitles[3]="XCOM"
+;For your custom class you can apply nicknames, You can have as many as you want but I left space for 16 random ones
+;ALPHABETICAL ORDER
++RandomNickNames[0]="Judge"
++RandomNickNames[1]="Reckoner"
++RandomNickNames[2]="Inquisitor"
++RandomNickNames[3]="Deathknell"
++RandomNickNames[4]="Gravedigger"
++RandomNickNames[5]="Scourge"
++RandomNickNames[6]="Fatal"
++RandomNickNames[7]="Doom"
++RandomNickNames[8]="Chains"
++RandomNickNames[9]="Ripper"
++RandomNickNames[10]="Beast"
++RandomNickNames[11]="Hellborn"
++RandomNickNames[12]="Harbinger"
++RandomNickNames[13]="Demon"
+;ALPHABETICAL ORDER
++RandomNickNames_Male[0]="Lazarus"
+;ALPHABETICAL ORDER
++RandomNickNames_Female[0]="Athena"
+
+
+
++RankNames[0]="Rookie"
++RankNames[1]="Squaddie"
++RankNames[2]="Corporal"
++RankNames[3]="Sergeant"
++RankNames[4]="Lieutenant"
++RankNames[5]="Captain"
++RankNames[6]="Major"
++RankNames[7]="Colonel"
++RankNames[8]="Brigadier"
+
++ShortNames[0]="Rk."
++ShortNames[1]="Sq."
++ShortNames[2]="Cpl."
++ShortNames[3]="Sgt."
++ShortNames[4]="Lt."
++ShortNames[5]="Cpt."
++ShortNames[6]="Maj."
++ShortNames[7]="Col."
++ShortNames[8]="Brig."
+
+;************************************************************************************************************
+;END FILE
+;************************************************************************************************************

@@ -1,0 +1,41 @@
+[TC_WOTC_MILL_WA2000_T1 X2WeaponTemplate]
+FriendlyName="<font color='#ECECEC'><b>WA 2000</b></font>"
+FriendlyNamePlural="<font color='#ECECEC'><b>WA 2000s</b></font>"
+AbilityDescName="bullpup sniper rifle"
+BriefSummary="The Walther WA 2000 is a semi-auto bullpup sniper rifle created in response to the massacre of the 1972 Munich Summer Olympic Games. There were three WA 2000, each designed to fit the .300 Winchester Magnum, 7.62x51mm NATO, or 7.5x55mm Swiss. There are no iron sights to the weapon, so it must have a telescopic sight mounted at all times. The rifle was produced from 1982 to 1988. Production ceased due to the fact that this weapon was expensive to manufacture, and was unsuitable for any military to adopt." 
+TacticalText="<Bullet/>Type: Bullpup Sniper Rifle\n<Bullet/>Firing Profile: Semi-Auto\n<Bullet/>Action: Gas-operated, Rotating Bolt\n<Bullet/>Cartridge: .300 Winchester Magnum\n<Bullet/>Origin: West Germany\n<Bullet/>Tier: Conventional"
+
+[TC_WOTC_MILL_WA2000_T2 X2WeaponTemplate]
+FriendlyName="<font color='#27AAE1'><b>Sieger 300</b></font>"
+FriendlyNamePlural="<font color='#27AAE1'><b>Sieger 300s</b></font>"
+AbilityDescName="bullpup sniper rifle"
+BriefSummary="The Walther WA 2000 is a semi-auto bullpup sniper rifle created in response to the massacre of the 1972 Munich Summer Olympic Games. There were three WA 2000, each designed to fit the .300 Winchester Magnum, 7.62x51mm NATO, or 7.5x55mm Swiss. There are no iron sights to the weapon, so it must have a telescopic sight mounted at all times. The rifle was produced from 1982 to 1988. Production ceased due to the fact that this weapon was expensive to manufacture, and was unsuitable for any military to adopt.\nThe WASP B-3000 frame was remade using alien alloys, making the weapon lighter and more stable than it's conventional counterpart."
+TacticalText="<Bullet/>Type: Bullpup Sniper Rifle\n<Bullet/>Firing Profile: Semi-Auto\n<Bullet/>Action: Gas-operated, Rotating Bolt\n<Bullet/>Cartridge: .300 Winchester Magnum\n<Bullet/>Origin: West Germany\n<Bullet/>Tier: Magnetic"
+
+[TC_WOTC_MILL_WA2000_T3 X2WeaponTemplate]
+FriendlyName="<font color='#CF4517'><b>Sieger 300X Prototype </b></font>"
+FriendlyNamePlural="<font color='#CF4517'><b>Sieger 300Xs</b></font>"
+AbilityDescName="bullpup sniper rifle"
+BriefSummary="The Walther WA 2000 is a semi-auto bullpup sniper rifle created in response to the massacre of the 1972 Munich Summer Olympic Games. There were three WA 2000, each designed to fit the .300 Winchester Magnum, 7.62x51mm NATO, or 7.5x55mm Swiss. There are no iron sights to the weapon, so it must have a telescopic sight mounted at all times. The rifle was produced from 1982 to 1988. Production ceased due to the fact that this weapon was expensive to manufacture, and was unsuitable for any military to adopt.\n The WASP B-4000 is the next gen variant of the WA 2000. The cartridge and firing system are modified with alien technology, making the weapon even deadlier than before."
+TacticalText="<Bullet/>Type: Bullpup Sniper Rifle\n<Bullet/>Firing Profile: Semi-Auto\n<Bullet/>Action: Gas-operated, Rotating Bolt\n<Bullet/>Cartridge: .300 Winchester Magnum\n<Bullet/>Origin: West Germany\n<Bullet/>Tier: Beam"
+
+[TC_WOTC_RPR_MILL_WA2000_T1 X2WeaponTemplate]
+FriendlyName="<font color='#ECECEC'><b>WA 2000</b></font>"
+FriendlyNamePlural="<font color='#ECECEC'><b>WA 2000s</b></font>"
+AbilityDescName="bullpup sniper rifle"
+BriefSummary="The Walther WA 2000 is a semi-auto bullpup sniper rifle created in response to the massacre of the 1972 Munich Summer Olympic Games. There were three WA 2000, each designed to fit the .300 Winchester Magnum, 7.62x51mm NATO, or 7.5x55mm Swiss. There are no iron sights to the weapon, so it must have a telescopic sight mounted at all times. The rifle was produced from 1982 to 1988. Production ceased due to the fact that this weapon was expensive to manufacture, and was unsuitable for any military to adopt." 
+TacticalText="<Bullet/>Type: Bullpup Sniper Rifle\n<Bullet/>Firing Profile: Semi-Auto\n<Bullet/>Action: Gas-operated, Rotating Bolt\n<Bullet/>Cartridge: .300 Winchester Magnum\n<Bullet/>Origin: West Germany\n<Bullet/>Tier: Conventional"
+
+[TC_WOTC_RPR_MILL_WA2000_T2 X2WeaponTemplate]
+FriendlyName="<font color='#27AAE1'><b>Sieger 200</b></font>"
+FriendlyNamePlural="<font color='#27AAE1'><b>Sieger 200s</b></font>"
+AbilityDescName="bullpup sniper rifle"
+BriefSummary="The Walther WA 2000 is a semi-auto bullpup sniper rifle created in response to the massacre of the 1972 Munich Summer Olympic Games. There were three WA 2000, each designed to fit the .300 Winchester Magnum, 7.62x51mm NATO, or 7.5x55mm Swiss. There are no iron sights to the weapon, so it must have a telescopic sight mounted at all times. The rifle was produced from 1982 to 1988. Production ceased due to the fact that this weapon was expensive to manufacture, and was unsuitable for any military to adopt.\nThe WASP B-3000 frame was remade using alien alloys, making the weapon lighter and more stable than it's conventional counterpart."
+TacticalText="<Bullet/>Type: Bullpup Sniper Rifle\n<Bullet/>Firing Profile: Semi-Auto\n<Bullet/>Action: Gas-operated, Rotating Bolt\n<Bullet/>Cartridge: .300 Winchester Magnum\n<Bullet/>Origin: West Germany\n<Bullet/>Tier: Magnetic"
+
+[TC_WOTC_RPR_MILL_WA2000_T3 X2WeaponTemplate]
+FriendlyName="<font color='#CF4517'><b>Sieger Prototype 200X</b></font>"
+FriendlyNamePlural="<font color='#CF4517'><b>Sieger 200Xs</b></font>"
+AbilityDescName="bullpup sniper rifle"
+BriefSummary="The Walther WA 2000 is a semi-auto bullpup sniper rifle created in response to the massacre of the 1972 Munich Summer Olympic Games. There were three WA 2000, each designed to fit the .300 Winchester Magnum, 7.62x51mm NATO, or 7.5x55mm Swiss. There are no iron sights to the weapon, so it must have a telescopic sight mounted at all times. The rifle was produced from 1982 to 1988. Production ceased due to the fact that this weapon was expensive to manufacture, and was unsuitable for any military to adopt.\n The WASP B-4000 is the next gen variant of the WA 2000. The cartridge and firing system are modified with alien technology, making the weapon even deadlier than before."
+TacticalText="<Bullet/>Type: Bullpup Sniper Rifle\n<Bullet/>Firing Profile: Semi-Auto\n<Bullet/>Action: Gas-operated, Rotating Bolt\n<Bullet/>Cartridge: .300 Winchester Magnum\n<Bullet/>Origin: West Germany\n<Bullet/>Tier: Beam"

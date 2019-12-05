@@ -1,0 +1,19 @@
+[MD_WOTC_MWR_GND_SMOKE_M18_STD_T1 X2GrenadeTemplate]
+FriendlyName="M18 Smoke Grenade"
+FriendlyNamePlural="M18 Smoke Grenades"
+BriefSummary="Provides a defensive boost to any unit within the radius of the smoke, friend or foe."
+TacticalText="<Bullet/> Smoke can be deployed to instantly increase the defense of nearby units.<br><Bullet/> Smoke grenades can be thrown and launched significantly further than standard grenades."
+ThrownAbilityName="Throw M18 Smoke Grenade"
+ThrownAbilityHelpText="Grants a defensive boost to units within its radius."
+LaunchedAbilityname="Launch M18 Smoke Grenade"
+LaunchedAbilityHelpText="Grants a defensive boost to units within its radius."
+
+[MD_WOTC_MWR_GND_SMOKE_M18_STD_T2 X2GrenadeTemplate]
+FriendlyName="M18-B Smoke Bomb"
+FriendlyNamePlural="M18-B Smoke Bombs"
+BriefSummary="The upgraded M18-B Smoke Bomb provides a significant defensive boost to any unit within the radius of the smoke, friend or foe."
+TacticalText="<Bullet/> Smoke Bombs, a powerful upgrade to our earlier Smoke Grenades, grant greater defense in a larger radius.<br><Bullet/> Smoke can be deployed to instantly increase the defense of nearby units.<br><Bullet/> Smoke Bombs can be thrown and launched significantly further than standard grenades."
+ThrownAbilityName="Throw M18-B Smoke Bomb"
+ThrownAbilityHelpText="Grants a significant defensive boost to units within its radius."
+LaunchedAbilityname="Launch M18-B Smoke Bomb"
+LaunchedAbilityHelpText="Grants a significant defensive boost to units within its radius."

@@ -1,0 +1,45 @@
+[TC_WOTC_MILL_DEAGLE_T1 X2WeaponTemplate]
+FriendlyName="<font color='#ECECEC'><b>Desert Eagle XIX</b></font>"
+FriendlyNamePlural="<font color='#ECECEC'><b>Desert Eagles</b></font>"
+AbilityDescName="high-caliber pistol"
+BriefSummary="The Desert Eagle is a popular .50 Action Express sidearm, made by Israel Military Industries back in 1995. What makes this weapon unique is that it uses a gas-operated system normally found in rifles, which allows the weapon to fire more powerful cartidges akin to magnum revolvers. Changing the chambering from .50 AE to .44, .41, or .357 Magnum requires only the correct bolt assembly, barrel, and magazine be installed. In the hands of the right person, this can be a devastating weapon, especially for women that are more comfortable firing a Desert Eagle than wearing a bra."
+TacticalText="<Bullet/>Type: Semi-Automatic Pistol\n<Bullet/>Firing Profile: Semi-Auto\n<Bullet/>Action: Gas-Operated, Rotating Bolt\n<Bullet/>Cartridge: .50 AE\n<Bullet/>Origin: United States, Israel\n<Bullet/>Tier: Conventional"
+
+
+[TC_WOTC_MILL_DEAGLE_T2 X2WeaponTemplate]
+FriendlyName="<font color='#27AAE1'><b>Raptor X</b></font>"
+FriendlyNamePlural="<font color='#27AAE1'><b>Raptor Xs</b></font>"
+AbilityDescName="high-caliber pistol"
+BriefSummary="The Desert Eagle is a popular .50 Action Express sidearm, made by Israel Military Industries back in 1995. What makes this weapon unique is that it uses a gas-operated system normally found in rifles, which allows the weapon to fire more powerful cartidges akin to magnum revolvers. Changing the chambering from .50 AE to .44, .41, or .357 Magnum requires only the correct bolt assembly, barrel, and magazine be installed. In the hands of the right person, this can be a devastating weapon, especially for women that are more comfortable firing a Desert Eagle than wearing a bra.\n The Raptor X sports a brand new bolt assembly and barrel made from  alien alloys, enchancing the weapon beyond its conventional capabilities."
+TacticalText="<Bullet/>Type: Semi-Automatic Pistol\n<Bullet/>Firing Profile: Semi-Auto\n<Bullet/>Action: Gas-Operated, Rotating Bolt\n<Bullet/>Cartridge: .50 AE\n<Bullet/>Origin: United States, Israel\n<Bullet/>Tier: Magnetic"
+
+
+[TC_WOTC_MILL_DEAGLE_T3 X2WeaponTemplate]
+FriendlyName="<font color='#CF4517'><b>Raptor XE</b></font>"
+FriendlyNamePlural="<font color='#CF4517'><b>Raptor XEs</b></font>"
+AbilityDescName="high-caliber pistol"
+BriefSummary="The Desert Eagle is a popular .50 Action Express sidearm, made by Israel Military Industries back in 1995. What makes this weapon unique is that it uses a gas-operated system normally found in rifles, which allows the weapon to fire more powerful cartidges akin to magnum revolvers. Changing the chambering from .50 AE to .44, .41, or .357 Magnum requires only the correct bolt assembly, barrel, and magazine be installed. In the hands of the right person, this can be a devastating weapon, especially for women that are more comfortable firing a Desert Eagle than wearing a bra.\n The Raptor XE is a revamped Raptor X. The gas-operation firing system with an energized one, making the performance of the weapon rival that of a beam rifle."
+TacticalText="<Bullet/>Type: Semi-Automatic Pistol\n<Bullet/>Firing Profile: Semi-Auto\n<Bullet/>Action: Gas-Operated, Rotating Bolt\n<Bullet/>Cartridge: .50 AE\n<Bullet/>Origin: United States, Israel\n<Bullet/>Tier: Beam"
+
+[TC_WOTC_TMP_MILL_DEAGLE_T1 X2WeaponTemplate]
+FriendlyName="<font color='#ECECEC'><b>Desert Eagle XIX</b></font>"
+FriendlyNamePlural="<font color='#ECECEC'><b>Desert Eagles</b></font>"
+AbilityDescName="high-caliber pistol"
+BriefSummary="The Desert Eagle is a popular .50 Action Express sidearm, made by Israel Military Industries back in 1995. What makes this weapon unique is that it uses a gas-operated system normally found in rifles, which allows the weapon to fire more powerful cartidges akin to magnum revolvers. Changing the chambering from .50 AE to .44, .41, or .357 Magnum requires only the correct bolt assembly, barrel, and magazine be installed. In the hands of the right person, this can be a devastating weapon, especially for women that are more comfortable firing a Desert Eagle than wearing a bra."
+TacticalText="<Bullet/>Type: Semi-Automatic Pistol\n<Bullet/>Firing Profile: Semi-Auto\n<Bullet/>Action: Gas-Operated, Rotating Bolt\n<Bullet/>Cartridge: .50 AE\n<Bullet/>Origin: United States, Israel\n<Bullet/>Tier: Conventional"
+
+
+[TC_WOTC_TMP_MILL_DEAGLE_T2 X2WeaponTemplate]
+FriendlyName="<font color='#27AAE1'><b>Raptor X</b></font>"
+FriendlyNamePlural="<font color='#27AAE1'><b>Raptor Xs</b></font>"
+AbilityDescName="high-caliber pistol"
+BriefSummary="The Desert Eagle is a popular .50 Action Express sidearm, made by Israel Military Industries back in 1995. What makes this weapon unique is that it uses a gas-operated system normally found in rifles, which allows the weapon to fire more powerful cartidges akin to magnum revolvers. Changing the chambering from .50 AE to .44, .41, or .357 Magnum requires only the correct bolt assembly, barrel, and magazine be installed. In the hands of the right person, this can be a devastating weapon, especially for women that are more comfortable firing a Desert Eagle than wearing a bra.\n The Raptor X sports a brand new bolt assembly and barrel made from  alien alloys, enchancing the weapon beyond its conventional capabilities."
+TacticalText="<Bullet/>Type: Semi-Automatic Pistol\n<Bullet/>Firing Profile: Semi-Auto\n<Bullet/>Action: Gas-Operated, Rotating Bolt\n<Bullet/>Cartridge: .50 AE\n<Bullet/>Origin: United States, Israel\n<Bullet/>Tier: Magnetic"
+
+
+[TC_WOTC_TMP_MILL_DEAGLE_T3 X2WeaponTemplate]
+FriendlyName="<font color='#CF4517'><b>Raptor XE</b></font>"
+FriendlyNamePlural="<font color='#CF4517'><b>Raptor XEs</b></font>"
+AbilityDescName="high-caliber pistol"
+BriefSummary="The Desert Eagle is a popular .50 Action Express sidearm, made by Israel Military Industries back in 1995. What makes this weapon unique is that it uses a gas-operated system normally found in rifles, which allows the weapon to fire more powerful cartidges akin to magnum revolvers. Changing the chambering from .50 AE to .44, .41, or .357 Magnum requires only the correct bolt assembly, barrel, and magazine be installed. In the hands of the right person, this can be a devastating weapon, especially for women that are more comfortable firing a Desert Eagle than wearing a bra.\n The Raptor XE is a revamped Raptor X. The gas-operation firing system with an energized one, making the performance of the weapon rival that of a beam rifle."
+TacticalText="<Bullet/>Type: Semi-Automatic Pistol\n<Bullet/>Firing Profile: Semi-Auto\n<Bullet/>Action: Gas-Operated, Rotating Bolt\n<Bullet/>Cartridge: .50 AE\n<Bullet/>Origin: United States, Israel\n<Bullet/>Tier: Beam"

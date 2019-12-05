@@ -1,0 +1,776 @@
+
+; ============================================================================================================================
+;
+;	Reaper
+;
+; ============================================================================================================================
+
+;
+; Torso Accessories
+;
+
+[CNV_WotC_RPR_MGSV_Soviet_HeavyArmor_TorsoDeco_M X2BodyPartTemplate]
+DisplayName="Soviet Heavy Armor - Accessories"
+
+[LPL_WotC_RPR_MGSV_Soviet_HeavyArmor_TorsoDeco_M X2BodyPartTemplate]
+DisplayName="Soviet Heavy Armor - Accessories"
+
+[MPL_WotC_RPR_MGSV_Soviet_HeavyArmor_TorsoDeco_M X2BodyPartTemplate]
+DisplayName="Soviet Heavy Armor - Accessories"
+
+[HPL_WotC_RPR_MGSV_Soviet_HeavyArmor_TorsoDeco_M X2BodyPartTemplate]
+DisplayName="Soviet Heavy Armor - Accessories"
+
+[LPW_WotC_RPR_MGSV_Soviet_HeavyArmor_TorsoDeco_M X2BodyPartTemplate]
+DisplayName="Soviet Heavy Armor - Accessories"
+
+[MPW_WotC_RPR_MGSV_Soviet_HeavyArmor_TorsoDeco_M X2BodyPartTemplate]
+DisplayName="Soviet Heavy Armor - Accessories"
+
+[HPW_WotC_RPR_MGSV_Soviet_HeavyArmor_TorsoDeco_M X2BodyPartTemplate]
+DisplayName="Soviet Heavy Armor - Accessories"
+
+
+[CNV_WotC_RPR_MGSV_Soviet_HeavyArmor_TorsoDeco_F X2BodyPartTemplate]
+DisplayName="Soviet Heavy Armor - Accessories"
+
+[LPL_WotC_RPR_MGSV_Soviet_HeavyArmor_TorsoDeco_F X2BodyPartTemplate]
+DisplayName="Soviet Heavy Armor - Accessories"
+
+[MPL_WotC_RPR_MGSV_Soviet_HeavyArmor_TorsoDeco_F X2BodyPartTemplate]
+DisplayName="Soviet Heavy Armor - Accessories"
+
+[HPL_WotC_RPR_MGSV_Soviet_HeavyArmor_TorsoDeco_F X2BodyPartTemplate]
+DisplayName="Soviet Heavy Armor - Accessories"
+
+[LPW_WotC_RPR_MGSV_Soviet_HeavyArmor_TorsoDeco_F X2BodyPartTemplate]
+DisplayName="Soviet Heavy Armor - Accessories"
+
+[MPW_WotC_RPR_MGSV_Soviet_HeavyArmor_TorsoDeco_F X2BodyPartTemplate]
+DisplayName="Soviet Heavy Armor - Accessories"
+
+[HPW_WotC_RPR_MGSV_Soviet_HeavyArmor_TorsoDeco_F X2BodyPartTemplate]
+DisplayName="Soviet Heavy Armor - Accessories"
+
+;
+; Left Arm
+;
+
+[CNV_WotC_RPR_MGSV_Soviet_HeavyArmor_Arms_Left_M X2BodyPartTemplate]
+DisplayName="Soviet Heavy Armor - Left Arm"
+
+[CNV_WotC_RPR_MGSV_Soviet_HeavyArmor_Arms_Left_F X2BodyPartTemplate]
+DisplayName="Soviet Heavy Armor - Left Arm"
+
+;
+; Right Arm
+;
+
+[CNV_WotC_RPR_MGSV_Soviet_HeavyArmor_Arms_Right_M X2BodyPartTemplate]
+DisplayName="Soviet Heavy Armor - Right Arm"
+
+[CNV_WotC_RPR_MGSV_Soviet_HeavyArmor_Arms_Right_F X2BodyPartTemplate]
+DisplayName="Soviet Heavy Armor - Right Arm"
+
+
+;
+; Left Shoulder
+;
+
+[CNV_WotC_RPR_MGSV_Soviet_HeavyArmor_Shoulder_Left_A_M X2BodyPartTemplate]
+DisplayName="Soviet Heavy Armor - Left Pauldron"
+
+[LPL_WotC_RPR_MGSV_Soviet_HeavyArmor_Shoulder_Left_A_M X2BodyPartTemplate]
+DisplayName="Soviet Heavy Armor - Left Pauldron"
+
+[MPL_WotC_RPR_MGSV_Soviet_HeavyArmor_Shoulder_Left_A_M X2BodyPartTemplate]
+DisplayName="Soviet Heavy Armor - Left Pauldron"
+
+[HPL_WotC_RPR_MGSV_Soviet_HeavyArmor_Shoulder_Left_A_M X2BodyPartTemplate]
+DisplayName="Soviet Heavy Armor - Left Pauldron"
+
+[LPW_WotC_RPR_MGSV_Soviet_HeavyArmor_Shoulder_Left_A_M X2BodyPartTemplate]
+DisplayName="Soviet Heavy Armor - Left Pauldron"
+
+[MPW_WotC_RPR_MGSV_Soviet_HeavyArmor_Shoulder_Left_A_M X2BodyPartTemplate]
+DisplayName="Soviet Heavy Armor - Left Pauldron"
+
+[HPW_WotC_RPR_MGSV_Soviet_HeavyArmor_Shoulder_Left_A_M X2BodyPartTemplate]
+DisplayName="Soviet Heavy Armor - Left Pauldron"
+
+
+[CNV_WotC_RPR_MGSV_Soviet_HeavyArmor_Shoulder_Left_A_F X2BodyPartTemplate]
+DisplayName="Soviet Heavy Armor - Left Pauldron"
+
+[LPL_WotC_RPR_MGSV_Soviet_HeavyArmor_Shoulder_Left_A_F X2BodyPartTemplate]
+DisplayName="Soviet Heavy Armor - Left Pauldron"
+
+[MPL_WotC_RPR_MGSV_Soviet_HeavyArmor_Shoulder_Left_A_F X2BodyPartTemplate]
+DisplayName="Soviet Heavy Armor - Left Pauldron"
+
+[HPL_WotC_RPR_MGSV_Soviet_HeavyArmor_Shoulder_Left_A_F X2BodyPartTemplate]
+DisplayName="Soviet Heavy Armor - Left Pauldron"
+
+[LPW_WotC_RPR_MGSV_Soviet_HeavyArmor_Shoulder_Left_A_F X2BodyPartTemplate]
+DisplayName="Soviet Heavy Armor - Left Pauldron"
+
+[MPW_WotC_RPR_MGSV_Soviet_HeavyArmor_Shoulder_Left_A_F X2BodyPartTemplate]
+DisplayName="Soviet Heavy Armor - Left Pauldron"
+
+[HPW_WotC_RPR_MGSV_Soviet_HeavyArmor_Shoulder_Left_A_F X2BodyPartTemplate]
+DisplayName="Soviet Heavy Armor - Left Pauldron"
+
+
+
+[CNV_WotC_RPR_MGSV_Soviet_HeavyArmor_Shoulder_Left_B_M X2BodyPartTemplate]
+DisplayName="Soviet Heavy Armor - Left Pauldron [Bare]"
+
+[LPL_WotC_RPR_MGSV_Soviet_HeavyArmor_Shoulder_Left_B_M X2BodyPartTemplate]
+DisplayName="Soviet Heavy Armor - Left Pauldron [Bare]"
+
+[MPL_WotC_RPR_MGSV_Soviet_HeavyArmor_Shoulder_Left_B_M X2BodyPartTemplate]
+DisplayName="Soviet Heavy Armor - Left Pauldron [Bare]"
+
+[HPL_WotC_RPR_MGSV_Soviet_HeavyArmor_Shoulder_Left_B_M X2BodyPartTemplate]
+DisplayName="Soviet Heavy Armor - Left Pauldron [Bare]"
+
+[LPW_WotC_RPR_MGSV_Soviet_HeavyArmor_Shoulder_Left_B_M X2BodyPartTemplate]
+DisplayName="Soviet Heavy Armor - Left Pauldron [Bare]"
+
+[MPW_WotC_RPR_MGSV_Soviet_HeavyArmor_Shoulder_Left_B_M X2BodyPartTemplate]
+DisplayName="Soviet Heavy Armor - Left Pauldron [Bare]"
+
+[HPW_WotC_RPR_MGSV_Soviet_HeavyArmor_Shoulder_Left_B_M X2BodyPartTemplate]
+DisplayName="Soviet Heavy Armor - Left Pauldron [Bare]"
+
+
+[CNV_WotC_RPR_MGSV_Soviet_HeavyArmor_Shoulder_Left_B_F X2BodyPartTemplate]
+DisplayName="Soviet Heavy Armor - Left Pauldron [Bare]"
+
+[LPL_WotC_RPR_MGSV_Soviet_HeavyArmor_Shoulder_Left_B_F X2BodyPartTemplate]
+DisplayName="Soviet Heavy Armor - Left Pauldron [Bare]"
+
+[MPL_WotC_RPR_MGSV_Soviet_HeavyArmor_Shoulder_Left_B_F X2BodyPartTemplate]
+DisplayName="Soviet Heavy Armor - Left Pauldron [Bare]"
+
+[HPL_WotC_RPR_MGSV_Soviet_HeavyArmor_Shoulder_Left_B_F X2BodyPartTemplate]
+DisplayName="Soviet Heavy Armor - Left Pauldron [Bare]"
+
+[LPW_WotC_RPR_MGSV_Soviet_HeavyArmor_Shoulder_Left_B_F X2BodyPartTemplate]
+DisplayName="Soviet Heavy Armor - Left Pauldron [Bare]"
+
+[MPW_WotC_RPR_MGSV_Soviet_HeavyArmor_Shoulder_Left_B_F X2BodyPartTemplate]
+DisplayName="Soviet Heavy Armor - Left Pauldron [Bare]"
+
+[HPW_WotC_RPR_MGSV_Soviet_HeavyArmor_Shoulder_Left_B_F X2BodyPartTemplate]
+DisplayName="Soviet Heavy Armor - Left Pauldron [Bare]"
+
+;
+; Right Shoulder
+;
+
+[CNV_WotC_RPR_MGSV_Soviet_HeavyArmor_Shoulder_Right_A_M X2BodyPartTemplate]
+DisplayName="Soviet Heavy Armor - Right Pauldron"
+
+[LPL_WotC_RPR_MGSV_Soviet_HeavyArmor_Shoulder_Right_A_M X2BodyPartTemplate]
+DisplayName="Soviet Heavy Armor - Right Pauldron"
+
+[MPL_WotC_RPR_MGSV_Soviet_HeavyArmor_Shoulder_Right_A_M X2BodyPartTemplate]
+DisplayName="Soviet Heavy Armor - Right Pauldron"
+
+[HPL_WotC_RPR_MGSV_Soviet_HeavyArmor_Shoulder_Right_A_M X2BodyPartTemplate]
+DisplayName="Soviet Heavy Armor - Right Pauldron"
+
+[LPW_WotC_RPR_MGSV_Soviet_HeavyArmor_Shoulder_Right_A_M X2BodyPartTemplate]
+DisplayName="Soviet Heavy Armor - Right Pauldron"
+
+[MPW_WotC_RPR_MGSV_Soviet_HeavyArmor_Shoulder_Right_A_M X2BodyPartTemplate]
+DisplayName="Soviet Heavy Armor - Right Pauldron"
+
+[HPW_WotC_RPR_MGSV_Soviet_HeavyArmor_Shoulder_Right_A_M X2BodyPartTemplate]
+DisplayName="Soviet Heavy Armor - Right Pauldron"
+
+
+[CNV_WotC_RPR_MGSV_Soviet_HeavyArmor_Shoulder_Right_A_F X2BodyPartTemplate]
+DisplayName="Soviet Heavy Armor - Right Pauldron"
+
+[LPL_WotC_RPR_MGSV_Soviet_HeavyArmor_Shoulder_Right_A_F X2BodyPartTemplate]
+DisplayName="Soviet Heavy Armor - Right Pauldron"
+
+[MPL_WotC_RPR_MGSV_Soviet_HeavyArmor_Shoulder_Right_A_F X2BodyPartTemplate]
+DisplayName="Soviet Heavy Armor - Right Pauldron"
+
+[HPL_WotC_RPR_MGSV_Soviet_HeavyArmor_Shoulder_Right_A_F X2BodyPartTemplate]
+DisplayName="Soviet Heavy Armor - Right Pauldron"
+
+[LPW_WotC_RPR_MGSV_Soviet_HeavyArmor_Shoulder_Right_A_F X2BodyPartTemplate]
+DisplayName="Soviet Heavy Armor - Right Pauldron"
+
+[MPW_WotC_RPR_MGSV_Soviet_HeavyArmor_Shoulder_Right_A_F X2BodyPartTemplate]
+DisplayName="Soviet Heavy Armor - Right Pauldron"
+
+[HPW_WotC_RPR_MGSV_Soviet_HeavyArmor_Shoulder_Right_A_F X2BodyPartTemplate]
+DisplayName="Soviet Heavy Armor - Right Pauldron"
+
+
+
+[CNV_WotC_RPR_MGSV_Soviet_HeavyArmor_Shoulder_Right_B_M X2BodyPartTemplate]
+DisplayName="Soviet Heavy Armor - Right Pauldron [Bare]"
+
+[LPL_WotC_RPR_MGSV_Soviet_HeavyArmor_Shoulder_Right_B_M X2BodyPartTemplate]
+DisplayName="Soviet Heavy Armor - Right Pauldron [Bare]"
+
+[MPL_WotC_RPR_MGSV_Soviet_HeavyArmor_Shoulder_Right_B_M X2BodyPartTemplate]
+DisplayName="Soviet Heavy Armor - Right Pauldron [Bare]"
+
+[HPL_WotC_RPR_MGSV_Soviet_HeavyArmor_Shoulder_Right_B_M X2BodyPartTemplate]
+DisplayName="Soviet Heavy Armor - Right Pauldron [Bare]"
+
+[LPW_WotC_RPR_MGSV_Soviet_HeavyArmor_Shoulder_Right_B_M X2BodyPartTemplate]
+DisplayName="Soviet Heavy Armor - Right Pauldron [Bare]"
+
+[MPW_WotC_RPR_MGSV_Soviet_HeavyArmor_Shoulder_Right_B_M X2BodyPartTemplate]
+DisplayName="Soviet Heavy Armor - Right Pauldron [Bare]"
+
+[HPW_WotC_RPR_MGSV_Soviet_HeavyArmor_Shoulder_Right_B_M X2BodyPartTemplate]
+DisplayName="Soviet Heavy Armor - Right Pauldron [Bare]"
+
+
+[CNV_WotC_RPR_MGSV_Soviet_HeavyArmor_Shoulder_Right_B_F X2BodyPartTemplate]
+DisplayName="Soviet Heavy Armor - Right Pauldron [Bare]"
+
+[LPL_WotC_RPR_MGSV_Soviet_HeavyArmor_Shoulder_Right_B_F X2BodyPartTemplate]
+DisplayName="Soviet Heavy Armor - Right Pauldron [Bare]"
+
+[MPL_WotC_RPR_MGSV_Soviet_HeavyArmor_Shoulder_Right_B_F X2BodyPartTemplate]
+DisplayName="Soviet Heavy Armor - Right Pauldron [Bare]"
+
+[HPL_WotC_RPR_MGSV_Soviet_HeavyArmor_Shoulder_Right_B_F X2BodyPartTemplate]
+DisplayName="Soviet Heavy Armor - Right Pauldron [Bare]"
+
+[LPW_WotC_RPR_MGSV_Soviet_HeavyArmor_Shoulder_Right_B_F X2BodyPartTemplate]
+DisplayName="Soviet Heavy Armor - Right Pauldron [Bare]"
+
+[MPW_WotC_RPR_MGSV_Soviet_HeavyArmor_Shoulder_Right_B_F X2BodyPartTemplate]
+DisplayName="Soviet Heavy Armor - Right Pauldron [Bare]"
+
+[HPW_WotC_RPR_MGSV_Soviet_HeavyArmor_Shoulder_Right_B_F X2BodyPartTemplate]
+DisplayName="Soviet Heavy Armor - Right Pauldron [Bare]"
+
+
+; ============================================================================================================================
+;
+;	Skirmisher
+;
+; ============================================================================================================================
+
+;
+; Torso Accessories
+;
+
+[CNV_WotC_SKR_MGSV_Soviet_HeavyArmor_TorsoDeco_M X2BodyPartTemplate]
+DisplayName="Soviet Heavy Armor - Accessories"
+
+[LPL_WotC_SKR_MGSV_Soviet_HeavyArmor_TorsoDeco_M X2BodyPartTemplate]
+DisplayName="Soviet Heavy Armor - Accessories"
+
+[MPL_WotC_SKR_MGSV_Soviet_HeavyArmor_TorsoDeco_M X2BodyPartTemplate]
+DisplayName="Soviet Heavy Armor - Accessories"
+
+[HPL_WotC_SKR_MGSV_Soviet_HeavyArmor_TorsoDeco_M X2BodyPartTemplate]
+DisplayName="Soviet Heavy Armor - Accessories"
+
+[LPW_WotC_SKR_MGSV_Soviet_HeavyArmor_TorsoDeco_M X2BodyPartTemplate]
+DisplayName="Soviet Heavy Armor - Accessories"
+
+[MPW_WotC_SKR_MGSV_Soviet_HeavyArmor_TorsoDeco_M X2BodyPartTemplate]
+DisplayName="Soviet Heavy Armor - Accessories"
+
+[HPW_WotC_SKR_MGSV_Soviet_HeavyArmor_TorsoDeco_M X2BodyPartTemplate]
+DisplayName="Soviet Heavy Armor - Accessories"
+
+
+[CNV_WotC_SKR_MGSV_Soviet_HeavyArmor_TorsoDeco_F X2BodyPartTemplate]
+DisplayName="Soviet Heavy Armor - Accessories"
+
+[LPL_WotC_SKR_MGSV_Soviet_HeavyArmor_TorsoDeco_F X2BodyPartTemplate]
+DisplayName="Soviet Heavy Armor - Accessories"
+
+[MPL_WotC_SKR_MGSV_Soviet_HeavyArmor_TorsoDeco_F X2BodyPartTemplate]
+DisplayName="Soviet Heavy Armor - Accessories"
+
+[HPL_WotC_SKR_MGSV_Soviet_HeavyArmor_TorsoDeco_F X2BodyPartTemplate]
+DisplayName="Soviet Heavy Armor - Accessories"
+
+[LPW_WotC_SKR_MGSV_Soviet_HeavyArmor_TorsoDeco_F X2BodyPartTemplate]
+DisplayName="Soviet Heavy Armor - Accessories"
+
+[MPW_WotC_SKR_MGSV_Soviet_HeavyArmor_TorsoDeco_F X2BodyPartTemplate]
+DisplayName="Soviet Heavy Armor - Accessories"
+
+[HPW_WotC_SKR_MGSV_Soviet_HeavyArmor_TorsoDeco_F X2BodyPartTemplate]
+DisplayName="Soviet Heavy Armor - Accessories"
+
+;
+; Left Arm
+;
+
+[CNV_WotC_SKR_MGSV_Soviet_HeavyArmor_Arms_Left_M X2BodyPartTemplate]
+DisplayName="Soviet Heavy Armor - Left Arm"
+
+[CNV_WotC_SKR_MGSV_Soviet_HeavyArmor_Arms_Left_F X2BodyPartTemplate]
+DisplayName="Soviet Heavy Armor - Left Arm"
+
+
+;
+; Right Arm
+;
+
+[CNV_WotC_SKR_MGSV_Soviet_HeavyArmor_Arms_Right_M X2BodyPartTemplate]
+DisplayName="Soviet Heavy Armor - Right Arm"
+
+[CNV_WotC_SKR_MGSV_Soviet_HeavyArmor_Arms_Right_F X2BodyPartTemplate]
+DisplayName="Soviet Heavy Armor - Right Arm"
+
+;
+; Left Shoulder
+;
+
+[CNV_WotC_SKR_MGSV_Soviet_HeavyArmor_Shoulder_Left_A_M X2BodyPartTemplate]
+DisplayName="Soviet Heavy Armor - Left Pauldron"
+
+[LPL_WotC_SKR_MGSV_Soviet_HeavyArmor_Shoulder_Left_A_M X2BodyPartTemplate]
+DisplayName="Soviet Heavy Armor - Left Pauldron"
+
+[MPL_WotC_SKR_MGSV_Soviet_HeavyArmor_Shoulder_Left_A_M X2BodyPartTemplate]
+DisplayName="Soviet Heavy Armor - Left Pauldron"
+
+[HPL_WotC_SKR_MGSV_Soviet_HeavyArmor_Shoulder_Left_A_M X2BodyPartTemplate]
+DisplayName="Soviet Heavy Armor - Left Pauldron"
+
+[LPW_WotC_SKR_MGSV_Soviet_HeavyArmor_Shoulder_Left_A_M X2BodyPartTemplate]
+DisplayName="Soviet Heavy Armor - Left Pauldron"
+
+[MPW_WotC_SKR_MGSV_Soviet_HeavyArmor_Shoulder_Left_A_M X2BodyPartTemplate]
+DisplayName="Soviet Heavy Armor - Left Pauldron"
+
+[HPW_WotC_SKR_MGSV_Soviet_HeavyArmor_Shoulder_Left_A_M X2BodyPartTemplate]
+DisplayName="Soviet Heavy Armor - Left Pauldron"
+
+
+[CNV_WotC_SKR_MGSV_Soviet_HeavyArmor_Shoulder_Left_A_F X2BodyPartTemplate]
+DisplayName="Soviet Heavy Armor - Left Pauldron"
+
+[LPL_WotC_SKR_MGSV_Soviet_HeavyArmor_Shoulder_Left_A_F X2BodyPartTemplate]
+DisplayName="Soviet Heavy Armor - Left Pauldron"
+
+[MPL_WotC_SKR_MGSV_Soviet_HeavyArmor_Shoulder_Left_A_F X2BodyPartTemplate]
+DisplayName="Soviet Heavy Armor - Left Pauldron"
+
+[HPL_WotC_SKR_MGSV_Soviet_HeavyArmor_Shoulder_Left_A_F X2BodyPartTemplate]
+DisplayName="Soviet Heavy Armor - Left Pauldron"
+
+[LPW_WotC_SKR_MGSV_Soviet_HeavyArmor_Shoulder_Left_A_F X2BodyPartTemplate]
+DisplayName="Soviet Heavy Armor - Left Pauldron"
+
+[MPW_WotC_SKR_MGSV_Soviet_HeavyArmor_Shoulder_Left_A_F X2BodyPartTemplate]
+DisplayName="Soviet Heavy Armor - Left Pauldron"
+
+[HPW_WotC_SKR_MGSV_Soviet_HeavyArmor_Shoulder_Left_A_F X2BodyPartTemplate]
+DisplayName="Soviet Heavy Armor - Left Pauldron"
+
+
+
+[CNV_WotC_SKR_MGSV_Soviet_HeavyArmor_Shoulder_Left_B_M X2BodyPartTemplate]
+DisplayName="Soviet Heavy Armor - Left Pauldron [Bare]"
+
+[LPL_WotC_SKR_MGSV_Soviet_HeavyArmor_Shoulder_Left_B_M X2BodyPartTemplate]
+DisplayName="Soviet Heavy Armor - Left Pauldron [Bare]"
+
+[MPL_WotC_SKR_MGSV_Soviet_HeavyArmor_Shoulder_Left_B_M X2BodyPartTemplate]
+DisplayName="Soviet Heavy Armor - Left Pauldron [Bare]"
+
+[HPL_WotC_SKR_MGSV_Soviet_HeavyArmor_Shoulder_Left_B_M X2BodyPartTemplate]
+DisplayName="Soviet Heavy Armor - Left Pauldron [Bare]"
+
+[LPW_WotC_SKR_MGSV_Soviet_HeavyArmor_Shoulder_Left_B_M X2BodyPartTemplate]
+DisplayName="Soviet Heavy Armor - Left Pauldron [Bare]"
+
+[MPW_WotC_SKR_MGSV_Soviet_HeavyArmor_Shoulder_Left_B_M X2BodyPartTemplate]
+DisplayName="Soviet Heavy Armor - Left Pauldron [Bare]"
+
+[HPW_WotC_SKR_MGSV_Soviet_HeavyArmor_Shoulder_Left_B_M X2BodyPartTemplate]
+DisplayName="Soviet Heavy Armor - Left Pauldron [Bare]"
+
+
+[CNV_WotC_SKR_MGSV_Soviet_HeavyArmor_Shoulder_Left_B_F X2BodyPartTemplate]
+DisplayName="Soviet Heavy Armor - Left Pauldron [Bare]"
+
+[LPL_WotC_SKR_MGSV_Soviet_HeavyArmor_Shoulder_Left_B_F X2BodyPartTemplate]
+DisplayName="Soviet Heavy Armor - Left Pauldron [Bare]"
+
+[MPL_WotC_SKR_MGSV_Soviet_HeavyArmor_Shoulder_Left_B_F X2BodyPartTemplate]
+DisplayName="Soviet Heavy Armor - Left Pauldron [Bare]"
+
+[HPL_WotC_SKR_MGSV_Soviet_HeavyArmor_Shoulder_Left_B_F X2BodyPartTemplate]
+DisplayName="Soviet Heavy Armor - Left Pauldron [Bare]"
+
+[LPW_WotC_SKR_MGSV_Soviet_HeavyArmor_Shoulder_Left_B_F X2BodyPartTemplate]
+DisplayName="Soviet Heavy Armor - Left Pauldron [Bare]"
+
+[MPW_WotC_SKR_MGSV_Soviet_HeavyArmor_Shoulder_Left_B_F X2BodyPartTemplate]
+DisplayName="Soviet Heavy Armor - Left Pauldron [Bare]"
+
+[HPW_WotC_SKR_MGSV_Soviet_HeavyArmor_Shoulder_Left_B_F X2BodyPartTemplate]
+DisplayName="Soviet Heavy Armor - Left Pauldron [Bare]"
+
+;
+; Right Shoulder
+;
+
+[CNV_WotC_SKR_MGSV_Soviet_HeavyArmor_Shoulder_Right_A_M X2BodyPartTemplate]
+DisplayName="Soviet Heavy Armor - Right Pauldron"
+
+[LPL_WotC_SKR_MGSV_Soviet_HeavyArmor_Shoulder_Right_A_M X2BodyPartTemplate]
+DisplayName="Soviet Heavy Armor - Right Pauldron"
+
+[MPL_WotC_SKR_MGSV_Soviet_HeavyArmor_Shoulder_Right_A_M X2BodyPartTemplate]
+DisplayName="Soviet Heavy Armor - Right Pauldron"
+
+[HPL_WotC_SKR_MGSV_Soviet_HeavyArmor_Shoulder_Right_A_M X2BodyPartTemplate]
+DisplayName="Soviet Heavy Armor - Right Pauldron"
+
+[LPW_WotC_SKR_MGSV_Soviet_HeavyArmor_Shoulder_Right_A_M X2BodyPartTemplate]
+DisplayName="Soviet Heavy Armor - Right Pauldron"
+
+[MPW_WotC_SKR_MGSV_Soviet_HeavyArmor_Shoulder_Right_A_M X2BodyPartTemplate]
+DisplayName="Soviet Heavy Armor - Right Pauldron"
+
+[HPW_WotC_SKR_MGSV_Soviet_HeavyArmor_Shoulder_Right_A_M X2BodyPartTemplate]
+DisplayName="Soviet Heavy Armor - Right Pauldron"
+
+
+[CNV_WotC_SKR_MGSV_Soviet_HeavyArmor_Shoulder_Right_A_F X2BodyPartTemplate]
+DisplayName="Soviet Heavy Armor - Right Pauldron"
+
+[LPL_WotC_SKR_MGSV_Soviet_HeavyArmor_Shoulder_Right_A_F X2BodyPartTemplate]
+DisplayName="Soviet Heavy Armor - Right Pauldron"
+
+[MPL_WotC_SKR_MGSV_Soviet_HeavyArmor_Shoulder_Right_A_F X2BodyPartTemplate]
+DisplayName="Soviet Heavy Armor - Right Pauldron"
+
+[HPL_WotC_SKR_MGSV_Soviet_HeavyArmor_Shoulder_Right_A_F X2BodyPartTemplate]
+DisplayName="Soviet Heavy Armor - Right Pauldron"
+
+[LPW_WotC_SKR_MGSV_Soviet_HeavyArmor_Shoulder_Right_A_F X2BodyPartTemplate]
+DisplayName="Soviet Heavy Armor - Right Pauldron"
+
+[MPW_WotC_SKR_MGSV_Soviet_HeavyArmor_Shoulder_Right_A_F X2BodyPartTemplate]
+DisplayName="Soviet Heavy Armor - Right Pauldron"
+
+[HPW_WotC_SKR_MGSV_Soviet_HeavyArmor_Shoulder_Right_A_F X2BodyPartTemplate]
+DisplayName="Soviet Heavy Armor - Right Pauldron"
+
+
+
+[CNV_WotC_SKR_MGSV_Soviet_HeavyArmor_Shoulder_Right_B_M X2BodyPartTemplate]
+DisplayName="Soviet Heavy Armor - Right Pauldron [Bare]"
+
+[LPL_WotC_SKR_MGSV_Soviet_HeavyArmor_Shoulder_Right_B_M X2BodyPartTemplate]
+DisplayName="Soviet Heavy Armor - Right Pauldron [Bare]"
+
+[MPL_WotC_SKR_MGSV_Soviet_HeavyArmor_Shoulder_Right_B_M X2BodyPartTemplate]
+DisplayName="Soviet Heavy Armor - Right Pauldron [Bare]"
+
+[HPL_WotC_SKR_MGSV_Soviet_HeavyArmor_Shoulder_Right_B_M X2BodyPartTemplate]
+DisplayName="Soviet Heavy Armor - Right Pauldron [Bare]"
+
+[LPW_WotC_SKR_MGSV_Soviet_HeavyArmor_Shoulder_Right_B_M X2BodyPartTemplate]
+DisplayName="Soviet Heavy Armor - Right Pauldron [Bare]"
+
+[MPW_WotC_SKR_MGSV_Soviet_HeavyArmor_Shoulder_Right_B_M X2BodyPartTemplate]
+DisplayName="Soviet Heavy Armor - Right Pauldron [Bare]"
+
+[HPW_WotC_SKR_MGSV_Soviet_HeavyArmor_Shoulder_Right_B_M X2BodyPartTemplate]
+DisplayName="Soviet Heavy Armor - Right Pauldron [Bare]"
+
+
+[CNV_WotC_SKR_MGSV_Soviet_HeavyArmor_Shoulder_Right_B_F X2BodyPartTemplate]
+DisplayName="Soviet Heavy Armor - Right Pauldron [Bare]"
+
+[LPL_WotC_SKR_MGSV_Soviet_HeavyArmor_Shoulder_Right_B_F X2BodyPartTemplate]
+DisplayName="Soviet Heavy Armor - Right Pauldron [Bare]"
+
+[MPL_WotC_SKR_MGSV_Soviet_HeavyArmor_Shoulder_Right_B_F X2BodyPartTemplate]
+DisplayName="Soviet Heavy Armor - Right Pauldron [Bare]"
+
+[HPL_WotC_SKR_MGSV_Soviet_HeavyArmor_Shoulder_Right_B_F X2BodyPartTemplate]
+DisplayName="Soviet Heavy Armor - Right Pauldron [Bare]"
+
+[LPW_WotC_SKR_MGSV_Soviet_HeavyArmor_Shoulder_Right_B_F X2BodyPartTemplate]
+DisplayName="Soviet Heavy Armor - Right Pauldron [Bare]"
+
+[MPW_WotC_SKR_MGSV_Soviet_HeavyArmor_Shoulder_Right_B_F X2BodyPartTemplate]
+DisplayName="Soviet Heavy Armor - Right Pauldron [Bare]"
+
+[HPW_WotC_SKR_MGSV_Soviet_HeavyArmor_Shoulder_Right_B_F X2BodyPartTemplate]
+DisplayName="Soviet Heavy Armor - Right Pauldron [Bare]"
+
+
+; ============================================================================================================================
+;
+;	Templar
+;
+; ============================================================================================================================
+
+;
+; Torso Accessories
+;
+
+[CNV_WotC_TMP_MGSV_Soviet_HeavyArmor_TorsoDeco_M X2BodyPartTemplate]
+DisplayName="Soviet Heavy Armor - Accessories"
+
+[LPL_WotC_TMP_MGSV_Soviet_HeavyArmor_TorsoDeco_M X2BodyPartTemplate]
+DisplayName="Soviet Heavy Armor - Accessories"
+
+[MPL_WotC_TMP_MGSV_Soviet_HeavyArmor_TorsoDeco_M X2BodyPartTemplate]
+DisplayName="Soviet Heavy Armor - Accessories"
+
+[HPL_WotC_TMP_MGSV_Soviet_HeavyArmor_TorsoDeco_M X2BodyPartTemplate]
+DisplayName="Soviet Heavy Armor - Accessories"
+
+[LPW_WotC_TMP_MGSV_Soviet_HeavyArmor_TorsoDeco_M X2BodyPartTemplate]
+DisplayName="Soviet Heavy Armor - Accessories"
+
+[MPW_WotC_TMP_MGSV_Soviet_HeavyArmor_TorsoDeco_M X2BodyPartTemplate]
+DisplayName="Soviet Heavy Armor - Accessories"
+
+[HPW_WotC_TMP_MGSV_Soviet_HeavyArmor_TorsoDeco_M X2BodyPartTemplate]
+DisplayName="Soviet Heavy Armor - Accessories"
+
+
+[CNV_WotC_TMP_MGSV_Soviet_HeavyArmor_TorsoDeco_F X2BodyPartTemplate]
+DisplayName="Soviet Heavy Armor - Accessories"
+
+[LPL_WotC_TMP_MGSV_Soviet_HeavyArmor_TorsoDeco_F X2BodyPartTemplate]
+DisplayName="Soviet Heavy Armor - Accessories"
+
+[MPL_WotC_TMP_MGSV_Soviet_HeavyArmor_TorsoDeco_F X2BodyPartTemplate]
+DisplayName="Soviet Heavy Armor - Accessories"
+
+[HPL_WotC_TMP_MGSV_Soviet_HeavyArmor_TorsoDeco_F X2BodyPartTemplate]
+DisplayName="Soviet Heavy Armor - Accessories"
+
+[LPW_WotC_TMP_MGSV_Soviet_HeavyArmor_TorsoDeco_F X2BodyPartTemplate]
+DisplayName="Soviet Heavy Armor - Accessories"
+
+[MPW_WotC_TMP_MGSV_Soviet_HeavyArmor_TorsoDeco_F X2BodyPartTemplate]
+DisplayName="Soviet Heavy Armor - Accessories"
+
+[HPW_WotC_TMP_MGSV_Soviet_HeavyArmor_TorsoDeco_F X2BodyPartTemplate]
+DisplayName="Soviet Heavy Armor - Accessories"
+
+;
+; Left Arm
+;
+
+[CNV_WotC_TMP_MGSV_Soviet_HeavyArmor_Arms_Left_M X2BodyPartTemplate]
+DisplayName="Soviet Heavy Armor - Left Arm"
+
+[CNV_WotC_TMP_MGSV_Soviet_HeavyArmor_Arms_Left_F X2BodyPartTemplate]
+DisplayName="Soviet Heavy Armor - Left Arm"
+
+;
+; Right Arm
+;
+
+[CNV_WotC_TMP_MGSV_Soviet_HeavyArmor_Arms_Right_M X2BodyPartTemplate]
+DisplayName="Soviet Heavy Armor - Right Arm"
+
+[CNV_WotC_TMP_MGSV_Soviet_HeavyArmor_Arms_Right_F X2BodyPartTemplate]
+DisplayName="Soviet Heavy Armor - Right Arm"
+
+;
+; Left Shoulder
+;
+
+[CNV_WotC_TMP_MGSV_Soviet_HeavyArmor_Shoulder_Left_A_M X2BodyPartTemplate]
+DisplayName="Soviet Heavy Armor - Left Pauldron"
+
+[LPL_WotC_TMP_MGSV_Soviet_HeavyArmor_Shoulder_Left_A_M X2BodyPartTemplate]
+DisplayName="Soviet Heavy Armor - Left Pauldron"
+
+[MPL_WotC_TMP_MGSV_Soviet_HeavyArmor_Shoulder_Left_A_M X2BodyPartTemplate]
+DisplayName="Soviet Heavy Armor - Left Pauldron"
+
+[HPL_WotC_TMP_MGSV_Soviet_HeavyArmor_Shoulder_Left_A_M X2BodyPartTemplate]
+DisplayName="Soviet Heavy Armor - Left Pauldron"
+
+[LPW_WotC_TMP_MGSV_Soviet_HeavyArmor_Shoulder_Left_A_M X2BodyPartTemplate]
+DisplayName="Soviet Heavy Armor - Left Pauldron"
+
+[MPW_WotC_TMP_MGSV_Soviet_HeavyArmor_Shoulder_Left_A_M X2BodyPartTemplate]
+DisplayName="Soviet Heavy Armor - Left Pauldron"
+
+[HPW_WotC_TMP_MGSV_Soviet_HeavyArmor_Shoulder_Left_A_M X2BodyPartTemplate]
+DisplayName="Soviet Heavy Armor - Left Pauldron"
+
+
+[CNV_WotC_TMP_MGSV_Soviet_HeavyArmor_Shoulder_Left_A_F X2BodyPartTemplate]
+DisplayName="Soviet Heavy Armor - Left Pauldron"
+
+[LPL_WotC_TMP_MGSV_Soviet_HeavyArmor_Shoulder_Left_A_F X2BodyPartTemplate]
+DisplayName="Soviet Heavy Armor - Left Pauldron"
+
+[MPL_WotC_TMP_MGSV_Soviet_HeavyArmor_Shoulder_Left_A_F X2BodyPartTemplate]
+DisplayName="Soviet Heavy Armor - Left Pauldron"
+
+[HPL_WotC_TMP_MGSV_Soviet_HeavyArmor_Shoulder_Left_A_F X2BodyPartTemplate]
+DisplayName="Soviet Heavy Armor - Left Pauldron"
+
+[LPW_WotC_TMP_MGSV_Soviet_HeavyArmor_Shoulder_Left_A_F X2BodyPartTemplate]
+DisplayName="Soviet Heavy Armor - Left Pauldron"
+
+[MPW_WotC_TMP_MGSV_Soviet_HeavyArmor_Shoulder_Left_A_F X2BodyPartTemplate]
+DisplayName="Soviet Heavy Armor - Left Pauldron"
+
+[HPW_WotC_TMP_MGSV_Soviet_HeavyArmor_Shoulder_Left_A_F X2BodyPartTemplate]
+DisplayName="Soviet Heavy Armor - Left Pauldron"
+
+
+
+[CNV_WotC_TMP_MGSV_Soviet_HeavyArmor_Shoulder_Left_B_M X2BodyPartTemplate]
+DisplayName="Soviet Heavy Armor - Left Pauldron [Bare]"
+
+[LPL_WotC_TMP_MGSV_Soviet_HeavyArmor_Shoulder_Left_B_M X2BodyPartTemplate]
+DisplayName="Soviet Heavy Armor - Left Pauldron [Bare]"
+
+[MPL_WotC_TMP_MGSV_Soviet_HeavyArmor_Shoulder_Left_B_M X2BodyPartTemplate]
+DisplayName="Soviet Heavy Armor - Left Pauldron [Bare]"
+
+[HPL_WotC_TMP_MGSV_Soviet_HeavyArmor_Shoulder_Left_B_M X2BodyPartTemplate]
+DisplayName="Soviet Heavy Armor - Left Pauldron [Bare]"
+
+[LPW_WotC_TMP_MGSV_Soviet_HeavyArmor_Shoulder_Left_B_M X2BodyPartTemplate]
+DisplayName="Soviet Heavy Armor - Left Pauldron [Bare]"
+
+[MPW_WotC_TMP_MGSV_Soviet_HeavyArmor_Shoulder_Left_B_M X2BodyPartTemplate]
+DisplayName="Soviet Heavy Armor - Left Pauldron [Bare]"
+
+[HPW_WotC_TMP_MGSV_Soviet_HeavyArmor_Shoulder_Left_B_M X2BodyPartTemplate]
+DisplayName="Soviet Heavy Armor - Left Pauldron [Bare]"
+
+
+[CNV_WotC_TMP_MGSV_Soviet_HeavyArmor_Shoulder_Left_B_F X2BodyPartTemplate]
+DisplayName="Soviet Heavy Armor - Left Pauldron [Bare]"
+
+[LPL_WotC_TMP_MGSV_Soviet_HeavyArmor_Shoulder_Left_B_F X2BodyPartTemplate]
+DisplayName="Soviet Heavy Armor - Left Pauldron [Bare]"
+
+[MPL_WotC_TMP_MGSV_Soviet_HeavyArmor_Shoulder_Left_B_F X2BodyPartTemplate]
+DisplayName="Soviet Heavy Armor - Left Pauldron [Bare]"
+
+[HPL_WotC_TMP_MGSV_Soviet_HeavyArmor_Shoulder_Left_B_F X2BodyPartTemplate]
+DisplayName="Soviet Heavy Armor - Left Pauldron [Bare]"
+
+[LPW_WotC_TMP_MGSV_Soviet_HeavyArmor_Shoulder_Left_B_F X2BodyPartTemplate]
+DisplayName="Soviet Heavy Armor - Left Pauldron [Bare]"
+
+[MPW_WotC_TMP_MGSV_Soviet_HeavyArmor_Shoulder_Left_B_F X2BodyPartTemplate]
+DisplayName="Soviet Heavy Armor - Left Pauldron [Bare]"
+
+[HPW_WotC_TMP_MGSV_Soviet_HeavyArmor_Shoulder_Left_B_F X2BodyPartTemplate]
+DisplayName="Soviet Heavy Armor - Left Pauldron [Bare]"
+
+;
+; Right Shoulder
+;
+
+[CNV_WotC_TMP_MGSV_Soviet_HeavyArmor_Shoulder_Right_A_M X2BodyPartTemplate]
+DisplayName="Soviet Heavy Armor - Right Pauldron"
+
+[LPL_WotC_TMP_MGSV_Soviet_HeavyArmor_Shoulder_Right_A_M X2BodyPartTemplate]
+DisplayName="Soviet Heavy Armor - Right Pauldron"
+
+[MPL_WotC_TMP_MGSV_Soviet_HeavyArmor_Shoulder_Right_A_M X2BodyPartTemplate]
+DisplayName="Soviet Heavy Armor - Right Pauldron"
+
+[HPL_WotC_TMP_MGSV_Soviet_HeavyArmor_Shoulder_Right_A_M X2BodyPartTemplate]
+DisplayName="Soviet Heavy Armor - Right Pauldron"
+
+[LPW_WotC_TMP_MGSV_Soviet_HeavyArmor_Shoulder_Right_A_M X2BodyPartTemplate]
+DisplayName="Soviet Heavy Armor - Right Pauldron"
+
+[MPW_WotC_TMP_MGSV_Soviet_HeavyArmor_Shoulder_Right_A_M X2BodyPartTemplate]
+DisplayName="Soviet Heavy Armor - Right Pauldron"
+
+[HPW_WotC_TMP_MGSV_Soviet_HeavyArmor_Shoulder_Right_A_M X2BodyPartTemplate]
+DisplayName="Soviet Heavy Armor - Right Pauldron"
+
+
+[CNV_WotC_TMP_MGSV_Soviet_HeavyArmor_Shoulder_Right_A_F X2BodyPartTemplate]
+DisplayName="Soviet Heavy Armor - Right Pauldron"
+
+[LPL_WotC_TMP_MGSV_Soviet_HeavyArmor_Shoulder_Right_A_F X2BodyPartTemplate]
+DisplayName="Soviet Heavy Armor - Right Pauldron"
+
+[MPL_WotC_TMP_MGSV_Soviet_HeavyArmor_Shoulder_Right_A_F X2BodyPartTemplate]
+DisplayName="Soviet Heavy Armor - Right Pauldron"
+
+[HPL_WotC_TMP_MGSV_Soviet_HeavyArmor_Shoulder_Right_A_F X2BodyPartTemplate]
+DisplayName="Soviet Heavy Armor - Right Pauldron"
+
+[LPW_WotC_TMP_MGSV_Soviet_HeavyArmor_Shoulder_Right_A_F X2BodyPartTemplate]
+DisplayName="Soviet Heavy Armor - Right Pauldron"
+
+[MPW_WotC_TMP_MGSV_Soviet_HeavyArmor_Shoulder_Right_A_F X2BodyPartTemplate]
+DisplayName="Soviet Heavy Armor - Right Pauldron"
+
+[HPW_WotC_TMP_MGSV_Soviet_HeavyArmor_Shoulder_Right_A_F X2BodyPartTemplate]
+DisplayName="Soviet Heavy Armor - Right Pauldron"
+
+
+
+[CNV_WotC_TMP_MGSV_Soviet_HeavyArmor_Shoulder_Right_B_M X2BodyPartTemplate]
+DisplayName="Soviet Heavy Armor - Right Pauldron [Bare]"
+
+[LPL_WotC_TMP_MGSV_Soviet_HeavyArmor_Shoulder_Right_B_M X2BodyPartTemplate]
+DisplayName="Soviet Heavy Armor - Right Pauldron [Bare]"
+
+[MPL_WotC_TMP_MGSV_Soviet_HeavyArmor_Shoulder_Right_B_M X2BodyPartTemplate]
+DisplayName="Soviet Heavy Armor - Right Pauldron [Bare]"
+
+[HPL_WotC_TMP_MGSV_Soviet_HeavyArmor_Shoulder_Right_B_M X2BodyPartTemplate]
+DisplayName="Soviet Heavy Armor - Right Pauldron [Bare]"
+
+[LPW_WotC_TMP_MGSV_Soviet_HeavyArmor_Shoulder_Right_B_M X2BodyPartTemplate]
+DisplayName="Soviet Heavy Armor - Right Pauldron [Bare]"
+
+[MPW_WotC_TMP_MGSV_Soviet_HeavyArmor_Shoulder_Right_B_M X2BodyPartTemplate]
+DisplayName="Soviet Heavy Armor - Right Pauldron [Bare]"
+
+[HPW_WotC_TMP_MGSV_Soviet_HeavyArmor_Shoulder_Right_B_M X2BodyPartTemplate]
+DisplayName="Soviet Heavy Armor - Right Pauldron [Bare]"
+
+
+[CNV_WotC_TMP_MGSV_Soviet_HeavyArmor_Shoulder_Right_B_F X2BodyPartTemplate]
+DisplayName="Soviet Heavy Armor - Right Pauldron [Bare]"
+
+[LPL_WotC_TMP_MGSV_Soviet_HeavyArmor_Shoulder_Right_B_F X2BodyPartTemplate]
+DisplayName="Soviet Heavy Armor - Right Pauldron [Bare]"
+
+[MPL_WotC_TMP_MGSV_Soviet_HeavyArmor_Shoulder_Right_B_F X2BodyPartTemplate]
+DisplayName="Soviet Heavy Armor - Right Pauldron [Bare]"
+
+[HPL_WotC_TMP_MGSV_Soviet_HeavyArmor_Shoulder_Right_B_F X2BodyPartTemplate]
+DisplayName="Soviet Heavy Armor - Right Pauldron [Bare]"
+
+[LPW_WotC_TMP_MGSV_Soviet_HeavyArmor_Shoulder_Right_B_F X2BodyPartTemplate]
+DisplayName="Soviet Heavy Armor - Right Pauldron [Bare]"
+
+[MPW_WotC_TMP_MGSV_Soviet_HeavyArmor_Shoulder_Right_B_F X2BodyPartTemplate]
+DisplayName="Soviet Heavy Armor - Right Pauldron [Bare]"
+
+[HPW_WotC_TMP_MGSV_Soviet_HeavyArmor_Shoulder_Right_B_F X2BodyPartTemplate]
+DisplayName="Soviet Heavy Armor - Right Pauldron [Bare]"
+

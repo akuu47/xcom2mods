@@ -1,0 +1,7 @@
+﻿[mod]
+publishedFileId=0
+Title=WOTCOpenWeaponRestrictionsConfig
+Description=Contains the configuration file for Open Class Weapon Restrictions mod.
+
+tags= war of the chosen,gameplay, ocwr
+RequiresXPACK=true

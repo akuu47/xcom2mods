@@ -1,0 +1,20 @@
+[TC_WOTC_MILL_JACKHAMMER_T1 X2WeaponTemplate]
+FriendlyName="<font color='#ECECEC'><b>Pancor Jackhammer</b></font>"
+FriendlyNamePlural="<font color='#ECECEC'><b>Jackhammers</b></font>"
+AbilityDescName="automatic shotgun"
+BriefSummary="This prototype shotgun is a 12-gauge weapon capable of full-auto fire that never got out of the design phase. How this automatic system works is by using a revolver to cycle through each round. The cylinder has a groove in a zig-zag formation, which is how the weapon cycles after each forward motion. This weapon was briefly considerd by the United States' Department of Defense, but ultimately rejected. With no buyers and little interest with the design, Pancor filed for bankruptcy and all of its assets were liquidated. However, it's popularity rose due to the futuristic look of the weapon, and featured in several popular media.\n With the design schematics in our hands, we can reproduce this weapon, albiet in limited quanities. It's also possible to fix some of the flaws of this weapon, but we need the research to make it possible."
+TacticalText="<Bullet/>Type: Bullpup Automatic Shotgun\n<Bullet/>Firing Profile: Full-Auto\n<Bullet/>Action: Gas-Operated, Blow Forward\n<Bullet/>Cartridge: 12ga\n<Bullet/>Origin: United States\n<Bullet/>Tier: Conventional"
+
+[TC_WOTC_MILL_JACKHAMMER_T2 X2WeaponTemplate]
+FriendlyName="<font color='#27AAE1'><b>XM32E1 Sledgehammer</b></font>"
+FriendlyNamePlural="<font color='#27AAE1'><b>XM32s</b></font>"
+AbilityDescName="automatic shotgun"
+BriefSummary="This prototype shotgun is a 12-gauge weapon capable of full-auto fire that never got out of the design phase. How this automatic system works is by using a revolver to cycle through each round. The cylinder has a groove in a zig-zag formation, which is how the weapon cycles after each forward motion. This weapon was briefly considerd by the United States' Department of Defense, but ultimately rejected. With no buyers and little interest with the design, Pancor filed for bankruptcy and all of its assets were liquidated. However, it's popularity rose due to the futuristic look of the weapon, and featured in several popular media.\n The XM32E1, codename Sledgehammer, replaces key components within the Jackhammer. The weapon now uses caseless shotshells made by a combination of Elerium and Alien Alloys for better performance and better control of the weapon."
+TacticalText="<Bullet/>Type: Bullpup Automatic Shotgun\n<Bullet/>Firing Profile: Full-Auto\n<Bullet/>Action: Gas-Operated, Blow Forward\n<Bullet/>Cartridge: 12ga\n<Bullet/>Origin: United States\n<Bullet/>Tier: Magnetic"
+
+[TC_WOTC_MILL_JACKHAMMER_T3 X2WeaponTemplate]
+FriendlyName="<font color='#CF4517'><b>XM32E2 Shockhammer</b></font>"
+FriendlyNamePlural="<font color='#CF4517'><b>XM32E1s</b></font>"
+AbilityDescName="automatic shotgun"
+BriefSummary="This prototype shotgun is a 12-gauge weapon capable of full-auto fire that never got out of the design phase. How this automatic system works is by using a revolver to cycle through each round. The cylinder has a groove in a zig-zag formation, which is how the weapon cycles after each forward motion. This weapon was briefly considerd by the United States' Department of Defense, but ultimately rejected. With no buyers and little interest with the design, Pancor filed for bankruptcy and all of its assets were liquidated. However, it's popularity rose due to the futuristic look of the weapon, and featured in several popular media.\n The XM32E2, codename Shockhammer, is the next step up in the Jackhammer family. The cycle action no longer fails, so automatic fire can be sustained for longer periods of time. The barrel is replaced with a ported barrel made from Alien Alloy, substantially increasing the weapon's stopping power and effective range."
+TacticalText="<Bullet/>Type: Bullpup Automatic Shotgun\n<Bullet/>Firing Profile: Full-Auto\n<Bullet/>Action: Gas-Operated, Blow Forward\n<Bullet/>Cartridge: 12ga\n<Bullet/>Origin: United States\n<Bullet/>Tier: Beam"

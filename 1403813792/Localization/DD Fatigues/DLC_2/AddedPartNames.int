@@ -1,0 +1,40 @@
+[X2DownloadableContentInfo_AddedPartNames]
+
+;
+; ALIEN HUNTERS
+;
+
+
+.TorsoTemplate="Serpent_DLC2_DD_Fatigues_Full_M"
+.TorsoName="Diamond Dogs Fatigues"
+
+.TorsoTemplate="Serpent_DLC2_DD_Fatigues_Full_F"
+.TorsoName="Diamond Dogs Fatigues"
+
+
+.TorsoTemplate="SerpentMk2_DLC2_DD_Fatigues_Full_M"
+.TorsoName="Diamond Dogs Fatigues"
+
+.TorsoTemplate="SerpentMk2_DLC2_DD_Fatigues_Full_F"
+.TorsoName="Diamond Dogs Fatigues"
+
+
+.TorsoTemplate="Rage_DLC2_DD_Fatigues_Full_M"
+.TorsoName="Diamond Dogs Fatigues"
+
+.TorsoTemplate="Rage_DLC2_DD_Fatigues_Full_F"
+.TorsoName="Diamond Dogs Fatigues"
+
+
+.TorsoTemplate="RageMk2_DLC2_DD_Fatigues_Full_M"
+.TorsoName="Diamond Dogs Fatigues"
+
+.TorsoTemplate="RageMk2_DLC2_DD_Fatigues_Full_F"
+.TorsoName="Diamond Dogs Fatigues"
+
+
+.TorsoTemplate="Icarus_DLC2_DD_Fatigues_Full_M"
+.TorsoName="Diamond Dogs Fatigues"
+
+.TorsoTemplate="Icarus_DLC2_DD_Fatigues_Full_F"
+.TorsoName="Diamond Dogs Fatigues"

@@ -1,0 +1,5 @@
+﻿[mod]
+publishedFileId=1448532065
+Title=MoreBaseUtilitySlots
+Description=Increases the base number of utility items a soldier can carry from 1 to 2
+RequiresXPACK=true

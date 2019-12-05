@@ -1,0 +1,1 @@
+﻿Super simple mod. All the changes of the mod are located in Config\DefaultAI.ini if you want to tweak anything.

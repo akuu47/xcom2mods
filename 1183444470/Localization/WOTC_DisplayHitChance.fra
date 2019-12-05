@@ -1,0 +1,115 @@
+[X2Action_ApplyWeaponDamageToUnit_HITCHANCE]
+HIT_CHANCE ="TIR";
+CRIT_CHANCE ="CRIT";
+DODGE_CHANCE ="EVITE";
+MISS_CHANCE ="RATE";
+
+SHORT_GUARANTEED_HIT="T.G.";
+SHORT_HIT_CHANCE="T";
+SHORT_MISS_CHANCE="R";
+SHORT_CRIT_CHANCE="C";
+SHORT_DODGE_CHANCE="E";
+
+GUARANTEED_HIT ="TIR GARANTI";
+GUARANTEED_MISS ="IMPOSSIBLE DE TOUCHER";
+
+REPEATER_KILL ="Repeater";
+
+FAILED_TEXT = "Raté!"
+
+[WOTC_DisplayHitChance_MCMScreen]
+sSettingsPage_MCMText = "Extended Information";
+sPageTitle_MCMText = "Extended Information";
+sGroupGeneralSettings_MCMText = "Paramètres Généraux";
+sGroupFlyoverSettings_MCMText = "Paramètres des Affichages de Dégâts";
+sShowHitChance_MCMText = "Montrer les Chances de Toucher dans le Message Volant";
+sVerboseText_MCMText = "Texte Verbeux dans le Message Volant";
+sDisplayMissChance_MCMText = "Montrer les Chances de Rater qu lieu des Chances de Toucher";
+sShowTemplarMessages_MCMText = "Montrer les Chances de Toucher dans les Messages Volants Spéciaux du Templier";
+sShowAimAssist_MCMText = "Montrer les chances de Visée Assistée";
+; sFlyoverDuration_MCMText = "Durée des Messages Volants";
+sShowGuaranteedHit_MCMText = "Montrer 'TIR GARANTI' dans les Messages Volants";
+
+sGroupShotBar_MCMText = "Paramètres de la Barre de Tir";
+sBarHeight_MCMText = "Hauteur de la Barre";
+;sBarOffsetX_MCMText = "Décalage X de la Barre";
+;sBarOffsetY_MCMText = "Décalage Y de la Barre";
+sBarAlpha_MCMText = "Opacité de la Barre";
+;sBarWidthMult_MCMText = "Multiplicateur de Largeur de la Barre";
+;sGeneralOffsetY_MCMText = "Décalage Y Général";
+;sDodgeOffsetX_MCMText = "Décalage X pour 'Evité'";
+;sDodgeOffsetY_MCMText = "Décalage Y pour 'Evité'";
+;sCritOFfsetX_MCMText = "Décalage X pour 'Critique'";
+;sCritOffsetY_MCMText = "Décalage Y pour 'Critique'";
+sHitHexColor_MCMText = "Couleur de la Barre de Visée";
+sCritHexColor_MCMText = "Couleur de la Barre de Critique";
+sDodgeHexColor_MCMText = "Couleur de la Barre de Evité";
+sMissHexColor_MCMText = "Couleur de la Barre de Raté";
+sGroupShotHUD_MCMText = "Paramètres du HUD de Tir";
+sGroupBarColors_MCMText = "Paramètres de Couleurs de la Barre";
+sShowGrazed_MCMText = "Montrer les Chances de Rater dans le Hud de Tir";
+sShowCrit_MCMText = "Montrer les Chances de Crit dans le HUD de Tir";
+sAimLeftOfCrit_MCMText = "Mettre la Visée à gauche des Chances de Crit";
+sAssistBesideHit_MCMText = "Mettre l'Assistance à la Visée à côté des chances de toucehr";
+sPreviewMinimum_MCMText = "Prévisualiser les Dégâts Minimum";
+sPreviewHacking_MCMText = "Prévisualiser les Chances de Piratage";
+sWarningMessage_MCMText = "Veuillez noter que toute modification sur les Décalages peuvent occasionner un mauvais affichage!";
+sGrazeCritLayout_MCMText = "Graze Chance and Crit Damage Display Layout"
+sAssistHexColor_MCMText = "Aim Assist Chance Color";
+
+sBlack = "Noir";
+sWhite = "Blanc";
+sCyan = "Cyan";
+sFadedCyan = "Cyan estompé";
+sFadedYellow = "Jaune estompé";
+sGray = "Gris";
+sGreen = "Vert";
+sRed = "Rouge";
+sYellow = "Jaune";
+sPerkYellow = "Jaune capacité";
+sCashGreen = "Vert ressources";
+sPurple = "Violet";
+sOrange = "Orange";
+sOrangeEngineering = "Orange Ingénérie";
+sBlueScience = "Bleu Science";
+sObjIconBackground = "Fond d'icônes objectifs";
+
+sLayoutLeft = "Ecorchures et DGT C. à gauche";
+sLayoutBalanced = "Ecorchures et DGT C. de chaque côté";
+sLayoutRight = "Ecorchures et DGT C. à droite";
+
+sShowAlwaysShotBreakdownHUD_MCMText = "Toujours Montrer les informations du Tir";
+sGroupShotWings_MCMText = "Réglages des Ailes d'Infos de Tir";
+
+sGroupToolTips_MCMTtext = "Réglages des ToolTips";
+sToolTipAlpha_MCMText = "Transparence des ToolTips";
+sShowEnemyToolTip_MCMText = "Montrer le ToolTip des Ennemis";
+sShowExtraWeaponStats_MCMText = "Montrer les Stats des Armes";
+
+
+[WOTC_DisplayHitChance_UITacticalHUD_ShotWings]
+LOWER_DIFFICULTY_MSG = "Difficulté basse";
+MISS_STREAK_MSG = "Série de ratés";
+SOLDIER_LOST_BONUS = "Perte de bonus pour le Soldat";
+CRIT_DAMAGE_LABEL =  "DEGÂTS CRITIQUES";
+
+
+[WOTC_DisplayHitChance_UITacticalHUD_ShotHUD]
+CRIT_DAMAGE_LABEL="D.CRT";
+GRAZE_CHANCE_LABEL="ECORCH.";
+
+
+[UITacticalHUD_EnemyTooltip_HitChance]
+PrimaryBase = "Dégâts de Base"
+PrimarySpread = "Propagation des Dégâts"
+PrimaryPlusOne = "Dégâts +1"
+EnemyStatsTitle = "Stats Ennemi";
+
+
+[UITacticalHUD_SoldierInfoTooltip_HitChance]
+KILLS_LABEL = "Tués";
+ASSIST_LABEL = "Tués Assistés";
+FLANKING_CRIT_LABEL = "Crit à Découvert";
+
+[StatListLib]
+HackDefenseLabel = "Défense Piratage";

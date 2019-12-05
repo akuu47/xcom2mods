@@ -1,0 +1,13 @@
+[UIScreenListener_MCM_WorldWarLost]
+MOD_NAME="World War Lost"
+ARCHETYPES_HEADER="Attiva/Disattiva categorie"
+ARCHETYPES_DESCRIPTION="Cambiare questa impostazione richiede il riavvio del gioco."
+ARCHETYPES_LABEL1="Bambini"
+ARCHETYPES_LABEL2="Halloween"
+ARCHETYPES_LABEL3="Forze dell'ordine"
+ARCHETYPES_LABEL4="Resistenza (NECESSARIO IL DLC RESISTANCE WARRIOR PACK)"
+ARCHETYPES_LABEL5="Clown"
+ARCHETYPES_LABEL6="Militari"
+ARCHETYPES_LABEL7="Sportivi"
+ARCHETYPES_LABEL8="Ricoverati"
+ARCHETYPES_LABEL9="Operativi HazMat"

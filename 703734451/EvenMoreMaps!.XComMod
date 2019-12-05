@@ -1,0 +1,58 @@
+﻿[mod]
+publishedFileId=703734451
+Title=Even More Maps!
+Description=This mod adds, currently, five edited parcels and 11 PCPs from the base game and 22 new plots. I plan to later add more parcel and PCP edits and originally built plots, parcels and PCPs. 
+
+**PLEASE REPORT ANY MAP ERRORS** 
+
+Parcels: 
+Advent Recruitment Edit - A large parcel with a separate office area and more places for turrets to spawn 
+
+Cabin Edit - A large parcel with a small building added across from the default cabin and more areas for XCOM to spawn 
+
+Rowhomes edit - A medium parcel with two small buildings. One with an overhanging balcony over a store's back entrance with a relay objective on the roof and another one with a separate room leading to the 2nd floor entrance with a relay objective on the second floor 
+
+Storefront edit - A small parcel with denser washing machines, so it now actually seems like a laundromat 
+
+Shopping Center edit - A large parcel with a skybridge linking two buildings 
+
+Plots: 
+Plazas: A medium objective City Center plot with two rows of buildings and a "no man's land" of 1/2 cover plazas & parks between 
+
+Rivers: A large objective Wilderness plot with winding rivers that take a considerable portion of the play area 
+
+Downtown: A medium objective Town plot with a semi-dense retail sector 
+
+Rivers_2: A Shanty plot, with a small village being surrounded by a river 
+
+Avenue: A large objective Slums plot, with an avenue running down the center 
+
+Cliff: A large objective Wilderness plot with a massive expanse of wilderness between XCOM and their objective 
+
+Fork: A medium objective slums plot with a "fork" in the road 
+
+Facility: A large objective wilderness plot taking place within an ADVENT facility, complete with perimeter fence 
+
+Rivers_3: A medium objective shanty plot with rivers taking up at least 60-70 percent of the level 
+
+Plazas_2: A large objective City Center plot with a large plaza surrounding the objective parcel 
+
+Garth: Completely unsure of what it's supposed to be. I just put a line in my .ini to activate it. Seems to be a plot to demostrate something to Garth 
+
+Transport: A shanty plot taking place on a highway. ADVENT has cut off the residents of a Resistance haven while they were trying ot evacuate 
+
+Suburb: A narrow, medium objective, town plot, taking place in a dense suburban environment 
+
+Suburb_2: A wide, medium objective, town plot, taking place in an open suburban environment, with houses being sperated by picketed fences 
+
+Suburb_3: A narrower version of Suburb_2 
+
+Narrow: A very narrow and short medium objective, town plot with a single road hugging an edge and a forest hugging the other 
+
+Narrow_2: A commerical parcel version of Narrow 
+
+S: A medium objective, city center plot with winding 'S-Bend' roads 
+
+A: A large objective, city center plot, with roads forming an 'A' around the parcels 
+
+H: A large objective, city center plot, with roads forming a 'H' around the parcels

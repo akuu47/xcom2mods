@@ -1,0 +1,9 @@
+[X2EventListener_Notification]
+LootNotifyTitle="Survivor Rescued!"
+LootNotify="<XGParam:StrValue0/!UnitName/> successfully escaped with their loot."
+
+OperativeNotifyTitle="Operative Extracted!"
+OperativeNotify="<XGParam:StrValue0/!UnitName/> successfully escaped with their intel and loot."
+
+IntelNotifyTitle="VIP Captured!"
+IntelNotify="<XGParam:StrValue0/!UnitName/> has been captured, providing intel to XCOM."

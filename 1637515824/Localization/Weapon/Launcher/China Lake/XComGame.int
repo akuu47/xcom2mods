@@ -1,0 +1,13 @@
+[MD_WOTC_GL_CLK_STD_T1 X2GrenadeLauncherTemplate]
+FriendlyName="China Lake"
+FriendlyNamePlural="China Lakes"
+AbilityDescName="grenade launcher"
+BriefSummary="Designed for Navy SEALs, the China Lake is a pump-action grenade launcher that holds 3 rounds."
+TacticalText="<Bullet/>Type: Grenade Launcher\n<Bullet/>Firing Profile: Single\n<Bullet/>Action: Pump-Action\n<Bullet/>Cartridge: 40x46mm Grenades\n<Bullet/>Origin: United States\n<Bullet/>Tier: Conventional"
+
+[MD_WOTC_GL_CLK_STD_T2 X2GrenadeLauncherTemplate]
+FriendlyName="China Lake MkII"
+FriendlyNamePlural="China Lake MkIIs"
+AbilityDescName="grenade launcher"
+BriefSummary="Designed for Navy SEALs, the China Lake is a pump-action grenade launcher that holds 3 rounds."
+TacticalText="<Bullet/>Type: Grenade Launcher\n<Bullet/>Firing Profile: Single\n<Bullet/>Action: Pump-Action\n<Bullet/>Cartridge: 40x46mm Grenades\n<Bullet/>Origin: United States\n<Bullet/>Tier: Magnetic"

@@ -1,0 +1,32 @@
+[ResAct_Mission_PrisonBreak_Success X2ResistanceActivityTemplate]
+DisplayName="Prison Break Operation(s) Completed:"
+
+[ResAct_Mission_PrisonBreak_Failed X2ResistanceActivityTemplate]
+DisplayName="Failed Prison Break Operation(s):"
+
+[CompoundPrisonBreak X2MissionTemplate]
+DisplayName="Rescue Prisoners from ADVENT Compound"
+Briefing="Aid in the prisoners' escape from the ADVENT Compound"
+PostMissionType="Prison Break"
+BriefingImage="img:///UILibrary_Common.Xcom_default"
+ObjectiveTextPools[0]="Infiltrate the ADVENT Prison Compound"
+ObjectiveTextPools[1]="Free the Prisoners"
+ObjectiveTextPools[2]="Objective: Survive"
+PreMissionNarratives[0]="XPACK_NarrativeMoments.X2_XP_CEN_T_Compound_Rescue_Dropship_Intro_A"
+PreMissionNarratives[1]="XPACK_NarrativeMoments.X2_XP_CEN_T_Compound_Rescue_Dropship_Intro_B"
+PreMissionNarratives[2]="XPACK_NarrativeMoments.X2_XP_CEN_T_Compound_Rescue_Dropship_Intro_C"
+
+[Reward_Mission_PrisonBreakRescue X2RewardTemplate]
+DisplayName="Prison Breakout"
+RewardDetails="Unlocks a mission to rescue captured soldiers or mercenaries."
+
+[MissionSource_RescuePrisonBreak X2MissionSourceTemplate]
++MissionPinLabel="Prison Break"
++BattleOpName="Operation Shawshank"
+MissionExpiredText="They were good people. What a shame."
+
+[RescuePrisonBreak X2MissionFlavorTextTemplate]
+FlavorText="MISSING FLAVOR TEXT"
+CouncilSpokesmanSuccessText="Word of the successful rescue operation is already spreading. Your efforts today will no doubt bolster the resolve of Resistance forces across the globe, Commander."
+CouncilSpokesmanFailureText="It is unfortunate you were unable to free those captives, Commander. Our allies will no doubt question our methods after such a loss."
+

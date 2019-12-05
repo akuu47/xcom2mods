@@ -1,0 +1,41 @@
+[TC_WOTC_MWR_SVD_T1 X2WeaponTemplate]
+FriendlyName="<font color='#ECECEC'><b>Dragunov</b></font>"
+FriendlyNamePlural="<font color='#ECECEC'><b>Dragunovs</b></font>"
+AbilityDescName="sniper rifle"
+BriefSummary="Formally known in the Soviet Union as, Sniper Rifle, System of Dragunov, Model of the Year 1963, the SVD is a chambered 7.62x54R semi-automatic sniper rifle equipped with a removable PSO-1 scope. Unlike the Kalashnikov series of weapons, the Dragunov was built with accuracy in mind rather than automatic firepower. Even though it was phased out by the Russian military, small insurgents and PMCs still carry this weapon to this day."
+TacticalText="<Bullet/>Type: Sniper Rifle\n<Bullet/>Firing Profile: Semi-Auto\n<Bullet/>Action: Gas-Operated, Rotating Bolt\n<Bullet/>Cartridge: 7.62x54mmR\n<Bullet/>Origin: Soviet Union/Russia\n<Bullet/>Tier: Conventional"
+
+[TC_WOTC_MWR_SVD_T2 X2WeaponTemplate]
+FriendlyName="<font color='#27AAE1'><b>Zambetov SV</b></font>"
+FriendlyNamePlural="<font color='#27AAE1'><b>Zambetov SVs</b></font>"
+AbilityDescName="sniper rifle"
+BriefSummary="Formally known in the Soviet Union as, Sniper Rifle, System of Dragunov, Model of the Year 1963, the SVD is a chambered 7.62x54R semi-automatic sniper rifle equipped with a removable PSO-1 scope. Unlike the Kalashnikov series of weapons, the Dragunov was built with accuracy in mind rather than automatic firepower. Even though it was phased out by the Russian military, small insurgents and PMCs still carry this weapon to this day.\nWith the magnetic research completed, the SVD aging gas operated mechanism can finally be replaced with a more powerful magnetic mechanism, resulting in greater firepower and range."
+TacticalText="<Bullet/>Type: Sniper Rifle\n<Bullet/>Firing Profile: Semi-Auto\n<Bullet/>Action: Gas-Operated, Rotating Bolt\n<Bullet/>Cartridge: 7.62x54mmR\n<Bullet/>Origin: Soviet Union/Russia\n<Bullet/>Tier: Magnetic"
+
+[TC_WOTC_MWR_SVD_T3 X2WeaponTemplate]
+FriendlyName="<font color='#CF4517'><b>Medved 35 XSV</b></font>"
+FriendlyNamePlural="<font color='#CF4517'><b>Medved 35s</b></font>"
+AbilityDescName="sniper rifle"
+BriefSummary="Formally known in the Soviet Union as, Sniper Rifle, System of Dragunov, Model of the Year 1963, The SVD is a chambered 7.62x54R semi-automatic sniper rifle equipped with a removable PSO-1 scope. Unlike the Kalashnikov series of weapons, the Dragunov was built with accuracy in mind rather than automatic firepower. Even though it was phased out by the Russian military, small insurgents and PMCs still carry this weapon to this day.\n With magnetic and beam technology combined, the SVD's firepower is drastically improved, breathing new life to an aging weapon."
+TacticalText="<Bullet/>Type: Sniper Rifle\n<Bullet/>Firing Profile: Semi-Auto\n<Bullet/>Action: Gas-Operated, Rotating Bolt\n<Bullet/>Cartridge: 7.62x54mmR\n<Bullet/>Origin: Soviet Union/Russia\n<Bullet/>Tier: Beam"
+
+[TC_WOTC_RPR_MWR_SVD_T1 X2WeaponTemplate]
+FriendlyName="<font color='#ECECEC'><b>Dragunov</b></font>"
+FriendlyNamePlural="<font color='#ECECEC'><b>Dragunovs</b></font>"
+AbilityDescName="sniper rifle"
+BriefSummary="Formally known in the Soviet Union as, Sniper Rifle, System of Dragunov, Model of the Year 1963, the SVD is a chambered 7.62x54R semi-automatic sniper rifle equipped with a removable PSO-1 scope. Unlike the Kalashnikov series of weapons, the Dragunov was built with accuracy in mind rather than automatic firepower. Even though it was phased out by the Russian military, small insurgents and PMCs still carry this weapon to this day."
+TacticalText="<Bullet/>Type: Sniper Rifle\n<Bullet/>Firing Profile: Semi-Auto\n<Bullet/>Action: Gas-Operated, Rotating Bolt\n<Bullet/>Cartridge: 7.62x54mmR\n<Bullet/>Origin: Soviet Union/Russia\n<Bullet/>Tier: Conventional"
+
+[TC_WOTC_RPR_MWR_SVD_T2 X2WeaponTemplate]
+FriendlyName="<font color='#27AAE1'><b>Zambetov SV</b></font>"
+FriendlyNamePlural="<font color='#27AAE1'><b>Zambetovs</b></font>"
+AbilityDescName="sniper rifle"
+BriefSummary="Formally known in the Soviet Union as, Sniper Rifle, System of Dragunov, Model of the Year 1963, the SVD is a chambered 7.62x54R semi-automatic sniper rifle equipped with a removable PSO-1 scope. Unlike the Kalashnikov series of weapons, the Dragunov was built with accuracy in mind rather than automatic firepower. Even though it was phased out by the Russian military, small insurgents and PMCs still carry this weapon to this day.\nWith the magnetic research completed, the SVD aging gas operated mechanism can finally be replaced with a more powerful magnetic mechanism, resulting in greater firepower and range."
+TacticalText="<Bullet/>Type: Sniper Rifle\n<Bullet/>Firing Profile: Semi-Auto\n<Bullet/>Action: Gas-Operated, Rotating Bolt\n<Bullet/>Cartridge: 7.62x54mmR\n<Bullet/>Origin: Soviet Union/Russia\n<Bullet/>Tier: Magnetic"
+
+[TC_WOTC_RPR_MWR_SVD_T3 X2WeaponTemplate]
+FriendlyName="<font color='#CF4517'><b>Medved 35 XSV</b></font>"
+FriendlyNamePlural="<font color='#CF4517'><b>Medved 35s</b></font>"
+AbilityDescName="sniper rifle"
+BriefSummary="Formally known in the Soviet Union as, Sniper Rifle, System of Dragunov, Model of the Year 1963, The SVD is a chambered 7.62x54R semi-automatic sniper rifle equipped with a removable PSO-1 scope. Unlike the Kalashnikov series of weapons, the Dragunov was built with accuracy in mind rather than automatic firepower. Even though it was phased out by the Russian military, small insurgents and PMCs still carry this weapon to this day.\n With magnetic and beam technology combined, the SVD's firepower is drastically improved, breathing new life to an aging weapon."
+TacticalText="<Bullet/>Type: Sniper Rifle\n<Bullet/>Firing Profile: Semi-Auto\n<Bullet/>Action: Gas-Operated, Rotating Bolt\n<Bullet/>Cartridge: 7.62x54mmR\n<Bullet/>Origin: Soviet Union/Russia\n<Bullet/>Tier: Beam"

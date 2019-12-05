@@ -1,0 +1,6 @@
+
+[Main_ViewLockedSkillsWotc]
+ShowAllLabel = "Show All"
+ShowAllToolTip = "Reveals all abilities (only for this screen)."
+AlwaysShowAllLabel = "Always Show All"
+AlwaysShowAllTooltip = "Check to always reveal all the abilities by default."

@@ -1,0 +1,41 @@
+[TC_WOTC_MILL_SVU_T1 X2WeaponTemplate]
+FriendlyName="<font color='#ECECEC'><b>OTs-03 SVU</b></font>"
+FriendlyNamePlural="<font color='#ECECEC'><b>OTs-03 SVUs</b></font>"
+AbilityDescName="sniper rifle"
+BriefSummary="The SVU, in its native language means Sniper Rifle Shortened, is a chambered 7.62x54R semi-automatic bullpup sniper rifle equipped with a removable PSO-1 scope. It's a perfectly balanced Dragunov with several other modifications, such as a shortened barrel, new muzzle break, and a pistol grip in front of the magazine well."
+TacticalText="<Bullet/>Type: Sniper Rifle\n<Bullet/>Firing Profile: Semi-Auto\n<Bullet/>Action: Gas-Operated, Rotating Bolt\n<Bullet/>Cartridge: 7.62x54mmR\n<Bullet/>Origin: Soviet Union/Russia\n<Bullet/>Tier: Conventional"
+
+[TC_WOTC_MILL_SVU_T2 X2WeaponTemplate]
+FriendlyName="<font color='#27AAE1'><b>Ballista SVU</b></font>"
+FriendlyNamePlural="<font color='#27AAE1'><b>Ballista SVUs</b></font>"
+AbilityDescName="sniper rifle"
+BriefSummary="The SVU, in its native language means Sniper Rifle Shortened, is a chambered 7.62x54R semi-automatic bullpup sniper rifle equipped with a removable PSO-1 scope. It's a perfectly balanced Dragunov with several other modifications, such as a shortened barrel, new muzzle break, and a pistol grip in front of the magazine well."
+TacticalText="<Bullet/>Type: Sniper Rifle\n<Bullet/>Firing Profile: Semi-Auto\n<Bullet/>Action: Gas-Operated, Rotating Bolt\n<Bullet/>Cartridge: 7.62x54mmR\n<Bullet/>Origin: Soviet Union/Russia\n<Bullet/>Tier: Magnetic"
+
+[TC_WOTC_MILL_SVU_T3 X2WeaponTemplate]
+FriendlyName="<font color='#CF4517'><b>Tigr 35 XSVU</b></font>"
+FriendlyNamePlural="<font color='#CF4517'><b>Tigr 35s</b></font>"
+AbilityDescName="sniper rifle"
+BriefSummary="The SVU, in its native language means Sniper Rifle Shortened, is a chambered 7.62x54R semi-automatic bullpup sniper rifle equipped with a removable PSO-1 scope. It's a perfectly balanced Dragunov with several other modifications, such as a shortened barrel, new muzzle break, and a pistol grip in front of the magazine well."
+TacticalText="<Bullet/>Type: Sniper Rifle\n<Bullet/>Firing Profile: Semi-Auto\n<Bullet/>Action: Gas-Operated, Rotating Bolt\n<Bullet/>Cartridge: 7.62x54mmR\n<Bullet/>Origin: Soviet Union/Russia\n<Bullet/>Tier: Beam"
+
+[TC_WOTC_RPR_MILL_SVU_T1 X2WeaponTemplate]
+FriendlyName="<font color='#ECECEC'><b>OTs-03 SVU</b></font>"
+FriendlyNamePlural="<font color='#ECECEC'><b>OTs-03 SVUs</b></font>"
+AbilityDescName="sniper rifle"
+BriefSummary="The SVU, in its native language means Sniper Rifle Shortened, is a chambered 7.62x54R semi-automatic bullpup sniper rifle equipped with a removable PSO-1 scope. It's a perfectly balanced Dragunov with several other modifications, such as a shortened barrel, new muzzle break, and a pistol grip in front of the magazine well."
+TacticalText="<Bullet/>Type: Sniper Rifle\n<Bullet/>Firing Profile: Semi-Auto\n<Bullet/>Action: Gas-Operated, Rotating Bolt\n<Bullet/>Cartridge: 7.62x54mmR\n<Bullet/>Origin: Soviet Union/Russia\n<Bullet/>Tier: Conventional"
+
+[TC_WOTC_RPR_MILL_SVU_T2 X2WeaponTemplate]
+FriendlyName="<font color='#27AAE1'><b>Ballista SVU</b></font>"
+FriendlyNamePlural="<font color='#27AAE1'><b>Ballista SVUs</b></font>"
+AbilityDescName="sniper rifle"
+BriefSummary="The SVU, in its native language means Sniper Rifle Shortened, is a chambered 7.62x54R semi-automatic bullpup sniper rifle equipped with a removable PSO-1 scope. It's a perfectly balanced Dragunov with several other modifications, such as a shortened barrel, new muzzle break, and a pistol grip in front of the magazine well."
+TacticalText="<Bullet/>Type: Sniper Rifle\n<Bullet/>Firing Profile: Semi-Auto\n<Bullet/>Action: Gas-Operated, Rotating Bolt\n<Bullet/>Cartridge: 7.62x54mmR\n<Bullet/>Origin: Soviet Union/Russia\n<Bullet/>Tier: Magnetic"
+
+[TC_WOTC_RPR_MILL_SVU_T3 X2WeaponTemplate]
+FriendlyName="<font color='#CF4517'><b>Tigr 35 XSVU</b></font>"
+FriendlyNamePlural="<font color='#CF4517'><b>Tigr 35s</b></font>"
+AbilityDescName="sniper rifle"
+BriefSummary="The SVU, in its native language means Sniper Rifle Shortened, is a chambered 7.62x54R semi-automatic bullpup sniper rifle equipped with a removable PSO-1 scope. It's a perfectly balanced Dragunov with several other modifications, such as a shortened barrel, new muzzle break, and a pistol grip in front of the magazine well."
+TacticalText="<Bullet/>Type: Sniper Rifle\n<Bullet/>Firing Profile: Semi-Auto\n<Bullet/>Action: Gas-Operated, Rotating Bolt\n<Bullet/>Cartridge: 7.62x54mmR\n<Bullet/>Origin: Soviet Union/Russia\n<Bullet/>Tier: Beam"

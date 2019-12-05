@@ -1,0 +1,41 @@
+[TC_WOTC_IW_UMP45_T1 X2WeaponTemplate]
+FriendlyName="<font color='#ECECEC'><b>UMP-45</b></font>"
+FriendlyNamePlural="<font color='#ECECEC'><b>UMP-45s</b></font>"
+AbilityDescName="submachine gun"
+BriefSummary="Short for Universale Maschinenpistole, the UMP was designed as a lighter and cheaper alternative to the MP5, however both remain in production. This version is the UMP-45 chambered in .45 ACP. Unlike the MP5 however, the UMP can be chambered for larger cartriges, however, the recoil would drastically increase. To mitigate the increased recoil, H&K reduced the rate of fire, which makes it slower firing than most SMGs on the market."
+TacticalText="<Bullet/>Type: Submachine Gun\n<Bullet/>Firing Profile: Full-Auto\n<Bullet/>Action: Blowback, Closed Bolt\n<Bullet/>Cartridge: .45 ACP\n<Bullet/>Origin: Germany\n<Bullet/>Tier: Conventional"
+
+[TC_WOTC_IW_UMP45_T2 X2WeaponTemplate]
+FriendlyName="<font color='#27AAE1'><b>MacTav-45</b></font>"
+FriendlyNamePlural="<font color='#27AAE1'><b>MacTav-45s</b></font>"
+AbilityDescName="submachine gun"
+BriefSummary="Short for Universale Maschinenpistole, the UMP was designed as a lighter and cheaper alternative to the MP5, however both remain in production. This version is the UMP-45 chambered in .45 ACP. Unlike the MP5 however, the UMP can be chambered for larger cartriges, however, the recoil would drastically increase. To mitigate the increased recoil, H&K reduced the rate of fire, which makes it slower firing than most SMGs on the market."\nThe MacTav-45 uses experimental tungsen-coated bullets for increased stopping power and reduced recoil."
+TacticalText="<Bullet/>Type: Submachine Gun\n<Bullet/>Firing Profile: Full-Auto\n<Bullet/>Action: Blowback, Closed Bolt\n<Bullet/>Cartridge: .45 ACP\n<Bullet/>Origin: Germany\n<Bullet/>Tier: Magnetic"
+
+[TC_WOTC_IW_UMP45_T3 X2WeaponTemplate]
+FriendlyName="<font color='#CF4517'><b>UN MACHT 6</b></font>"
+FriendlyNamePlural="<font color='#CF4517'><b>UN MACHT 6s</b></font>"
+AbilityDescName="submachine gun"
+BriefSummary="Short for Universale Maschinenpistole, the UMP was designed as a lighter and cheaper alternative to the MP5, however both remain in production. This version is the UMP-45 chambered in .45 ACP. Unlike the MP5 however, the UMP can be chambered for larger cartriges, however, the recoil would drastically increase. To mitigate the increased recoil, H&K reduced the rate of fire, which makes it slower firing than most SMGs on the market."\nUN MACHT 6 uses a custom rifled barrel laced with alien alloy and other rare-earth materials, making this weapon unstoppable against any foe."
+TacticalText="<Bullet/>Type: Submachine Gun\n<Bullet/>Firing Profile: Full-Auto\n<Bullet/>Action: Blowback, Closed Bolt\n<Bullet/>Cartridge: .45 ACP\n<Bullet/>Origin: Germany\n<Bullet/>Tier: Beam"
+
+[TC_WOTC_SKR_IW_UMP45_T1 X2WeaponTemplate]
+FriendlyName="<font color='#ECECEC'><b>UMP-45</b></font>"
+FriendlyNamePlural="<font color='#ECECEC'><b>UMP-45s</b></font>"
+AbilityDescName="submachine gun"
+BriefSummary="Short for Universale Maschinenpistole, the UMP was designed as a lighter and cheaper alternative to the MP5, however both remain in production. This version is the UMP-45 chambered in .45 ACP. Unlike the MP5 however, the UMP can be chambered for larger cartriges, however, the recoil would drastically increase. To mitigate the increased recoil, H&K reduced the rate of fire, which makes it slower firing than most SMGs on the market."
+TacticalText="<Bullet/>Type: Submachine Gun\n<Bullet/>Firing Profile: Full-Auto\n<Bullet/>Action: Blowback, Closed Bolt\n<Bullet/>Cartridge: .45 ACP\n<Bullet/>Origin: Germany\n<Bullet/>Tier: Conventional"
+
+[TC_WOTC_SKR_IW_UMP45_T2 X2WeaponTemplate]
+FriendlyName="<font color='#27AAE1'><b>MacTav-45</b></font>"
+FriendlyNamePlural="<font color='#27AAE1'><b>MacTav-45s</b></font>"
+AbilityDescName="submachine gun"
+BriefSummary="Short for Universale Maschinenpistole, the UMP was designed as a lighter and cheaper alternative to the MP5, however both remain in production. This version is the UMP-45 chambered in .45 ACP. Unlike the MP5 however, the UMP can be chambered for larger cartriges, however, the recoil would drastically increase. To mitigate the increased recoil, H&K reduced the rate of fire, which makes it slower firing than most SMGs on the market."\nThe MacTav-45 uses experimental tungsen-coated bullets for increased stopping power and reduced recoil."
+TacticalText="<Bullet/>Type: Submachine Gun\n<Bullet/>Firing Profile: Full-Auto\n<Bullet/>Action: Blowback, Closed Bolt\n<Bullet/>Cartridge: .45 ACP\n<Bullet/>Origin: Germany\n<Bullet/>Tier: Magnetic"
+
+[TC_WOTC_SKR_IW_UMP45_T3 X2WeaponTemplate]
+FriendlyName="<font color='#CF4517'><b>UN MACHT 6</b></font>"
+FriendlyNamePlural="<font color='#CF4517'><b>UN MACHT 6s</b></font>"
+AbilityDescName="submachine gun"
+BriefSummary="Short for Universale Maschinenpistole, the UMP was designed as a lighter and cheaper alternative to the MP5, however both remain in production. This version is the UMP-45 chambered in .45 ACP. Unlike the MP5 however, the UMP can be chambered for larger cartriges, however, the recoil would drastically increase. To mitigate the increased recoil, H&K reduced the rate of fire, which makes it slower firing than most SMGs on the market."\nUN MACHT 6 uses a custom rifled barrel laced with alien alloy and other rare-earth materials, making this weapon unstoppable against any foe."
+TacticalText="<Bullet/>Type: Submachine Gun\n<Bullet/>Firing Profile: Full-Auto\n<Bullet/>Action: Blowback, Closed Bolt\n<Bullet/>Cartridge: .45 ACP\n<Bullet/>Origin: Germany\n<Bullet/>Tier: Beam"

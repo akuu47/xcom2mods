@@ -1,0 +1,1 @@
+﻿Remember, showing cleavage can distract the enemy.

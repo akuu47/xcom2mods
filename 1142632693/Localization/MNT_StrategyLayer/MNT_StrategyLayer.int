@@ -1,0 +1,257 @@
+[UIArmory_MainMenu_Replacement]
+m_strTitle=MANAGE UNIT
+m_strCustomizeSoldier=CUSTOMIZE
+m_strCustomizeWeapon=WEAPON UPGRADE
+m_strAbilities=SOLDIER ABILITIES
+m_strAdditionalAbilities="ADDITIONAL ABILITIES"
+m_strPromote=PROMOTE SOLDIER
+m_strImplants=PERSONAL COMBAT SIMS
+m_strLoadout=LOADOUT
+m_strSoldierBonds=SOLDIER BONDS
+m_strDismiss=DISMISS
+m_strPropaganda=PHOTOBOOTH
+m_strDismissDialogTitle=CONFIRM DISMISS
+m_strDismissDialogDescription=Are you sure you want to dismiss <XGParam:StrValue0/!UnitName/>?
+m_strNoGTSTooltip=GUERRILLA TACTICS SCHOOL FACILITY REQUIRED
+m_strCantEquiqPCSTooltip=UNIT CANNOT EQUIP COMBAT SIMS
+m_strCombatSimsSlotsFull=COMBAT SIM ALREADY EQUIPPED
+m_strNoImplantsTooltip=NO PERSONAL COMBAT SIMS AVAILABLE
+m_strNoModularWeaponsTooltip=NEED MODULAR WEAPONS RESEARCH
+m_strCannotUpgradeWeaponTooltip=CURRENT PRIMARY WEAPON CANNOT BE UPGRADED
+m_strNoWeaponUpgradesTooltip=NO WEAPON UPGRADES AVAILABLE
+m_strInsufficientRankForImplantsTooltip=INSUFFICIENT RANK FOR COMBAT SIMS
+m_strRookiePromoteTooltip=ROOKIES MUST EARN A PROMOTION IN ORDER TO GET ABILITIES
+
+m_strPromoteDesc=Promote your soldier and award them special abilities to use during combat.
+m_strAdditionalDesc="View additional perks available to this soldier."
+m_strImplantsDesc=Enhance this soldier with neural enhancements to give them a boost in battle.
+m_strLoadoutDesc=View and edit this soldier's inventory.
+m_strSoldierBondsDesc=View this soldier's bonds with other soldiers in the armory. 
+m_strDismissDesc=Dismiss this soldier from your crew.
+m_strPropagandaDesc=Create a poster featuring this soldier.
+m_strCustomizeWeaponDesc=Modify this soldier's primary weapon.
+m_strCustomizeSoldierDesc=Modify the name, appearance, personality, and nationality of this soldier.
+
+m_strToggleAbilities=TOGGLE ABILITIES
+m_strToggleTraits=TOGGLE TRAITS
+
+[UIInventory_Implants_Replacement]
+m_strTitle=SELECT PERSONAL COMBAT SIM
+m_strNoLoot=NO PERSONAL COMBAT SIMS IN INVENTORY
+m_strInstallImplantTitle=CONFIRM PCS INSTALLATION
+m_strInstallImplantText=Once a PCS is installed, it can be replaced but not reused. Are you sure you want to install <XGParam:StrValue0/!PCSItemName/>?
+m_strReplaceImplantTitle=CONFIRM PCS REPLACEMENT
+m_strReplaceImplantText=A PCS is not reusable, removing <XGParam:StrValue0/> will destroy it. Are you sure you want to replace <XGParam:StrValue0/!PCSItemName/> with <XGParam:StrValue1/!PCSItemName/>?
+m_strBuy=INSTALL
+
+[UIFacility_PsionLabSlot]
+m_strPsiTrainingDialogTitle="TRAIN PSIONIC ABILITIES"
+m_strPsiTrainingDialogText="<XGParam:StrValue0/!UnitName/> can undergo specialized training to unlock their Psionic potential and gain Psionic abilities, but they will be unavailable for combat for <XGParam:IntValue0/!DaysToTrain/> days during the training process. Do you want to proceed?"
+m_strStopPsiTrainingDialogTitle="STOP PSIONIC TRAINING?"
+m_strStopPsiTrainingDialogText="Do you want to stop %UNITNAME from training as a psion?\n\nWARNING: All training progress will be lost."
+m_strPauseAbilityTrainingDialogTitle="PAUSE PSI ABILITY TRAINING?"
+m_strPauseAbilityTrainingDialogText="Do you want to pause %UNITNAME's Psionic ability training?\n\nNOTE: Training progress will be saved."
+m_strNoSoldiersTooltip="There are no soldiers with the latent ability to use psionics available for training."
+m_strSoldiersAvailableTooltip="Assign a latent psionic to learn new psionic abilities."
+
+[UIFacility_SpecializeSlot]
+m_strSpecializeTitle="SPECIALIZE SOLDIER"
+m_strSpecializeText="<XGParam:StrValue0/!UnitName/> can undergo specialized training, but they will be unavailable for combat for <XGParam:IntValue0/!DaysToTrain/> days during the training process. Do you want to proceed?"
+m_strStopSpecializationTitle="STOP SPECIALIZED TRAINING?"
+m_strStopSpecializationText="Do you want to stop %UNITNAME from specializing?\n\nWARNING: Training progress will be saved."
+m_strNoSoldiersTooltip="There are no soldiers available to undergo specialization."
+m_strSoldiersAvailableTooltip="Assign a soldier to a specialized training course."
+
+[UIChoosePsionAbility]
+m_strTitle="Psionic Training"
+m_strInventoryLabel="Available Abilities:"
+m_strBuy="BEGIN TRAINING"
+m_strPaused="[PAUSED]"
+m_strResume="Resume Training"
+
+[UIChooseSpecialization]
+m_strTitle="Specialization"
+m_strInventoryLabel="Available Specializations:"
+m_strBuy="BEGIN TRAINING"
+m_strPaused="[PAUSED]"
+m_strResume="Resume Training"
+
+[UIAlert_IsPsionic]
+m_strPsionicSoldierHeader="ATTENTION"
+;m_strPsionicSoldierHeader="YOROKOBE SHOUNEN"
+m_strPsionicSoldierTitle="SOLDIER HAS PSIONIC POTENTIAL"
+m_strSoldierIsPsionic="Can begin training psionic abilities"
+m_strSoldierPsionicHelp="Soldiers with the rare latent gift to use psionics can learn to harness them to devastating effect on the battlefield."
+
+[UIAlert_Specialized]
+m_strSpecializedSoldierHeader="ATTENTION"
+;m_strSpecializedSoldierHeader="YOROKOBE SHOUNEN"
+m_strSpecializedSoldierTitle="SOLDIER HAS COMPLETED SPECIALIZATION"
+m_strSoldierIsSpecialized="SPECIALIZATION: <font color='#BF1E2E'> %SPEC </font>"
+m_strSoldierSpecializedHelp="After an intense training regimen, this soldier has gained access to numerous perks pertaining to the %SPEC specialization."
+
+[MNT_Utility]
+PsionDescription="Mutare ad Custodiam. A latent psionic that we have discovered within our own troops, they wield the alien's greatest powers against them."
+
+PsionRankIcons[0]="UILibrary_Common.psirank_initiate"
+PsionRankIcons[1]="UILibrary_Common.psirank_acolyte"
+PsionRankIcons[2]="UILibrary_Common.psirank_adept"
+PsionRankIcons[3]="UILibrary_Common.psirank_disciple"
+PsionRankIcons[4]="UILibrary_Common.psirank_mystic"
+PsionRankIcons[5]="UILibrary_Common.psirank_warlock"
+PsionRankIcons[6]="UILibrary_Common.psirank_magus"
+
+PsionRankNames[0]="Initiate"
+PsionRankNames[1]="Acolyte"
+PsionRankNames[2]="Adept"
+PsionRankNames[3]="Disciple"
+PsionRankNames[4]="Mystic"
+PsionRankNames[5]="Warlock"
+PsionRankNames[6]="Seer"
+
+PsionShortNames[0]="Int."
+PsionShortNames[1]="Acl."
+PsionShortNames[2]="Adp."
+PsionShortNames[3]="Dsc."
+PsionShortNames[4]="Mys."
+PsionShortNames[5]="War."
+PsionShortNames[6]="Seer"
+
+[UIArmory_AdditionalAbilities]
+m_strPsiOffenseLabel="PSI OFFENSE:"
+m_strNextSoldierRankLabel="REQ. RANK:"
+
+
+[X2DownloadableContentInfo_MNT_StrategyLayer]
+str_DeltaStrike_Description = "Delta Strike: Converts durability from pure health to a mixture of health/armor/shields."
+str_DeltaStrike_Tooltip = "Grants each enemy and XCOM armors more tailored durability bonuses than just health - this scales with Beta Strike! In addition, enemies gain bonus defensive abilities that warrant a different strategical approach to fighting each one. Psionic enemies gain shields that grant a defense bonus while active. Robotic enemies gain armor that grant damage reduction while active. ADVENT gains bonus defense when under half health. Melee aliens gain large HP regeneration."
+str_EarthsFinest_Description = "Earth's Finest: XCom troopers may come with slightly higher stats than normal."
+str_EarthsFinest_Tooltip = "Grants your soldiers a chance to come with slightly higher stats, up to a defined cap. This stat value is only positive."
+
+
+; *********************************************************************************************************************
+; ***							GTS TACTICS																			***
+; *********************************************************************************************************************
+
+[SwordBasicUnlock X2SoldierGTSUnlockTemplate]
+DisplayName="<font color='#aca68a'>Sword Training</font>: Basic"
+Summary="Grants <font color='#e69831'>Blademaster</font>, granting +2 damage on sword attacks."
+
+[SwordIntermediateUnlock X2SoldierGTSUnlockTemplate]
+DisplayName="<font color='#aca68a'>Sword Training</font>: Intermediate"
+Summary="Grants <font color='#e69831'>Momentum</font>, giving a bonus move after any sword slash."
+
+[SwordExpertUnlock X2SoldierGTSUnlockTemplate]
+DisplayName="<font color='#aca68a'>Sword Training</font>: Expert"
+Summary="Grants <font color='#e69831'>Bladestorm</font>, granting a free sword slash on enemies entering or leaving melee range."
+
+[PistolBasicUnlock X2SoldierGTSUnlockTemplate]
+DisplayName="<font color='#aca68a'>Pistol Training</font>: Basic"
+Summary="Grants <font color='#e69831'>Return Fire</font>, granting a free Pistol counterattack each turn."
+
+[PistolIntermediateUnlock X2SoldierGTSUnlockTemplate]
+DisplayName="<font color='#aca68a'>Pistol Training</font>: Intermediate"
+Summary="Grants <font color='#e69831'>Lightning Hands</font>, a free action regular shot with a pistol."
+
+[PistolExpertUnlock X2SoldierGTSUnlockTemplate]
+DisplayName="<font color='#aca68a'>Pistol Training</font>: Expert"
+Summary="Grants <font color='#e69831'>Faceoff</font>, shooting at all targets in vision with a pistol."
+
+; *********************************************************************************************************************
+; ***							GTS TACTICS	(LW2)																	***
+; *********************************************************************************************************************
+
+[PumpActionUnlock X2SoldierGTSUnlockTemplate]
+DisplayName="<font color='#aca68a'>Sawn-off Shotgun</font>: Pump Action"
+Summary="Grants <font color='#e69831'>Pump Action</font>, granting +2 ammo for the sawnoff."
+
+[CombativesUnlock X2SoldierGTSUnlockTemplate]
+DisplayName="<font color='#aca68a'>Combat Knife</font>: Combatives"
+Summary="Grants <font color='#e69831'>Combatives</font>, granting a free counterattack against melee enemies."
+
+[ArcthrowerBasicUnlock X2SoldierGTSUnlockTemplate]
+DisplayName="<font color='#aca68a'>Arcthrower Training</font>: Basic"
+Summary="Grants <font color='#e69831'>Electroshock</font>, disorienting even on misses."
+
+[ArcthrowerIntermediateUnlock X2SoldierGTSUnlockTemplate]
+DisplayName="<font color='#aca68a'>Arcthrower Training</font>: Intermediate"
+Summary="Grants <font color='#e69831'>Stun Gunner</font>, giving bonus aim with the arc thrower."
+
+[ArcthrowerExpertUnlock X2SoldierGTSUnlockTemplate]
+DisplayName="<font color='#aca68a'>Arcthrower Training</font>: Expert"
+Summary="Grants <font color='#e69831'>Chain Lightning</font>, firing the arc thrower at every target in vision."
+
+[HolotargeterBasicUnlock X2SoldierGTSUnlockTemplate]
+DisplayName="<font color='#aca68a'>Holotargeter Training</font>: Basic"
+Summary="Grants <font color='#e69831'>HDHolo</font>, boosting critical hit on holo'd targets."
+
+[HolotargeterIntermediateUnlock X2SoldierGTSUnlockTemplate]
+DisplayName="<font color='#aca68a'>Holotargeter Training</font>: Intermediate"
+Summary="Grants <font color='#e69831'>Vital Point Targeting</font>, marking the target for a bonus point of damage."
+
+[HolotargeterExpertUnlock X2SoldierGTSUnlockTemplate]
+DisplayName="<font color='#aca68a'>Holotargeter Training</font>: Expert"
+Summary="Grants <font color='#e69831'>Multitargeting</font>, targeting all enemies in sight."
+
+
+
+
+
+; *********************************************************************************************************************
+; ***							SECOND WAVE																			***
+; *********************************************************************************************************************
+
+[SWDS_ReactiveArmor X2AbilityTemplate]
+LocFriendlyName="Reactive Armor"
+LocLongDescription="While still armored, critical chance and damage is reduced against this unit."
+LocHelpText="While still armored, critical chance and damage is reduced against this unit."
+LocFlyOverText="Reactive Armor"
+
+[SWDS_ForceField X2AbilityTemplate]
+LocFriendlyName="Force Field"
+LocLongDescription="While still shielded, accuracy is reduced against this unit."
+LocHelpText="While still shielded, accuracy is reduced against this unit."
+LocFlyOverText="Force Field"
+
+[SWDS_AdrenalineRush X2AbilityTemplate]
+LocFriendlyName="Adrenaline Rush"
+LocLongDescription="While heavily wounded, this unit gains bonus defense."
+LocHelpText="While heavily wounded, this unit gains bonus defense."
+LocFlyOverText="Adrenaline Rush"
+
+[SWDS_HyperRegen X2AbilityTemplate]
+LocFriendlyName="Hyper Regeneration"
+LocLongDescription="This unit regenerates an immense amount of HP per turn."
+LocHelpText="This unit regenerates an immense amount of HP per turn."
+LocFlyOverText="Hyper Regeneration"
+
+[SWDS_ReactiveArmor X2EffectTemplate]
+LocFriendlyName="Reactive Armor"
+LocLongDescription="While still armored, critical chance and damage is reduced against this unit."
+LocHelpText="While still armored, critical chance and damage is reduced against this unit."
+LocFlyOverText="Reactive Armor"
+
+[SWDS_ForceField X2EffectTemplate]
+LocFriendlyName="Force Field"
+LocLongDescription="While still shielded, accuracy is reduced against this unit."
+LocHelpText="While still shielded, accuracy is reduced against this unit."
+LocFlyOverText="Force Field"
+
+[SWDS_AdrenalineRush X2EffectTemplate]
+LocFriendlyName="Adrenaline Rush"
+LocLongDescription="While heavily wounded, this unit gains bonus defense."
+LocHelpText="While heavily wounded, this unit gains bonus defense."
+LocFlyOverText="Adrenaline Rush"
+
+[SWDS_HyperRegen X2EffectTemplate]
+LocFriendlyName="Hyper Regeneration"
+LocLongDescription="This unit regenerates an immense amount of HP per turn."
+LocHelpText="This unit regenerates an immense amount of HP per turn."
+LocFlyOverText="Hyper Regeneration"
+
+[SWDS_ChosenActionPoints X2AbilityTemplate]
+LocFriendlyName="The Elder's Finest"
+LocLongDescription="The Chosen gains additional non-movement action points."
+LocHelpText="The Chosen gains additional non-movement action points."
+LocFlyOverText="The Elder's Finest"
+

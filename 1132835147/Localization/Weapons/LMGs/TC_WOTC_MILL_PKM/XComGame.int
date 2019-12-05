@@ -1,0 +1,20 @@
+[TC_WOTC_MILL_PKM_T1 X2WeaponTemplate]
+FriendlyName="<font color='#ECECEC'><b>PKM</b></font>"
+FriendlyNamePlural="<font color='#ECECEC'><b>PKMs</b></font>"
+AbilityDescName="general purpose machinegun"
+BriefSummary="The PKM, short for Pulemyot Kalashnikova Modernizirovanniy, is the modernized version of the PK, developed by Mikhail Kalashnikov in 1961. It fires the 7.62x54 rimmed cartridge used in Dragunovs. Unlike the RPK and other AKs, the PK uses an open bolt reciever, which prevents the weapon from continuously firing when overheating. The PKM is lighter than the PK, due to the fact that the upgrade mostly focused on making the reciever lighter, and more durable, and the flash hider was changed too. It was adopted into service in 1969, and still used to this day."
+TacticalText="<Bullet/>Type: General-Purpose Machinegun\n<Bullet/>Firing Profile: Full-Auto\n<Bullet/>Action: Gas-Operated, Open Bolt\n<Bullet/>Cartridge: 7.62×54mmR\n<Bullet/>Origin: Soviet Union/Russia\n<Bullet/>Tier: Conventional"
+
+[TC_WOTC_MILL_PKM_T2 X2WeaponTemplate]
+FriendlyName="<font color='#27AAE1'><b>PK-GSM</b></font>"
+FriendlyNamePlural="<font color='#27AAE1'><b>PK-GSMs</b></font>"
+AbilityDescName="general purpose machinegun"
+BriefSummary="The PKM, short for Pulemyot Kalashnikova Modernizirovanniy, is the modernized version of the PK, developed by Mikhail Kalashnikov in 1961. It fires the 7.62x54 rimmed cartridge used in Dragunovs. Unlike the RPK and other AKs, the PK uses an open bolt reciever, which prevents the weapon from continuously firing when overheating. The PKM is lighter than the PK, due to the fact that the upgrade mostly focused on making the reciever lighter, and more durable, and the flash hider was changed too. It was adopted into service in 1969, and still used to this day.\nThe PK-GSM's barrel is remade with Alien Alloys and other rare-earth materials, causing the weapon's stopping power to increase dramatically without increasing the recoil."
+TacticalText="<Bullet/>Type: General-Purpose Machinegun\n<Bullet/>Firing Profile: Full-Auto\n<Bullet/>Action: Gas-Operated, Open Bolt\n<Bullet/>Cartridge: 7.62×54mmR\n<Bullet/>Origin: Soviet Union/Russia\n<Bullet/>Tier: Magnetic"
+
+[TC_WOTC_MILL_PKM_T3 X2WeaponTemplate]
+FriendlyName="<font color='#CF4517'><b>PK-33</b></font>"
+FriendlyNamePlural="<font color='#CF4517'><b>PK-33s</b></font>"
+AbilityDescName="general purpose machinegun"
+BriefSummary="The PKM, short for Pulemyot Kalashnikova Modernizirovanniy, is the modernized version of the PK, developed by Mikhail Kalashnikov in 1961. It fires the 7.62x54 rimmed cartridge used in Dragunovs. Unlike the RPK and other AKs, the PK uses an open bolt reciever, which prevents the weapon from continuously firing when overheating. The PKM is lighter than the PK, due to the fact that the upgrade mostly focused on making the reciever lighter, and more durable, and the flash hider was changed too. It was adopted into service in 1969, and still used to this day.\nThe PK-33 is the next step up for the PK family. The gas-cylinder is heavily modified to use Elerium. The stopping power of each shot dramatically increases, potentially cutting through any tough alien armor with relative ease."
+TacticalText="<Bullet/>Type: General-Purpose Machinegun\n<Bullet/>Firing Profile: Full-Auto\n<Bullet/>Action: Gas-Operated, Open Bolt\n<Bullet/>Cartridge: 7.62×54mmR\n<Bullet/>Origin: Soviet Union/Russia\n<Bullet/>Tier: Beam"

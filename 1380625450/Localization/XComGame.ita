@@ -1,0 +1,6 @@
+[StabilizeMedkitOwner X2AbilityTemplate]
+LocFriendlyName="Stabilizza"
+LocLongDescription="Impedisce che un soldato muoia dissanguato, utilizzando il suo stesso medikit."
+LocHelpText="Impedisce che un soldato muoia dissanguato."
+LocFlyOverText="Stabilizzato"
+LocPromotionPopupText=""

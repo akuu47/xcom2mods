@@ -1,0 +1,1 @@
+﻿Makes low cover 30 defense and high cover 45 defense. Matches Long War defense numbers.

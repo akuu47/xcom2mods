@@ -1,0 +1,88 @@
+;
+; Helmets
+;
+
+[ALL_WotC_MGSV_Enforcer_Helmet_ArmoredRespirator_Opaque_M X2BodyPartTemplate]
+DisplayName="Armored Respirator [Opaque]"
+
+[ALL_WotC_MGSV_Enforcer_Helmet_ArmoredRespirator_Opaque_F X2BodyPartTemplate]
+DisplayName="Armored Respirator [Opaque]"
+
+[ALL_WotC_MGSV_Enforcer_Helmet_ArmoredRespirator_Translucent_M X2BodyPartTemplate]
+DisplayName="Armored Respirator [Translucent]"
+
+[ALL_WotC_MGSV_Enforcer_Helmet_ArmoredRespirator_Translucent_F X2BodyPartTemplate]
+DisplayName="Armored Respirator [Translucent]"
+
+
+[ALL_WotC_MGSV_Enforcer_Helmet_BattleHelmet_Opaque_M X2BodyPartTemplate]
+DisplayName="Battle Helmet [Opaque]"
+
+[ALL_WotC_MGSV_Enforcer_Helmet_BattleHelmet_Opaque_F X2BodyPartTemplate]
+DisplayName="Battle Helmet [Opaque]"
+
+[ALL_WotC_MGSV_Enforcer_Helmet_BattleHelmet_Translucent_M X2BodyPartTemplate]
+DisplayName="Battle Helmet [Translucent]"
+
+[ALL_WotC_MGSV_Enforcer_Helmet_BattleHelmet_Translucent_F X2BodyPartTemplate]
+DisplayName="Battle Helmet [Translucent]"
+
+
+[ALL_WotC_MGSV_Enforcer_Helmet_HeavyRespirator_Opaque_M X2BodyPartTemplate]
+DisplayName="Heavy Respirator [Opaque]"
+
+[ALL_WotC_MGSV_Enforcer_Helmet_HeavyRespirator_Opaque_F X2BodyPartTemplate]
+DisplayName="Heavy Respirator [Opaque]"
+
+[ALL_WotC_MGSV_Enforcer_Helmet_HeavyRespirator_Translucent_M X2BodyPartTemplate]
+DisplayName="Heavy Respirator [Translucent]"
+
+[ALL_WotC_MGSV_Enforcer_Helmet_HeavyRespirator_Translucent_F X2BodyPartTemplate]
+DisplayName="Heavy Respirator [Translucent]"
+
+
+[ALL_WotC_MGSV_Enforcer_Helmet_HelmetVisor_Opaque_M X2BodyPartTemplate]
+DisplayName="Helmet And Visor [Opaque]"
+
+[ALL_WotC_MGSV_Enforcer_Helmet_HelmetVisor_Opaque_F X2BodyPartTemplate]
+DisplayName="Helmet And Visor [Opaque]"
+
+[ALL_WotC_MGSV_Enforcer_Helmet_HelmetVisor_Translucent_M X2BodyPartTemplate]
+DisplayName="Helmet And Visor [Translucent]"
+
+[ALL_WotC_MGSV_Enforcer_Helmet_HelmetVisor_Translucent_F X2BodyPartTemplate]
+DisplayName="Helmet And Visor [Translucent]"
+
+
+[ALL_WotC_MGSV_Enforcer_Helmet_TyphoonTypeK_Opaque_M X2BodyPartTemplate]
+DisplayName="Typhoon Type-K [Opaque]"
+
+[ALL_WotC_MGSV_Enforcer_Helmet_TyphoonTypeK_Opaque_F X2BodyPartTemplate]
+DisplayName="Typhoon Type-K [Opaque]"
+
+[ALL_WotC_MGSV_Enforcer_Helmet_TyphoonTypeK_Translucent_M X2BodyPartTemplate]
+DisplayName="Typhoon Type-K [Translucent]"
+
+[ALL_WotC_MGSV_Enforcer_Helmet_TyphoonTypeK_Translucent_F X2BodyPartTemplate]
+DisplayName="Typhoon Type-K [Translucent]"
+
+
+[ALL_WotC_MGSV_Enforcer_Helmet_V0R3ES_M X2BodyPartTemplate]
+DisplayName="V0-R 3.ES"
+
+[ALL_WotC_MGSV_Enforcer_Helmet_V0R3ES_F X2BodyPartTemplate]
+DisplayName="V0-R 3.ES"
+
+
+
+[ALL_WotC_MGSV_PMC_Heavy_Helmet_Opaque_M X2BodyPartTemplate]
+DisplayName="PMC - Riot Helmet [Opaque]"
+
+[ALL_WotC_MGSV_PMC_Heavy_Helmet_Opaque_F X2BodyPartTemplate]
+DisplayName="PMC - Riot Helmet [Opaque]"
+
+[ALL_WotC_MGSV_PMC_Heavy_Helmet_Translucent_M X2BodyPartTemplate]
+DisplayName="PMC - Riot Helmet [Translucent]"
+
+[ALL_WotC_MGSV_PMC_Heavy_Helmet_Translucent_F X2BodyPartTemplate]
+DisplayName="PMC - Riot Helmet [Translucent]"

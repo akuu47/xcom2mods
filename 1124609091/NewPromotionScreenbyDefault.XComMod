@@ -1,0 +1,5 @@
+﻿[mod]
+publishedFileId=1125256990
+Title=New Promotion Screen by Default
+Description=Shows the fancy new Hero promotion screen by default even when promoting normal soldiers.
+RequiresXPACK=true

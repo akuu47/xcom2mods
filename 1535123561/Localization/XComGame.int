@@ -1,0 +1,20 @@
+[MD_TLP_RESISTANCE_STOY79_AK_T1 X2WeaponTemplate]
+FriendlyName="<font color='#ECECEC'><b>AK-47</b></font>"
+FriendlyNamePlural="<font color='#ECECEC'><b>AK-47s</b></font>"
+AbilityDescName="assault rifle"
+BriefSummary="What kind of modern resistance group are you if you don't carry a Kalash? Famous for its reliability and low cost, the Avtomat Kalashnikov, or Kalsh in Russian slang, is a powerful 7.62x39mm assault rifle developed by the Soviets in 1945 near the end of World War II. This version is the actual AK47 Type 1, not the AKM, which are uncommon to find due to the fact that the Soviets manufactured more AKMs than AK47s. Although the AK47 and the AKM was replaced by the AK74 in 1974, many PMCs, resistance groups, and small militias continue to use the AK47 to this day."
+TacticalText="<Bullet/>Type: Assault Rifle\n<Bullet/>Firing Profile: Full-Auto\n<Bullet/>Action: Gas-Operated, Rotating Bolt\n<Bullet/>Cartridge: 7.62x39mm\n<Bullet/>Origin: Soviet Union/Russia\n<Bullet/>Tier: Conventional"
+
+[MD_TLP_RESISTANCE_AR_BALLISTIC_T2 X2WeaponTemplate]
+FriendlyName="X-9 Assault Rifle"
+FriendlyNamePlural="X-9 Assault Rifles"
+BriefSummary="We've managed to salvage a variety of standard infantry small arms; this is the most common variety, similar to the rifle used twenty years before. While decidedly inferior to ADVENT magnetic technology, it can at least be upgraded using additional weapons salvage once we perfect modular weapon technology."
+TacticalText="<Bullet/> Firing the primary weapon ends the soldier's turn, in the absence of special training.\n<Bullet/> Modern upgrades are unavailable due to the weapon's age."
+AbilityDescName="X-9 Assault Rifle"
+
+[MD_TLP_RESISTANCE_AR_LASER_T3 X2WeaponTemplate]
+FriendlyName="X-12 Improvised Magnetic Rifle"
+FriendlyNamePlural="Improvised Magnetic Rifles"
+BriefSummary="Magnetized projectile tech has enabled us to create rifle-style slugthrowers. They represent a substantial improvement in power relative to conventional assault rifles."
+TacticalText="<Bullet/> Firing the primary weapon always ends the soldier's turn, in the absence of special training.\n<Bullet/> Modern upgrades are unavailable due to the weapon's age."
+AbilityDescName="Improvised Magnetic Rifle"

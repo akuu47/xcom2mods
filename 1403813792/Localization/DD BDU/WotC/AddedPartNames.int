@@ -1,0 +1,190 @@
+[X2DownloadableContentInfo_AddedPartNames]
+
+;
+; REAPER
+;
+
+.TorsoTemplate="CNV_WotC_RPR_MGSV_DD_BDU_Uniform_Torso_A_M"
+.TorsoName="Diamond Dogs BDU - Torso"
+
+.TorsoTemplate="MPL_WotC_RPR_MGSV_DD_BDU_Uniform_Torso_A_M"
+.TorsoName="Diamond Dogs BDU - Torso"
+
+.TorsoTemplate="MPW_WotC_RPR_MGSV_DD_BDU_Uniform_Torso_A_M"
+.TorsoName="Diamond Dogs BDU - Torso"
+
+
+.TorsoTemplate="CNV_WotC_RPR_MGSV_DD_BDU_Uniform_Torso_A_F"
+.TorsoName="Diamond Dogs BDU - Torso"
+
+.TorsoTemplate="MPL_WotC_RPR_MGSV_DD_BDU_Uniform_Torso_A_F"
+.TorsoName="Diamond Dogs BDU - Torso"
+
+.TorsoTemplate="MPW_WotC_RPR_MGSV_DD_BDU_Uniform_Torso_A_F"
+.TorsoName="Diamond Dogs BDU - Torso"
+
+
+.TorsoTemplate="CNV_WotC_RPR_MGSV_DD_BDU_Uniform_Torso_B_M"
+.TorsoName="Diamond Dogs BDU - Torso [Backpack]"
+
+.TorsoTemplate="MPL_WotC_RPR_MGSV_DD_BDU_Uniform_Torso_B_M"
+.TorsoName="Diamond Dogs BDU - Torso [Backpack]"
+
+.TorsoTemplate="MPW_WotC_RPR_MGSV_DD_BDU_Uniform_Torso_B_M"
+.TorsoName="Diamond Dogs BDU - Torso [Backpack]"
+
+
+.TorsoTemplate="CNV_WotC_RPR_MGSV_DD_BDU_Uniform_Torso_B_F"
+.TorsoName="Diamond Dogs BDU - Torso [Backpack]"
+
+.TorsoTemplate="MPL_WotC_RPR_MGSV_DD_BDU_Uniform_Torso_B_F"
+.TorsoName="Diamond Dogs BDU - Torso [Backpack]"
+
+.TorsoTemplate="MPW_WotC_RPR_MGSV_DD_BDU_Uniform_Torso_B_F"
+.TorsoName="Diamond Dogs BDU - Torso [Backpack]"
+
+
+.LegsTemplate="LPL_WotC_RPR_MGSV_DD_BDU_Uniform_Legs_M"
+.LegsName="Diamond Dogs BDU - Legs"
+
+.LegsTemplate="MPL_WotC_RPR_MGSV_DD_BDU_Uniform_Legs_M"
+.LegsName="Diamond Dogs BDU - Legs"
+
+.LegsTemplate="MPW_WotC_RPR_MGSV_DD_BDU_Uniform_Legs_M"
+.LegsName="Diamond Dogs BDU - Legs"
+
+
+.LegsTemplate="CNV_WotC_RPR_MGSV_DD_BDU_Uniform_Legs_F"
+.LegsName="Diamond Dogs BDU - Legs"
+
+.LegsTemplate="MPL_WotC_RPR_MGSV_DD_BDU_Uniform_Legs_F"
+.LegsName="Diamond Dogs BDU - Legs"
+
+.LegsTemplate="MPW_WotC_RPR_MGSV_DD_BDU_Uniform_Legs_F"
+.LegsName="Diamond Dogs BDU - Legs"
+
+;
+; SKIRMISHER
+;
+
+.TorsoTemplate="CNV_WotC_SKR_MGSV_DD_BDU_Uniform_Torso_A_M"
+.TorsoName="Diamond Dogs BDU - Torso"
+
+.TorsoTemplate="MPL_WotC_SKR_MGSV_DD_BDU_Uniform_Torso_A_M"
+.TorsoName="Diamond Dogs BDU - Torso"
+
+.TorsoTemplate="MPW_WotC_SKR_MGSV_DD_BDU_Uniform_Torso_A_M"
+.TorsoName="Diamond Dogs BDU - Torso"
+
+
+.TorsoTemplate="CNV_WotC_SKR_MGSV_DD_BDU_Uniform_Torso_A_F"
+.TorsoName="Diamond Dogs BDU - Torso"
+
+.TorsoTemplate="MPL_WotC_SKR_MGSV_DD_BDU_Uniform_Torso_A_F"
+.TorsoName="Diamond Dogs BDU - Torso"
+
+.TorsoTemplate="MPW_WotC_SKR_MGSV_DD_BDU_Uniform_Torso_A_F"
+.TorsoName="Diamond Dogs BDU - Torso"
+
+
+.TorsoTemplate="CNV_WotC_SKR_MGSV_DD_BDU_Uniform_Torso_B_M"
+.TorsoName="Diamond Dogs BDU - Torso [Backpack]"
+
+.TorsoTemplate="MPL_WotC_SKR_MGSV_DD_BDU_Uniform_Torso_B_M"
+.TorsoName="Diamond Dogs BDU - Torso [Backpack]"
+
+.TorsoTemplate="MPW_WotC_SKR_MGSV_DD_BDU_Uniform_Torso_B_M"
+.TorsoName="Diamond Dogs BDU - Torso [Backpack]"
+
+
+.TorsoTemplate="CNV_WotC_SKR_MGSV_DD_BDU_Uniform_Torso_B_F"
+.TorsoName="Diamond Dogs BDU - Torso [Backpack]"
+
+.TorsoTemplate="MPL_WotC_SKR_MGSV_DD_BDU_Uniform_Torso_B_F"
+.TorsoName="Diamond Dogs BDU - Torso [Backpack]"
+
+.TorsoTemplate="MPW_WotC_SKR_MGSV_DD_BDU_Uniform_Torso_B_F"
+.TorsoName="Diamond Dogs BDU - Torso [Backpack]"
+
+
+.LegsTemplate="LPL_WotC_SKR_MGSV_DD_BDU_Uniform_Legs_M"
+.LegsName="Diamond Dogs BDU - Legs"
+
+.LegsTemplate="MPL_WotC_SKR_MGSV_DD_BDU_Uniform_Legs_M"
+.LegsName="Diamond Dogs BDU - Legs"
+
+.LegsTemplate="MPW_WotC_SKR_MGSV_DD_BDU_Uniform_Legs_M"
+.LegsName="Diamond Dogs BDU - Legs"
+
+
+.LegsTemplate="CNV_WotC_SKR_MGSV_DD_BDU_Uniform_Legs_F"
+.LegsName="Diamond Dogs BDU - Legs"
+
+.LegsTemplate="MPL_WotC_SKR_MGSV_DD_BDU_Uniform_Legs_F"
+.LegsName="Diamond Dogs BDU - Legs"
+
+.LegsTemplate="MPW_WotC_SKR_MGSV_DD_BDU_Uniform_Legs_F"
+.LegsName="Diamond Dogs BDU - Legs"
+
+;
+; TEMPLAR
+;
+
+.TorsoTemplate="CNV_WotC_TMP_MGSV_DD_BDU_Uniform_Torso_A_M"
+.TorsoName="Diamond Dogs BDU - Torso"
+
+.TorsoTemplate="MPL_WotC_TMP_MGSV_DD_BDU_Uniform_Torso_A_M"
+.TorsoName="Diamond Dogs BDU - Torso"
+
+.TorsoTemplate="MPW_WotC_TMP_MGSV_DD_BDU_Uniform_Torso_A_M"
+.TorsoName="Diamond Dogs BDU - Torso"
+
+
+.TorsoTemplate="CNV_WotC_TMP_MGSV_DD_BDU_Uniform_Torso_A_F"
+.TorsoName="Diamond Dogs BDU - Torso"
+
+.TorsoTemplate="MPL_WotC_TMP_MGSV_DD_BDU_Uniform_Torso_A_F"
+.TorsoName="Diamond Dogs BDU - Torso"
+
+.TorsoTemplate="MPW_WotC_TMP_MGSV_DD_BDU_Uniform_Torso_A_F"
+.TorsoName="Diamond Dogs BDU - Torso"
+
+
+.TorsoTemplate="CNV_WotC_TMP_MGSV_DD_BDU_Uniform_Torso_B_M"
+.TorsoName="Diamond Dogs BDU - Torso [Backpack]"
+
+.TorsoTemplate="MPL_WotC_TMP_MGSV_DD_BDU_Uniform_Torso_B_M"
+.TorsoName="Diamond Dogs BDU - Torso [Backpack]"
+
+.TorsoTemplate="MPW_WotC_TMP_MGSV_DD_BDU_Uniform_Torso_B_M"
+.TorsoName="Diamond Dogs BDU - Torso [Backpack]"
+
+
+.TorsoTemplate="CNV_WotC_TMP_MGSV_DD_BDU_Uniform_Torso_B_F"
+.TorsoName="Diamond Dogs BDU - Torso [Backpack]"
+
+.TorsoTemplate="MPL_WotC_TMP_MGSV_DD_BDU_Uniform_Torso_B_F"
+.TorsoName="Diamond Dogs BDU - Torso [Backpack]"
+
+.TorsoTemplate="MPW_WotC_TMP_MGSV_DD_BDU_Uniform_Torso_B_F"
+.TorsoName="Diamond Dogs BDU - Torso [Backpack]"
+
+
+.LegsTemplate="LPL_WotC_TMP_MGSV_DD_BDU_Uniform_Legs_M"
+.LegsName="Diamond Dogs BDU - Legs"
+
+.LegsTemplate="MPL_WotC_TMP_MGSV_DD_BDU_Uniform_Legs_M"
+.LegsName="Diamond Dogs BDU - Legs"
+
+.LegsTemplate="MPW_WotC_TMP_MGSV_DD_BDU_Uniform_Legs_M"
+.LegsName="Diamond Dogs BDU - Legs"
+
+
+.LegsTemplate="CNV_WotC_TMP_MGSV_DD_BDU_Uniform_Legs_F"
+.LegsName="Diamond Dogs BDU - Legs"
+
+.LegsTemplate="MPL_WotC_TMP_MGSV_DD_BDU_Uniform_Legs_F"
+.LegsName="Diamond Dogs BDU - Legs"
+
+.LegsTemplate="MPW_WotC_TMP_MGSV_DD_BDU_Uniform_Legs_F"
+.LegsName="Diamond Dogs BDU - Legs"

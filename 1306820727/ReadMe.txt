@@ -1,0 +1,1 @@
+﻿This mod renders the evac zone target in yellow instead of blue if there are any soldiers who cannot reach the selected zone this turn.

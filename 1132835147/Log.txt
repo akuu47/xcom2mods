@@ -1,0 +1,186 @@
+HISTORY
+
+Release Version 3.100 (Cold Autumn Update):
+[list]
+	[*]Replaced all Underbarrel airsoft Grenade Launchers with LMT M203s.
+	[*]Added Underbarrel shotguns for the same weapons that has underbarrel shotguns, minus the AK series.
+	[*]Added underbarrel support for faction hero weapons (Reapers and Skirmishers)
+	[*]FN FAL: Underbarrel weapon support (Grenade Launcher and Shotgun)
+	[*]FN FAL: Replaced PEQ6 Laser with custom laser from MW4.
+	[*]FN FAL: Replaced SU320 Scope with HAMR Hybrid sights from MW4. Subject to change.
+	[*]Fixed missing weapon archetype errors.
+[/list]
+
+Release Version 3.003:
+[list]
+	[*]Fixed an attachment bug with the USP .45.
+	[*]Fixed an attachment bug with the VSS.
+[/list]
+
+Release Version 3.002:
+[list]
+	[*]Fixed a bug where barrel was missing on the Militia AKs.
+[/list]
+
+Release Version 3.001:
+[list]
+	[*]Fixed a bug where the Tier 3 M16A4 had missing parts for the soldier.
+[/list]
+
+Release Version 3.000 (Summer Weekday Update):
+[list]
+	[*]Added Insurgency: Sandstorm attachments to some weapons!
+	[*]Added the G11, FN FAL, Honey Badger, H&K CAWS, and SVU!
+	[*]New models for the SVD and M9, both from Call of Duty: Modern Warfare Remastered!
+	[*]New textures for Stoy79's and Millenia and Co.'s weapons!
+	[*]New sounds for AKs and the SVD!
+	[*]Underbarrel support for most Assault Rifles and Battle Rifles!
+	[*]New UI icons!
+	[*]More attachment models for the M16A4!
+	[*]Fixed a bug where some of the stock upgrades on assault rifles would disappear if a hair trigger was installed.
+	[*]Removed the XM16E1.
+[/list]
+
+Release Version 2.031:
+[list]
+	[*]Updated the MotD with some new information.
+	[*]Fixed some formatting issues with bullet points.
+[/list]
+
+Release Version 2.030:
+[list]
+	[*]Added Message of the Day system to relay upcoming updates and general information for Resistance Firearms.
+	[*]Added functionality to load new weapons after loading a save with RF already enabled.
+[/list]
+
+Release Version 2.022:
+[list]
+	[*]Fixed a bug where the M4A1 lost it's foregrip.
+[/list]
+
+Release Version 2.021:
+[list]
+	[*]Fixed a bug where the M16A4 did not have it's handguard.
+[/list]
+
+Release Version 2.020:
+[list]
+	[*]Removed all references to the IW non-conventional weaponry. If you still want them, subscribe to this mod: https://steamcommunity.com/sharedfiles/filedetails/?id=1695261557
+	[*]Added support for Primary Secondaries + Attachments.
+[/list]
+
+Release Version 2.012:
+[list]
+	[*]Updated the BlacklistWeaponFromGame feature to completely remove the weapon from the game. Now the weapon will not appear or load at all and no other mod can access it anymore! 
+[/list]
+
+Release Version 2.011:
+[list]
+	[*]Fixed a bug where the BlacklistWeaponFromGame feature did not remove the weapon from the NewWeaponToHQ entry.
+[/list]
+
+Release Version 2.010:
+[list]
+	[*]Added [b]BlacklistWeaponFromGame[/b] feature in XCom_DownloadableContentInfo_RF_WotC.ini to disable weapons from ever showing up again! (However, Grimy's Loot mod will still pull this weapon and it will be not upgradable)
+	[*]Fixed a typo in XCom_DownloadableContentInfo_RF_WotC.ini.
+[/list]
+
+Release Version 2.002:
+[list]
+	[*]Fixed wrong archetype model for M200.
+[/list]
+
+Release Version 2.001:
+[list]
+	[*]Fixed a bug where you automatically fail Gatecrasher if you installed this mod.
+[/list]
+
+Release Version 2.000 (1 Year Anniversary Update):
+[list]
+	[*][b]Added the R3KT, UMP45, M21 'All Ghillie Up' variant, and the VSS Vintorez![/b]
+	[*][b]By popular request, I un-hardcoded the function that adds the weapons to the game. Now you can choose what weapons you want in your campaign in XCom_DownloadableContentInfo_RF_WotC.ini![/b]
+	[*][b]Added several new attachments for several weapons: M82A1, R700, M40A3, and others![/b]
+	[*][b]By popular request, made the ACOG scope the default sight model for all sniper rifles and Sniper Scopes the Aim Upgrade model![/b]
+	[*][b]By popular request, re-ordered the weapon tiers to be below the vanilla weapons, making vanilla weapons the default weapon to equip (and squashing one of the big bugs).[/b]
+	[*]Fixed mis-matched template names for Grimy's Loot mod.
+	[*]Refactored *.u files.
+	[*]Other minor fixes.
+[/list]
+
+Release Version 1.100:
+[list]
+	[*]Russian localization for this mod is now available, thanks to tr0ll.
+	[*]Fixed a bug where the EBR-800 Sights were missing after attaching an scope upgrade.
+	[*]Fixed the AUGs referencing the U.S.A instead of Austria.
+	[*]Split the Global_Attachment.ini into several pieces. Each subfolder of each weapon, including faction weapons, now contains the attachments only for that category.
+	[*]Added Debug Mode for advanced troubleshooting. Enable it in XCom_DownloadableContentInfo_RF_WotC.ini
+	[*]Changed the Custom case for _StatSelectMode to CUSTOM.
+	[*]Adjusted attachments on certain weapons.
+	[*]Disabled certain T1/T2 templates that aren't supposed to show up at all.
+[/list]
+
+Release Version 1.020:
+[list]
+	[*][b]Added support for Grimy's Loot mod [WotC][/b]
+[/list]
+
+Release Version 1.018:
+[list]
+	[*]Fixed some localization text for the AKS-74U.
+[/list]
+
+Release Version 1.017:
+[list]
+	[*]Added missing localization text for the Militia AK.
+[/list]
+
+Release Version 1.016:
+[list]
+	[*]New Template with Militia Rifle stats for the Militia AKs.
+[/list]
+
+Release Version 1.015:
+[list]
+	[*]FREE AK-47s... FOR EVERYONE!!! [spoiler]Gives the Milita AK-47s instead of the vanilla Assault Rifle.[/spoiler]
+[/list]
+
+Release Version 1.014:
+[list]
+	[*]Fixed a bug where the crit damage for T3 assault rifles was lower than T2.
+[/list]
+
+Release Version 1.013*: Modbuddy Broke my shit yet again edition!
+[list]
+	[*]Uploaded the missing *.u file, which was essential for this mod to even function.
+[/list]
+
+Release Version 1.013
+[list]
+	[*]Fixed a bug where weapon wouldn't show up on an existing save, hopefully this works.
+[/list]
+
+Release Version 1.012
+[list]
+	[*]Fixed a bug where the upgraded snipers for Reapers didn't show up after buying the Vektor Rifle Mag upgrade.
+[/list]
+
+Release Version 1.011
+[list]
+	[*]The game now preload all of the weapons during or right after loading.
+[/list]
+
+Release Version 1.010
+[list]
+	[*]This mod should now detect which schematic upgrade was bought and add the appropriate weapon category into the HQ inventory.
+	[*]Changed the number of upgrade slots from 3 to 2 for T3 weapons.
+[/list]
+
+Release Version 1.001
+[list]
+	[*]Fixed the Crit Chance for shotguns.
+[/list]
+
+Release Version 1.000
+[list]
+	[*]Initial Release.
+[/list]

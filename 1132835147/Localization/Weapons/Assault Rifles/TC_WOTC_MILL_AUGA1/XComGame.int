@@ -1,0 +1,41 @@
+[TC_WOTC_MILL_AUGA1_T1 X2WeaponTemplate]
+FriendlyName="<font color='#ECECEC'><b>AUG A1</b></font>"
+FriendlyNamePlural="<font color='#ECECEC'><b>AUG A1s</b></font>"
+AbilityDescName="bullpup assault rifle"
+BriefSummary="The AUG A1 was designed in the 1977 by Steyr Mannicher as a modular assault rifle taken from previously known concepts, and mashed together into one attractive package. This Austrian 5.56x45mm bullpup assault rifle is a selective fire weapon capable of being quickly adapted to a variety of roles. The A1 comes integrated with a 1.5x telescopic sight, designed to be calibrated for 300 meters. This weapon was meant to replace the StG 58, a variant of the FN FAL, for the Austrian Army."
+TacticalText="<Bullet/>Type: Bullpup Assault Rifle\n<Bullet/>Firing Profile: Full-Auto\n<Bullet/>Action: Gas-Operated, Rotating Bolt\n<Bullet/>Cartridge: 5.56x45mm NATO\n<Bullet/>Origin: Austria\n<Bullet/>Tier: Conventional"
+
+[TC_WOTC_MILL_AUGA1_T2 X2WeaponTemplate]
+FriendlyName="<font color='#27AAE1'><b>SUG X1</b></font>"
+FriendlyNamePlural="<font color='#27AAE1'><b>SUG X1s</b></font>"
+AbilityDescName="bullpup assault rifle"
+BriefSummary="The AUG A1 was designed in the 1977 by Steyr Mannicher as a modular assault rifle taken from previously known concepts, and mashed together into one attractive package. This Austrian 5.56x45mm bullpup assault rifle is a selective fire weapon capable of being quickly adapted to a variety of roles. The A1 comes integrated with a 1.5x telescopic sight, designed to be calibrated for 300 meters. This weapon was meant to replace the StG 58, a variant of the FN FAL, for the Austrian Army./n The parts of the prototype SUG were replaced with custom made parts that allow this weapon's performance to be on par to the Magnetic Rifle."
+TacticalText="<Bullet/>Type: Bullpup Assault Rifle\n<Bullet/>Firing Profile: Full-Auto\n<Bullet/>Action: Gas-Operated, Rotating Bolt\n<Bullet/>Cartridge: 5.56x45mm NATO\n<Bullet/>Origin: Austria\n<Bullet/>Tier: Magnetic"
+
+[TC_WOTC_MILL_AUGA1_T3 X2WeaponTemplate]
+FriendlyName="<font color='#CF4517'><b>SUG X2</b></font>"
+FriendlyNamePlural="<font color='#CF4517'><b>SUG X2s</b></font>"
+AbilityDescName="bullpup assault rifle"
+BriefSummary="The AUG A1 was designed in the 1977 by Steyr Mannicher as a modular assault rifle taken from previously known concepts, and mashed together into one attractive package. This Austrian 5.56x45mm bullpup assault rifle is a selective fire weapon capable of being quickly adapted to a variety of roles. The A1 comes integrated with a 1.5x telescopic sight, designed to be calibrated for 300 meters. This weapon was meant to replace the StG 58, a variant of the FN FAL, for the Austrian Army./nWith the beam upgrade, this weapon can be further customized with special parts.\n The SUG X2's barrel is replaced with a ported version embedded with powerful electromagnetic crystals and the firing system has been re-calibrated to take advantage of the infused barrel."
+TacticalText="<Bullet/>Type: Bullpup Assault Rifle\n<Bullet/>Firing Profile: Full-Auto\n<Bullet/>Action: Gas-Operated, Rotating Bolt\n<Bullet/>Cartridge: 5.56x45mm NATO\n<Bullet/>Origin: Austria\n<Bullet/>Tier: Beam"
+
+[TC_WOTC_SKR_MILL_AUGA1_T1 X2WeaponTemplate]
+FriendlyName="<font color='#ECECEC'><b>AUG A1</b></font>"
+FriendlyNamePlural="<font color='#ECECEC'><b>AUG A1s</b></font>"
+AbilityDescName="bullpup assault rifle"
+BriefSummary="The AUG A1 was designed in the 1977 by Steyr Mannicher as a modular assault rifle taken from previously known concepts, and mashed together into one attractive package. This Austrian 5.56x45mm bullpup assault rifle is a selective fire weapon capable of being quickly adapted to a variety of roles. The A1 comes integrated with a 1.5x telescopic sight, designed to be calibrated for 300 meters. This weapon was meant to replace the StG 58, a variant of the FN FAL, for the Austrian Army."
+TacticalText="<Bullet/>Type: Bullpup Assault Rifle\n<Bullet/>Firing Profile: Full-Auto\n<Bullet/>Action: Gas-Operated, Rotating Bolt\n<Bullet/>Cartridge: 5.56x45mm NATO\n<Bullet/>Origin: Austria\n<Bullet/>Tier: Conventional"
+
+[TC_WOTC_SKR_MILL_AUGA1_T2 X2WeaponTemplate]
+FriendlyName="<font color='#27AAE1'><b>SUG X1</b></font>"
+FriendlyNamePlural="<font color='#27AAE1'><b>SUG X1s</b></font>"
+AbilityDescName="bullpup assault rifle"
+BriefSummary="The AUG A1 was designed in the 1977 by Steyr Mannicher as a modular assault rifle taken from previously known concepts, and mashed together into one attractive package. This Austrian 5.56x45mm bullpup assault rifle is a selective fire weapon capable of being quickly adapted to a variety of roles. The A1 comes integrated with a 1.5x telescopic sight, designed to be calibrated for 300 meters. This weapon was meant to replace the StG 58, a variant of the FN FAL, for the Austrian Army./n The parts of the prototype SUG were replaced with custom made parts that allow this weapon's performance to be on par to the Magnetic Rifle."
+TacticalText="<Bullet/>Type: Bullpup Assault Rifle\n<Bullet/>Firing Profile: Full-Auto\n<Bullet/>Action: Gas-Operated, Rotating Bolt\n<Bullet/>Cartridge: 5.56x45mm NATO\n<Bullet/>Origin: Austria\n<Bullet/>Tier: Magnetic"
+
+[TC_WOTC_SKR_MILL_AUGA1_T3 X2WeaponTemplate]
+FriendlyName="<font color='#CF4517'><b>SUG X2</b></font>"
+FriendlyNamePlural="<font color='#CF4517'><b>SUG X2s</b></font>"
+AbilityDescName="bullpup assault rifle"
+BriefSummary="The AUG A1 was designed in the 1977 by Steyr Mannicher as a modular assault rifle taken from previously known concepts, and mashed together into one attractive package. This Austrian 5.56x45mm bullpup assault rifle is a selective fire weapon capable of being quickly adapted to a variety of roles. The A1 comes integrated with a 1.5x telescopic sight, designed to be calibrated for 300 meters. This weapon was meant to replace the StG 58, a variant of the FN FAL, for the Austrian Army./nWith the beam upgrade, this weapon can be further customized with special parts.\n The SUG X2's barrel is replaced with a ported version embedded with powerful electromagnetic crystals and the firing system has been re-calibrated to take advantage of the infused barrel."
+TacticalText="<Bullet/>Type: Bullpup Assault Rifle\n<Bullet/>Firing Profile: Full-Auto\n<Bullet/>Action: Gas-Operated, Rotating Bolt\n<Bullet/>Cartridge: 5.56x45mm NATO\n<Bullet/>Origin: Austria\n<Bullet/>Tier: Beam"

@@ -1,0 +1,7 @@
+﻿[mod]
+publishedFileId=0
+Title=zzzWeaponSkinReplacerConfig
+Description=Contains the configuration file for Iridar's Weapon Skin Replacer.
+
+tags= war of the chosen, soldier customization, weapon, weapon skin replacer
+RequiresXPACK=true

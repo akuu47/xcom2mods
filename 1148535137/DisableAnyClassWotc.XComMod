@@ -1,0 +1,5 @@
+﻿[mod]
+publishedFileId=0
+Title=Disable Any Class Wotc
+Description=Prevents disabled classes from being selected by unit promitions, mission rewards, the resistance headquarters or the black market.
+RequiresXPACK=true

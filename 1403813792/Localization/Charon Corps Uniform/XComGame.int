@@ -1,0 +1,806 @@
+;
+; Torso Accessories
+;
+
+[CNV_WotC_SLD_MGV_CC_Uniform_TorsoDeco_A1_M X2BodyPartTemplate]
+DisplayName="Charon Corps - Basic Chest Rig"
+
+[LPL_WotC_SLD_MGV_CC_Uniform_TorsoDeco_A1_M X2BodyPartTemplate]
+DisplayName="Charon Corps - Basic Chest Rig"
+
+[MPL_WotC_SLD_MGV_CC_Uniform_TorsoDeco_A1_M X2BodyPartTemplate]
+DisplayName="Charon Corps - Basic Chest Rig"
+
+[HPL_WotC_SLD_MGV_CC_Uniform_TorsoDeco_A1_M X2BodyPartTemplate]
+DisplayName="Charon Corps - Basic Chest Rig"
+
+[LPW_WotC_SLD_MGV_CC_Uniform_TorsoDeco_A1_M X2BodyPartTemplate]
+DisplayName="Charon Corps - Basic Chest Rig"
+
+[MPW_WotC_SLD_MGV_CC_Uniform_TorsoDeco_A1_M X2BodyPartTemplate]
+DisplayName="Charon Corps - Basic Chest Rig"
+
+[HPW_WotC_SLD_MGV_CC_Uniform_TorsoDeco_A1_M X2BodyPartTemplate]
+DisplayName="Charon Corps - Basic Chest Rig"
+
+
+[CNV_WotC_SLD_MGV_CC_Uniform_TorsoDeco_A1_F X2BodyPartTemplate]
+DisplayName="Charon Corps - Basic Chest Rig"
+
+[LPL_WotC_SLD_MGV_CC_Uniform_TorsoDeco_A1_F X2BodyPartTemplate]
+DisplayName="Charon Corps - Basic Chest Rig"
+
+[MPL_WotC_SLD_MGV_CC_Uniform_TorsoDeco_A1_F X2BodyPartTemplate]
+DisplayName="Charon Corps - Basic Chest Rig"
+
+[HPL_WotC_SLD_MGV_CC_Uniform_TorsoDeco_A1_F X2BodyPartTemplate]
+DisplayName="Charon Corps - Basic Chest Rig"
+
+[LPW_WotC_SLD_MGV_CC_Uniform_TorsoDeco_A1_F X2BodyPartTemplate]
+DisplayName="Charon Corps - Basic Chest Rig"
+
+[MPW_WotC_SLD_MGV_CC_Uniform_TorsoDeco_A1_F X2BodyPartTemplate]
+DisplayName="Charon Corps - Basic Chest Rig"
+
+[HPW_WotC_SLD_MGV_CC_Uniform_TorsoDeco_A1_F X2BodyPartTemplate]
+DisplayName="Charon Corps - Basic Chest Rig"
+
+
+[CNV_WotC_SLD_MGV_CC_Uniform_TorsoDeco_A2_M X2BodyPartTemplate]
+DisplayName="Charon Corps - Basic Chest Rig w/Knife"
+
+[LPL_WotC_SLD_MGV_CC_Uniform_TorsoDeco_A2_M X2BodyPartTemplate]
+DisplayName="Charon Corps - Basic Chest Rig w/Knife"
+
+[MPL_WotC_SLD_MGV_CC_Uniform_TorsoDeco_A2_M X2BodyPartTemplate]
+DisplayName="Charon Corps - Basic Chest Rig w/Knife"
+
+[HPL_WotC_SLD_MGV_CC_Uniform_TorsoDeco_A2_M X2BodyPartTemplate]
+DisplayName="Charon Corps - Basic Chest Rig w/Knife"
+
+[LPW_WotC_SLD_MGV_CC_Uniform_TorsoDeco_A2_M X2BodyPartTemplate]
+DisplayName="Charon Corps - Basic Chest Rig w/Knife"
+
+[MPW_WotC_SLD_MGV_CC_Uniform_TorsoDeco_A2_M X2BodyPartTemplate]
+DisplayName="Charon Corps - Basic Chest Rig w/Knife"
+
+[HPW_WotC_SLD_MGV_CC_Uniform_TorsoDeco_A2_M X2BodyPartTemplate]
+DisplayName="Charon Corps - Basic Chest Rig w/Knife"
+
+
+[CNV_WotC_SLD_MGV_CC_Uniform_TorsoDeco_A2_F X2BodyPartTemplate]
+DisplayName="Charon Corps - Basic Chest Rig w/Knife"
+
+[LPL_WotC_SLD_MGV_CC_Uniform_TorsoDeco_A2_F X2BodyPartTemplate]
+DisplayName="Charon Corps - Basic Chest Rig w/Knife"
+
+[MPL_WotC_SLD_MGV_CC_Uniform_TorsoDeco_A2_F X2BodyPartTemplate]
+DisplayName="Charon Corps - Basic Chest Rig w/Knife"
+
+[HPL_WotC_SLD_MGV_CC_Uniform_TorsoDeco_A2_F X2BodyPartTemplate]
+DisplayName="Charon Corps - Basic Chest Rig w/Knife"
+
+[LPW_WotC_SLD_MGV_CC_Uniform_TorsoDeco_A2_F X2BodyPartTemplate]
+DisplayName="Charon Corps - Basic Chest Rig w/Knife"
+
+[MPW_WotC_SLD_MGV_CC_Uniform_TorsoDeco_A2_F X2BodyPartTemplate]
+DisplayName="Charon Corps - Basic Chest Rig w/Knife"
+
+[HPW_WotC_SLD_MGV_CC_Uniform_TorsoDeco_A2_F X2BodyPartTemplate]
+DisplayName="Charon Corps - Basic Chest Rig w/Knife"
+
+
+[CNV_WotC_SLD_MGV_CC_Uniform_TorsoDeco_B1_M X2BodyPartTemplate]
+DisplayName="Charon Corps - Iris Energy Pack"
+
+[LPL_WotC_SLD_MGV_CC_Uniform_TorsoDeco_B1_M X2BodyPartTemplate]
+DisplayName="Charon Corps - Iris Energy Pack"
+
+[MPL_WotC_SLD_MGV_CC_Uniform_TorsoDeco_B1_M X2BodyPartTemplate]
+DisplayName="Charon Corps - Iris Energy Pack"
+
+[HPL_WotC_SLD_MGV_CC_Uniform_TorsoDeco_B1_M X2BodyPartTemplate]
+DisplayName="Charon Corps - Iris Energy Pack"
+
+[LPW_WotC_SLD_MGV_CC_Uniform_TorsoDeco_B1_M X2BodyPartTemplate]
+DisplayName="Charon Corps - Iris Energy Pack"
+
+[MPW_WotC_SLD_MGV_CC_Uniform_TorsoDeco_B1_M X2BodyPartTemplate]
+DisplayName="Charon Corps - Iris Energy Pack"
+
+[HPW_WotC_SLD_MGV_CC_Uniform_TorsoDeco_B1_M X2BodyPartTemplate]
+DisplayName="Charon Corps - Iris Energy Pack"
+
+
+[CNV_WotC_SLD_MGV_CC_Uniform_TorsoDeco_B1_F X2BodyPartTemplate]
+DisplayName="Charon Corps - Iris Energy Pack"
+
+[LPL_WotC_SLD_MGV_CC_Uniform_TorsoDeco_B1_F X2BodyPartTemplate]
+DisplayName="Charon Corps - Iris Energy Pack"
+
+[MPL_WotC_SLD_MGV_CC_Uniform_TorsoDeco_B1_F X2BodyPartTemplate]
+DisplayName="Charon Corps - Iris Energy Pack"
+
+[HPL_WotC_SLD_MGV_CC_Uniform_TorsoDeco_B1_F X2BodyPartTemplate]
+DisplayName="Charon Corps - Basic Chest Rig"
+
+[LPW_WotC_SLD_MGV_CC_Uniform_TorsoDeco_B1_F X2BodyPartTemplate]
+DisplayName="Charon Corps - Iris Energy Pack"
+
+[MPW_WotC_SLD_MGV_CC_Uniform_TorsoDeco_B1_F X2BodyPartTemplate]
+DisplayName="Charon Corps - Iris Energy Pack"
+
+[HPW_WotC_SLD_MGV_CC_Uniform_TorsoDeco_B1_F X2BodyPartTemplate]
+DisplayName="Charon Corps - Iris Energy Pack"
+
+
+[CNV_WotC_SLD_MGV_CC_Uniform_TorsoDeco_B2_M X2BodyPartTemplate]
+DisplayName="Charon Corps - Iris Energy Pack w/Knife"
+
+[LPL_WotC_SLD_MGV_CC_Uniform_TorsoDeco_B2_M X2BodyPartTemplate]
+DisplayName="Charon Corps - Iris Energy Pack w/Knife"
+
+[MPL_WotC_SLD_MGV_CC_Uniform_TorsoDeco_B2_M X2BodyPartTemplate]
+DisplayName="Charon Corps - Iris Energy Pack w/Knife"
+
+[HPL_WotC_SLD_MGV_CC_Uniform_TorsoDeco_B2_M X2BodyPartTemplate]
+DisplayName="Charon Corps - Iris Energy Pack w/Knife"
+
+[LPW_WotC_SLD_MGV_CC_Uniform_TorsoDeco_B2_M X2BodyPartTemplate]
+DisplayName="Charon Corps - Iris Energy Pack w/Knife"
+
+[MPW_WotC_SLD_MGV_CC_Uniform_TorsoDeco_B2_M X2BodyPartTemplate]
+DisplayName="Charon Corps - Iris Energy Pack w/Knife"
+
+[HPW_WotC_SLD_MGV_CC_Uniform_TorsoDeco_B2_M X2BodyPartTemplate]
+DisplayName="Charon Corps - Iris Energy Pack w/Knife"
+
+
+[CNV_WotC_SLD_MGV_CC_Uniform_TorsoDeco_B2_F X2BodyPartTemplate]
+DisplayName="Charon Corps - Iris Energy Pack w/Knife"
+
+[LPL_WotC_SLD_MGV_CC_Uniform_TorsoDeco_B2_F X2BodyPartTemplate]
+DisplayName="Charon Corps - Iris Energy Pack w/Knife"
+
+[MPL_WotC_SLD_MGV_CC_Uniform_TorsoDeco_B2_F X2BodyPartTemplate]
+DisplayName="Charon Corps - Iris Energy Pack w/Knife"
+
+[HPL_WotC_SLD_MGV_CC_Uniform_TorsoDeco_B2_F X2BodyPartTemplate]
+DisplayName="Charon Corps - Iris Energy Pack w/Knife"
+
+[LPW_WotC_SLD_MGV_CC_Uniform_TorsoDeco_B2_F X2BodyPartTemplate]
+DisplayName="Charon Corps - Iris Energy Pack w/Knife"
+
+[MPW_WotC_SLD_MGV_CC_Uniform_TorsoDeco_B2_F X2BodyPartTemplate]
+DisplayName="Charon Corps - Iris Energy Pack w/Knife"
+
+[HPW_WotC_SLD_MGV_CC_Uniform_TorsoDeco_B2_F X2BodyPartTemplate]
+DisplayName="Charon Corps - Iris Energy Pack w/Knife"
+;
+; Left Arm
+;
+
+
+[CNV_WotC_SLD_MGV_CC_Uniform_Arm_Left_A_M X2BodyPartTemplate]
+DisplayName="CC Uniform - Left Arm [Default]"
+
+[LPL_WotC_SLD_MGV_CC_Uniform_Arm_Left_A_M X2BodyPartTemplate]
+DisplayName="CC Uniform - Left Arm [Default]"
+
+[MPL_WotC_SLD_MGV_CC_Uniform_Arm_Left_A_M X2BodyPartTemplate]
+DisplayName="CC Uniform - Left Arm [Default]"
+
+[HPL_WotC_SLD_MGV_CC_Uniform_Arm_Left_A_M X2BodyPartTemplate]
+DisplayName="CC Uniform - Left Arm [Default]"
+
+[LPW_WotC_SLD_MGV_CC_Uniform_Arm_Left_A_M X2BodyPartTemplate]
+DisplayName="CC Uniform - Left Arm [Default]"
+
+[MPW_WotC_SLD_MGV_CC_Uniform_Arm_Left_A_M X2BodyPartTemplate]
+DisplayName="CC Uniform - Left Arm [Default]"
+
+[HPW_WotC_SLD_MGV_CC_Uniform_Arm_Left_A_M X2BodyPartTemplate]
+DisplayName="CC Uniform - Left Arm [Default]"
+
+
+[CNV_WotC_SLD_MGV_CC_Uniform_Arm_Left_A_F X2BodyPartTemplate]
+DisplayName="CC Uniform - Left Arm [Default]"
+
+[LPL_WotC_SLD_MGV_CC_Uniform_Arm_Left_A_F X2BodyPartTemplate]
+DisplayName="CC Uniform - Left Arm [Default]"
+
+[MPL_WotC_SLD_MGV_CC_Uniform_Arm_Left_A_F X2BodyPartTemplate]
+DisplayName="CC Uniform - Left Arm [Default]"
+
+[HPL_WotC_SLD_MGV_CC_Uniform_Arm_Left_A_F X2BodyPartTemplate]
+DisplayName="CC Uniform - Left Arm [Default]"
+
+[LPW_WotC_SLD_MGV_CC_Uniform_Arm_Left_A_F X2BodyPartTemplate]
+DisplayName="CC Uniform - Left Arm [Default]"
+
+[MPW_WotC_SLD_MGV_CC_Uniform_Arm_Left_A_F X2BodyPartTemplate]
+DisplayName="CC Uniform - Left Arm [Default]"
+
+[HPW_WotC_SLD_MGV_CC_Uniform_Arm_Left_A_F X2BodyPartTemplate]
+DisplayName="CC Uniform - Left Arm [Default]"
+
+
+[CNV_WotC_SLD_MGV_CC_Uniform_Arm_Left_B_M X2BodyPartTemplate]
+DisplayName="CC Uniform - Left Arm [Engineer]"
+
+[LPL_WotC_SLD_MGV_CC_Uniform_Arm_Left_B_M X2BodyPartTemplate]
+DisplayName="CC Uniform - Left Arm [Engineer]"
+
+[MPL_WotC_SLD_MGV_CC_Uniform_Arm_Left_B_M X2BodyPartTemplate]
+DisplayName="CC Uniform - Left Arm [Engineer]"
+
+[HPL_WotC_SLD_MGV_CC_Uniform_Arm_Left_B_M X2BodyPartTemplate]
+DisplayName="CC Uniform - Left Arm [Engineer]"
+
+[LPW_WotC_SLD_MGV_CC_Uniform_Arm_Left_B_M X2BodyPartTemplate]
+DisplayName="CC Uniform - Left Arm [Engineer]"
+
+[MPW_WotC_SLD_MGV_CC_Uniform_Arm_Left_B_M X2BodyPartTemplate]
+DisplayName="CC Uniform - Left Arm [Engineer]"
+
+[HPW_WotC_SLD_MGV_CC_Uniform_Arm_Left_B_M X2BodyPartTemplate]
+DisplayName="CC Uniform - Left Arm [Engineer]"
+
+
+[CNV_WotC_SLD_MGV_CC_Uniform_Arm_Left_B_F X2BodyPartTemplate]
+DisplayName="CC Uniform - Left Arm [Engineer]"
+
+[LPL_WotC_SLD_MGV_CC_Uniform_Arm_Left_B_F X2BodyPartTemplate]
+DisplayName="CC Uniform - Left Arm [Engineer]"
+
+[MPL_WotC_SLD_MGV_CC_Uniform_Arm_Left_B_F X2BodyPartTemplate]
+DisplayName="CC Uniform - Left Arm [Engineer]"
+
+[HPL_WotC_SLD_MGV_CC_Uniform_Arm_Left_B_F X2BodyPartTemplate]
+DisplayName="CC Uniform - Left Arm [Engineer]"
+
+[LPW_WotC_SLD_MGV_CC_Uniform_Arm_Left_B_F X2BodyPartTemplate]
+DisplayName="CC Uniform - Left Arm [Engineer]"
+
+[MPW_WotC_SLD_MGV_CC_Uniform_Arm_Left_B_F X2BodyPartTemplate]
+DisplayName="CC Uniform - Left Arm [Engineer]"
+
+[HPW_WotC_SLD_MGV_CC_Uniform_Arm_Left_B_F X2BodyPartTemplate]
+DisplayName="CC Uniform - Left Arm [Engineer]"
+
+
+
+[CNV_WotC_SLD_MGV_CC_Uniform_Arm_Left_C_M X2BodyPartTemplate]
+DisplayName="CC Uniform - Left Arm [Armband]"
+
+[LPL_WotC_SLD_MGV_CC_Uniform_Arm_Left_C_M X2BodyPartTemplate]
+DisplayName="CC Uniform - Left Arm [Armband]"
+
+[MPL_WotC_SLD_MGV_CC_Uniform_Arm_Left_C_M X2BodyPartTemplate]
+DisplayName="CC Uniform - Left Arm [Armband]"
+
+[HPL_WotC_SLD_MGV_CC_Uniform_Arm_Left_C_M X2BodyPartTemplate]
+DisplayName="CC Uniform - Left Arm [Armband]"
+
+[LPW_WotC_SLD_MGV_CC_Uniform_Arm_Left_C_M X2BodyPartTemplate]
+DisplayName="CC Uniform - Left Arm [Armband]"
+
+[MPW_WotC_SLD_MGV_CC_Uniform_Arm_Left_C_M X2BodyPartTemplate]
+DisplayName="CC Uniform - Left Arm [Armband]"
+
+[HPW_WotC_SLD_MGV_CC_Uniform_Arm_Left_C_M X2BodyPartTemplate]
+DisplayName="CC Uniform - Left Arm [Armband]"
+
+
+[CNV_WotC_SLD_MGV_CC_Uniform_Arm_Left_C_F X2BodyPartTemplate]
+DisplayName="CC Uniform - Left Arm [Armband]"
+
+[LPL_WotC_SLD_MGV_CC_Uniform_Arm_Left_C_F X2BodyPartTemplate]
+DisplayName="CC Uniform - Left Arm [Armband]"
+
+[MPL_WotC_SLD_MGV_CC_Uniform_Arm_Left_C_F X2BodyPartTemplate]
+DisplayName="CC Uniform - Left Arm [Armband]"
+
+[HPL_WotC_SLD_MGV_CC_Uniform_Arm_Left_C_F X2BodyPartTemplate]
+DisplayName="CC Uniform - Left Arm [Armband]"
+
+[LPW_WotC_SLD_MGV_CC_Uniform_Arm_Left_C_F X2BodyPartTemplate]
+DisplayName="CC Uniform - Left Arm [Armband]"
+
+[MPW_WotC_SLD_MGV_CC_Uniform_Arm_Left_C_F X2BodyPartTemplate]
+DisplayName="CC Uniform - Left Arm [Armband]"
+
+[HPW_WotC_SLD_MGV_CC_Uniform_Arm_Left_C_F X2BodyPartTemplate]
+DisplayName="CC Uniform - Left Arm [Armband]"
+
+
+[CNV_WotC_SLD_MGV_CC_Uniform_Shoulder_Left_Shoulderpad_A_M X2BodyPartTemplate]
+DisplayName="CC Uniform - Shoulderpad A"
+
+[LPL_WotC_SLD_MGV_CC_Uniform_Shoulder_Left_Shoulderpad_A_M X2BodyPartTemplate]
+DisplayName="CC Uniform - Shoulderpad A"
+
+[MPL_WotC_SLD_MGV_CC_Uniform_Shoulder_Left_Shoulderpad_A_M X2BodyPartTemplate]
+DisplayName="CC Uniform - Shoulderpad A"
+
+[HPL_WotC_SLD_MGV_CC_Uniform_Shoulder_Left_Shoulderpad_A_M X2BodyPartTemplate]
+DisplayName="CC Uniform - Shoulderpad A"
+
+[LPW_WotC_SLD_MGV_CC_Uniform_Shoulder_Left_Shoulderpad_A_M X2BodyPartTemplate]
+DisplayName="CC Uniform - Shoulderpad A"
+
+[MPW_WotC_SLD_MGV_CC_Uniform_Shoulder_Left_Shoulderpad_A_M X2BodyPartTemplate]
+DisplayName="CC Uniform - Shoulderpad A"
+
+[HPW_WotC_SLD_MGV_CC_Uniform_Shoulder_Left_Shoulderpad_A_M X2BodyPartTemplate]
+DisplayName="CC Uniform - Shoulderpad A"
+
+
+[CNV_WotC_SLD_MGV_CC_Uniform_Shoulder_Left_Shoulderpad_A_F X2BodyPartTemplate]
+DisplayName="CC Uniform - Shoulderpad A"
+
+[LPL_WotC_SLD_MGV_CC_Uniform_Shoulder_Left_Shoulderpad_A_F X2BodyPartTemplate]
+DisplayName="CC Uniform - Shoulderpad A"
+
+[MPL_WotC_SLD_MGV_CC_Uniform_Shoulder_Left_Shoulderpad_A_F X2BodyPartTemplate]
+DisplayName="CC Uniform - Shoulderpad A"
+
+[HPL_WotC_SLD_MGV_CC_Uniform_Shoulder_Left_Shoulderpad_A_F X2BodyPartTemplate]
+DisplayName="CC Uniform - Shoulderpad A"
+
+[LPW_WotC_SLD_MGV_CC_Uniform_Shoulder_Left_Shoulderpad_A_F X2BodyPartTemplate]
+DisplayName="CC Uniform - Shoulderpad A"
+
+[MPW_WotC_SLD_MGV_CC_Uniform_Shoulder_Left_Shoulderpad_A_F X2BodyPartTemplate]
+DisplayName="CC Uniform - Shoulderpad A"
+
+[HPW_WotC_SLD_MGV_CC_Uniform_Shoulder_Left_Shoulderpad_A_F X2BodyPartTemplate]
+DisplayName="CC Uniform - Shoulderpad A"
+
+
+[CNV_WotC_SLD_MGV_CC_Uniform_Shoulder_Left_Shoulderpad_B_M X2BodyPartTemplate]
+DisplayName="CC Uniform - Shoulderpad B"
+
+[LPL_WotC_SLD_MGV_CC_Uniform_Shoulder_Left_Shoulderpad_B_M X2BodyPartTemplate]
+DisplayName="CC Uniform - Shoulderpad B"
+
+[MPL_WotC_SLD_MGV_CC_Uniform_Shoulder_Left_Shoulderpad_B_M X2BodyPartTemplate]
+DisplayName="CC Uniform - Shoulderpad B"
+
+[HPL_WotC_SLD_MGV_CC_Uniform_Shoulder_Left_Shoulderpad_B_M X2BodyPartTemplate]
+DisplayName="CC Uniform - Shoulderpad B"
+
+[LPW_WotC_SLD_MGV_CC_Uniform_Shoulder_Left_Shoulderpad_B_M X2BodyPartTemplate]
+DisplayName="CC Uniform - Shoulderpad B"
+
+[MPW_WotC_SLD_MGV_CC_Uniform_Shoulder_Left_Shoulderpad_B_M X2BodyPartTemplate]
+DisplayName="CC Uniform - Shoulderpad B"
+
+[HPW_WotC_SLD_MGV_CC_Uniform_Shoulder_Left_Shoulderpad_B_M X2BodyPartTemplate]
+DisplayName="CC Uniform - Shoulderpad B"
+
+
+[CNV_WotC_SLD_MGV_CC_Uniform_Shoulder_Left_Shoulderpad_B_F X2BodyPartTemplate]
+DisplayName="CC Uniform - Shoulderpad B"
+
+[LPL_WotC_SLD_MGV_CC_Uniform_Shoulder_Left_Shoulderpad_B_F X2BodyPartTemplate]
+DisplayName="CC Uniform - Shoulderpad B"
+
+[MPL_WotC_SLD_MGV_CC_Uniform_Shoulder_Left_Shoulderpad_B_F X2BodyPartTemplate]
+DisplayName="CC Uniform - Shoulderpad B"
+
+[HPL_WotC_SLD_MGV_CC_Uniform_Shoulder_Left_Shoulderpad_B_F X2BodyPartTemplate]
+DisplayName="CC Uniform - Shoulderpad B"
+
+[LPW_WotC_SLD_MGV_CC_Uniform_Shoulder_Left_Shoulderpad_B_F X2BodyPartTemplate]
+DisplayName="CC Uniform - Shoulderpad B"
+
+[MPW_WotC_SLD_MGV_CC_Uniform_Shoulder_Left_Shoulderpad_B_F X2BodyPartTemplate]
+DisplayName="CC Uniform - Shoulderpad B"
+
+[HPW_WotC_SLD_MGV_CC_Uniform_Shoulder_Left_Shoulderpad_B_F X2BodyPartTemplate]
+DisplayName="CC Uniform - Shoulderpad B"
+
+;
+; Right Arm
+;
+
+[CNV_WotC_SLD_MGV_CC_Uniform_Arm_Right_A_M X2BodyPartTemplate]
+DisplayName="CC Uniform - Right Arm [Default]"
+
+[LPL_WotC_SLD_MGV_CC_Uniform_Arm_Right_A_M X2BodyPartTemplate]
+DisplayName="CC Uniform - Right Arm [Default]"
+
+[MPL_WotC_SLD_MGV_CC_Uniform_Arm_Right_A_M X2BodyPartTemplate]
+DisplayName="CC Uniform - Right Arm [Default]"
+
+[HPL_WotC_SLD_MGV_CC_Uniform_Arm_Right_A_M X2BodyPartTemplate]
+DisplayName="CC Uniform - Right Arm [Default]"
+
+[LPW_WotC_SLD_MGV_CC_Uniform_Arm_Right_A_M X2BodyPartTemplate]
+DisplayName="CC Uniform - Right Arm [Default]"
+
+[MPW_WotC_SLD_MGV_CC_Uniform_Arm_Right_A_M X2BodyPartTemplate]
+DisplayName="CC Uniform - Right Arm [Default]"
+
+[HPW_WotC_SLD_MGV_CC_Uniform_Arm_Right_A_M X2BodyPartTemplate]
+DisplayName="CC Uniform - Right Arm [Default]"
+
+
+[CNV_WotC_SLD_MGV_CC_Uniform_Arm_Right_A_F X2BodyPartTemplate]
+DisplayName="CC Uniform - Right Arm [Default]"
+
+[LPL_WotC_SLD_MGV_CC_Uniform_Arm_Right_A_F X2BodyPartTemplate]
+DisplayName="CC Uniform - Right Arm [Default]"
+
+[MPL_WotC_SLD_MGV_CC_Uniform_Arm_Right_A_F X2BodyPartTemplate]
+DisplayName="CC Uniform - Right Arm [Default]"
+
+[HPL_WotC_SLD_MGV_CC_Uniform_Arm_Right_A_F X2BodyPartTemplate]
+DisplayName="CC Uniform - Right Arm [Default]"
+
+[LPW_WotC_SLD_MGV_CC_Uniform_Arm_Right_A_F X2BodyPartTemplate]
+DisplayName="CC Uniform - Right Arm [Default]"
+
+[MPW_WotC_SLD_MGV_CC_Uniform_Arm_Right_A_F X2BodyPartTemplate]
+DisplayName="CC Uniform - Right Arm [Default]"
+
+[HPW_WotC_SLD_MGV_CC_Uniform_Arm_Right_A_F X2BodyPartTemplate]
+DisplayName="CC Uniform - Right Arm [Default]"
+
+
+[CNV_WotC_SLD_MGV_CC_Uniform_Arm_Right_B_M X2BodyPartTemplate]
+DisplayName="CC Uniform - Right Arm [Engineer]"
+
+[LPL_WotC_SLD_MGV_CC_Uniform_Arm_Right_B_M X2BodyPartTemplate]
+DisplayName="CC Uniform - Right Arm [Engineer]"
+
+[MPL_WotC_SLD_MGV_CC_Uniform_Arm_Right_B_M X2BodyPartTemplate]
+DisplayName="CC Uniform - Right Arm [Engineer]"
+
+[HPL_WotC_SLD_MGV_CC_Uniform_Arm_Right_B_M X2BodyPartTemplate]
+DisplayName="CC Uniform - Right Arm [Engineer]"
+
+[LPW_WotC_SLD_MGV_CC_Uniform_Arm_Right_B_M X2BodyPartTemplate]
+DisplayName="CC Uniform - Right Arm [Engineer]"
+
+[MPW_WotC_SLD_MGV_CC_Uniform_Arm_Right_B_M X2BodyPartTemplate]
+DisplayName="CC Uniform - Right Arm [Engineer]"
+
+[HPW_WotC_SLD_MGV_CC_Uniform_Arm_Right_B_M X2BodyPartTemplate]
+DisplayName="CC Uniform - Right Arm [Engineer]"
+
+
+[CNV_WotC_SLD_MGV_CC_Uniform_Arm_Right_B_F X2BodyPartTemplate]
+DisplayName="CC Uniform - Right Arm [Engineer]"
+
+[LPL_WotC_SLD_MGV_CC_Uniform_Arm_Right_B_F X2BodyPartTemplate]
+DisplayName="CC Uniform - Right Arm [Engineer]"
+
+[MPL_WotC_SLD_MGV_CC_Uniform_Arm_Right_B_F X2BodyPartTemplate]
+DisplayName="CC Uniform - Right Arm [Engineer]"
+
+[HPL_WotC_SLD_MGV_CC_Uniform_Arm_Right_B_F X2BodyPartTemplate]
+DisplayName="CC Uniform - Right Arm [Engineer]"
+
+[LPW_WotC_SLD_MGV_CC_Uniform_Arm_Right_B_F X2BodyPartTemplate]
+DisplayName="CC Uniform - Right Arm [Engineer]"
+
+[MPW_WotC_SLD_MGV_CC_Uniform_Arm_Right_B_F X2BodyPartTemplate]
+DisplayName="CC Uniform - Right Arm [Engineer]"
+
+[HPW_WotC_SLD_MGV_CC_Uniform_Arm_Right_B_F X2BodyPartTemplate]
+DisplayName="CC Uniform - Right Arm [Engineer]"
+
+
+
+[CNV_WotC_SLD_MGV_CC_Uniform_Arm_Right_C_M X2BodyPartTemplate]
+DisplayName="CC Uniform - Right Arm [Armband]"
+
+[LPL_WotC_SLD_MGV_CC_Uniform_Arm_Right_C_M X2BodyPartTemplate]
+DisplayName="CC Uniform - Right Arm [Armband]"
+
+[MPL_WotC_SLD_MGV_CC_Uniform_Arm_Right_C_M X2BodyPartTemplate]
+DisplayName="CC Uniform - Right Arm [Armband]"
+
+[HPL_WotC_SLD_MGV_CC_Uniform_Arm_Right_C_M X2BodyPartTemplate]
+DisplayName="CC Uniform - Right Arm [Armband]"
+
+[LPW_WotC_SLD_MGV_CC_Uniform_Arm_Right_C_M X2BodyPartTemplate]
+DisplayName="CC Uniform - Right Arm [Armband]"
+
+[MPW_WotC_SLD_MGV_CC_Uniform_Arm_Right_C_M X2BodyPartTemplate]
+DisplayName="CC Uniform - Right Arm [Armband]"
+
+[HPW_WotC_SLD_MGV_CC_Uniform_Arm_Right_C_M X2BodyPartTemplate]
+DisplayName="CC Uniform - Right Arm [Armband]"
+
+
+[CNV_WotC_SLD_MGV_CC_Uniform_Arm_Right_C_F X2BodyPartTemplate]
+DisplayName="CC Uniform - Right Arm [Armband]"
+
+[LPL_WotC_SLD_MGV_CC_Uniform_Arm_Right_C_F X2BodyPartTemplate]
+DisplayName="CC Uniform - Right Arm [Armband]"
+
+[MPL_WotC_SLD_MGV_CC_Uniform_Arm_Right_C_F X2BodyPartTemplate]
+DisplayName="CC Uniform - Right Arm [Armband]"
+
+[HPL_WotC_SLD_MGV_CC_Uniform_Arm_Right_C_F X2BodyPartTemplate]
+DisplayName="CC Uniform - Right Arm [Armband]"
+
+[LPW_WotC_SLD_MGV_CC_Uniform_Arm_Right_C_F X2BodyPartTemplate]
+DisplayName="CC Uniform - Right Arm [Armband]"
+
+[MPW_WotC_SLD_MGV_CC_Uniform_Arm_Right_C_F X2BodyPartTemplate]
+DisplayName="CC Uniform - Right Arm [Armband]"
+
+[HPW_WotC_SLD_MGV_CC_Uniform_Arm_Right_C_F X2BodyPartTemplate]
+DisplayName="CC Uniform - Right Arm [Armband]"
+
+
+[CNV_WotC_SLD_MGV_CC_Uniform_Shoulder_Right_Shoulderpad_A_M X2BodyPartTemplate]
+DisplayName="CC Uniform - Shoulderpad A"
+
+[LPL_WotC_SLD_MGV_CC_Uniform_Shoulder_Right_Shoulderpad_A_M X2BodyPartTemplate]
+DisplayName="CC Uniform - Shoulderpad A"
+
+[MPL_WotC_SLD_MGV_CC_Uniform_Shoulder_Right_Shoulderpad_A_M X2BodyPartTemplate]
+DisplayName="CC Uniform - Shoulderpad A"
+
+[HPL_WotC_SLD_MGV_CC_Uniform_Shoulder_Right_Shoulderpad_A_M X2BodyPartTemplate]
+DisplayName="CC Uniform - Shoulderpad A"
+
+[LPW_WotC_SLD_MGV_CC_Uniform_Shoulder_Right_Shoulderpad_A_M X2BodyPartTemplate]
+DisplayName="CC Uniform - Shoulderpad A"
+
+[MPW_WotC_SLD_MGV_CC_Uniform_Shoulder_Right_Shoulderpad_A_M X2BodyPartTemplate]
+DisplayName="CC Uniform - Shoulderpad A"
+
+[HPW_WotC_SLD_MGV_CC_Uniform_Shoulder_Right_Shoulderpad_A_M X2BodyPartTemplate]
+DisplayName="CC Uniform - Shoulderpad A"
+
+
+[CNV_WotC_SLD_MGV_CC_Uniform_Shoulder_Right_Shoulderpad_A_F X2BodyPartTemplate]
+DisplayName="CC Uniform - Shoulderpad A"
+
+[LPL_WotC_SLD_MGV_CC_Uniform_Shoulder_Right_Shoulderpad_A_F X2BodyPartTemplate]
+DisplayName="CC Uniform - Shoulderpad A"
+
+[MPL_WotC_SLD_MGV_CC_Uniform_Shoulder_Right_Shoulderpad_A_F X2BodyPartTemplate]
+DisplayName="CC Uniform - Shoulderpad A"
+
+[HPL_WotC_SLD_MGV_CC_Uniform_Shoulder_Right_Shoulderpad_A_F X2BodyPartTemplate]
+DisplayName="CC Uniform - Shoulderpad A"
+
+[LPW_WotC_SLD_MGV_CC_Uniform_Shoulder_Right_Shoulderpad_A_F X2BodyPartTemplate]
+DisplayName="CC Uniform - Shoulderpad A"
+
+[MPW_WotC_SLD_MGV_CC_Uniform_Shoulder_Right_Shoulderpad_A_F X2BodyPartTemplate]
+DisplayName="CC Uniform - Shoulderpad A"
+
+[HPW_WotC_SLD_MGV_CC_Uniform_Shoulder_Right_Shoulderpad_A_F X2BodyPartTemplate]
+DisplayName="CC Uniform - Shoulderpad A"
+
+
+[CNV_WotC_SLD_MGV_CC_Uniform_Shoulder_Right_Shoulderpad_B_M X2BodyPartTemplate]
+DisplayName="CC Uniform - Shoulderpad B"
+
+[LPL_WotC_SLD_MGV_CC_Uniform_Shoulder_Right_Shoulderpad_B_M X2BodyPartTemplate]
+DisplayName="CC Uniform - Shoulderpad B"
+
+[MPL_WotC_SLD_MGV_CC_Uniform_Shoulder_Right_Shoulderpad_B_M X2BodyPartTemplate]
+DisplayName="CC Uniform - Shoulderpad B"
+
+[HPL_WotC_SLD_MGV_CC_Uniform_Shoulder_Right_Shoulderpad_B_M X2BodyPartTemplate]
+DisplayName="CC Uniform - Shoulderpad B"
+
+[LPW_WotC_SLD_MGV_CC_Uniform_Shoulder_Right_Shoulderpad_B_M X2BodyPartTemplate]
+DisplayName="CC Uniform - Shoulderpad B"
+
+[MPW_WotC_SLD_MGV_CC_Uniform_Shoulder_Right_Shoulderpad_B_M X2BodyPartTemplate]
+DisplayName="CC Uniform - Shoulderpad B"
+
+[HPW_WotC_SLD_MGV_CC_Uniform_Shoulder_Right_Shoulderpad_B_M X2BodyPartTemplate]
+DisplayName="CC Uniform - Shoulderpad B"
+
+
+[CNV_WotC_SLD_MGV_CC_Uniform_Shoulder_Right_Shoulderpad_B_F X2BodyPartTemplate]
+DisplayName="CC Uniform - Shoulderpad B"
+
+[LPL_WotC_SLD_MGV_CC_Uniform_Shoulder_Right_Shoulderpad_B_F X2BodyPartTemplate]
+DisplayName="CC Uniform - Shoulderpad B"
+
+[MPL_WotC_SLD_MGV_CC_Uniform_Shoulder_Right_Shoulderpad_B_F X2BodyPartTemplate]
+DisplayName="CC Uniform - Shoulderpad B"
+
+[HPL_WotC_SLD_MGV_CC_Uniform_Shoulder_Right_Shoulderpad_B_F X2BodyPartTemplate]
+DisplayName="CC Uniform - Shoulderpad B"
+
+[LPW_WotC_SLD_MGV_CC_Uniform_Shoulder_Right_Shoulderpad_B_F X2BodyPartTemplate]
+DisplayName="CC Uniform - Shoulderpad B"
+
+[MPW_WotC_SLD_MGV_CC_Uniform_Shoulder_Right_Shoulderpad_B_F X2BodyPartTemplate]
+DisplayName="CC Uniform - Shoulderpad B"
+
+[HPW_WotC_SLD_MGV_CC_Uniform_Shoulder_Right_Shoulderpad_B_F X2BodyPartTemplate]
+DisplayName="CC Uniform - Shoulderpad B"
+
+;
+; Thighs
+;
+
+[CNV_WotC_SLD_MGV_CC_Uniform_Thighs_A_M X2BodyPartTemplate]
+DisplayName="CC Uniforms - Belt"
+
+[LPL_WotC_SLD_MGV_CC_Uniform_Thighs_A_M X2BodyPartTemplate]
+DisplayName="CC Uniforms - Belt"
+
+[MPL_WotC_SLD_MGV_CC_Uniform_Thighs_A_M X2BodyPartTemplate]
+DisplayName="CC Uniforms - Belt"
+
+[HPL_WotC_SLD_MGV_CC_Uniform_Thighs_A_M X2BodyPartTemplate]
+DisplayName="CC Uniforms - Belt"
+
+[LPW_WotC_SLD_MGV_CC_Uniform_Thighs_A_M X2BodyPartTemplate]
+DisplayName="CC Uniforms - Belt"
+
+[MPW_WotC_SLD_MGV_CC_Uniform_Thighs_A_M X2BodyPartTemplate]
+DisplayName="CC Uniforms - Belt"
+
+[HPW_WotC_SLD_MGV_CC_Uniform_Thighs_A_M X2BodyPartTemplate]
+DisplayName="CC Uniforms - Belt"
+
+
+[CNV_WotC_SLD_MGV_CC_Uniform_Thighs_A_F X2BodyPartTemplate]
+DisplayName="CC Uniforms - Belt"
+
+[LPL_WotC_SLD_MGV_CC_Uniform_Thighs_A_F X2BodyPartTemplate]
+DisplayName="CC Uniforms - Belt"
+
+[MPL_WotC_SLD_MGV_CC_Uniform_Thighs_A_F X2BodyPartTemplate]
+DisplayName="CC Uniforms - Belt"
+
+[HPL_WotC_SLD_MGV_CC_Uniform_Thighs_A_F X2BodyPartTemplate]
+DisplayName="CC Uniforms - Belt"
+
+[LPW_WotC_SLD_MGV_CC_Uniform_Thighs_A_F X2BodyPartTemplate]
+DisplayName="CC Uniforms - Belt"
+
+[MPW_WotC_SLD_MGV_CC_Uniform_Thighs_A_F X2BodyPartTemplate]
+DisplayName="CC Uniforms - Belt"
+
+[HPW_WotC_SLD_MGV_CC_Uniform_Thighs_A_F X2BodyPartTemplate]
+DisplayName="CC Uniforms - Belt"
+
+
+[CNV_WotC_SLD_MGV_CC_Uniform_Thighs_B_M X2BodyPartTemplate]
+DisplayName="CC Uniforms - Belt [Engineer]"
+
+[LPL_WotC_SLD_MGV_CC_Uniform_Thighs_B_M X2BodyPartTemplate]
+DisplayName="CC Uniforms - Belt [Engineer]"
+
+[MPL_WotC_SLD_MGV_CC_Uniform_Thighs_B_M X2BodyPartTemplate]
+DisplayName="CC Uniforms - Belt [Engineer]"
+
+[HPL_WotC_SLD_MGV_CC_Uniform_Thighs_B_M X2BodyPartTemplate]
+DisplayName="CC Uniforms - Belt [Engineer]"
+
+[LPW_WotC_SLD_MGV_CC_Uniform_Thighs_B_M X2BodyPartTemplate]
+DisplayName="CC Uniforms - Belt [Engineer]"
+
+[MPW_WotC_SLD_MGV_CC_Uniform_Thighs_B_M X2BodyPartTemplate]
+DisplayName="CC Uniforms - Belt [Engineer]"
+
+[HPW_WotC_SLD_MGV_CC_Uniform_Thighs_B_M X2BodyPartTemplate]
+DisplayName="CC Uniforms - Belt [Engineer]"
+
+
+[CNV_WotC_SLD_MGV_CC_Uniform_Thighs_B_F X2BodyPartTemplate]
+DisplayName="CC Uniforms - Belt [Engineer]"
+
+[LPL_WotC_SLD_MGV_CC_Uniform_Thighs_B_F X2BodyPartTemplate]
+DisplayName="CC Uniforms - Belt [Engineer]"
+
+[MPL_WotC_SLD_MGV_CC_Uniform_Thighs_B_F X2BodyPartTemplate]
+DisplayName="CC Uniforms - Belt [Engineer]"
+
+[HPL_WotC_SLD_MGV_CC_Uniform_Thighs_B_F X2BodyPartTemplate]
+DisplayName="CC Uniforms - Belt [Engineer]"
+
+[LPW_WotC_SLD_MGV_CC_Uniform_Thighs_B_F X2BodyPartTemplate]
+DisplayName="CC Uniforms - Belt [Engineer]"
+
+[MPW_WotC_SLD_MGV_CC_Uniform_Thighs_B_F X2BodyPartTemplate]
+DisplayName="CC Uniforms - Belt [Engineer]"
+
+[HPW_WotC_SLD_MGV_CC_Uniform_Thighs_B_F X2BodyPartTemplate]
+DisplayName="CC Uniforms - Belt [Engineer]"
+
+
+[CNV_WotC_SLD_MGV_CC_Uniform_Thighs_C1_M X2BodyPartTemplate]
+DisplayName="CC Uniforms - Belt [OxyTank]"
+
+[LPL_WotC_SLD_MGV_CC_Uniform_Thighs_C1_M X2BodyPartTemplate]
+DisplayName="CC Uniforms - Belt [OxyTank]"
+
+[MPL_WotC_SLD_MGV_CC_Uniform_Thighs_C1_M X2BodyPartTemplate]
+DisplayName="CC Uniforms - Belt [OxyTank]"
+
+[HPL_WotC_SLD_MGV_CC_Uniform_Thighs_C1_M X2BodyPartTemplate]
+DisplayName="CC Uniforms - Belt [OxyTank]"
+
+[LPW_WotC_SLD_MGV_CC_Uniform_Thighs_C1_M X2BodyPartTemplate]
+DisplayName="CC Uniforms - Belt [OxyTank]"
+
+[MPW_WotC_SLD_MGV_CC_Uniform_Thighs_C1_M X2BodyPartTemplate]
+DisplayName="CC Uniforms - Belt [OxyTank]"
+
+[HPW_WotC_SLD_MGV_CC_Uniform_Thighs_C1_M X2BodyPartTemplate]
+DisplayName="CC Uniforms - Belt [OxyTank]"
+
+
+[CNV_WotC_SLD_MGV_CC_Uniform_Thighs_C1_F X2BodyPartTemplate]
+DisplayName="CC Uniforms - Belt [OxyTank]"
+
+[LPL_WotC_SLD_MGV_CC_Uniform_Thighs_C1_F X2BodyPartTemplate]
+DisplayName="CC Uniforms - Belt [OxyTank]"
+
+[MPL_WotC_SLD_MGV_CC_Uniform_Thighs_C1_F X2BodyPartTemplate]
+DisplayName="CC Uniforms - Belt [OxyTank]"
+
+[HPL_WotC_SLD_MGV_CC_Uniform_Thighs_C1_F X2BodyPartTemplate]
+DisplayName="CC Uniforms - Belt [OxyTank]"
+
+[LPW_WotC_SLD_MGV_CC_Uniform_Thighs_C1_F X2BodyPartTemplate]
+DisplayName="CC Uniforms - Belt [OxyTank]"
+
+[MPW_WotC_SLD_MGV_CC_Uniform_Thighs_C1_F X2BodyPartTemplate]
+DisplayName="CC Uniforms - Belt [OxyTank]"
+
+[HPW_WotC_SLD_MGV_CC_Uniform_Thighs_C1_F X2BodyPartTemplate]
+DisplayName="CC Uniforms - Belt [OxyTank]"
+
+
+
+[CNV_WotC_SLD_MGV_CC_Uniform_Thighs_C2_M X2BodyPartTemplate]
+DisplayName="CC Uniforms - Belt [OxyTank][No Gasmask]"
+
+[LPL_WotC_SLD_MGV_CC_Uniform_Thighs_C2_M X2BodyPartTemplate]
+DisplayName="CC Uniforms - Belt [OxyTank][No Gasmask]"
+
+[MPL_WotC_SLD_MGV_CC_Uniform_Thighs_C2_M X2BodyPartTemplate]
+DisplayName="CC Uniforms - Belt [OxyTank][No Gasmask]"
+
+[HPL_WotC_SLD_MGV_CC_Uniform_Thighs_C2_M X2BodyPartTemplate]
+DisplayName="CC Uniforms - Belt [OxyTank][No Gasmask]"
+
+[LPW_WotC_SLD_MGV_CC_Uniform_Thighs_C2_M X2BodyPartTemplate]
+DisplayName="CC Uniforms - Belt [OxyTank][No Gasmask]"
+
+[MPW_WotC_SLD_MGV_CC_Uniform_Thighs_C2_M X2BodyPartTemplate]
+DisplayName="CC Uniforms - Belt [OxyTank][No Gasmask]"
+
+[HPW_WotC_SLD_MGV_CC_Uniform_Thighs_C2_M X2BodyPartTemplate]
+DisplayName="CC Uniforms - Belt [OxyTank][No Gasmask]"
+
+
+[CNV_WotC_SLD_MGV_CC_Uniform_Thighs_C2_F X2BodyPartTemplate]
+DisplayName="CC Uniforms - Belt [OxyTank][No Gasmask]"
+
+[LPL_WotC_SLD_MGV_CC_Uniform_Thighs_C2_F X2BodyPartTemplate]
+DisplayName="CC Uniforms - Belt [OxyTank][No Gasmask]"
+
+[MPL_WotC_SLD_MGV_CC_Uniform_Thighs_C2_F X2BodyPartTemplate]
+DisplayName="CC Uniforms - Belt [OxyTank][No Gasmask]"
+
+[HPL_WotC_SLD_MGV_CC_Uniform_Thighs_C2_F X2BodyPartTemplate]
+DisplayName="CC Uniforms - Belt [OxyTank][No Gasmask]"
+
+[LPW_WotC_SLD_MGV_CC_Uniform_Thighs_C2_F X2BodyPartTemplate]
+DisplayName="CC Uniforms - Belt [OxyTank][No Gasmask]"
+
+[MPW_WotC_SLD_MGV_CC_Uniform_Thighs_C2_F X2BodyPartTemplate]
+DisplayName="CC Uniforms - Belt [OxyTank][No Gasmask]"
+
+[HPW_WotC_SLD_MGV_CC_Uniform_Thighs_C2_F X2BodyPartTemplate]
+DisplayName="CC Uniforms - Belt [OxyTank][No Gasmask]"

@@ -1,0 +1,99 @@
+[X2DownloadableContentInfo_AddedPartNames]
+
+;
+; Kevlar
+;
+
+.TorsoTemplate="CnvMed_KevlarBase_Torso_F"
+.TorsoName="Legacy Kevlar"
+.TorsoTemplate="CnvMed_KevlarBase_Torso_M"
+.TorsoName="Legacy Kevlar"
+
+.LegsTemplate="CnvMed_KevlarBase_Legs_F"
+.LegsName="Legacy Kevlar"
+.LegsTemplate="CnvMed_KevlarBase_Legs_M"
+.LegsName="Legacy Kevlar"
+
+;
+; Predator
+;
+
+.TorsoTemplate="PltMed_PlatedBase_Torso_F"
+.TorsoName="Legacy Plated"
+.TorsoTemplate="PltMed_PlatedBase_Torso_M"
+.TorsoName="Legacy Plated"
+
+.LegsTemplate="PltMed_PlatedBase_Legs_F"
+.LegsName="Legacy Plated"
+.LegsTemplate="PltMed_PlatedBase_Legs_M"
+.LegsName="Legacy Plated"
+
+;
+; Spider
+;
+
+.TorsoTemplate="PltLgt_PlatedBase_Torso_F"
+.TorsoName="Legacy Plated"
+.TorsoTemplate="PltLgt_PlatedBase_Torso_M"
+.TorsoName="Legacy Plated"
+
+.LegsTemplate="PltLgt_PlatedBase_Legs_F"
+.LegsName="Legacy Plated"
+.LegsTemplate="PltLgt_PlatedBase_Legs_M"
+.LegsName="Legacy Plated"
+
+;
+; E.X.O.
+;
+
+.TorsoTemplate="PltHvy_PlatedBase_Torso_F"
+.TorsoName="Legacy Plated"
+.TorsoTemplate="PltHvy_PlatedBase_Torso_M"
+.TorsoName="Legacy Plated"
+
+.LegsTemplate="PltHvy_PlatedBase_Legs_F"
+.LegsName="Legacy Plated"
+.LegsTemplate="PltHvy_PlatedBase_Legs_M"
+.LegsName="Legacy Plated"
+
+;
+; Warden	
+;
+
+.TorsoTemplate="PwrMed_PoweredBase_Torso_F"
+.TorsoName="Legacy Powered"
+.TorsoTemplate="PwrMed_PoweredBase_Torso_M"
+.TorsoName="Legacy Powered"
+
+.LegsTemplate="PwrMed_PoweredBase_Legs_F"
+.LegsName="Legacy Powered"
+.LegsTemplate="PwrMed_PoweredBase_Legs_M"
+.LegsName="Legacy Powered"
+
+;
+; Wraith
+;
+
+.TorsoTemplate="PwrLgt_PoweredBase_Torso_F"
+.TorsoName="Legacy Powered"
+.TorsoTemplate="PwrLgt_PoweredBase_Torso_M"
+.TorsoName="Legacy Powered"
+
+.LegsTemplate="PwrLgt_PoweredBase_Legs_F"
+.LegsName="Legacy Powered"
+.LegsTemplate="PwrLgt_PoweredBase_Legs_M"
+.LegsName="Legacy Powered"
+
+;
+; W.A.R.
+;
+
+.TorsoTemplate="PwrHvy_PoweredBase_Torso_F"
+.TorsoName="Legacy Powered"
+.TorsoTemplate="PwrHvy_PoweredBase_Torso_M"
+.TorsoName="Legacy Powered"
+
+.LegsTemplate="PwrHvy_PoweredBase_Legs_F"
+.LegsName="Legacy Powered"
+.LegsTemplate="PwrHvy_PoweredBase_Legs_M"
+.LegsName="Legacy Powered"

@@ -1,0 +1,194 @@
+;
+; Head Props
+;
+
+[ALL_WotC_SLD_SCB_SneakingSuit_FacePropsUpper_SonarGoggles_M X2BodyPartTemplate]
+DisplayName="SC: Blacklist - Sonar Goggles"
+
+[ALL_WotC_SLD_SCB_SneakingSuit_FacePropsUpper_SonarGoggles_F X2BodyPartTemplate]
+DisplayName="SC: Blacklist - Sonar Goggles"
+
+
+;
+; Left Arm
+;
+
+
+[CNV_WotC_SLD_SCB_SneakingSuit_Arm_Left_Default_M X2BodyPartTemplate]
+DisplayName="SC: Blacklist - Sneaking Suit - Left Arm [Default]"
+
+[LPL_WotC_SLD_SCB_SneakingSuit_Arm_Left_Default_M X2BodyPartTemplate]
+DisplayName="SC: Blacklist - Sneaking Suit - Left Arm [Default]"
+
+[MPL_WotC_SLD_SCB_SneakingSuit_Arm_Left_Default_M X2BodyPartTemplate]
+DisplayName="SC: Blacklist - Sneaking Suit - Left Arm [Default]"
+
+[HPL_WotC_SLD_SCB_SneakingSuit_Arm_Left_Default_M X2BodyPartTemplate]
+DisplayName="SC: Blacklist - Sneaking Suit - Left Arm [Default]"
+
+[LPW_WotC_SLD_SCB_SneakingSuit_Arm_Left_Default_M X2BodyPartTemplate]
+DisplayName="SC: Blacklist - Sneaking Suit - Left Arm [Default]"
+
+[MPW_WotC_SLD_SCB_SneakingSuit_Arm_Left_Default_M X2BodyPartTemplate]
+DisplayName="SC: Blacklist - Sneaking Suit - Left Arm [Default]"
+
+[HPW_WotC_SLD_SCB_SneakingSuit_Arm_Left_Default_M X2BodyPartTemplate]
+DisplayName="SC: Blacklist - Sneaking Suit - Left Arm [Default]"
+
+
+[CNV_WotC_SLD_SCB_SneakingSuit_Arm_Left_Default_F X2BodyPartTemplate]
+DisplayName="SC: Blacklist - Sneaking Suit - Left Arm [Default]"
+
+[LPL_WotC_SLD_SCB_SneakingSuit_Arm_Left_Default_F X2BodyPartTemplate]
+DisplayName="SC: Blacklist - Sneaking Suit - Left Arm [Default]"
+
+[MPL_WotC_SLD_SCB_SneakingSuit_Arm_Left_Default_F X2BodyPartTemplate]
+DisplayName="SC: Blacklist - Sneaking Suit - Left Arm [Default]"
+
+[HPL_WotC_SLD_SCB_SneakingSuit_Arm_Left_Default_F X2BodyPartTemplate]
+DisplayName="SC: Blacklist - Sneaking Suit - Left Arm [Default]"
+
+[LPW_WotC_SLD_SCB_SneakingSuit_Arm_Left_Default_F X2BodyPartTemplate]
+DisplayName="SC: Blacklist - Sneaking Suit - Left Arm [Default]"
+
+[MPW_WotC_SLD_SCB_SneakingSuit_Arm_Left_Default_F X2BodyPartTemplate]
+DisplayName="SC: Blacklist - Sneaking Suit - Left Arm [Default]"
+
+[HPW_WotC_SLD_SCB_SneakingSuit_Arm_Left_Default_F X2BodyPartTemplate]
+DisplayName="SC: Blacklist - Sneaking Suit - Left Arm [Default]"
+
+
+[CNV_WotC_SLD_SCB_SneakingSuit_Arm_Left_Cust_M X2BodyPartTemplate]
+DisplayName="SC: Blacklist - Sneaking Suit - Left Arm [Tintable]"
+
+[LPL_WotC_SLD_SCB_SneakingSuit_Arm_Left_Cust_M X2BodyPartTemplate]
+DisplayName="SC: Blacklist - Sneaking Suit - Left Arm [Tintable]"
+
+[MPL_WotC_SLD_SCB_SneakingSuit_Arm_Left_Cust_M X2BodyPartTemplate]
+DisplayName="SC: Blacklist - Sneaking Suit - Left Arm [Tintable]"
+
+[HPL_WotC_SLD_SCB_SneakingSuit_Arm_Left_Cust_M X2BodyPartTemplate]
+DisplayName="SC: Blacklist - Sneaking Suit - Left Arm [Tintable]"
+
+[LPW_WotC_SLD_SCB_SneakingSuit_Arm_Left_Cust_M X2BodyPartTemplate]
+DisplayName="SC: Blacklist - Sneaking Suit - Left Arm [Tintable]"
+
+[MPW_WotC_SLD_SCB_SneakingSuit_Arm_Left_Cust_M X2BodyPartTemplate]
+DisplayName="SC: Blacklist - Sneaking Suit - Left Arm [Tintable]"
+
+[HPW_WotC_SLD_SCB_SneakingSuit_Arm_Left_Cust_M X2BodyPartTemplate]
+DisplayName="SC: Blacklist - Sneaking Suit - Left Arm [Tintable]"
+
+
+[CNV_WotC_SLD_SCB_SneakingSuit_Arm_Left_Cust_F X2BodyPartTemplate]
+DisplayName="SC: Blacklist - Sneaking Suit - Left Arm [Tintable]"
+
+[LPL_WotC_SLD_SCB_SneakingSuit_Arm_Left_Cust_F X2BodyPartTemplate]
+DisplayName="SC: Blacklist - Sneaking Suit - Left Arm [Tintable]"
+
+[MPL_WotC_SLD_SCB_SneakingSuit_Arm_Left_Cust_F X2BodyPartTemplate]
+DisplayName="SC: Blacklist - Sneaking Suit - Left Arm [Tintable]"
+
+[HPL_WotC_SLD_SCB_SneakingSuit_Arm_Left_Cust_F X2BodyPartTemplate]
+DisplayName="SC: Blacklist - Sneaking Suit - Left Arm [Tintable]"
+
+[LPW_WotC_SLD_SCB_SneakingSuit_Arm_Left_Cust_F X2BodyPartTemplate]
+DisplayName="SC: Blacklist - Sneaking Suit - Left Arm [Tintable]"
+
+[MPW_WotC_SLD_SCB_SneakingSuit_Arm_Left_Cust_F X2BodyPartTemplate]
+DisplayName="SC: Blacklist - Sneaking Suit - Left Arm [Tintable]"
+
+[HPW_WotC_SLD_SCB_SneakingSuit_Arm_Left_Cust_F X2BodyPartTemplate]
+DisplayName="SC: Blacklist - Sneaking Suit - Left Arm [Tintable]"
+
+
+;
+; Right Arm
+;
+
+[CNV_WotC_SLD_SCB_SneakingSuit_Arm_Right_Default_M X2BodyPartTemplate]
+DisplayName="SC: Blacklist - Sneaking Suit - Right Arm [Default]"
+
+[LPL_WotC_SLD_SCB_SneakingSuit_Arm_Right_Default_M X2BodyPartTemplate]
+DisplayName="SC: Blacklist - Sneaking Suit - Right Arm [Default]"
+
+[MPL_WotC_SLD_SCB_SneakingSuit_Arm_Right_Default_M X2BodyPartTemplate]
+DisplayName="SC: Blacklist - Sneaking Suit - Right Arm [Default]"
+
+[HPL_WotC_SLD_SCB_SneakingSuit_Arm_Right_Default_M X2BodyPartTemplate]
+DisplayName="SC: Blacklist - Sneaking Suit - Right Arm [Default]"
+
+[LPW_WotC_SLD_SCB_SneakingSuit_Arm_Right_Default_M X2BodyPartTemplate]
+DisplayName="SC: Blacklist - Sneaking Suit - Right Arm [Default]"
+
+[MPW_WotC_SLD_SCB_SneakingSuit_Arm_Right_Default_M X2BodyPartTemplate]
+DisplayName="SC: Blacklist - Sneaking Suit - Right Arm [Default]"
+
+[HPW_WotC_SLD_SCB_SneakingSuit_Arm_Right_Default_M X2BodyPartTemplate]
+DisplayName="SC: Blacklist - Sneaking Suit - Right Arm [Default]"
+
+
+[CNV_WotC_SLD_SCB_SneakingSuit_Arm_Right_Default_F X2BodyPartTemplate]
+DisplayName="SC: Blacklist - Sneaking Suit - Right Arm [Default]"
+
+[LPL_WotC_SLD_SCB_SneakingSuit_Arm_Right_Default_F X2BodyPartTemplate]
+DisplayName="SC: Blacklist - Sneaking Suit - Right Arm [Default]"
+
+[MPL_WotC_SLD_SCB_SneakingSuit_Arm_Right_Default_F X2BodyPartTemplate]
+DisplayName="SC: Blacklist - Sneaking Suit - Right Arm [Default]"
+
+[HPL_WotC_SLD_SCB_SneakingSuit_Arm_Right_Default_F X2BodyPartTemplate]
+DisplayName="SC: Blacklist - Sneaking Suit - Right Arm [Default]"
+
+[LPW_WotC_SLD_SCB_SneakingSuit_Arm_Right_Default_F X2BodyPartTemplate]
+DisplayName="SC: Blacklist - Sneaking Suit - Right Arm [Default]"
+
+[MPW_WotC_SLD_SCB_SneakingSuit_Arm_Right_Default_F X2BodyPartTemplate]
+DisplayName="SC: Blacklist - Sneaking Suit - Right Arm [Default]"
+
+[HPW_WotC_SLD_SCB_SneakingSuit_Arm_Right_Default_F X2BodyPartTemplate]
+DisplayName="SC: Blacklist - Sneaking Suit - Right Arm [Default]"
+
+
+[CNV_WotC_SLD_SCB_SneakingSuit_Arm_Right_Cust_M X2BodyPartTemplate]
+DisplayName="SC: Blacklist - Sneaking Suit - Right Arm [Tintable]"
+
+[LPL_WotC_SLD_SCB_SneakingSuit_Arm_Right_Cust_M X2BodyPartTemplate]
+DisplayName="SC: Blacklist - Sneaking Suit - Right Arm [Tintable]"
+
+[MPL_WotC_SLD_SCB_SneakingSuit_Arm_Right_Cust_M X2BodyPartTemplate]
+DisplayName="SC: Blacklist - Sneaking Suit - Right Arm [Tintable]"
+
+[HPL_WotC_SLD_SCB_SneakingSuit_Arm_Right_Cust_M X2BodyPartTemplate]
+DisplayName="SC: Blacklist - Sneaking Suit - Right Arm [Tintable]"
+
+[LPW_WotC_SLD_SCB_SneakingSuit_Arm_Right_Cust_M X2BodyPartTemplate]
+DisplayName="SC: Blacklist - Sneaking Suit - Right Arm [Tintable]"
+
+[MPW_WotC_SLD_SCB_SneakingSuit_Arm_Right_Cust_M X2BodyPartTemplate]
+DisplayName="SC: Blacklist - Sneaking Suit - Right Arm [Tintable]"
+
+[HPW_WotC_SLD_SCB_SneakingSuit_Arm_Right_Cust_M X2BodyPartTemplate]
+DisplayName="SC: Blacklist - Sneaking Suit - Right Arm [Tintable]"
+
+
+[CNV_WotC_SLD_SCB_SneakingSuit_Arm_Right_Cust_F X2BodyPartTemplate]
+DisplayName="SC: Blacklist - Sneaking Suit - Right Arm [Tintable]"
+
+[LPL_WotC_SLD_SCB_SneakingSuit_Arm_Right_Cust_F X2BodyPartTemplate]
+DisplayName="SC: Blacklist - Sneaking Suit - Right Arm [Tintable]"
+
+[MPL_WotC_SLD_SCB_SneakingSuit_Arm_Right_Cust_F X2BodyPartTemplate]
+DisplayName="SC: Blacklist - Sneaking Suit - Right Arm [Tintable]"
+
+[HPL_WotC_SLD_SCB_SneakingSuit_Arm_Right_Cust_F X2BodyPartTemplate]
+DisplayName="SC: Blacklist - Sneaking Suit - Right Arm [Tintable]"
+
+[LPW_WotC_SLD_SCB_SneakingSuit_Arm_Right_Cust_F X2BodyPartTemplate]
+DisplayName="SC: Blacklist - Sneaking Suit - Right Arm [Tintable]"
+
+[MPW_WotC_SLD_SCB_SneakingSuit_Arm_Right_Cust_F X2BodyPartTemplate]
+DisplayName="SC: Blacklist - Sneaking Suit - Right Arm [Tintable]"
+
+[HPW_WotC_SLD_SCB_SneakingSuit_Arm_Right_Cust_F X2BodyPartTemplate]
+DisplayName="SC: Blacklist - Sneaking Suit - Right Arm [Tintable]"

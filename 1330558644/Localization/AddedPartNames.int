@@ -1,0 +1,136 @@
+[X2DownloadableContentInfo_AddedPartNames]
+
+;
+; SOLDIER
+;
+
+.TorsoTemplate="CNV_WotC_SLD_MGSV_Boss_SneakingSuit_Open_Torso_Bare_F"
+.TorsoName="Boss' Sneaking Suit - Torso [Open][Bare]"
+
+.TorsoTemplate="LPL_WotC_SLD_MGSV_Boss_SneakingSuit_Open_Torso_Bare_F"
+.TorsoName="Boss' Sneaking Suit - Torso [Open][Bare]"
+
+.TorsoTemplate="MPL_WotC_SLD_MGSV_Boss_SneakingSuit_Open_Torso_Bare_F"
+.TorsoName="Boss' Sneaking Suit - Torso [Open][Bare]"
+
+.TorsoTemplate="HPL_WotC_SLD_MGSV_Boss_SneakingSuit_Open_Torso_Bare_F"
+.TorsoName="Boss' Sneaking Suit - Torso [Open][Bare]"
+
+.TorsoTemplate="LPW_WotC_SLD_MGSV_Boss_SneakingSuit_Open_Torso_Bare_F"
+.TorsoName="Boss' Sneaking Suit - Torso [Open][Bare]"
+
+.TorsoTemplate="MPW_WotC_SLD_MGSV_Boss_SneakingSuit_Open_Torso_Bare_F"
+.TorsoName="Boss' Sneaking Suit - Torso [Open][Bare]"
+
+.TorsoTemplate="HPW_WotC_SLD_MGSV_Boss_SneakingSuit_Open_Torso_Bare_F"
+.TorsoName="Boss' Sneaking Suit - Torso [Open][Bare]"
+
+
+.TorsoTemplate="CNV_WotC_SLD_MGSV_Boss_SneakingSuit_Open_Torso_Full_F"
+.TorsoName="Boss' Sneaking Suit - Torso [Open]"
+
+.TorsoTemplate="LPL_WotC_SLD_MGSV_Boss_SneakingSuit_Open_Torso_Full_F"
+.TorsoName="Boss' Sneaking Suit - Torso [Open]"
+
+.TorsoTemplate="MPL_WotC_SLD_MGSV_Boss_SneakingSuit_Open_Torso_Full_F"
+.TorsoName="Boss' Sneaking Suit - Torso [Open]"
+
+.TorsoTemplate="HPL_WotC_SLD_MGSV_Boss_SneakingSuit_Open_Torso_Full_F"
+.TorsoName="Boss' Sneaking Suit - Torso [Open]"
+
+.TorsoTemplate="LPW_WotC_SLD_MGSV_Boss_SneakingSuit_Open_Torso_Full_F"
+.TorsoName="Boss' Sneaking Suit - Torso [Open]"
+
+.TorsoTemplate="MPW_WotC_SLD_MGSV_Boss_SneakingSuit_Open_Torso_Full_F"
+.TorsoName="Boss' Sneaking Suit - Torso [Open]"
+
+.TorsoTemplate="HPW_WotC_SLD_MGSV_Boss_SneakingSuit_Open_Torso_Full_F"
+.TorsoName="Boss' Sneaking Suit - Torso [Open]"
+
+
+.TorsoTemplate="CNV_WotC_SLD_MGSV_Boss_SneakingSuit_Open_Torso_Scar_Full_F"
+.TorsoName="Boss' Sneaking Suit - Torso [Open][Scar]"
+
+.TorsoTemplate="LPL_WotC_SLD_MGSV_Boss_SneakingSuit_Open_Torso_Scar_Full_F"
+.TorsoName="Boss' Sneaking Suit - Torso [Open][Scar]"
+
+.TorsoTemplate="MPL_WotC_SLD_MGSV_Boss_SneakingSuit_Open_Torso_Scar_Full_F"
+.TorsoName="Boss' Sneaking Suit - Torso [Open][Scar]"
+
+.TorsoTemplate="HPL_WotC_SLD_MGSV_Boss_SneakingSuit_Open_Torso_Scar_Full_F"
+.TorsoName="Boss' Sneaking Suit - Torso [Open][Scar]"
+
+.TorsoTemplate="LPW_WotC_SLD_MGSV_Boss_SneakingSuit_Open_Torso_Scar_Full_F"
+.TorsoName="Boss' Sneaking Suit - Torso [Open][Scar]"
+
+.TorsoTemplate="MPW_WotC_SLD_MGSV_Boss_SneakingSuit_Open_Torso_Scar_Full_F"
+.TorsoName="Boss' Sneaking Suit - Torso [Open][Scar]"
+
+.TorsoTemplate="HPW_WotC_SLD_MGSV_Boss_SneakingSuit_Open_Torso_Scar_Full_F"
+.TorsoName="Boss' Sneaking Suit - Torso [Open][Scar]"
+
+
+.TorsoTemplate="CNV_WotC_SLD_MGSV_Boss_SneakingSuit_Open_Torso_Scar_Bare_F"
+.TorsoName="Boss' Sneaking Suit - Torso [Open][Scar][Bare]"
+
+.TorsoTemplate="LPL_WotC_SLD_MGSV_Boss_SneakingSuit_Open_Torso_Scar_Bare_F"
+.TorsoName="Boss' Sneaking Suit - Torso [Open][Scar][Bare]"
+
+.TorsoTemplate="MPL_WotC_SLD_MGSV_Boss_SneakingSuit_Open_Torso_Scar_Bare_F"
+.TorsoName="Boss' Sneaking Suit - Torso [Open][Scar][Bare]"
+
+.TorsoTemplate="HPL_WotC_SLD_MGSV_Boss_SneakingSuit_Open_Torso_Scar_Bare_F"
+.TorsoName="Boss' Sneaking Suit - Torso [Open][Scar][Bare]"
+
+.TorsoTemplate="LPW_WotC_SLD_MGSV_Boss_SneakingSuit_Open_Torso_Scar_Bare_F"
+.TorsoName="Boss' Sneaking Suit - Torso [Open][Scar][Bare]"
+
+.TorsoTemplate="MPW_WotC_SLD_MGSV_Boss_SneakingSuit_Open_Torso_Scar_Bare_F"
+.TorsoName="Boss' Sneaking Suit - Torso [Open][Scar][Bare]"
+
+.TorsoTemplate="HPW_WotC_SLD_MGSV_Boss_SneakingSuit_Open_Torso_Scar_Bare_F"
+.TorsoName="Boss' Sneaking Suit - Torso [Open][Scar][Bare]"
+
+
+.LegsTemplate="CNV_WotC_SLD_MGSV_Boss_SneakingSuit_Open_Legs_Bare_F"
+.LegsName="Boss' Sneaking Suit - Legs [Open][Bare]"
+
+.LegsTemplate="LPL_WotC_SLD_MGSV_Boss_SneakingSuit_Open_Legs_Bare_F"
+.LegsName="Boss' Sneaking Suit - Legs [Open][Bare]"
+
+.LegsTemplate="MPL_WotC_SLD_MGSV_Boss_SneakingSuit_Open_Legs_Bare_F"
+.LegsName="Boss' Sneaking Suit - Legs [Open][Bare]"
+
+.LegsTemplate="HPL_WotC_SLD_MGSV_Boss_SneakingSuit_Open_Legs_Bare_F"
+.LegsName="Boss' Sneaking Suit - Legs [Open][Bare]"
+
+.LegsTemplate="LPW_WotC_SLD_MGSV_Boss_SneakingSuit_Open_Legs_Bare_F"
+.LegsName="Boss' Sneaking Suit - Legs [Open][Bare]"
+
+.LegsTemplate="MPW_WotC_SLD_MGSV_Boss_SneakingSuit_Open_Legs_Bare_F"
+.LegsName="Boss' Sneaking Suit - Legs [Open][Bare]"
+
+
+.LegsTemplate="CNV_WotC_SLD_MGSV_Boss_SneakingSuit_Open_Legs_All_F"
+.LegsName="Boss' Sneaking Suit - Legs [Open]"
+
+.LegsTemplate="CNV_WotC_SLD_MGSV_Boss_SneakingSuit_Open_Legs_All_F"
+.LegsName="Boss' Sneaking Suit - Legs [Open]"
+
+.LegsTemplate="LPL_WotC_SLD_MGSV_Boss_SneakingSuit_Open_Legs_All_F"
+.LegsName="Boss' Sneaking Suit - Legs [Open]"
+
+.LegsTemplate="MPL_WotC_SLD_MGSV_Boss_SneakingSuit_Open_Legs_All_F"
+.LegsName="Boss' Sneaking Suit - Legs [Open]"
+
+.LegsTemplate="HPL_WotC_SLD_MGSV_Boss_SneakingSuit_Open_Legs_All_F"
+.LegsName="Boss' Sneaking Suit - Legs [Open]"
+
+.LegsTemplate="LPW_WotC_SLD_MGSV_Boss_SneakingSuit_Open_Legs_All_F"
+.LegsName="Boss' Sneaking Suit - Legs [Open]"
+
+.LegsTemplate="MPW_WotC_SLD_MGSV_Boss_SneakingSuit_Open_Legs_All_F"
+.LegsName="Boss' Sneaking Suit - Legs [Open]"
+
+.LegsTemplate="HPW_WotC_SLD_MGSV_Boss_SneakingSuit_Open_Legs_All_F"
+.LegsName="Boss' Sneaking Suit - Legs [Open]"

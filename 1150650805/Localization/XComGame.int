@@ -1,0 +1,356 @@
+
+;Extinction Squad Hat
+
+[CODG_Helmet_Extinction_Squad_Hat_Primary_M X2BodyPartTemplate]
+DisplayName="Extinction Hunter"
+
+[CODG_Helmet_Extinction_Squad_Hat_Primary_F X2BodyPartTemplate]
+DisplayName="Extinction Hunter"
+
+[CODG_Helmet_Extinction_Squad_Hat_Secondary_M X2BodyPartTemplate]
+DisplayName="Extinction Hunter [Secondary]"
+
+[CODG_Helmet_Extinction_Squad_Hat_Secondary_F X2BodyPartTemplate]
+DisplayName="Extinction Hunter [Secondary]"
+
+[CODG_Helmet_Extinction_Squad_Hat_Static_M X2BodyPartTemplate]
+DisplayName="Extinction Hunter [Static]"
+
+[CODG_Helmet_Extinction_Squad_Hat_Static_F X2BodyPartTemplate]
+DisplayName="Extinction Hunter [Static]"
+
+;==============================================================================================================================
+;------------------------------------------------------------------------------------------------------------------------------
+;Ghosts' Balaclava + Headgear - Helmet
+;------------------------------------------------------------------------------------------------------------------------------
+;==============================================================================================================================
+
+[CODG_Helmet_Ghost_Elias_Headgear_Primary_M X2BodyPartTemplate]
+DisplayName="Elias' Balaclava & Headset"
+
+[CODG_Helmet_Ghost_Elias_Headgear_Primary_F X2BodyPartTemplate]
+DisplayName="Elias' Balaclava & Headset"
+
+[CODG_Helmet_Ghost_Elias_Headgear_Secondary_M X2BodyPartTemplate]
+DisplayName="Elias' Balaclava & Headset [Secondary]"
+
+[CODG_Helmet_Ghost_Elias_Headgear_Secondary_F X2BodyPartTemplate]
+DisplayName="Elias' Balaclava & Headset [Secondary]"
+
+[CODG_Helmet_Ghost_Elias_Headgear_Static_M X2BodyPartTemplate]
+DisplayName="Elias' Balaclava & Headset [Static]"
+
+[CODG_Helmet_Ghost_Elias_Headgear_Static_F X2BodyPartTemplate]
+DisplayName="Elias' Balaclava & Headset [Static]"
+
+
+
+[CODG_Helmet_Ghost_Hesh_Headgear_Primary_M X2BodyPartTemplate]
+DisplayName="Hesh's Balaclava & NVG/Headset"
+
+[CODG_Helmet_Ghost_Hesh_Headgear_Primary_F X2BodyPartTemplate]
+DisplayName="Hesh's Balaclava & NVG/Headset"
+
+[CODG_Helmet_Ghost_Hesh_Headgear_Secondary_M X2BodyPartTemplate]
+DisplayName="Hesh's Balaclava & NVG/Headset [Sec]"
+
+[CODG_Helmet_Ghost_Hesh_Headgear_Secondary_F X2BodyPartTemplate]
+DisplayName="Hesh's Balaclava & NVG/Headset [Sec]"
+
+[CODG_Helmet_Ghost_Hesh_Headgear_Static_M X2BodyPartTemplate]
+DisplayName="Hesh's Balaclava & NVG/Headset [Static]"
+
+[CODG_Helmet_Ghost_Hesh_Headgear_Static_F X2BodyPartTemplate]
+DisplayName="Hesh's Balaclava & NVG/Headset [Static]"
+
+
+[CODG_Helmet_Ghost_Merrick_Headgear_Primary_M X2BodyPartTemplate]
+DisplayName="Merrick's Half-Balaclava & Headset"
+
+[CODG_Helmet_Ghost_Merrick_Headgear_Primary_F X2BodyPartTemplate]
+DisplayName="Merrick's Half-Balaclava & Headset"
+
+[CODG_Helmet_Ghost_Merrick_Headgear_Secondary_M X2BodyPartTemplate]
+DisplayName="Merrick's Half-Balaclava & Headset [Sec]"
+
+[CODG_Helmet_Ghost_Merrick_Headgear_Secondary_F X2BodyPartTemplate]
+DisplayName="Merrick's Half-Balaclava & Headset [Sec]"
+
+[CODG_Helmet_Ghost_Merrick_Headgear_Static_M X2BodyPartTemplate]
+DisplayName="Merrick's Half-Balaclava & Headset [Static]"
+
+[CODG_Helmet_Ghost_Merrick_Headgear_Static_F X2BodyPartTemplate]
+DisplayName="Merrick's Half-Balaclava & Headset [Static]"
+
+;==============================================================================================================================
+;------------------------------------------------------------------------------------------------------------------------------
+;Ghosts' Balaclava - Helmet
+;------------------------------------------------------------------------------------------------------------------------------
+;==============================================================================================================================
+
+;Ajax
+
+[CODG_Helmet_Ghost_Mask_Ajax_Primary_M X2BodyPartTemplate]
+DisplayName="Ajax's Balaclava"
+
+[CODG_Helmet_Ghost_Mask_Ajax_Primary_F X2BodyPartTemplate]
+DisplayName="Ajax's Balaclava"
+
+[CODG_Helmet_Ghost_Mask_Ajax_Secondary_M X2BodyPartTemplate]
+DisplayName="Ajax's Balaclava [Secondary]"
+
+[CODG_Helmet_Ghost_Mask_Ajax_Secondary_F X2BodyPartTemplate]
+DisplayName="Ajax's Balaclava [Secondary]"
+
+[CODG_Helmet_Ghost_Mask_Ajax_Static_M X2BodyPartTemplate]
+DisplayName="Ajax's Balaclava [Static]"
+
+[CODG_Helmet_Ghost_Mask_Ajax_Static_F X2BodyPartTemplate]
+DisplayName="Ajax's Balaclava [Static]"
+
+;Elias
+
+[CODG_Helmet_Ghost_Mask_Elias_Primary_M X2BodyPartTemplate]
+DisplayName="Elias' Balaclava"
+
+[CODG_Helmet_Ghost_Mask_Elias_Primary_F X2BodyPartTemplate]
+DisplayName="Elias' Balaclava"
+
+[CODG_Helmet_Ghost_Mask_Elias_Secondary_M X2BodyPartTemplate]
+DisplayName="Elias' Balaclava [Secondary]"
+
+[CODG_Helmet_Ghost_Mask_Elias_Secondary_F X2BodyPartTemplate]
+DisplayName="Elias' Balaclava [Secondary]"
+
+[CODG_Helmet_Ghost_Mask_Elias_Static_M X2BodyPartTemplate]
+DisplayName="Elias' Balaclava [Static]"
+
+[CODG_Helmet_Ghost_Mask_Elias_Static_F X2BodyPartTemplate]
+DisplayName="Elias' Balaclava [Static]"
+
+;Hesh
+
+[CODG_Helmet_Ghost_Mask_Hesh_Primary_M X2BodyPartTemplate]
+DisplayName="Hesh's Balaclava"
+
+[CODG_Helmet_Ghost_Mask_Hesh_Primary_F X2BodyPartTemplate]
+DisplayName="Hesh's Balaclava"
+
+[CODG_Helmet_Ghost_Mask_Hesh_Secondary_M X2BodyPartTemplate]
+DisplayName="Hesh's Balaclava [Secondary]"
+
+[CODG_Helmet_Ghost_Mask_Hesh_Secondary_F X2BodyPartTemplate]
+DisplayName="Hesh's Balaclava [Secondary]"
+
+[CODG_Helmet_Ghost_Mask_Hesh_Static_M X2BodyPartTemplate]
+DisplayName="Hesh's Balaclava [Static]"
+
+[CODG_Helmet_Ghost_Mask_Hesh_Static_F X2BodyPartTemplate]
+DisplayName="Hesh's Balaclava [Static]"
+
+;Keegan
+
+[CODG_Helmet_Ghost_Mask_Keegan_Primary_M X2BodyPartTemplate]
+DisplayName="Keegan's Balaclava"
+
+[CODG_Helmet_Ghost_Mask_Keegan_Primary_F X2BodyPartTemplate]
+DisplayName="Keegan's Balaclava"
+
+[CODG_Helmet_Ghost_Mask_Keegan_Secondary_M X2BodyPartTemplate]
+DisplayName="Keegan's Balaclava [Secondary]"
+
+[CODG_Helmet_Ghost_Mask_Keegan_Secondary_F X2BodyPartTemplate]
+DisplayName="Keegan's Balaclava [Secondary]"
+
+[CODG_Helmet_Ghost_Mask_Keegan_Static_M X2BodyPartTemplate]
+DisplayName="Keegan's Balaclava [Static]"
+
+[CODG_Helmet_Ghost_Mask_Keegan_Static_F X2BodyPartTemplate]
+DisplayName="Keegan's Balaclava [Static]"
+
+;Extinction A
+
+[CODG_Helmet_Ghost_Mask_Extinction_A_Primary_M X2BodyPartTemplate]
+DisplayName="Extinction Wraith"
+
+[CODG_Helmet_Ghost_Mask_Extinction_A_Primary_F X2BodyPartTemplate]
+DisplayName="Extinction Wraith"
+
+[CODG_Helmet_Ghost_Mask_Extinction_A_Secondary_M X2BodyPartTemplate]
+DisplayName="Extinction Wraith [Secondary]"
+
+[CODG_Helmet_Ghost_Mask_Extinction_A_Secondary_F X2BodyPartTemplate]
+DisplayName="Extinction Wraith [Secondary]"
+
+[CODG_Helmet_Ghost_Mask_Extinction_A_Static_M X2BodyPartTemplate]
+DisplayName="Extinction Wraith [Static]"
+
+[CODG_Helmet_Ghost_Mask_Extinction_A_Static_F X2BodyPartTemplate]
+DisplayName="Extinction Wraith [Static]"
+
+;Extinction B
+
+[CODG_Helmet_Ghost_Mask_Extinction_B_Primary_M X2BodyPartTemplate]
+DisplayName="Extinction Eradicator"
+
+[CODG_Helmet_Ghost_Mask_Extinction_B_Primary_F X2BodyPartTemplate]
+DisplayName="Extinction Eradicator"
+
+[CODG_Helmet_Ghost_Mask_Extinction_B_Secondary_M X2BodyPartTemplate]
+DisplayName="Extinction Eradicator [Secondary]"
+
+[CODG_Helmet_Ghost_Mask_Extinction_B_Secondary_F X2BodyPartTemplate]
+DisplayName="Extinction Eradicator [Secondary]"
+
+[CODG_Helmet_Ghost_Mask_Extinction_B_Static_M X2BodyPartTemplate]
+DisplayName="Extinction Eradicator [Static]"
+
+[CODG_Helmet_Ghost_Mask_Extinction_B_Static_F X2BodyPartTemplate]
+DisplayName="Extinction Eradicator [Static]"
+
+
+;==============================================================================================================================
+;------------------------------------------------------------------------------------------------------------------------------
+;Ghosts' Balaclava - Face Props Lower
+;------------------------------------------------------------------------------------------------------------------------------
+;==============================================================================================================================
+
+;Ajax
+
+[CODG_FacePropLower_Ghost_Mask_Ajax_Primary_M X2BodyPartTemplate]
+DisplayName="Ajax's Balaclava"
+
+[CODG_FacePropLower_Ghost_Mask_Ajax_Primary_F X2BodyPartTemplate]
+DisplayName="Ajax's Balaclava"
+
+[CODG_FacePropLower_Ghost_Mask_Ajax_Secondary_M X2BodyPartTemplate]
+DisplayName="Ajax's Balaclava [Secondary]"
+
+[CODG_FacePropLower_Ghost_Mask_Ajax_Secondary_F X2BodyPartTemplate]
+DisplayName="Ajax's Balaclava [Secondary]"
+
+[CODG_FacePropLower_Ghost_Mask_Ajax_Static_M X2BodyPartTemplate]
+DisplayName="Ajax's Balaclava [Static]"
+
+[CODG_FacePropLower_Ghost_Mask_Ajax_Static_F X2BodyPartTemplate]
+DisplayName="Ajax's Balaclava [Static]"
+
+;Elias
+
+[CODG_FacePropLower_Ghost_Mask_Elias_Primary_M X2BodyPartTemplate]
+DisplayName="Elias' Balaclava"
+
+[CODG_FacePropLower_Ghost_Mask_Elias_Primary_F X2BodyPartTemplate]
+DisplayName="Elias' Balaclava"
+
+[CODG_FacePropLower_Ghost_Mask_Elias_Secondary_M X2BodyPartTemplate]
+DisplayName="Elias' Balaclava [Secondary]"
+
+[CODG_FacePropLower_Ghost_Mask_Elias_Secondary_F X2BodyPartTemplate]
+DisplayName="Elias' Balaclava [Secondary]"
+
+[CODG_FacePropLower_Ghost_Mask_Elias_Static_M X2BodyPartTemplate]
+DisplayName="Elias' Balaclava [Static]"
+
+[CODG_FacePropLower_Ghost_Mask_Elias_Static_F X2BodyPartTemplate]
+DisplayName="Elias' Balaclava [Static]"
+
+;Hesh
+
+[CODG_FacePropLower_Ghost_Mask_Hesh_Primary_M X2BodyPartTemplate]
+DisplayName="Hesh's Balaclava"
+
+[CODG_FacePropLower_Ghost_Mask_Hesh_Primary_F X2BodyPartTemplate]
+DisplayName="Hesh's Balaclava"
+
+[CODG_FacePropLower_Ghost_Mask_Hesh_Secondary_M X2BodyPartTemplate]
+DisplayName="Hesh's Balaclava [Secondary]"
+
+[CODG_FacePropLower_Ghost_Mask_Hesh_Secondary_F X2BodyPartTemplate]
+DisplayName="Hesh's Balaclava [Secondary]"
+
+[CODG_FacePropLower_Ghost_Mask_Hesh_Static_M X2BodyPartTemplate]
+DisplayName="Hesh's Balaclava [Static]"
+
+[CODG_FacePropLower_Ghost_Mask_Hesh_Static_F X2BodyPartTemplate]
+DisplayName="Hesh's Balaclava [Static]"
+
+;Keegan
+
+[CODG_FacePropLower_Ghost_Mask_Keegan_Primary_M X2BodyPartTemplate]
+DisplayName="Keegan's Balaclava"
+
+[CODG_FacePropLower_Ghost_Mask_Keegan_Primary_F X2BodyPartTemplate]
+DisplayName="Keegan's Balaclava"
+
+[CODG_FacePropLower_Ghost_Mask_Keegan_Secondary_M X2BodyPartTemplate]
+DisplayName="Keegan's Balaclava [Secondary]"
+
+[CODG_FacePropLower_Ghost_Mask_Keegan_Secondary_F X2BodyPartTemplate]
+DisplayName="Keegan's Balaclava [Secondary]"
+
+[CODG_FacePropLower_Ghost_Mask_Keegan_Static_M X2BodyPartTemplate]
+DisplayName="Keegan's Balaclava [Static]"
+
+[CODG_FacePropLower_Ghost_Mask_Keegan_Static_F X2BodyPartTemplate]
+DisplayName="Keegan's Balaclava [Static]"
+
+;Merrick
+
+[CODG_FacePropLower_Ghost_Mask_Merrick_Primary_M X2BodyPartTemplate]
+DisplayName="Merrick's Balaclava"
+
+[CODG_FacePropLower_Ghost_Mask_Merrick_Primary_F X2BodyPartTemplate]
+DisplayName="Merrick's Balaclava"
+
+[CODG_FacePropLower_Ghost_Mask_Merrick_Secondary_M X2BodyPartTemplate]
+DisplayName="Merrick's Balaclava [Secondary]"
+
+[CODG_FacePropLower_Ghost_Mask_Merrick_Secondary_F X2BodyPartTemplate]
+DisplayName="Merrick's Balaclava [Secondary]"
+
+[CODG_FacePropLower_Ghost_Mask_Merrick_Static_M X2BodyPartTemplate]
+DisplayName="Merrick's Balaclava [Static]"
+
+[CODG_FacePropLower_Ghost_Mask_Merrick_Static_F X2BodyPartTemplate]
+DisplayName="Merrick's Balaclava [Static]"
+
+;Extinction A
+
+[CODG_FacepropLower_Ghost_Mask_Extinction_A_Primary_M X2BodyPartTemplate]
+DisplayName="Extinction Wraith"
+
+[CODG_FacepropLower_Ghost_Mask_Extinction_A_Primary_F X2BodyPartTemplate]
+DisplayName="Extinction Wraith"
+
+[CODG_FacepropLower_Ghost_Mask_Extinction_A_Secondary_M X2BodyPartTemplate]
+DisplayName="Extinction Wraith [Secondary]"
+
+[CODG_FacepropLower_Ghost_Mask_Extinction_A_Secondary_F X2BodyPartTemplate]
+DisplayName="Extinction Wraith [Secondary]"
+
+[CODG_FacepropLower_Ghost_Mask_Extinction_A_Static_M X2BodyPartTemplate]
+DisplayName="Extinction Wraith [Static]"
+
+[CODG_FacepropLower_Ghost_Mask_Extinction_A_Static_F X2BodyPartTemplate]
+DisplayName="Extinction Wraith [Static]"
+
+;Extinction B
+
+[CODG_FacepropLower_Ghost_Mask_Extinction_B_Primary_M X2BodyPartTemplate]
+DisplayName="Extinction Eradicator"
+
+[CODG_FacepropLower_Ghost_Mask_Extinction_B_Primary_F X2BodyPartTemplate]
+DisplayName="Extinction Eradicator"
+
+[CODG_FacepropLower_Ghost_Mask_Extinction_B_Secondary_M X2BodyPartTemplate]
+DisplayName="Extinction Eradicator [Secondary]"
+
+[CODG_FacepropLower_Ghost_Mask_Extinction_B_Secondary_F X2BodyPartTemplate]
+DisplayName="Extinction Eradicator [Secondary]"
+
+[CODG_FacepropLower_Ghost_Mask_Extinction_B_Static_M X2BodyPartTemplate]
+DisplayName="Extinction Eradicator [Static]"
+
+[CODG_FacepropLower_Ghost_Mask_Extinction_B_Static_F X2BodyPartTemplate]
+DisplayName="Extinction Eradicator [Static]"

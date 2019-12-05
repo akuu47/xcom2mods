@@ -1,0 +1,59 @@
+;************************************************************************************************************
+;XComGame.int - This File manages the names of custom classes, their descriptions & also their nicknames.
+;In Addition custom soldier rank names can be applied here if you want to differ from normal xcom.
+;************************************************************************************************************
+
+[XComGame.X2SoldierClass_DefaultClasses]
++SoldierClasses=ReaperRecruit
+
+;************************************************************************************************************
+; EXAMPLE CLASS
+;************************************************************************************************************
+[ReaperRecruit X2SoldierClassTemplate]
+
++DisplayName="Reaper"
++ClassSummary="The Reaper specializes in striking from the shadows."
++AbilityTreeTitles[0]="Stealth"
++AbilityTreeTitles[1]="Saboteur"
++AbilityTreeTitles[2]="Marksman"
++AbilityTreeTitles[3]="XCOM"
+;ALPHABETICAL ORDER
++RandomNickNames[0]="Shadow"
++RandomNickNames[1]="Ghost"
++RandomNickNames[2]="Stalker"
++RandomNickNames[3]="Haunt"
++RandomNickNames[4]="Wraith"
++RandomNickNames[5]="Raven"
++RandomNickNames[6]="Scythe"
++RandomNickNames[7]="Bones"
++RandomNickNames[8]="Stiletto"
++RandomNickNames[9]="Nightwalker"
++RandomNickNames[10]="Final"
+;ALPHABETICAL ORDER
++RandomNickNames_Male[0]="Sandman"
+;ALPHABETICAL ORDER
++RandomNickNames_Female[0]="Valkyrie"
+
++RankNames[0]="Rookie"
++RankNames[1]="Squaddie"
++RankNames[2]="Corporal"
++RankNames[3]="Sergeant"
++RankNames[4]="Lieutenant"
++RankNames[5]="Captain"
++RankNames[6]="Major"
++RankNames[7]="Colonel"
++RankNames[8]="Brigadier"
+
++ShortNames[0]="Rk."
++ShortNames[1]="Sq."
++ShortNames[2]="Cpl."
++ShortNames[3]="Sgt."
++ShortNames[4]="Lt."
++ShortNames[5]="Cpt."
++ShortNames[6]="Maj."
++ShortNames[7]="Col."
++ShortNames[8]="Brig."
+
+;************************************************************************************************************
+;END FILE
+;************************************************************************************************************

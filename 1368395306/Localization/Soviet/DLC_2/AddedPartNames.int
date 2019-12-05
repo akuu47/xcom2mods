@@ -1,0 +1,40 @@
+[X2DownloadableContentInfo_AddedPartNames]
+
+;
+; ALIEN HUNTERS
+;
+
+
+.TorsoTemplate="Serpent_DLC2_MGSV_Soviet_HeavyArmor_Full_M"
+.TorsoName="Soviet Heavy Armor"
+
+.TorsoTemplate="Serpent_DLC2_MGSV_Soviet_HeavyArmor_Full_F"
+.TorsoName="Soviet Heavy Armor"
+
+
+.TorsoTemplate="SerpentMk2_DLC2_MGSV_Soviet_HeavyArmor_Full_M"
+.TorsoName="Soviet Heavy Armor"
+
+.TorsoTemplate="SerpentMk2_DLC2_MGSV_Soviet_HeavyArmor_Full_F"
+.TorsoName="Soviet Heavy Armor"
+
+
+.TorsoTemplate="Rage_DLC2_MGSV_Soviet_HeavyArmor_Full_M"
+.TorsoName="Soviet Heavy Armor"
+
+.TorsoTemplate="Rage_DLC2_MGSV_Soviet_HeavyArmor_Full_F"
+.TorsoName="Soviet Heavy Armor"
+
+
+.TorsoTemplate="RageMk2_DLC2_MGSV_Soviet_HeavyArmor_Full_M"
+.TorsoName="Soviet Heavy Armor"
+
+.TorsoTemplate="RageMk2_DLC2_MGSV_Soviet_HeavyArmor_Full_F"
+.TorsoName="Soviet Heavy Armor"
+
+
+.TorsoTemplate="Icarus_DLC2_MGSV_Soviet_HeavyArmor_Full_M"
+.TorsoName="Soviet Heavy Armor"
+
+.TorsoTemplate="Icarus_DLC2_MGSV_Soviet_HeavyArmor_Full_F"
+.TorsoName="Soviet Heavy Armor"

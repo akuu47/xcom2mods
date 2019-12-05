@@ -1,0 +1,3 @@
+[AbsolutelyCritical SecondWaveOptionObject]
+Tooltip="All flanking shots at units that can take cover are guaranteed critical hits if the shot does not miss and can crit. Dodges is still possible if options to allow dodges on 100% crits are turned on."
+Description="Absolutely Critical: Flanked shots guarantee critical hits."

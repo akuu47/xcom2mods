@@ -1,0 +1,253 @@
+
+; ============================================================================================================================
+;
+;	Alien Hunters
+;
+; ============================================================================================================================
+
+
+;
+; Torso Accessories
+;
+
+[LgtMk1_DLC2_MGSV_DD_BattleDress_TorsoDeco_M X2BodyPartTemplate]
+DisplayName="DD Battle Dress - Accessories"
+
+[LgtMk2_DLC2_MGSV_DD_BattleDress_TorsoDeco_M X2BodyPartTemplate]
+DisplayName="DD Battle Dress - Accessories"
+
+[MedMk1_DLC2_MGSV_DD_BattleDress_TorsoDeco_M X2BodyPartTemplate]
+DisplayName="DD Battle Dress - Accessories"
+
+[HvyMk1_DLC2_MGSV_DD_BattleDress_TorsoDeco_M X2BodyPartTemplate]
+DisplayName="DD Battle Dress - Accessories"
+
+[HvyMk2_DLC2_MGSV_DD_BattleDress_TorsoDeco_M X2BodyPartTemplate]
+DisplayName="DD Battle Dress - Accessories"
+
+
+[LgtMk1_DLC2_MGSV_DD_BattleDress_TorsoDeco_F X2BodyPartTemplate]
+DisplayName="DD Battle Dress - Accessories"
+
+[LgtMk2_DLC2_MGSV_DD_BattleDress_TorsoDeco_F X2BodyPartTemplate]
+DisplayName="DD Battle Dress - Accessories"
+
+[MedMk1_DLC2_MGSV_DD_BattleDress_TorsoDeco_F X2BodyPartTemplate]
+DisplayName="DD Battle Dress - Accessories"
+
+[HvyMk1_DLC2_MGSV_DD_BattleDress_TorsoDeco_F X2BodyPartTemplate]
+DisplayName="DD Battle Dress - Accessories"
+
+[HvyMk2_DLC2_MGSV_DD_BattleDress_TorsoDeco_F X2BodyPartTemplate]
+DisplayName="DD Battle Dress - Accessories"
+
+
+;
+; Left Arm
+;
+
+[LgtMk1_DLC2_MGSV_DD_BattleDress_Arm_Left_M X2BodyPartTemplate]
+DisplayName="DD Battle Dress - Left Arm"
+
+[LgtMk2_DLC2_MGSV_DD_BattleDress_Arm_Left_M X2BodyPartTemplate]
+DisplayName="DD Battle Dress - Left Arm"
+
+[MedMk1_DLC2_MGSV_DD_BattleDress_Arm_Left_M X2BodyPartTemplate]
+DisplayName="DD Battle Dress - Left Arm"
+
+[HvyMk1_DLC2_MGSV_DD_BattleDress_Arm_Left_M X2BodyPartTemplate]
+DisplayName="DD Battle Dress - Left Arm"
+
+[HvyMk2_DLC2_MGSV_DD_BattleDress_Arm_Left_M X2BodyPartTemplate]
+DisplayName="DD Battle Dress - Left Arm"
+
+
+[LgtMk1_DLC2_MGSV_DD_BattleDress_Arm_Left_F X2BodyPartTemplate]
+DisplayName="DD Battle Dress - Left Arm"
+
+[LgtMk2_DLC2_MGSV_DD_BattleDress_Arm_Left_F X2BodyPartTemplate]
+DisplayName="DD Battle Dress - Left Arm"
+
+[MedMk1_DLC2_MGSV_DD_BattleDress_Arm_Left_F X2BodyPartTemplate]
+DisplayName="DD Battle Dress - Left Arm"
+
+[HvyMk1_DLC2_MGSV_DD_BattleDress_Arm_Left_F X2BodyPartTemplate]
+DisplayName="DD Battle Dress - Left Arm"
+
+[HvyMk2_DLC2_MGSV_DD_BattleDress_Arm_Left_F X2BodyPartTemplate]
+DisplayName="DD Battle Dress - Left Arm"
+
+
+;
+; Right Arm
+;
+
+[LgtMk1_DLC2_MGSV_DD_BattleDress_Arm_Right_M X2BodyPartTemplate]
+DisplayName="DD Battle Dress - Right Arm"
+
+[LgtMk2_DLC2_MGSV_DD_BattleDress_Arm_Right_M X2BodyPartTemplate]
+DisplayName="DD Battle Dress - Right Arm"
+
+[MedMk1_DLC2_MGSV_DD_BattleDress_Arm_Right_M X2BodyPartTemplate]
+DisplayName="DD Battle Dress - Right Arm"
+
+[HvyMk1_DLC2_MGSV_DD_BattleDress_Arm_Right_M X2BodyPartTemplate]
+DisplayName="DD Battle Dress - Right Arm"
+
+[HvyMk2_DLC2_MGSV_DD_BattleDress_Arm_Right_M X2BodyPartTemplate]
+DisplayName="DD Battle Dress - Right Arm"
+
+
+
+[LgtMk1_DLC2_MGSV_DD_BattleDress_Arm_Right_F X2BodyPartTemplate]
+DisplayName="DD Battle Dress - Right Arm"
+
+[LgtMk2_DLC2_MGSV_DD_BattleDress_Arm_Right_F X2BodyPartTemplate]
+DisplayName="DD Battle Dress - Right Arm"
+
+[MedMk1_DLC2_MGSV_DD_BattleDress_Arm_Right_F X2BodyPartTemplate]
+DisplayName="DD Battle Dress - Right Arm"
+
+[HvyMk1_DLC2_MGSV_DD_BattleDress_Arm_Right_F X2BodyPartTemplate]
+DisplayName="DD Battle Dress - Right Arm"
+
+[HvyMk2_DLC2_MGSV_DD_BattleDress_Arm_Right_F X2BodyPartTemplate]
+DisplayName="DD Battle Dress - Right Arm"
+
+
+;
+; Left Shoulder
+;
+
+[LgtMk1_DLC2_MGSV_DD_BattleDress_Shoulder_Left_M X2BodyPartTemplate]
+DisplayName="DD Battle Dress - Left Pauldron"
+
+[LgtMk2_DLC2_MGSV_DD_BattleDress_Shoulder_Left_M X2BodyPartTemplate]
+DisplayName="DD Battle Dress - Left Pauldron"
+
+[MedMk1_DLC2_MGSV_DD_BattleDress_Shoulder_Left_M X2BodyPartTemplate]
+DisplayName="DD Battle Dress - Left Pauldron"
+
+[HvyMk1_DLC2_MGSV_DD_BattleDress_Shoulder_Left_M X2BodyPartTemplate]
+DisplayName="DD Battle Dress - Left Pauldron"
+
+[HvyMk2_DLC2_MGSV_DD_BattleDress_Shoulder_Left_M X2BodyPartTemplate]
+DisplayName="DD Battle Dress - Left Pauldron"
+
+
+[LgtMk1_DLC2_MGSV_DD_BattleDress_Shoulder_Left_F X2BodyPartTemplate]
+DisplayName="DD Battle Dress - Left Pauldron"
+
+[LgtMk2_DLC2_MGSV_DD_BattleDress_Shoulder_Left_F X2BodyPartTemplate]
+DisplayName="DD Battle Dress - Left Pauldron"
+
+[MedMk1_DLC2_MGSV_DD_BattleDress_Shoulder_Left_F X2BodyPartTemplate]
+DisplayName="DD Battle Dress - Left Pauldron"
+
+[HvyMk1_DLC2_MGSV_DD_BattleDress_Shoulder_Left_F X2BodyPartTemplate]
+DisplayName="DD Battle Dress - Left Pauldron"
+
+[HvyMk2_DLC2_MGSV_DD_BattleDress_Shoulder_Left_F X2BodyPartTemplate]
+DisplayName="DD Battle Dress - Left Pauldron"
+
+
+
+[LgtMk1_DLC2_MGSV_DD_BattleDress_Shoulder_Left_Patch_M X2BodyPartTemplate]
+DisplayName="DD Battle Dress - Left Pauldron [Patch]"
+
+[LgtMk2_DLC2_MGSV_DD_BattleDress_Shoulder_Left_Patch_M X2BodyPartTemplate]
+DisplayName="DD Battle Dress - Left Pauldron [Patch]"
+
+[MedMk1_DLC2_MGSV_DD_BattleDress_Shoulder_Left_Patch_M X2BodyPartTemplate]
+DisplayName="DD Battle Dress - Left Pauldron [Patch]"
+
+[HvyMk1_DLC2_MGSV_DD_BattleDress_Shoulder_Left_Patch_M X2BodyPartTemplate]
+DisplayName="DD Battle Dress - Left Pauldron [Patch]"
+
+[HvyMk2_DLC2_MGSV_DD_BattleDress_Shoulder_Left_Patch_M X2BodyPartTemplate]
+DisplayName="DD Battle Dress - Left Pauldron [Patch]"
+
+
+[LgtMk1_DLC2_MGSV_DD_BattleDress_Shoulder_Left_Patch_F X2BodyPartTemplate]
+DisplayName="DD Battle Dress - Left Pauldron [Patch]"
+
+[LgtMk2_DLC2_MGSV_DD_BattleDress_Shoulder_Left_Patch_F X2BodyPartTemplate]
+DisplayName="DD Battle Dress - Left Pauldron [Patch]"
+
+[MedMk1_DLC2_MGSV_DD_BattleDress_Shoulder_Left_Patch_F X2BodyPartTemplate]
+DisplayName="DD Battle Dress - Left Pauldron [Patch]"
+
+[HvyMk1_DLC2_MGSV_DD_BattleDress_Shoulder_Left_Patch_F X2BodyPartTemplate]
+DisplayName="DD Battle Dress - Left Pauldron [Patch]"
+
+[HvyMk2_DLC2_MGSV_DD_BattleDress_Shoulder_Left_Patch_F X2BodyPartTemplate]
+DisplayName="DD Battle Dress - Left Pauldron [Patch]"
+
+
+;
+; Right Shoulder
+;
+
+[LgtMk1_DLC2_MGSV_DD_BattleDress_Shoulder_Right_M X2BodyPartTemplate]
+DisplayName="DD Battle Dress - Right Pauldron"
+
+[LgtMk2_DLC2_MGSV_DD_BattleDress_Shoulder_Right_M X2BodyPartTemplate]
+DisplayName="DD Battle Dress - Right Pauldron"
+
+[MedMk1_DLC2_MGSV_DD_BattleDress_Shoulder_Right_M X2BodyPartTemplate]
+DisplayName="DD Battle Dress - Right Pauldron"
+
+[HvyMk1_DLC2_MGSV_DD_BattleDress_Shoulder_Right_M X2BodyPartTemplate]
+DisplayName="DD Battle Dress - Right Pauldron"
+
+[HvyMk2_DLC2_MGSV_DD_BattleDress_Shoulder_Right_M X2BodyPartTemplate]
+DisplayName="DD Battle Dress - Right Pauldron"
+
+
+[LgtMk1_DLC2_MGSV_DD_BattleDress_Shoulder_Right_F X2BodyPartTemplate]
+DisplayName="DD Battle Dress - Right Pauldron"
+
+[LgtMk2_DLC2_MGSV_DD_BattleDress_Shoulder_Right_F X2BodyPartTemplate]
+DisplayName="DD Battle Dress - Right Pauldron"
+
+[MedMk1_DLC2_MGSV_DD_BattleDress_Shoulder_Right_F X2BodyPartTemplate]
+DisplayName="DD Battle Dress - Right Pauldron"
+
+[HvyMk1_DLC2_MGSV_DD_BattleDress_Shoulder_Right_F X2BodyPartTemplate]
+DisplayName="DD Battle Dress - Right Pauldron"
+
+[HvyMk2_DLC2_MGSV_DD_BattleDress_Shoulder_Right_F X2BodyPartTemplate]
+DisplayName="DD Battle Dress - Right Pauldron"
+
+
+
+[LgtMk1_DLC2_MGSV_DD_BattleDress_Shoulder_Right_Patch_M X2BodyPartTemplate]
+DisplayName="DD Battle Dress - Right Pauldron [Patch]"
+
+[LgtMk2_DLC2_MGSV_DD_BattleDress_Shoulder_Right_Patch_M X2BodyPartTemplate]
+DisplayName="DD Battle Dress - Right Pauldron [Patch]"
+
+[MedMk1_DLC2_MGSV_DD_BattleDress_Shoulder_Right_Patch_M X2BodyPartTemplate]
+DisplayName="DD Battle Dress - Right Pauldron [Patch]"
+
+[HvyMk1_DLC2_MGSV_DD_BattleDress_Shoulder_Right_Patch_M X2BodyPartTemplate]
+DisplayName="DD Battle Dress - Right Pauldron [Patch]"
+
+[HvyMk2_DLC2_MGSV_DD_BattleDress_Shoulder_Right_Patch_M X2BodyPartTemplate]
+DisplayName="DD Battle Dress - Right Pauldron [Patch]"
+
+
+[LgtMk1_DLC2_MGSV_DD_BattleDress_Shoulder_Right_Patch_F X2BodyPartTemplate]
+DisplayName="DD Battle Dress - Right Pauldron [Patch]"
+
+[LgtMk2_DLC2_MGSV_DD_BattleDress_Shoulder_Right_Patch_F X2BodyPartTemplate]
+DisplayName="DD Battle Dress - Right Pauldron [Patch]"
+
+[MedMk1_DLC2_MGSV_DD_BattleDress_Shoulder_Right_Patch_F X2BodyPartTemplate]
+DisplayName="DD Battle Dress - Right Pauldron [Patch]"
+
+[HvyMk1_DLC2_MGSV_DD_BattleDress_Shoulder_Right_Patch_F X2BodyPartTemplate]
+DisplayName="DD Battle Dress - Right Pauldron [Patch]"
+
+[HvyMk2_DLC2_MGSV_DD_BattleDress_Shoulder_Right_Patch_F X2BodyPartTemplate]
+DisplayName="DD Battle Dress - Right Pauldron [Patch]"

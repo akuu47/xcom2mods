@@ -1,0 +1,41 @@
+[TC_WOTC_MILL_VSS_T1 X2WeaponTemplate]
+FriendlyName="<font color='#ECECEC'><b>VSS Vintorez</b></font>"
+FriendlyNamePlural="<font color='#ECECEC'><b>VSSes</b></font>"
+AbilityDescName="suppressed sniper rifle"
+BriefSummary="Translated to 'thread cutter' in Russian, the VSS or VSS Vintorez is suppressed rifle that utilizes subsonic 9x39mm rounds based on the very concept of the AS Val. The integral suppressor is wrapped around the barrel and drilled with holes to the suppressor to cool it down after firing. The 9x39mm rounds must be subsonic as to prevent a sonic boom when firing. Additionally, they're tipped with hardened steel or tungesten to puncture body armor or even steel. It's a favorite for Spetsnaz special forces as it is not only suppressed, but it can be stripped down for transport in a special briefcase."
+TacticalText="<Bullet/>Type: Sniper Rifle\n<Bullet/>Firing Profile: Single\n<Bullet/>Action: Gas-operated\n<Bullet/>Cartridge: 9x39mm Subsonic\n<Bullet/>Origin: Russian Federation\n<Bullet/>Tier: Conventional"
+
+[TC_WOTC_MILL_VSS_T2 X2WeaponTemplate]
+FriendlyName="<font color='#27AAE1'><b>VSK-21</b></font>"
+FriendlyNamePlural="<font color='#27AAE1'><b>VSK-21s</b></font>"
+AbilityDescName="suppressed sniper rifle"
+BriefSummary="Translated to 'thread cutter' in Russian, the VSS or VSS Vintorez is suppressed rifle that utilizes subsonic 9x39mm rounds based on the very concept of the AS Val. The integral suppressor is wrapped around the barrel and drilled with holes to the suppressor to cool it down after firing. The 9x39mm rounds must be subsonic as to prevent a sonic boom when firing. Additionally, they're tipped with hardened steel or tungesten to puncture body armor or even steel. It's a favorite for Spetsnaz special forces as it is not only suppressed, but it can be stripped down for transport in a special briefcase.\nThe VSK-21 improves upon the VSS by coating the ammunition with alien alloy, increasing the stopping power while reducing recoil."
+TacticalText="<Bullet/>Type: Sniper Rifle\n<Bullet/>Firing Profile: Single\n<Bullet/>Action: Gas-operated\n<Bullet/>Cartridge: 9x39mm Subsonic\n<Bullet/>Origin: Russian Federation\n<Bullet/>Tier: Magnetic"
+
+[TC_WOTC_MILL_VSS_T3 X2WeaponTemplate]
+FriendlyName="<font color='#CF4517'><b>VSK-X2 Threadripper</b></font>"
+FriendlyNamePlural="<font color='#CF4517'><b>VSK-X2 Threadrippers</b></font>"
+AbilityDescName="suppressed sniper rifle"
+BriefSummary="Translated to 'thread cutter' in Russian, the VSS or VSS Vintorez is suppressed rifle that utilizes subsonic 9x39mm rounds based on the very concept of the AS Val. The integral suppressor is wrapped around the barrel and drilled with holes to the suppressor to cool it down after firing. The 9x39mm rounds must be subsonic as to prevent a sonic boom when firing. Additionally, they're tipped with hardened steel or tungesten to puncture body armor or even steel. It's a favorite for Spetsnaz special forces as it is not only suppressed, but it can be stripped down for transport in a special briefcase.\nSeveral improvements over the VSK-21 has resulted in a fully-upgraded version of the VSS: the VSK-X2 Threadripper. The internals were refurbished with custom parts made from alien alloy and other rare-earth materials, making the weapon equally as deadly as the Beam-tier Sniper Rifle."
+TacticalText="<Bullet/>Type: Sniper Rifle\n<Bullet/>Firing Profile: Single\n<Bullet/>Action: Gas-operated\n<Bullet/>Cartridge: 9x39mm Subsonic\n<Bullet/>Origin: Russian Federation\n<Bullet/>Tier: Beam"
+
+[TC_WOTC_RPR_MILL_VSS_T1 X2WeaponTemplate]
+FriendlyName="<font color='#ECECEC'><b>VSS Vintorez</b></font>"
+FriendlyNamePlural="<font color='#ECECEC'><b>VSSes</b></font>"
+AbilityDescName="suppressed sniper rifle"
+BriefSummary="Translated to 'thread cutter' in Russian, the VSS or VSS Vintorez is suppressed rifle that utilizes subsonic 9x39mm rounds based on the very concept of the AS Val. The integral suppressor is wrapped around the barrel and drilled with holes to the suppressor to cool it down after firing. The 9x39mm rounds must be subsonic as to prevent a sonic boom when firing. Additionally, they're tipped with hardened steel or tungesten to puncture body armor or even steel. It's a favorite for Spetsnaz special forces as it is not only suppressed, but it can be stripped down for transport in a special briefcase."
+TacticalText="<Bullet/>Type: Sniper Rifle\n<Bullet/>Firing Profile: Single\n<Bullet/>Action: Gas-operated\n<Bullet/>Cartridge: 9x39mm Subsonic\n<Bullet/>Origin: Russian Federation\n<Bullet/>Tier: Conventional"
+
+[TC_WOTC_RPR_MILL_VSS_T2 X2WeaponTemplate]
+FriendlyName="<font color='#27AAE1'><b>VSK-21</b></font>"
+FriendlyNamePlural="<font color='#27AAE1'><b>VSK-21s</b></font>"
+AbilityDescName="suppressed sniper rifle"
+BriefSummary="Translated to 'thread cutter' in Russian, the VSS or VSS Vintorez is suppressed rifle that utilizes subsonic 9x39mm rounds based on the very concept of the AS Val. The integral suppressor is wrapped around the barrel and drilled with holes to the suppressor to cool it down after firing. The 9x39mm rounds must be subsonic as to prevent a sonic boom when firing. Additionally, they're tipped with hardened steel or tungesten to puncture body armor or even steel. It's a favorite for Spetsnaz special forces as it is not only suppressed, but it can be stripped down for transport in a special briefcase.\nThe VSK-21 improves upon the VSS by coating the ammunition with alien alloy, increasing the stopping power while reducing recoil."
+TacticalText="<Bullet/>Type: Sniper Rifle\n<Bullet/>Firing Profile: Single\n<Bullet/>Action: Gas-operated\n<Bullet/>Cartridge: 9x39mm Subsonic\n<Bullet/>Origin: Russian Federation\n<Bullet/>Tier: Magnetic"
+
+[TC_WOTC_RPR_MILL_VSS_T3 X2WeaponTemplate]
+FriendlyName="<font color='#CF4517'><b>VSK-X2 Threadripper</b></font>"
+FriendlyNamePlural="<font color='#CF4517'><b>VSK-X2 Threadrippers</b></font>"
+AbilityDescName="suppressed sniper rifle"
+BriefSummary="Translated to 'thread cutter' in Russian, the VSS or VSS Vintorez is suppressed rifle that utilizes subsonic 9x39mm rounds based on the very concept of the AS Val. The integral suppressor is wrapped around the barrel and drilled with holes to the suppressor to cool it down after firing. The 9x39mm rounds must be subsonic as to prevent a sonic boom when firing. Additionally, they're tipped with hardened steel or tungesten to puncture body armor or even steel. It's a favorite for Spetsnaz special forces as it is not only suppressed, but it can be stripped down for transport in a special briefcase.\nSeveral improvements over the VSK-21 has resulted in a fully-upgraded version of the VSS: the VSK-X2 Threadripper. The internals were refurbished with custom parts made from alien alloy and other rare-earth materials, making the weapon equally as deadly as the Beam-tier Sniper Rifle."
+TacticalText="<Bullet/>Type: Sniper Rifle\n<Bullet/>Firing Profile: Single\n<Bullet/>Action: Gas-operated\n<Bullet/>Cartridge: 9x39mm Subsonic\n<Bullet/>Origin: Russian Federation\n<Bullet/>Tier: Beam"

@@ -1,0 +1,41 @@
+[TC_WOTC_MILL_1911_T1 X2WeaponTemplate]
+FriendlyName="<font color='#ECECEC'><b>M1911</b></font>"
+FriendlyNamePlural="<font color='#ECECEC'><b>M1911s</b></font>"
+AbilityDescName="semi-automatic pistol"
+BriefSummary="The Colt M1911 is a legendary single-action .45 ACP pistol seen in popular culture such as movies and TV shows. It was designed as a result for a suitable self-loading pistol to replace traditional revolvers in the 1800s. It went through many trials before being adopted by the U.S Army in 1911. Since then, the M1911 has spawned many clones since it's inception, like the AMT Hardballer series and the Springfield Armory series. By the late 1970s however, The Colt M1911 was beginning to show its age, and under political pressure, began another series of tests to replace the weapon. It was finally replaced by Beretta M9s. Although it was no longer in service, many law enforcement agencies and military organizations across the globe continued to use the M1911s, not to mention civilian use as well."
+TacticalText="<Bullet/>Type: Semi-Automatic Pistol\n<Bullet/>Firing Profile: Semi-Auto\n<Bullet/>Action: Short Recoil Operation\n<Bullet/>Cartridge: .45 ACP\n<Bullet/>Origin: United States\n<Bullet/>Tier: Conventional"
+
+[TC_WOTC_MILL_1911_T2 X2WeaponTemplate]
+FriendlyName="<font color='#27AAE1'><b>D114</b></font>"
+FriendlyNamePlural="<font color='#27AAE1'><b>D114s</b></font>"
+AbilityDescName="semi-automatic pistol"
+BriefSummary="The Colt M1911 is a legendary single-action .45 ACP pistol seen in popular culture such as movies and TV shows. It was designed as a result for a suitable self-loading pistol to replace traditional revolvers in the 1800s. It went through many trials before being adopted by the U.S Army in 1911. Since then, the M1911 has spawned many clones since it's inception, like the AMT Hardballer series and the Springfield Armory series. By the late 1970s however, The Colt M1911 was beginning to show its age, and under political pressure, began another series of tests to replace the weapon. It was finally replaced by Beretta M9s. Although it was no longer in service, many law enforcement agencies and military organizations across the globe continued to use the M1911s, not to mention civilian use as well.\n With the necessary adjustments from the completion of the magnetic research, the M1911 can breathe new life again. The ancient gas-operation firing system is replaced with an magnetic firing system, enchancing the performance of the weapon like never before."
+TacticalText="<Bullet/>Type: Semi-Automatic Pistol\n<Bullet/>Firing Profile: Semi-Auto\n<Bullet/>Action: Short Recoil Operation\n<Bullet/>Cartridge: .45 ACP\n<Bullet/>Origin: United States\n<Bullet/>Tier: Magnetic"
+
+[TC_WOTC_MILL_1911_T3 X2WeaponTemplate]
+FriendlyName="<font color='#CF4517'><b>NV119 OHWS</b></font>"
+FriendlyNamePlural="<font color='#CF4517'><b>NV119s</b></font>"
+AbilityDescName="semi-automatic pistol"
+BriefSummary="The Colt M1911 is a legendary single-action .45 ACP pistol seen in popular culture such as movies and TV shows. It was designed as a result for a suitable self-loading pistol to replace traditional revolvers in the 1800s. It went through many trials before being adopted by the U.S Army in 1911. Since then, the M1911 has spawned many clones since it's inception, like the AMT Hardballer series and the Springfield Armory series. By the late 1970s however, The Colt M1911 was beginning to show its age, and under political pressure, began another series of tests to replace the weapon. It was finally replaced by Beretta M9s. Although it was no longer in service, many law enforcement agencies and military organizations across the globe continued to use the M1911s, not to mention civilian use as well.\n With the beam research completed, the barrel is embedded with electromagnets, allowing the weapon to travel further and able puncture even the toughest aliens."
+TacticalText="<Bullet/>Type: Semi-Automatic Pistol\n<Bullet/>Firing Profile: Semi-Auto\n<Bullet/>Action: Short Recoil Operation\n<Bullet/>Cartridge: .45 ACP\n<Bullet/>Origin: United States\n<Bullet/>Tier: Beam"
+
+[TC_WOTC_TMP_MILL_1911_T1 X2WeaponTemplate]
+FriendlyName="<font color='#ECECEC'><b>M1911</b></font>"
+FriendlyNamePlural="<font color='#ECECEC'><b>M1911s</b></font>"
+AbilityDescName="semi-automatic pistol"
+BriefSummary="The Colt M1911 is a legendary single-action .45 ACP pistol seen in popular culture such as movies and TV shows. It was designed as a result for a suitable self-loading pistol to replace traditional revolvers in the 1800s. It went through many trials before being adopted by the U.S Army in 1911. Since then, the M1911 has spawned many clones since it's inception, like the AMT Hardballer series and the Springfield Armory series. By the late 1970s however, The Colt M1911 was beginning to show its age, and under political pressure, began another series of tests to replace the weapon. It was finally replaced by Beretta M9s. Although it was no longer in service, many law enforcement agencies and military organizations across the globe continued to use the M1911s, not to mention civilian use as well."
+TacticalText="<Bullet/>Type: Semi-Automatic Pistol\n<Bullet/>Firing Profile: Semi-Auto\n<Bullet/>Action: Short Recoil Operation\n<Bullet/>Cartridge: .45 ACP\n<Bullet/>Origin: United States\n<Bullet/>Tier: Conventional"
+
+[TC_WOTC_TMP_MILL_1911_T2 X2WeaponTemplate]
+FriendlyName="<font color='#27AAE1'><b>D114</b></font>"
+FriendlyNamePlural="<font color='#27AAE1'><b>D114s</b></font>"
+AbilityDescName="semi-automatic pistol"
+BriefSummary="The Colt M1911 is a legendary single-action .45 ACP pistol seen in popular culture such as movies and TV shows. It was designed as a result for a suitable self-loading pistol to replace traditional revolvers in the 1800s. It went through many trials before being adopted by the U.S Army in 1911. Since then, the M1911 has spawned many clones since it's inception, like the AMT Hardballer series and the Springfield Armory series. By the late 1970s however, The Colt M1911 was beginning to show its age, and under political pressure, began another series of tests to replace the weapon. It was finally replaced by Beretta M9s. Although it was no longer in service, many law enforcement agencies and military organizations across the globe continued to use the M1911s, not to mention civilian use as well.\n With the necessary adjustments from the completion of the magnetic research, the M1911 can breathe new life again. The ancient gas-operation firing system is replaced with an magnetic firing system, enchancing the performance of the weapon like never before."
+TacticalText="<Bullet/>Type: Semi-Automatic Pistol\n<Bullet/>Firing Profile: Semi-Auto\n<Bullet/>Action: Short Recoil Operation\n<Bullet/>Cartridge: .45 ACP\n<Bullet/>Origin: United States\n<Bullet/>Tier: Magnetic"
+
+[TC_WOTC_TMP_MILL_1911_T3 X2WeaponTemplate]
+FriendlyName="<font color='#CF4517'><b>NV119 OHWS</b></font>"
+FriendlyNamePlural="<font color='#CF4517'><b>NV119s</b></font>"
+AbilityDescName="semi-automatic pistol"
+BriefSummary="The Colt M1911 is a legendary single-action .45 ACP pistol seen in popular culture such as movies and TV shows. It was designed as a result for a suitable self-loading pistol to replace traditional revolvers in the 1800s. It went through many trials before being adopted by the U.S Army in 1911. Since then, the M1911 has spawned many clones since it's inception, like the AMT Hardballer series and the Springfield Armory series. By the late 1970s however, The Colt M1911 was beginning to show its age, and under political pressure, began another series of tests to replace the weapon. It was finally replaced by Beretta M9s. Although it was no longer in service, many law enforcement agencies and military organizations across the globe continued to use the M1911s, not to mention civilian use as well.\n With the beam research completed, the barrel is embedded with electromagnets, allowing the weapon to travel further and able puncture even the toughest aliens."
+TacticalText="<Bullet/>Type: Semi-Automatic Pistol\n<Bullet/>Firing Profile: Semi-Auto\n<Bullet/>Action: Short Recoil Operation\n<Bullet/>Cartridge: .45 ACP\n<Bullet/>Origin: United States\n<Bullet/>Tier: Beam"

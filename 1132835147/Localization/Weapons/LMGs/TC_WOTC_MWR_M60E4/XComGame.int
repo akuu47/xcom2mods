@@ -1,0 +1,20 @@
+[TC_WOTC_MWR_M249_T1 X2WeaponTemplate]
+FriendlyName="<font color='#ECECEC'><b>M249 SAW</b></font>"
+FriendlyNamePlural="<font color='#ECECEC'><b>M249s</b></font>"
+AbilityDescName="light machinegun"
+BriefSummary="Formally designated as M249 Squad Automatic Weapon (SAW) and written as Light Machine Gun, 5.56mm, M249, is a 5.56mm belt-fed machinegun connected together via M27 linked belts, deviated from the Belgium FN Minimi. The U.S Army needed a machinegun that is lighter than the M60, but more powerful than an M16. After many trials, the M249 SAW was developed, and the U.S Army adopted it in 1985. Initial reactions were mixed: It fit its intended role well, but it was not as effective when firing from the hip. The parts are extremely durable, except for the bipod, which broke easily. Several soldiers complained that the weapon jammed easily in dusty conditions, if not take care of frequently."
+TacticalText="<Bullet/>Type: Light Machinegun\n<Bullet/>Firing Profile: Full-Auto\n<Bullet/>Action: Gas-Operated, Open Bolt\n<Bullet/>Cartridge: 5.56×45mm NATO\n<Bullet/>Origin: Belgium/United States\n<Bullet/>Tier: Conventional"
+
+[TC_WOTC_MWR_M249_T2 X2WeaponTemplate]
+FriendlyName="<font color='#27AAE1'><b>XMG-256 SAW</b></font>"
+FriendlyNamePlural="<font color='#27AAE1'><b>XMG-256s</b></font>"
+AbilityDescName="light machinegun"
+BriefSummary="Formally designated as M249 Squad Automatic Weapon (SAW) and written as Light Machine Gun, 5.56mm, M249, is a 5.56mm belt-fed machinegun connected together via M27 linked belts, deviated from the Belgium FN Minimi. The U.S Army needed a machinegun that is lighter than the M60, but more powerful than an M16. After many trials, the M249 SAW was developed, and the U.S Army adopted it in 1985. Initial reactions were mixed: It fit its intended role well, but it was not as effective when firing from the hip. The parts are extremely durable, except for the bipod, which broke easily. Several soldiers complained that the weapon jammed easily in dusty conditions, if not take care of frequently.\n The XMG-256 is a new version of the SAW that rectifies the problems with the old machinegun. Most of the parts have been replaced with new ones made from a mixture of alien alloy along with other metals, making the machinegun more durable, resistant to jamming, and lighter."
+TacticalText="<Bullet/>Type: Light Machinegun\n<Bullet/>Firing Profile: Full-Auto\n<Bullet/>Action: Gas-Operated, Open Bolt\n<Bullet/>Cartridge: 5.56×45mm NATO\n<Bullet/>Origin: Belgium/United States\n<Bullet/>Tier: Magnetic"
+
+[TC_WOTC_MWR_M249_T3 X2WeaponTemplate]
+FriendlyName="<font color='#CF4517'><b>XMG-512 SAW</b></font>"
+FriendlyNamePlural="<font color='#CF4517'><b>XMG-512s</b></font>"
+AbilityDescName="light machinegun"
+BriefSummary="Formally designated as M249 Squad Automatic Weapon (SAW) and written as Light Machine Gun, 5.56mm, M249, is a 5.56mm belt-fed machinegun connected together via M27 linked belts, deviated from the Belgium FN Minimi. The U.S Army needed a machinegun that is lighter than the M60, but more powerful than an M16. After many trials, the M249 SAW was developed, and the U.S Army adopted it in 1985. Initial reactions were mixed: It fit its intended role well, but it was not as effective when firing from the hip. The parts are extremely durable, except for the bipod, which broke easily. Several soldiers complained that the weapon jammed easily in dusty conditions, if not take care of frequently.\n The next iteration of the M249 series, the XMG-512 SAW, is heavily modified to fit the ever changing conditions on the battlefield. The firing system is upgraded to fire at a faster rate with less recoil and the new built-in cooling system dissipates the heat a lot faster, so the weapon almost never overheats from continuous fire."
+TacticalText="<Bullet/>Type: Light Machinegun\n<Bullet/>Firing Profile: Full-Auto\n<Bullet/>Action: Gas-Operated, Open Bolt\n<Bullet/>Cartridge: 5.56×45mm NATO\n<Bullet/>Origin: Belgium/United States\n<Bullet/>Tier: Beam"

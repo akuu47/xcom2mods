@@ -1,0 +1,86 @@
+[X2DownloadableContentInfo_AddedPartNames]
+
+;
+; SOLDIER
+;
+
+.TorsoTemplate="CNV_WotC_SLD_MGSV_Soviet_HeavyArmor_Torso_M"
+.TorsoName="Soviet Heavy Armor - Torso"
+
+.TorsoTemplate="LPL_WotC_SLD_MGSV_Soviet_HeavyArmor_Torso_M"
+.TorsoName="Soviet Heavy Armor - Torso"
+
+.TorsoTemplate="MPL_WotC_SLD_MGSV_Soviet_HeavyArmor_Torso_M"
+.TorsoName="Soviet Heavy Armor - Torso"
+
+.TorsoTemplate="HPL_WotC_SLD_MGSV_Soviet_HeavyArmor_Torso_M"
+.TorsoName="Soviet Heavy Armor - Torso"
+
+.TorsoTemplate="LPW_WotC_SLD_MGSV_Soviet_HeavyArmor_Torso_M"
+.TorsoName="Soviet Heavy Armor - Torso"
+
+.TorsoTemplate="MPW_WotC_SLD_MGSV_Soviet_HeavyArmor_Torso_M"
+.TorsoName="Soviet Heavy Armor - Torso"
+
+.TorsoTemplate="HPW_WotC_SLD_MGSV_Soviet_HeavyArmor_Torso_M"
+.TorsoName="Soviet Heavy Armor - Torso"
+
+
+.TorsoTemplate="CNV_WotC_SLD_MGSV_Soviet_HeavyArmor_Torso_F"
+.TorsoName="Soviet Heavy Armor - Torso"
+
+.TorsoTemplate="LPL_WotC_SLD_MGSV_Soviet_HeavyArmor_Torso_F"
+.TorsoName="Soviet Heavy Armor - Torso"
+
+.TorsoTemplate="MPL_WotC_SLD_MGSV_Soviet_HeavyArmor_Torso_F"
+.TorsoName="Soviet Heavy Armor - Torso"
+
+.TorsoTemplate="HPL_WotC_SLD_MGSV_Soviet_HeavyArmor_Torso_F"
+.TorsoName="Soviet Heavy Armor - Torso"
+
+.TorsoTemplate="LPW_WotC_SLD_MGSV_Soviet_HeavyArmor_Torso_F"
+.TorsoName="Soviet Heavy Armor - Torso"
+
+.TorsoTemplate="MPW_WotC_SLD_MGSV_Soviet_HeavyArmor_Torso_F"
+.TorsoName="Soviet Heavy Armor - Torso"
+
+.TorsoTemplate="HPW_WotC_SLD_MGSV_Soviet_HeavyArmor_Torso_F"
+.TorsoName="Soviet Heavy Armor - Torso"
+
+
+.LegsTemplate="CNV_WotC_SLD_MGSV_Soviet_HeavyArmor_Legs_M"
+.LegsName="Soviet Heavy Armor - Legs"
+
+.LegsTemplate="LPL_WotC_SLD_MGSV_Soviet_HeavyArmor_Legs_M"
+.LegsName="Soviet Heavy Armor - Legs"
+
+.LegsTemplate="MPL_WotC_SLD_MGSV_Soviet_HeavyArmor_Legs_M"
+.LegsName="Soviet Heavy Armor - Legs"
+
+.LegsTemplate="HPL_WotC_SLD_MGSV_Soviet_HeavyArmor_Legs_M"
+.LegsName="Soviet Heavy Armor - Legs"
+
+.LegsTemplate="LPW_WotC_SLD_MGSV_Soviet_HeavyArmor_Legs_M"
+.LegsName="Soviet Heavy Armor - Legs"
+
+.LegsTemplate="MPW_WotC_SLD_MGSV_Soviet_HeavyArmor_Legs_M"
+.LegsName="Soviet Heavy Armor - Legs"
+
+
+.LegsTemplate="CNV_WotC_SLD_MGSV_Soviet_HeavyArmor_Legs_F"
+.LegsName="Soviet Heavy Armor - Legs"
+
+.LegsTemplate="LPL_WotC_SLD_MGSV_Soviet_HeavyArmor_Legs_F"
+.LegsName="Soviet Heavy Armor - Legs"
+
+.LegsTemplate="MPL_WotC_SLD_MGSV_Soviet_HeavyArmor_Legs_F"
+.LegsName="Soviet Heavy Armor - Legs"
+
+.LegsTemplate="HPL_WotC_SLD_MGSV_Soviet_HeavyArmor_Legs_F"
+.LegsName="Soviet Heavy Armor - Legs"
+
+.LegsTemplate="LPW_WotC_SLD_MGSV_Soviet_HeavyArmor_Legs_F"
+.LegsName="Soviet Heavy Armor - Legs"
+
+.LegsTemplate="MPW_WotC_SLD_MGSV_Soviet_HeavyArmor_Legs_F"
+.LegsName="Soviet Heavy Armor - Legs"

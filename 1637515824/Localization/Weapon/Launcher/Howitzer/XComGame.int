@@ -1,0 +1,13 @@
+[MD_WOTC_GL_HOWITZER_STD_T1 X2GrenadeLauncherTemplate]
+FriendlyName="GL3 Howitzer"
+FriendlyNamePlural="Howitzers"
+AbilityDescName="grenade launcher"
+BriefSummary="An advanced grenade launcher that holds up to 4 rounds."
+TacticalText="<Bullet/>Type: Grenade Launcher\n<Bullet/>Firing Profile: Semi-Auto\n<Bullet/>Action: Gas-Operated\n<Bullet/>Cartridge: 40x46mm Grenades\n<Bullet/>Origin: United States\n<Bullet/>Tier: Conventional"
+
+[MD_WOTC_GL_HOWITZER_STD_T2 X2GrenadeLauncherTemplate]
+FriendlyName="GL3 'Howitzer'"
+FriendlyNamePlural="GL3 'Howitzers'"
+AbilityDescName="grenade launcher"
+BriefSummary="An advanced grenade launcher that holds up to 4 rounds."
+TacticalText="<Bullet/>Type: Grenade Launcher\n<Bullet/>Firing Profile: Semi-Auto\n<Bullet/>Action: Gas-Operated\n<Bullet/>Cartridge: 40x46mm Grenades\n<Bullet/>Origin: United States\n<Bullet/>Tier: Magnetic"

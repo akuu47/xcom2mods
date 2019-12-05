@@ -1,0 +1,5 @@
+﻿[mod]
+publishedFileId=0
+Title=Stronger Templar Parry
+Description=not balanced for vanilla, make template parry only gets consumed when a shot would hit, so it is useful on modlists that increases enemy amounts by a lot.
+RequiresXPACK=true

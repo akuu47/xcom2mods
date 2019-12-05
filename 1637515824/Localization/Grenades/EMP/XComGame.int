@@ -1,0 +1,19 @@
+[MD_WOTC_IW_GND_EMP_STD_T1 X2GrenadeTemplate]
+FriendlyName="M152 Shock Grenade"
+FriendlyNamePlural="M152 Shock Grenades"
+BriefSummary="The M152 Shock Grenades is a type of EMP grenade designed to wreak havoc on electronic systems in mechanical and robotic enemies, dealing considerable damage and potentially rendering them inoperable for a short period of time. Organic enemies are completely immune to these effects, however."
+TacticalText="<Bullet/> EMP grenades ignore armor when dealing damage.<br><Bullet/> EMP grenades can be thrown or launched considerably further than standard grenades."
+ThrownAbilityName="Throw M152 Shock Grenade"
+ThrownAbilityHelpText="Damage and disorient mechanical units in the target area."
+LaunchedAbilityname="Launch M152 Shock Grenade"
+LaunchedAbilityHelpText="Damage and disorient mechanical units in the target area."
+
+[MD_WOTC_IW_GND_EMP_STD_T2 X2GrenadeTemplate]
+FriendlyName="M152-B Shockwave Bomb"
+FriendlyNamePlural="M152-B Shockwave Bombs"
+BriefSummary="The upgraded Shockwave Bomb deals a massive amount of damage to robotic and mechanical targets. Even those that survive the initial damage can be temporarily shut down and unable to function. Organic enemies are immune to the EMP effect."
+TacticalText="<Bullet/> EMP Bombs, upgraded from EMP Grenades, deal even greater damage in a greater radius to mechanical enemies.<br><Bullet/> EMP Bombs ignore armor when dealing damage.<br><Bullet/> EMP Bombs can be thrown or launched considerably further than standard grenades."
+ThrownAbilityName="Throw M152-B Shockwave Bomb"
+ThrownAbilityHelpText="Damage and disorient mechanical units in the target area."
+LaunchedAbilityname="Launch M152-B Shockwave Bomb"
+LaunchedAbilityHelpText="Damage and disorient mechanical units in the target area."

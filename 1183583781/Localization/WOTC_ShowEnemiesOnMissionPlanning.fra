@@ -1,0 +1,76 @@
+; This file has to have the same name as the Mod Project with the appropriate country code as the file type
+; It also seems to have to live under a folder named the same as the country code
+
+[UIShowEnemies]
+localized_m_strShadowChamberTitle=SALLE DE DECRYPTAGE
+localized_m_strEnemiesDetected=ENNEMIS DETECTES:
+localized_PlotType=TYPE DE LIEU:
+localized_BiomeType=TYPE DE BIOME:
+localized_Time=HEURE D'ARRIVEE:
+
+; Plot Localization
+localized_Abandoned=Ville Abandonnée
+localized_Abandoned_Indoors=Ville Abandonnée Intérieurs
+localized_Abandoned_Occluded=Ville Abandonnée Occultée
+localized_CityCenter=Centre Ville
+localized_DerelictFacility=Installation du Dr. Vahlen
+localized_LostTower=Les Tours Perdues
+localized_Facility=Installation ADVENT
+localized_Rooftops=Toits
+localized_SarcophagusRoom=Salle des Elus
+localized_Slums=Taudis
+localized_Shanty=Cabanes
+localized_SmallTown=Petite Ville
+localized_Stronghold=Forteresse de L'Elu
+localized_Wilderness=Région Sauvage
+localized_Tunnels_Reverb=Tunnels
+localized_Tunnels_Sewer=Egoûts
+localized_Tunnels_Subway=Métro
+
+; Biome localization
+localized_Arid=Aride
+localized_Tundra=Toundra
+localized_Temperate=Tempéré
+localized_Xenoform=Xenoforme
+
+; Localized Strings for Mod Config Menu Items
+[UIShowEnemies_MCMScreen]
+sSettingsPage_MCMText=Show Enemies on Mission Planning
+sPageTitle_MCMText=Show Enemies and Terrain on Mission Planning
+sGroupGeneralSettings_MCMText=Réglages Généraux
+sShowBackground_MCMText=Montrer les panneaux d'arrière-plan
+sShadowChamberStyle_MCMText=Utiliser le style de la salle de décryptage
+sPanelSettings_MCMText=Réglages des panneaux
+sBackgroundType_MCMText=Type de panneaux
+sEnemiesCountPanelSizeX_MCMText=Dimension X du panneau Nombre d'Ennemis
+sEnemiesCountPanelSizeY_MCMText=Dimension Y du panneau Nombre d'Ennemis
+sEnemiesListPanelSizeX_MCMText=Dimension X du panneau Liste d'Ennemis
+sEnemiesListPanelSizeY_MCMText=Dimension Y du panneau Liste d'Ennemis
+sPanelTerrainSizeX_MCMText=Dimension X du panneau Terrain
+sPanelTerrainSizeY_MCMText=Dimension Y du panneau Terrain
+sAlphaBackground_MCMText=Opacité des panneaux
+sGroupEnemiesListSettings_MCMText=Réglages Liste d'Ennemis
+sShowWithoutShadowChamber_MCMText=Montrer la liste des ennemis sans Salle de Décryptage
+sEnemiesListPositionX_MCMText=Position X de la liste d'ennemis depuis le coin haut gauche de l'écran
+sEnemiesListPositionY_MCMText=Position Y de la liste d'ennemis depuis le coin haut gauche de l'écran
+sEnemiesListSitrepOffset_MCMText=Décalage Y de la liste d'ennemis lorsqu'un SitRep est présent sur la mission
+sGroupTerrainSettings_MCMText=Réglages Terrain
+sShowTerrain_MCMText=Montrer les informations du Terrain
+sShowPlotText_MCMText=Monter les informations du Lieu
+sShowBiomeText_MCMText=Montrer les informations du Biome
+sShowIcons_MCMText=Montrer les Icônes Lieu/Biome
+sShowEnemyIcons_MCMText=Montrer les Icônes Ennemi
+sTerrainTitleColor_MCMText=Couleur des Titres
+sTerrainColor_MCMText=Couleur du Texte du Terrain
+sTimeColor_MCMText=Couleur du texte de l'heure
+sTerrainPosX_MCMText=Position X des informations du Terrain depuis le coin haut droite de l'écran
+sTerrainPosY_MCMText=Position Y des informations du Terrain depuis le coin haut droite de l'écran
+sIconSize_MCMText=Taille des Icônes Lieu/Biome
+sEnemyIconSize_MCMText=Taille des Icônes Ennemi
+sIconVSpace_MCMText=Espacement Vertical des Icônes Lieu/Biome
+sEnemyIconVSpace_MCMText=Espacement Vertical des Icônes Ennemi
+sShowChosen_MCMText=Montre les Elus sur le Planning de Mission
+sShowTime_MCMText=Montre l'Heure Estimée d'Arrivée sur site dans les Informations de Terrain
+sEnemiesListAnchor_MCMText=Ancre de la Liste d'Ennemis à l'Ecran (peut être HautGauche ou HautDroite)
+sTerrainAnchor_MCMText=Ancre des Infos de Terrain à l'Ecran (peut être HautGauche ou HautDroite)
+sShowEnemiesList_MCMText=Montrer le Panneau et le Texte de la Liste d'Ennemis

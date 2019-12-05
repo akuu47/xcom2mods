@@ -1,0 +1,171 @@
+[X2DownloadableContentInfo_AddedPartNames]
+
+;--------------------;
+;	Predator Armor
+;--------------------;
+
+; Male
+.TorsoTemplate="DLC_30_PltMed_Torso_NoExo_None_M"
+.TorsoName="Ram (No Exo)"
+
+
+.LegsTemplate="DLC_30_PltMed_Legs_NoExo_A_M"
+.LegsName="Ram A (No Exo)"
+.LegsTemplate="DLC_30_PltMed_Legs_NoExo_B_M"
+.LegsName="Ram B (No Exo)"
+.LegsTemplate="DLC_30_PltMed_Legs_NoExo_C_M"
+.LegsName="Ram C (No Exo)"
+
+
+; Female
+.TorsoTemplate="DLC_30_PltMed_Torso_NoExo_None_F"
+.TorsoName="Ram (No Exo)"
+
+
+.LegsTemplate="DLC_30_PltMed_Legs_NoExo_A_F"
+.LegsName="Ram A (No Exo)"
+.LegsTemplate="DLC_30_PltMed_Legs_NoExo_B_F"
+.LegsName="Ram B (No Exo)"
+.LegsTemplate="DLC_30_PltMed_Legs_NoExo_C_F"
+.LegsName="Ram C (No Exo)"
+
+
+;-----------------;
+;	E.X.O. Suit
+;-----------------;
+
+; Male
+.TorsoTemplate="DLC_30_PltHvy_Torso_NoExo_Left_M"
+.TorsoName="Ram (Left Exo)"
+.TorsoTemplate="DLC_30_PltHvy_Torso_NoExo_None_M"
+.TorsoName="Ram (No Exo)"
+.TorsoTemplate="DLC_30_PltHvy_Torso_NoExo_Right_M"
+.TorsoName="Ram (Right Exo)"
+
+.LegsTemplate="DLC_30_PltHvy_Legs_NoExo_A_M"
+.LegsName="Ram A (No Exo)"
+.LegsTemplate="DLC_30_PltHvy_Legs_NoExo_B_M"
+.LegsName="Ram B (No Exo)"
+.LegsTemplate="DLC_30_PltHvy_Legs_NoExo_C_M"
+.LegsName="Ram C (No Exo)"
+
+
+; Female
+.TorsoTemplate="DLC_30_PltHvy_Torso_NoExo_Left_F"
+.TorsoName="Ram (Left Exo)"
+.TorsoTemplate="DLC_30_PltHvy_Torso_NoExo_None_F"
+.TorsoName="Ram (No Exo)"
+.TorsoTemplate="DLC_30_PltHvy_Torso_NoExo_Right_F"
+.TorsoName="Ram (Right Exo)"
+
+.LegsTemplate="DLC_30_PltHvy_Legs_NoExo_A_F"
+.LegsName="Ram A (No Exo)"
+.LegsTemplate="DLC_30_PltHvy_Legs_NoExo_B_F"
+.LegsName="Ram B (No Exo)"
+.LegsTemplate="DLC_30_PltHvy_Legs_NoExo_C_F"
+.LegsName="Ram C (No Exo)"
+
+
+;------------------;
+;	Warden Armor
+;------------------;
+
+; Male
+.TorsoTemplate="DLC_30_PwrMed_Torso_NoExo_A_M"
+.TorsoName="No Decals (W.A.R.)"
+.TorsoTemplate="DLC_30_PwrMed_Torso_NoExo_B_M"
+.TorsoName="Goblin"
+.TorsoTemplate="DLC_30_PwrMed_Torso_NoExo_C_M"
+.TorsoName="Gargoyle"
+
+
+.LegsTemplate="DLC_30_PwrMed_Legs_NoExo_A_M"
+.LegsName="No Decals (W.A.R.)"
+.LegsTemplate="DLC_30_PwrMed_Legs_NoExo_B_M"
+.LegsName="Goblin"
+.LegsTemplate="DLC_30_PwrMed_Legs_NoExo_C_M"
+.LegsName="Gargoyle"
+
+
+; Female
+.TorsoTemplate="DLC_30_PwrMed_Torso_NoExo_A_F"
+.TorsoName="No Decals (W.A.R.)"
+.TorsoTemplate="DLC_30_PwrMed_Torso_NoExo_B_F"
+.TorsoName="Goblin"
+.TorsoTemplate="DLC_30_PwrMed_Torso_NoExo_C_F"
+.TorsoName="Gargoyle"
+
+
+.LegsTemplate="DLC_30_PwrMed_Legs_NoExo_A_F"
+.LegsName="No Decals (W.A.R.)"
+.LegsTemplate="DLC_30_PwrMed_Legs_NoExo_B_F"
+.LegsName="Goblin"
+.LegsTemplate="DLC_30_PwrMed_Legs_NoExo_C_F"
+.LegsName="Gargoyle"
+
+
+;-----------------;
+;	W.A.R. Suit
+;-----------------;
+
+; Male
+.TorsoTemplate="DLC_30_PwrHvy_Torso_Left_A_M"
+.TorsoName="No Decals (Left Exo)"
+.TorsoTemplate="DLC_30_PwrHvy_Torso_Left_B_M"
+.TorsoName="Goblin (Left Exo)"
+.TorsoTemplate="DLC_30_PwrHvy_Torso_Left_C_M"
+.TorsoName="Gargoyle (Left Exo)"
+
+.TorsoTemplate="DLC_30_PwrHvy_Torso_None_A_M"
+.TorsoName="No Decals (No Exo)"
+.TorsoTemplate="DLC_30_PwrHvy_Torso_None_B_M"
+.TorsoName="Goblin (No Exo)"
+.TorsoTemplate="DLC_30_PwrHvy_Torso_None_C_M"
+.TorsoName="Gargoyle (No Exo)"
+
+.TorsoTemplate="DLC_30_PwrHvy_Torso_Right_A_M"
+.TorsoName="No Decals (Right Exo)"
+.TorsoTemplate="DLC_30_PwrHvy_Torso_Right_B_M"
+.TorsoName="Goblin (Right Exo)"
+.TorsoTemplate="DLC_30_PwrHvy_Torso_Right_C_M"
+.TorsoName="Gargoyle (Right Exo)"
+
+
+.LegsTemplate="DLC_30_PwrHvy_Legs_NoExo_A_M"
+.LegsName="No Decals (No Exo)"
+.LegsTemplate="DLC_30_PwrHvy_Legs_NoExo_B_M"
+.LegsName="Goblin (No Exo)"
+.LegsTemplate="DLC_30_PwrHvy_Legs_NoExo_C_M"
+.LegsName="Gargoyle (No Exo)"
+
+
+; Female
+.TorsoTemplate="DLC_30_PwrHvy_Torso_Left_A_F"
+.TorsoName="No Decals (Left Exo)"
+.TorsoTemplate="DLC_30_PwrHvy_Torso_Left_B_F"
+.TorsoName="Goblin (Left Exo)"
+.TorsoTemplate="DLC_30_PwrHvy_Torso_Left_C_F"
+.TorsoName="Gargoyle (Left Exo)"
+
+.TorsoTemplate="DLC_30_PwrHvy_Torso_None_A_F"
+.TorsoName="No Decals (No Exo)"
+.TorsoTemplate="DLC_30_PwrHvy_Torso_None_B_F"
+.TorsoName="Goblin (No Exo)"
+.TorsoTemplate="DLC_30_PwrHvy_Torso_None_C_F"
+.TorsoName="Gargoyle (No Exo)"
+
+.TorsoTemplate="DLC_30_PwrHvy_Torso_Right_A_F"
+.TorsoName="No Decals (Right Exo)"
+.TorsoTemplate="DLC_30_PwrHvy_Torso_Right_B_F"
+.TorsoName="Goblin (Right Exo)"
+.TorsoTemplate="DLC_30_PwrHvy_Torso_Right_C_F"
+.TorsoName="Gargoyle (Right Exo)"
+
+
+.LegsTemplate="DLC_30_PwrHvy_Legs_NoExo_A_F"
+.LegsName="No Decals (No Exo)"
+.LegsTemplate="DLC_30_PwrHvy_Legs_NoExo_B_F"
+.LegsName="Goblin (No Exo)"
+.LegsTemplate="DLC_30_PwrHvy_Legs_NoExo_C_F"
+.LegsName="Gargoyle (No Exo)"
+

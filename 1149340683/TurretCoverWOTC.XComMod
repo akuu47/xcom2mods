@@ -1,0 +1,5 @@
+﻿[mod]
+publishedFileId=0
+Title=TurretCoverWOTC
+Description=All turrets provide heavy cover, even when dead.
+RequiresXPACK=true

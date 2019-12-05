@@ -1,0 +1,1 @@
+﻿Disables the Terror Missions from base-game XCOM 2, making every Retaliation the new Haven Assault mission type!

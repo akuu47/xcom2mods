@@ -1,0 +1,41 @@
+[TC_WOTC_MWR_R700_T1 X2WeaponTemplate]
+FriendlyName="<font color='#ECECEC'><b>R700</b></font>"
+FriendlyNamePlural="<font color='#ECECEC'><b>R700s</b></font>"
+AbilityDescName="bolt-action rifle"
+BriefSummary="The Remington Model 700 rifle is a bolt-action sniper rifle made by Remington in 1962. This unique sniper rifle can be modified to fire a variety of cartridges, including .30-06, .300 Win, .338 Lapua, and so on. This particular one fires .30-06 rounds. Each bullet must be reloaded by hand; there is no box magazine unless you have a specific version of the R700 rifle. Some of them has an floor-plate for quick-unloading, and others have no floor-plate, or what they call 'blind'. This rifle is mostly used by civilians and law enforcement agencies, but there are some armies out their that make use of this weapon." 
+TacticalText="<Bullet/>Type: Rifle\n<Bullet/>Firing Profile: Single\n<Bullet/>Action: Bolt-Action, Rotating Bolt with 2 lugs\n<Bullet/>Cartridge: .30-06 Springfield \n<Bullet/>Origin: United States\n<Bullet/>Tier: Conventional"
+
+[TC_WOTC_MWR_R700_T2 X2WeaponTemplate]
+FriendlyName="<font color='#27AAE1'><b>MRS-1400</b></font>"
+FriendlyNamePlural="<font color='#27AAE1'><b>MRS-1400s</b></font>"
+AbilityDescName="bolt-action rifle"
+BriefSummary="The Remington 700 rifle is a bolt-action sniper rifle made by Remington in 1962. This unique sniper rifle can be modified to fire a variety of cartridges, including .30-06, .300 Win, .338 Lapua, and so on. This particular one fires .30-06 rounds. Each bullet must be reloaded by hand; there is no box magazine unless you have a specific version of the R700 rifle. Some of them has an floor-plate for quick-unloading, and others have no floor-plate, or what they call 'blind'. This rifle is mostly used by civilians and law enforcement agencies, but there are some armies out their that make use of this weapon.\nThe MRS-1400 is the upgraded version of the R700 rifles. The barrel was replaced with a new match-grade barrel made from Alien Alloy, allowing itself to perform 10x better than its conventional counterpart."
+TacticalText="<Bullet/>Type: Rifle\n<Bullet/>Firing Profile: Single\n<Bullet/>Action: Bolt-Action, Rotating Bolt with 2 lugs\n<Bullet/>Cartridge: .30-06 Springfield \n<Bullet/>Origin: United States\n<Bullet/>Tier: Magnetic"
+
+[TC_WOTC_MWR_R700_T3 X2WeaponTemplate]
+FriendlyName="<font color='#CF4517'><b>XRS-1600</b></font>"
+FriendlyNamePlural="<font color='#CF4517'><b>XRS-1600s</b></font>"
+AbilityDescName="bolt-action rifle"
+BriefSummary="The Remington 700 rifle is a bolt-action sniper rifle made by Remington in 1962. This unique sniper rifle can be modified to fire a variety of cartridges, including .30-06, .300 Win, .338 Lapua, and so on. This particular one fires .30-06 rounds. Each bullet must be reloaded by hand; there is no box magazine unless you have a specific version of the R700 rifle. Some of them has an floor-plate for quick-unloading, and others have no floor-plate, or what they call 'blind'. This rifle is mostly used by civilians and law enforcement agencies, but there are some armies out their that make use of this weapon.\nThe XRS-1600 no longer uses conventional .30-06 ammuntion. The new version of the .30-06 cartridge expands upon impact, emulating the properties of the hollow point ammunition, while still able to puncture armor. This new cartridge is a hybridization of both AP and HP, but without the pitfalls of both."
+TacticalText="<Bullet/>Type: Rifle\n<Bullet/>Firing Profile: Single\n<Bullet/>Action: Bolt-Action, Rotating Bolt with 2 lugs\n<Bullet/>Cartridge: .30-06 Springfield \n<Bullet/>Origin: United States\n<Bullet/>Tier: Beam"
+
+[TC_WOTC_RPR_MWR_R700_T1 X2WeaponTemplate]
+FriendlyName="<font color='#ECECEC'><b>R700</b></font>"
+FriendlyNamePlural="<font color='#ECECEC'><b>R700s</b></font>"
+AbilityDescName="bolt-action rifle"
+BriefSummary="The Remington Model 700 rifle is a bolt-action sniper rifle made by Remington in 1962. This unique sniper rifle can be modified to fire a variety of cartridges, including .30-06, .300 Win, .338 Lapua, and so on. This particular one fires .30-06 rounds. Each bullet must be reloaded by hand; there is no box magazine unless you have a specific version of the R700 rifle. Some of them has an floor-plate for quick-unloading, and others have no floor-plate, or what they call 'blind'. This rifle is mostly used by civilians and law enforcement agencies, but there are some armies out their that make use of this weapon." 
+TacticalText="<Bullet/>Type: Rifle\n<Bullet/>Firing Profile: Single\n<Bullet/>Action: Bolt-Action, Rotating Bolt with 2 lugs\n<Bullet/>Cartridge: .30-06 Springfield \n<Bullet/>Origin: United States\n<Bullet/>Tier: Conventional"
+
+[TC_WOTC_RPR_MWR_R700_T2 X2WeaponTemplate]
+FriendlyName="<font color='#27AAE1'><b>MRS-1400</b></font>"
+FriendlyNamePlural="<font color='#27AAE1'><b>MRS-1400s</b></font>"
+AbilityDescName="bolt-action rifle"
+BriefSummary="The Remington 700 rifle is a bolt-action sniper rifle made by Remington in 1962. This unique sniper rifle can be modified to fire a variety of cartridges, including .30-06, .300 Win, .338 Lapua, and so on. This particular one fires .30-06 rounds. Each bullet must be reloaded by hand; there is no box magazine unless you have a specific version of the R700 rifle. Some of them has an floor-plate for quick-unloading, and others have no floor-plate, or what they call 'blind'. This rifle is mostly used by civilians and law enforcement agencies, but there are some armies out their that make use of this weapon.\nThe MRS-1400 is the upgraded version of the R700 rifles. The barrel was replaced with a new match-grade barrel made from Alien Alloy, allowing itself to perform 10x better than its conventional counterpart."
+TacticalText="<Bullet/>Type: Rifle\n<Bullet/>Firing Profile: Single\n<Bullet/>Action: Bolt-Action, Rotating Bolt with 2 lugs\n<Bullet/>Cartridge: .30-06 Springfield \n<Bullet/>Origin: United States\n<Bullet/>Tier: Magnetic"
+
+[TC_WOTC_RPR_MWR_R700_T3 X2WeaponTemplate]
+FriendlyName="<font color='#CF4517'><b>XRS-1600</b></font>"
+FriendlyNamePlural="<font color='#CF4517'><b>XRS-1600s</b></font>"
+AbilityDescName="bolt-action rifle"
+BriefSummary="The Remington 700 rifle is a bolt-action sniper rifle made by Remington in 1962. This unique sniper rifle can be modified to fire a variety of cartridges, including .30-06, .300 Win, .338 Lapua, and so on. This particular one fires .30-06 rounds. Each bullet must be reloaded by hand; there is no box magazine unless you have a specific version of the R700 rifle. Some of them has an floor-plate for quick-unloading, and others have no floor-plate, or what they call 'blind'. This rifle is mostly used by civilians and law enforcement agencies, but there are some armies out their that make use of this weapon.\nThe XRS-1600 no longer uses conventional .30-06 ammuntion. The new version of the .30-06 cartridge expands upon impact, emulating the properties of the hollow point ammunition, while still able to puncture armor. This new cartridge is a hybridization of both AP and HP, but without the pitfalls of both."
+TacticalText="<Bullet/>Type: Rifle\n<Bullet/>Firing Profile: Single\n<Bullet/>Action: Bolt-Action, Rotating Bolt with 2 lugs\n<Bullet/>Cartridge: .30-06 Springfield \n<Bullet/>Origin: United States\n<Bullet/>Tier: Beam"

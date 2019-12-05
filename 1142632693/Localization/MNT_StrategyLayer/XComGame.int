@@ -1,0 +1,484 @@
+; *********************************************************************************************************************
+; ***							FACTION TECH	      																***
+; *********************************************************************************************************************
+
+[InsightTechTemplar X2TechTemplate]
+DisplayName="<font color='#aca68a'>Tactical Insight</font>: <font color='#b6b3e3'>Templar</font>"
+Summary="Our experience out in the fields with Geist and his Templars has given us some insights into how we can coordinate better with psionic allies on the field with our operatives. This may not lead to any immediate result, but surely incorporating Templar battle strategies into our systems can't be a bad thing." 
+
+[InsightTechReaper X2TechTemplate]
+DisplayName="<font color='#aca68a'>Tactical Insight</font>: <font color='#a28752'>Reaper</font>"
+Summary="Volk's Reapers have overshadowed our stealth operatives, literally and figuratively. With his blessings, we may be able to incorporate Reaper strategies into future constructs- though our engineers aren't promising any immediate results."
+
+[InsightTechSkirmisher X2TechTemplate]
+DisplayName="<font color='#aca68a'>Tactical Insight</font>: <font color='#bf1e2e'>Skirmisher</font>"
+Summary="Betos's Skirmishers are fearsome combatants with unparalleled levels of mobility. If we could somehow incorporate that type of rapid-tactical analysis into our constructions, we may be able to develop even more powerful counters to ADVENT's mechanical threats in the distant future."
+
+
+; *********************************************************************************************************************
+; ***							CUSTOM AMMOS	      																***
+; *********************************************************************************************************************
+
+[XCom_APRounds X2AmmoTemplate]
+FriendlyName="A.P. Rounds"
+FriendlyNamePlural="A.P. Rounds"
+BriefSummary="Hand machined from ultra strong, ultra light alien alloys, these deadly rounds will effectively bypass enemy armor to deal unmitigated damage."
+TacticalText="<Bullet/> Armor Piercing Rounds ignore 2 points of armor.\n<Bullet/> Armor Piercing Rounds will double enemy weapon range penalties.\n"
+
+[XCom_StilettoRounds X2AmmoTemplate]
+FriendlyName="Stiletto Rounds"
+FriendlyNamePlural="Stiletto Rounds"
+BriefSummary="Hand machined from ultra strong, ultra light alien alloys provided by the Reapers, these elerium-core enhanced rounds will effectively bypass all enemy armor to deal unmitigated damage."
+TacticalText="<Bullet/> Stiletto Rounds ignore 2/4/6 points of armor, based on weapon tech.\n"
+
+[XCom_TracerRounds X2AmmoTemplate]
+FriendlyName="Tracer Rounds"
+FriendlyNamePlural="Tracer Rounds"
+BriefSummary="Containing high tech \"smart rounds\" that relay detailed tracking data back to the shooter when fired, this specialized ammo can subvert the psionic fields our enemies use to hone in with high accuracy on unshielded flesh."
+TacticalText="<Bullet/>Tracer Rounds sharply reduce your critical chance, but bypass shields and grant a respectable aim bonus.<br>"
+
+[XCom_SeekerRounds X2AmmoTemplate]
+FriendlyName="Seeker Rounds"
+FriendlyNamePlural="Seeker Rounds"
+BriefSummary="Containing high tech \"smart rounds\" that relay detailed tracking data augmented by Templar data caches back to the shooter when fired, this elerium-core enhanced ammo cannot be dodged by psionic foes."
+TacticalText="<Bullet/>Seeker Rounds are guaranteed to hit psionic enemies, while still posessing all the attributes of the Tracer Rounds.<br>"
+
+[XCom_ShredderRounds X2AmmoTemplate]
+FriendlyName="Shredder Rounds"
+FriendlyNamePlural="Shredder Rounds"
+BriefSummary="These robustly constructed bullets tears apart even the toughest of armors over time, but reduce the clip capacity of most weapons."
+TacticalText="<Bullet/> Shredder Rounds shred a point of armor at the cost of reducing your clip size by one.<br>"
+
+[XCom_IncisionRounds X2AmmoTemplate]
+FriendlyName="Incision Rounds"
+FriendlyNamePlural="Incision Rounds"
+BriefSummary="These robustly constructed bullets enhanced with elerium provided by our Skirmisher allies tears apart even the toughest of armors."
+TacticalText="<Bullet/> Incision Rounds shred 1/2/3 points of armor, based on weapon tech, at the cost of reducing your clip size by one.<br>"
+
+[XCom_IncendiaryRounds X2AmmoTemplate]
+FriendlyName="Dragon Rounds"
+FriendlyNamePlural="Dragon Rounds"
+BriefSummary="Capped with a highly combustible mini-charge, Dragon Rounds do bonus damage to all targets and can even set some targets alight."
+TacticalText="<Bullet/> These rounds do extra damage and have a chance to set targets aflame, stopping enemy regenerative effects.<br>"
+
+[XCom_VenomRounds X2AmmoTemplate]
+FriendlyName="Viper Rounds"
+FriendlyNamePlural="Viper Rounds"
+BriefSummary="The tips of these rounds contain microcapsules of a fast-acting toxin effective on organic aliens and humans alike, poisoning the target on impact and dealing bonus damage."
+TacticalText="<Bullet/> These rounds do extra damage and can poison any organic targets that they hit, and can subvert ADVENT adrenaline rushes.<br>"
+
+[XCom_FlechetteRounds X2AmmoTemplate]
+FriendlyName="Flechette Rounds"
+FriendlyNamePlural="Flechette Rounds"
+BriefSummary="These rounds fracture into wicked micro-shards of alien alloy on impact, dealing massive damage to unarmored flesh."
+TacticalText="<Bullet/> Flechette Rounds deal 20% bonus damage against unarmored and unshielded foes.<br>"
+
+[XCom_ImpulseRounds X2AmmoTemplate]
+FriendlyName="Impulse Rounds"
+FriendlyNamePlural="Impulse Rounds"
+BriefSummary="These bullets strike are crafted to strike enemy shields with sledgehammer-esque force, effectively crushing ADVENT shield technology and psionic barriers alike."
+TacticalText="<Bullet/> Impulse Rounds deal massive damage to shields, but do not deal bonus damage on foes once unshielded.<br>"
+
+[XCom_ReqiuemRounds X2AmmoTemplate]
+FriendlyName="Reqiuem Rounds"
+FriendlyNamePlural="Reqiuem Rounds"
+BriefSummary="These bullets will put the dead back where they belong. Subverts any psionic influence, they will seek the already dead."
+TacticalText="<Bullet/> Reqiuem Rounds guarantees all attacks on psionic zombies or Lost are automatically critical hits.<br>"
+
+[XCom_NeedleRounds X2AmmoTemplate]
+FriendlyName="Needle Rounds"
+FriendlyNamePlural="Needle Rounds"
+BriefSummary="These light-caliber bullets can be fired for longer durations, but obviously have reduced impact."
+TacticalText="<Bullet/> Needle Rounds increase clip size significantly at the cost of dealing less damage.<br>"
+
+; *********************************************************************************************************************
+; ***							AMMO TECH		     																***
+; *********************************************************************************************************************
+
+[AmmoCrafting_Incision X2TechTemplate]
+DisplayName="Skirmisher Ammo"
+Summary="We're looking to upgrade our old Shredder Rounds with elerium cores - the Skirmishers have sent over some of their stolen prototype weaponry that we can enhance them with." 
+
+[AmmoCrafting_Stiletto X2TechTemplate]
+DisplayName="Reaper Ammo"
+Summary="With the increased deployment of ADVENT mechanical enemies sporting ridiculous amounts of armor, our engineers are looking to upgrade what AP ammunition we have with elerium with the help of the Reapers." 
+
+[AmmoCrafting_Seeker X2TechTemplate]
+DisplayName="Templar Ammo"
+Summary="The psionic fields our enemies sometimes bring to bear upon us calls for specialized equipment - our engineers think that with the assistance of the Templars, we can hone our Tracer Rounds to better fight our psionic enemies." 
+
+; *********************************************************************************************************************
+; ***							CUSTOM VESTS	     																***
+; *********************************************************************************************************************
+
+[UplinkedVest X2EquipmentTemplate]
+FriendlyName="Circuitbreaker"
+FriendlyNamePlural="Circuitbreaker"
+BriefSummary="The Circuitbreaker provides hacking bonuses to our tech specialists, and can emit a one time energy pulse that draws the attention of  enemy robotics to the wearer."
+TacticalText="<Bullet/> In addition to granting +20 hack, the Circuitbreaker also grants an extra use of the Skulljack.\n<Bullet/> The energy pulse will draw the attention of all robotics, so be careful of when you use it. Is a free action." 
+
+[ShieldVest X2EquipmentTemplate]
+FriendlyName="Barrier Jacket"
+FriendlyNamePlural="Barrier Jacket"
+BriefSummary="This underlay does exactly what you think it does. It provides a regenerating energy shield that should increase the longevity of our operatives out on the field."
+TacticalText="<Bullet/> Grants 3 regenerating shield points.\n<Bullet/> Midchilda-approved!." 
+
+[Etherweave X2EquipmentTemplate]
+FriendlyName="Etherweave"
+FriendlyNamePlural="Etherweave"
+BriefSummary="Made of an exceptionally light material, Etherweave provides myriad defensive bonuses at the cost of increasing damage done to the soldier."
+TacticalText="<Bullet/> Etherweave will provide a mobility and defense bonus while the wearer remains at full HP.\n<Bullet/> Etherweave will allow the wearer to take low cover and treat it like high cover.\n<Bullet/> However, it ruptures easily, and does not protect the user well." 
+
+
+; *********************************************************************************************************************
+; ***							GRENADE TECH		     															***
+; *********************************************************************************************************************
+
+[GrenadeCrafting_Fire X2TechTemplate]
+DisplayName="Incendiary Grenades"
+Summary="Enough is enough, we can reverse-engineer the grenades that the ADVENT purifiers use. Our engineers are just as eager as our troops." 
+
+[GrenadeCrafting_Gas X2TechTemplate]
+DisplayName="Gas Grenades"
+Summary="I'd say we're violating the Geneva Conventions, but we're long past that now. Still, it'll be nice to get a little payback on those damn Vipers." 
+
+[GrenadeCrafting_Acid X2TechTemplate]
+DisplayName="Acid Grenade"
+Summary="This stuff is extremely toxic and corrodes anything it touches. We should use it before it bores a hole in the Avenger." 
+
+; *********************************************************************************************************************
+; ***							GREMLIN MODULES      																***
+; *********************************************************************************************************************
+
+[CombatSuite_Gremlin X2WeaponUpgradeTemplate]
+FriendlyName="GREMLIN: Combat Suite"
+FriendlyNamePlural="Combat Suites"
+BriefSummary="Grants GREMLINs the Combat and Aid Protocol abilities. This is an equippable weapon attachment."
+TinySummary="+Combat, Aid Protocol"
+LootTooltip="+Combat, Aid Protocol"
+
+[LogisticSuite_Gremlin X2WeaponUpgradeTemplate]
+FriendlyName="GREMLIN: Logistic Suite"
+FriendlyNamePlural="Logistic Suites"
+BriefSummary="Grants GREMLINs the Scanning and Revival Protocol ability. This is an equippable weapon attachment."
+TinySummary="+Scanning, Revival Protocol"
+LootTooltip="+Scanning, Revival Protocol"
+
+[DischargeSuite_Gremlin X2WeaponUpgradeTemplate]
+FriendlyName="GREMLIN: Discharge Suite"
+FriendlyNamePlural="Discharge Suites"
+BriefSummary="A GREMLIN protocol suite that harnesses the power of a Sectopod's lightning generator."
+TinySummary="+Capacitor Discharge"
+LootTooltip="+Capacitor Discharge"
+
+[NemesisSuite_Gremlin X2WeaponUpgradeTemplate]
+FriendlyName="GREMLIN: Nemesis Suite"
+FriendlyNamePlural="Nemesis Suites"
+BriefSummary="A GREMLIN protocol that takes into account all we have learned fighting aside the other resistance factions against the Chosen."
+TinySummary="+Nemesis Protocol"
+LootTooltip="+Nemesis Protocol"
+
+[AegisSuite_Gremlin X2WeaponUpgradeTemplate]
+FriendlyName="GREMLIN: Aegis Suite"
+BriefSummary="A GREMLIN protocol suite that focuses on defensive capabilities."
+TinySummary=" +Warden Protocol, +ECM"
+LootTooltip=" +Warden Protocol, +ECM"
+
+[MedicalSuite_Gremlin X2WeaponUpgradeTemplate]
+FriendlyName="GREMLIN: Medical Suite"
+BriefSummary="A GREMLIN protocol suite that focuses on healing capabilities."
+TinySummary=" +Medical Protocol, +15 Dodge"
+LootTooltip=" +Medical Protocol, +15 Dodge"
+
+[OverclockerSuite_Gremlin X2WeaponUpgradeTemplate]
+FriendlyName="GREMLIN: Overseer Suite"
+BriefSummary="A GREMLIN protocol suite that focuses on overloading the GREMLIN in a single, critical turn."
+TinySummary=" +Uplink Protocol, +Overclock"
+LootTooltip=" +Uplink Protocol, +Overclock"
+
+[WrathSuite_Gremlin X2WeaponUpgradeTemplate]
+FriendlyName="GREMLIN: Wrath Suite"
+BriefSummary="A GREMLIN protocol suite that focuses on aggressive manuevering."
+TinySummary=" +Adrenaline Protocol, +Ignition Protocol"
+LootTooltip=" +Adrenaline Protocol, +Ignition Protocol"
+
+[StealthSuite_Gremlin X2WeaponUpgradeTemplate]
+FriendlyName="GREMLIN: Stealth Suite"
+BriefSummary="A GREMLIN protocol suite that focuses on manuevering in the shadows."
+TinySummary=" +Refraction Protocol, +Illusion Protocol"
+LootTooltip=" +Refraction Protocol, +Illusion Protocol"
+
+[Interdiction_Gremlin X2WeaponUpgradeTemplate]
+FriendlyName="Module: Interdiction"
+BriefSummary="Provides the GREMLIN Interdiction ability that allows your GREMLIN to provide point-defense."
+TinySummary=" +Interdiction"
+LootTooltip=" +Interdiction"
+
+[SystemUplink_Gremlin X2WeaponUpgradeTemplate]
+FriendlyName="Module: System Uplink"
+BriefSummary="Provides Holotargeting and a squadwide aim boost on enemies that you can see."
+TinySummary=" +System Uplink, +Holotargeting"
+LootTooltip=" +System Uplink, +Holotargeting"
+
+[Decompilation_Gremlin X2WeaponUpgradeTemplate]
+FriendlyName="Module: Decompilation"
+BriefSummary="An extraneous GREMLIN module that can passively assist in reverse-engineering alien technology, granting hack score on mechanical kills."
+TinySummary="+Decompilation"
+LootTooltip="+Decompilation"
+
+[MegaCapacitor_Gremlin X2WeaponUpgradeTemplate]
+FriendlyName="GREMLIN Mega Capacitors"
+BriefSummary="An improved power source for the GREMLIN that improves the output of its electrical attacks, to possibly stun and disarm enemies."
+TinySummary="+Mega Capacitors"
+LootTooltip="+Mega Capacitors"
+
+; *********************************************************************************************************************
+; ***							GREMLIN TECH	      																***
+; *********************************************************************************************************************
+
+[GremlinModuleCrafting_Aegis X2TechTemplate]
+DisplayName="Gremlin Defensive Protocols"
+Summary="The ADVENT Shieldbearers' energy shields have proved to be quite an annoyance out on the field. And the appearance of the codices that guard the alien network have thrown many of our on-field scanners into disarray. While we can't seem to replicate the wide area effect that can be deployed instantly, our team is confident that we can at least apply some of our experience in combating ADVENT into developing some sort of personal defense field." 
+
+[GremlinModuleCrafting_Wrath X2TechTemplate]
+DisplayName="Gremlin Battle Protocols"
+Summary="Between the deployment of ADVENT's purifiers and the ferocious Berserkers, we find ourselves in need of additional firepower. Our engineers are confident that we can automate the production of the combat serum we have produced from the Berserkers with our GREMLINs, and perhaps pair it with reverse-engineered fuel to create burning circuitry." 
+
+[GremlinModuleCrafting_Stealth X2TechTemplate]
+DisplayName="Gremlin Stealth Protocols"
+Summary="Between the Faceless and the Spectre's... strange physiology, we have gained insight, however baffling, into a new type of nanomachines that we could use to construct vision-altering and scanner-fooling illusions to provide our stealth operatives additional options on the field."
+
+[GremlinModuleCrafting_Overclocker X2TechTemplate]
+DisplayName="Gremlin Performance Suite"
+Summary="We should be able to push our GREMLINs to their limits and well... not have them explode midcombat. We're looking into some heat dampening solutions, but in the meantime, I'm sure you can find plenty of uses for a robotic death drone on overdrive." 
+
+[GremlinModuleCrafting_Medical X2TechTemplate]
+DisplayName="Gremlin Medical Protocols"
+Summary="Our recent breakthroughs in utilizing the innate properties of Viper venom has led us to believe that perhaps we can remotely dispense healing nanomachines via our GREMLINs. Of course, some of our more... excitable engineers have already began implementing Viper combat data into our GREMLIN evasive protocols, so it may come with other benefits as well."
+
+[GremlinModuleCrafting_Discharge X2TechTemplate]
+DisplayName="Gremlin Lightning Protocol"
+Summary="The Sectopod's lightning field is a terrifying thing to experience in person, but we have managed to reverse-engineer enough of the technology that we can have our GREMLINs produce a similar sort of mass discharge on command without frying our systems. Should prove quite handy against MECs and the like." 
+
+[GremlinModuleCrafting_Nemesis X2TechTemplate]
+DisplayName="Nemesis Suite"
+Summary="The Chosen have proved to be quite the effective thorn in our side. We've observed how the combat styles of our allies and our own troops have melded together, and all the tactical simulation data from Volk, Betos, and Geist, alongside our own. We have an immense amount of tactical knowledge to draw upon - our team is confident that this can be used in some way for our GREMLINs to apply some sort of tracer on our foes. We're not quite sure what the result will be, but we expect it won't disappoint." 
+
+[GremlinModuleCrafting_SystemUplink X2TechTemplate]
+DisplayName="Module: System Uplink"
+Summary="We've seen the effectiveness of ADVENT's turret targeting technology. We've seen how the ADVENT captains seem to be able to 'mark' our troops in action. With some effort, we can surely craft additional targeting subsystems for our GREMLINs that could provide some form of rapid aim adjustment for our troopers." 
+
+[GremlinModuleCrafting_Decompilation X2TechTemplate]
+DisplayName="Module: Decompilation"
+Summary="After repeated successes in the field at reverse-engineering their technology with our GREMLINs, our team has come up with a new way to gather ADVENT technology. This module should be able to pierce their hack defenses upon their death, and we can extract valuable hacking data from the MECs we kill." 
+
+[GremlinModuleCrafting_Interdiction X2TechTemplate]
+DisplayName="Module: Interdiction"
+Summary="Our specialists have been inquiring into whether or not we could adapt some sort of short-range interception module onto our GREMLINs. With further study into the reflexes of the Mutons we have autopsied, this seems very possible." 
+
+[GremlinModuleCrafting_MegaCapacitors X2TechTemplate]
+DisplayName="GREMLIN Mega Capacitors"
+Summary="The troops have asked us if there's any way we could increase the GREMLIN's output. Duct taping some more batteries onto it should do the trick." 
+
+
+;     *************************************************************************************************************		;
+; ****																											   **** ;
+; ***											COVERT ACTIONS														*** ;
+; ****																											   **** ;
+;     *************************************************************************************************************		;
+
+[CovertAction_LearnWeaponMastery X2CovertActionTemplate]
+ActionObjective="Hone Weapon Masteries"
+
+[CAN_LearnWeaponMastery_Skirmishers X2CovertActionNarrativeTemplate]
+ActionName="Trial of the Skirmishers"
+ActionPreNarrative="You wish to learn from us the art of war? You needed not ask - we will gladly work hand in hand to impart our proficiency with our valued allies."
+ActionPostNarrative="The bravery of your troops is always commendable. We send them back knowing that the full support of the Skirmishers are at their back, should they wish it."
+
+[CAN_LearnWeaponMastery_Reapers X2CovertActionNarrativeTemplate]
+ActionName="Way of the Reaper"
+ActionPreNarrative="Interested in learning the ways of the Reaper? Ha! Send your guys our way - we'll see if they're up to snuff."
+ActionPostNarrative="That should be useful right? Your troops are welcome amongst the Reapers anytime."
+
+[CAN_LearnWeaponMastery_Templars X2CovertActionNarrativeTemplate]
+ActionName="Path of the Templar"
+ActionPreNarrative="The true battle methods of my followers? In light of your continued assistance, our ways of battle are open to your soldiers, should they wish it."
+ActionPostNarrative="Our quest proved fruitful - your soldiers are now Templars in all but name."
+
+; *********************************************************************************************************************
+
+[CovertAction_TrainEngineer X2CovertActionTemplate]
+ActionObjective="Train Engineer"
+
+[CAN_TrainEngineer_Skirmishers X2CovertActionNarrativeTemplate]
+ActionName="Train Engineer"
+ActionPreNarrative="We have found an opportune moment to strike at the Elders. We need not more fighters, but engineers of skill."
+ActionPostNarrative="Thank you, Commander. Your engineer was instrumental in our success - I believe that they now have a better understanding of ADVENT mechanics."
+
+[CAN_TrainEngineer_Reapers]
+ActionName="Train Engineer"
+ActionPreNarrative="Commander, a situation's come up and we need more engineers. Any you can send our way would be appreciated."
+ActionPostNarrative="You've got my thanks, Commander. We did good work out there and so did your engineer."
+
+[CAN_TrainEngineer_Templars]
+ActionName="Train Engineer"
+ActionPreNarrative="The time has come for us to expand outwards. Though my followers are gifted, engineering knowledge is in short supply."
+ActionPostNarrative="We thank you and your efforts. The Templars will not forget this boon."
+
+; *********************************************************************************************************************
+
+[CovertAction_GuerillaOp X2CovertActionTemplate]
+ActionObjective="Prepare a Raid"
+
+[CAN_GuerillaOp_Skirmishers X2CovertActionNarrativeTemplate]
+ActionName="Prepare a Raid"
+ActionPreNarrative="We can strike at the Elders when they are at their weakest. Lend us your strength."
+ActionPostNarrative="We've forwarded the details of the operation to you, Commander. Good luck."
+
+[CAN_GuerillaOp_Reapers]
+ActionName="Prepare a Raid"
+ActionPreNarrative="We've got a chance to strike at ADVENT hard - you in?"
+ActionPostNarrative="We've forwarded the details of the operation to you, Commander. Good luck."
+
+[CAN_GuerillaOp_Templars]
+ActionName="Prepare a Raid"
+ActionPreNarrative="The time has come to strike fear into the Elders. Your assistance would be appreciated."
+ActionPostNarrative="We've forwarded the details of the operation to you, Commander. Good luck."
+
+; *********************************************************************************************************************
+
+[CovertAction_SupplyRaid X2CovertActionTemplate]
+ActionObjective="Prepare an Ambush"
+
+[CAN_SupplyRaid_Skirmishers X2CovertActionNarrativeTemplate]
+ActionName="Prepare an Ambush"
+ActionPreNarrative="We have come across promising details of an ADVENT convoy moving through our territories."
+ActionPostNarrative="We've forwarded the details of the operation to you, Commander. Good luck."
+
+[CAN_SupplyRaid_Reapers]
+ActionName="Prepare an Ambush"
+ActionPreNarrative="We can hit them hard right where it matters. Send some of your troops over - you won't regret it."
+ActionPostNarrative="We've forwarded the details of the operation to you, Commander. Good luck."
+
+[CAN_SupplyRaid_Templars]
+ActionName="Prepare an Ambush"
+ActionPreNarrative="The time has come for retaliation. My followers have found a moment of great opportunity."
+ActionPostNarrative="We've forwarded the details of the operation to you, Commander. Good luck."
+
+
+
+
+
+; *********************************************************************************************************************
+; ***							MISCELLANIOUS																		***
+; *********************************************************************************************************************
+
+[X2Ability_SkirmisherAbilitySet]
+ParkourFlyoverText="Relentless: +<XGParam:IntValue0/> AP"
+
+[Parkour X2AbilityTemplate]
+LocFriendlyName="Relentless"
+LocLongDescription="Gain an extra action point after your first move of the turn."
+LocHelpText="Gain an extra action point after your first move of the turn."
+
+[Whiplash X2AbilityTemplate]
+LocLongDescription="Attack an enemy with an electrical lash. This attack does not cost an action. Deals damage to robotics while stunning organic enemies."
+LocHelpText="Attack an enemy with an electrical lash. This attack does not cost an action. Deals damage to robotics while stunning organic enemies."
+
+[Templar X2SoldierClassTemplate]
+DisplayName="<font color='#b6b3e3'>Templar</font>" 
+
+[Skirmisher X2SoldierClassTemplate]
+DisplayName="<font color='#bf1e2e'>Skirmisher</font>" 
+
+[Reaper X2SoldierClassTemplate]
+DisplayName="<font color='#a28752'>Reaper</font>"
+
+[TheGift X2AbilityTemplate]
+LocFriendlyName="<font color='#C08EDA'>The Gift</font>"
+LocFlyOverText="<font color='#C08EDA'>The Gift</font>"
+LocLongDescription="This soldier harbors an immense psionic potential within themself."
+LocHelpText="This soldier harbors an immense psionic potential within themself."
+LocPromotionPopupText="<Bullet/> This soldier gains power proportional to its psi offense stat on psionic attacks. <br/>"
+
+[TheGift X2EffectTemplate]
+LocFriendlyName="The Gift"
+
+[PsionStaffSlot X2StaffSlotTemplate]
+EmptyText="OPEN: PSION REQUIRED"
+BonusEmptyText="Train psionic abilities."
+BonusDefaultText="PSION"
+BonusText="%SKILL TRAINING"
+FilledText="%UNITNAME is undergoing a series of rigorous mental training exercises to strengthen their Psionic ability!"
+LockedText="LOCKED: PURCHASE UPGRADE"
+
+[GTSStaffSlot X2StaffSlotTemplate]
+EmptyText="OPEN: SOLDIER REQUIRED"
+BonusEmptyText="Learn a specialization."
+BonusDefaultText="SPECIALIZATION"
+BonusText="%SKILL TRAINING"
+FilledText="%UNITNAME is undergoing a serious of rigorous exercises and lessons to specialize in a particular field of combat!"
+LockedText="LOCKED: PURCHASE UPGRADE"
+
+
+
+
+
+; *********************************************************************************************************************
+; ***							SECOND WAVE																			***
+; *********************************************************************************************************************
+
+[SWDS_ReactiveArmor X2AbilityTemplate]
+LocFriendlyName="Reactive Armor"
+LocLongDescription="While still armored, critical chance and damage is reduced against this unit."
+LocHelpText="While still armored, critical chance and damage is reduced against this unit."
+LocFlyOverText="Reactive Armor"
+
+[SWDS_ForceField X2AbilityTemplate]
+LocFriendlyName="Force Field"
+LocLongDescription="While still shielded, accuracy is reduced against this unit."
+LocHelpText="While still shielded, accuracy is reduced against this unit."
+LocFlyOverText="Force Field"
+
+[SWDS_AdrenalineRush X2AbilityTemplate]
+LocFriendlyName="Adrenaline Rush"
+LocLongDescription="While heavily wounded, this unit gains bonus defense."
+LocHelpText="While heavily wounded, this unit gains bonus defense."
+LocFlyOverText="Adrenaline Rush"
+
+[SWDS_HyperRegen X2AbilityTemplate]
+LocFriendlyName="Hyper Regeneration"
+LocLongDescription="This unit regenerates an immense amount of HP per turn."
+LocHelpText="This unit regenerates an immense amount of HP per turn."
+LocFlyOverText="Hyper Regeneration"
+
+[SWDS_ReactiveArmor X2EffectTemplate]
+LocFriendlyName="Reactive Armor"
+LocLongDescription="While still armored, critical chance and damage is reduced against this unit."
+LocHelpText="While still armored, critical chance and damage is reduced against this unit."
+LocFlyOverText="Reactive Armor"
+
+[SWDS_ForceField X2EffectTemplate]
+LocFriendlyName="Force Field"
+LocLongDescription="While still shielded, accuracy is reduced against this unit."
+LocHelpText="While still shielded, accuracy is reduced against this unit."
+LocFlyOverText="Force Field"
+
+[SWDS_AdrenalineRush X2EffectTemplate]
+LocFriendlyName="Adrenaline Rush"
+LocLongDescription="While heavily wounded, this unit gains bonus defense."
+LocHelpText="While heavily wounded, this unit gains bonus defense."
+LocFlyOverText="Adrenaline Rush"
+
+[SWDS_HyperRegen X2EffectTemplate]
+LocFriendlyName="Hyper Regeneration"
+LocLongDescription="This unit regenerates an immense amount of HP per turn."
+LocHelpText="This unit regenerates an immense amount of HP per turn."
+LocFlyOverText="Hyper Regeneration"
+
+[SWDS_ChosenActionPoints X2AbilityTemplate]
+LocFriendlyName="The Elder's Finest"
+LocLongDescription="The Chosen gains additional non-movement action points."
+LocHelpText="The Chosen gains additional non-movement action points."
+LocFlyOverText="The Elder's Finest"
+

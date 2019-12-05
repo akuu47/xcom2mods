@@ -1,0 +1,127 @@
+[X2DownloadableContentInfo_AddedPartNames]
+
+;
+; SOLDIER
+;
+
+.TorsoTemplate="CNV_WotC_SLD_MGSV_PMC_HeavyArmor_Torso_M"
+.TorsoName="PMC Riot Suit - Torso"
+
+.TorsoTemplate="LPL_WotC_SLD_MGSV_PMC_HeavyArmor_Torso_M"
+.TorsoName="PMC Riot Suit - Torso"
+
+.TorsoTemplate="MPL_WotC_SLD_MGSV_PMC_HeavyArmor_Torso_M"
+.TorsoName="PMC Riot Suit - Torso"
+
+.TorsoTemplate="HPL_WotC_SLD_MGSV_PMC_HeavyArmor_Torso_M"
+.TorsoName="PMC Riot Suit - Torso"
+
+.TorsoTemplate="LPW_WotC_SLD_MGSV_PMC_HeavyArmor_Torso_M"
+.TorsoName="PMC Riot Suit - Torso"
+
+.TorsoTemplate="MPW_WotC_SLD_MGSV_PMC_HeavyArmor_Torso_M"
+.TorsoName="PMC Riot Suit - Torso"
+
+.TorsoTemplate="HPW_WotC_SLD_MGSV_PMC_HeavyArmor_Torso_M"
+.TorsoName="PMC Riot Suit - Torso"
+
+
+.TorsoTemplate="CNV_WotC_SLD_MGSV_PMC_HeavyArmor_Torso_F"
+.TorsoName="PMC Riot Suit - Torso"
+
+.TorsoTemplate="LPL_WotC_SLD_MGSV_PMC_HeavyArmor_Torso_F"
+.TorsoName="PMC Riot Suit - Torso"
+
+.TorsoTemplate="MPL_WotC_SLD_MGSV_PMC_HeavyArmor_Torso_F"
+.TorsoName="PMC Riot Suit - Torso"
+
+.TorsoTemplate="HPL_WotC_SLD_MGSV_PMC_HeavyArmor_Torso_F"
+.TorsoName="PMC Riot Suit - Torso"
+
+.TorsoTemplate="LPW_WotC_SLD_MGSV_PMC_HeavyArmor_Torso_F"
+.TorsoName="PMC Riot Suit - Torso"
+
+.TorsoTemplate="MPW_WotC_SLD_MGSV_PMC_HeavyArmor_Torso_F"
+.TorsoName="PMC Riot Suit - Torso"
+
+.TorsoTemplate="HPW_WotC_SLD_MGSV_PMC_HeavyArmor_Torso_F"
+.TorsoName="PMC Riot Suit - Torso"
+
+
+.LegsTemplate="CNV_WotC_SLD_MGSV_PMC_HeavyArmor_Legs_M"
+.LegsName="PMC Riot Suit - Legs"
+
+.LegsTemplate="LPL_WotC_SLD_MGSV_PMC_HeavyArmor_Legs_M"
+.LegsName="PMC Riot Suit - Legs"
+
+.LegsTemplate="MPL_WotC_SLD_MGSV_PMC_HeavyArmor_Legs_M"
+.LegsName="PMC Riot Suit - Legs"
+
+.LegsTemplate="HPL_WotC_SLD_MGSV_PMC_HeavyArmor_Legs_M"
+.LegsName="PMC Riot Suit - Legs"
+
+.LegsTemplate="LPW_WotC_SLD_MGSV_PMC_HeavyArmor_Legs_M"
+.LegsName="PMC Riot Suit - Legs"
+
+.LegsTemplate="MPW_WotC_SLD_MGSV_PMC_HeavyArmor_Legs_M"
+.LegsName="PMC Riot Suit - Legs"
+
+
+.LegsTemplate="CNV_WotC_SLD_MGSV_PMC_HeavyArmor_Legs_F"
+.LegsName="PMC Riot Suit - Legs"
+
+.LegsTemplate="LPL_WotC_SLD_MGSV_PMC_HeavyArmor_Legs_F"
+.LegsName="PMC Riot Suit - Legs"
+
+.LegsTemplate="MPL_WotC_SLD_MGSV_PMC_HeavyArmor_Legs_F"
+.LegsName="PMC Riot Suit - Legs"
+
+.LegsTemplate="HPL_WotC_SLD_MGSV_PMC_HeavyArmor_Legs_F"
+.LegsName="PMC Riot Suit - Legs"
+
+.LegsTemplate="LPW_WotC_SLD_MGSV_PMC_HeavyArmor_Legs_F"
+.LegsName="PMC Riot Suit - Legs"
+
+.LegsTemplate="MPW_WotC_SLD_MGSV_PMC_HeavyArmor_Legs_F"
+.LegsName="PMC Riot Suit - Legs"
+
+;
+;
+;
+
+.LegsTemplate="CNV_WotC_SLD_MGSV_PMC_HeavyArmor_Legs_Bare_M"
+.LegsName="PMC Riot Suit - Legs [Bare]"
+
+.LegsTemplate="LPL_WotC_SLD_MGSV_PMC_HeavyArmor_Legs_Bare_M"
+.LegsName="PMC Riot Suit - Legs [Bare]"
+
+.LegsTemplate="MPL_WotC_SLD_MGSV_PMC_HeavyArmor_Legs_Bare_M"
+.LegsName="PMC Riot Suit - Legs [Bare]"
+
+.LegsTemplate="HPL_WotC_SLD_MGSV_PMC_HeavyArmor_Legs_Bare_M"
+.LegsName="PMC Riot Suit - Legs [Bare]"
+
+.LegsTemplate="LPW_WotC_SLD_MGSV_PMC_HeavyArmor_Legs_Bare_M"
+.LegsName="PMC Riot Suit - Legs [Bare]"
+
+.LegsTemplate="MPW_WotC_SLD_MGSV_PMC_HeavyArmor_Legs_Bare_M"
+.LegsName="PMC Riot Suit - Legs [Bare]"
+
+
+.LegsTemplate="CNV_WotC_SLD_MGSV_PMC_HeavyArmor_Legs_Bare_F"
+.LegsName="PMC Riot Suit - Legs [Bare]"
+
+.LegsTemplate="LPL_WotC_SLD_MGSV_PMC_HeavyArmor_Legs_Bare_F"
+.LegsName="PMC Riot Suit - Legs [Bare]"
+
+.LegsTemplate="MPL_WotC_SLD_MGSV_PMC_HeavyArmor_Legs_Bare_F"
+.LegsName="PMC Riot Suit - Legs [Bare]"
+
+.LegsTemplate="HPL_WotC_SLD_MGSV_PMC_HeavyArmor_Legs_Bare_F"
+.LegsName="PMC Riot Suit - Legs [Bare]"
+
+.LegsTemplate="LPW_WotC_SLD_MGSV_PMC_HeavyArmor_Legs_Bare_F"
+.LegsName="PMC Riot Suit - Legs [Bare]"
+
+.LegsTemplate="MPW_WotC_SLD_MGSV_PMC_HeavyArmor_Legs_Bare_F"
+.LegsName="PMC Riot Suit - Legs [Bare]"

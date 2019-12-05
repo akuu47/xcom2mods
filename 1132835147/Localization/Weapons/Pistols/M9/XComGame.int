@@ -1,0 +1,41 @@
+[TC_WOTC_MWR_M9_T1 X2WeaponTemplate]
+FriendlyName="<font color='#ECECEC'><b>M9</b></font>"
+FriendlyNamePlural="<font color='#ECECEC'><b>M9s</b></font>"
+AbilityDescName="semi-automatic pistol"
+BriefSummary="The Beretta 92FS is an Italian semi-automatic pistol. The model 92 series of Beretta pistols was designed in 1972, and replaced the US Armed Forces standard issue M1911s with the M9, the military special version of the 92FS. The 92 series comes with many variations, each with distinct names, starting with the operation caliber, operation, and combination of optional items. This particular version is chambered for 9x19mm Parabellum/Luger, which is what the 92 stands for. The FS variant adds an enlarged head to the hammer pin, preventing the rear of the slide from hitting into the firer's face in case of a slide failure."
+TacticalText="<Bullet/>Type: Semi-Automatic Pistol\n<Bullet/>Firing Profile: Semi-Auto\n<Bullet/>Action: Open-Slide, Short Recoil Operation\n<Bullet/>Cartridge: 9×19mm Parabellum\n<Bullet/>Origin: Italy\n<Bullet/>Tier: Conventional"
+
+[TC_WOTC_MWR_M9_T2 X2WeaponTemplate]
+FriendlyName="<font color='#27AAE1'><b>XM35-F</b></font>"
+FriendlyNamePlural="<font color='#27AAE1'><b>92/35M SXs</b></font>"
+AbilityDescName="semi-automatic pistol"
+BriefSummary="The Beretta 92 FS is an Italian semi-automatic pistol. The model 92 series of Beretta pistols was designed in 1972, and replaced the US Armed Forces standard issue M1911s with the M9, the military special version of the 92FS. The 92 series comes with many variations, each with distinct names, starting with the operation caliber, operation, and combination of optional items. This particular version is chambered for 9x19mm Parabellum/Luger, which is what the 92 stands for. The FS variant adds an enlarged head to the hammer pin, preventing the rear of the slide from hitting into the firer's face in case of a slide failure.\n The 92/35M SX is an upgraded version of the old M9, with several of its internal parts replaced with new parts made from alien alloy to prevent the bullets from warping too much when firing. The firing system also gets an upgrade, significantly reducing the recoil of the weapon, and the accuracy of each subsequent shot."
+TacticalText="<Bullet/>Type: Semi-Automatic Pistol\n<Bullet/>Firing Profile: Semi-Auto\n<Bullet/>Action: Open-Slide, Short Recoil Operation\n<Bullet/>Cartridge: 9×19mm Parabellum\n<Bullet/>Origin: Italy\n<Bullet/>Tier: Magnetic"
+
+[TC_WOTC_MWR_M9_T3 X2WeaponTemplate]
+FriendlyName="<font color='#CF4517'><b>M35A1</b></font>"
+FriendlyNamePlural="<font color='#CF4517'><b>M35A1s</b></font>"
+AbilityDescName="semi-automatic pistol"
+BriefSummary="The Beretta 92 FS is an Italian semi-automatic pistol. The model 92 series of Beretta pistols was designed in 1972, and replaced the US Armed Forces standard issue M1911s with the M9, the military special version of the 92FS. The 92 series comes with many variations, each with distinct names, starting with the operation caliber, operation, and combination of optional items. This particular version is chambered for 9x19mm Parabellum/Luger, which is what the 92 stands for. The FS variant adds an enlarged head to the hammer pin, preventing the rear of the slide from hitting into the firer's face in case of a slide failure.\n The 92/35M BX is a revision of the SX version, which adds new subtle features to the weapon. The recoil has been significantly reduced, allowing the first shot and subsequent shots to be very accurate. The upgraded firing system increases the kinetic force for every bullet that's fired from the weapon, significantly increasing the damage done towards unarmored and armored opponents."
+TacticalText="<Bullet/>Type: Semi-Automatic Pistol\n<Bullet/>Firing Profile: Semi-Auto\n<Bullet/>Action: Open-Slide, Short Recoil Operation\n<Bullet/>Cartridge: 9×19mm Parabellum\n<Bullet/>Origin: Italy\n<Bullet/>Tier: Beam"
+
+[TC_WOTC_TMP_MWR_M9_T1 X2WeaponTemplate]
+FriendlyName="<font color='#ECECEC'><b>M9</b></font>"
+FriendlyNamePlural="<font color='#ECECEC'><b>M9s</b></font>"
+AbilityDescName="semi-automatic pistol"
+BriefSummary="The Beretta 92FS is an Italian semi-automatic pistol. The model 92 series of Beretta pistols was designed in 1972, and replaced the US Armed Forces standard issue M1911s with the M9, the military special version of the 92FS. The 92 series comes with many variations, each with distinct names, starting with the operation caliber, operation, and combination of optional items. This particular version is chambered for 9x19mm Parabellum/Luger, which is what the 92 stands for. The FS variant adds an enlarged head to the hammer pin, preventing the rear of the slide from hitting into the firer's face in case of a slide failure."
+TacticalText="<Bullet/>Type: Semi-Automatic Pistol\n<Bullet/>Firing Profile: Semi-Auto\n<Bullet/>Action: Open-Slide, Short Recoil Operation\n<Bullet/>Cartridge: 9×19mm Parabellum\n<Bullet/>Origin: Italy\n<Bullet/>Tier: Conventional"
+
+[TC_WOTC_TMP_MWR_M9_T2 X2WeaponTemplate]
+FriendlyName="<font color='#27AAE1'><b>XM35-F</b></font>"
+FriendlyNamePlural="<font color='#27AAE1'><b>XM35-Fs</b></font>"
+AbilityDescName="semi-automatic pistol"
+BriefSummary="The Beretta 92 FS is an Italian semi-automatic pistol. The model 92 series of Beretta pistols was designed in 1972, and replaced the US Armed Forces standard issue M1911s with the M9, the military special version of the 92FS. The 92 series comes with many variations, each with distinct names, starting with the operation caliber, operation, and combination of optional items. This particular version is chambered for 9x19mm Parabellum/Luger, which is what the 92 stands for. The FS variant adds an enlarged head to the hammer pin, preventing the rear of the slide from hitting into the firer's face in case of a slide failure.\n The 92/35M SX is an upgraded version of the old M9, with several of its internal parts replaced with new parts made from alien alloy to prevent the bullets from warping too much when firing. The firing system also gets an upgrade, significantly reducing the recoil of the weapon, and the accuracy of each subsequent shot."
+TacticalText="<Bullet/>Type: Semi-Automatic Pistol\n<Bullet/>Firing Profile: Semi-Auto\n<Bullet/>Action: Open-Slide, Short Recoil Operation\n<Bullet/>Cartridge: 9×19mm Parabellum\n<Bullet/>Origin: Italy\n<Bullet/>Tier: Magnetic"
+
+[TC_WOTC_TMP_MWR_M9_T3 X2WeaponTemplate]
+FriendlyName="<font color='#CF4517'><b>M35A1</b></font>"
+FriendlyNamePlural="<font color='#CF4517'><b>M35A1s</b></font>"
+AbilityDescName="semi-automatic pistol"
+BriefSummary="The Beretta 92 FS is an Italian semi-automatic pistol. The model 92 series of Beretta pistols was designed in 1972, and replaced the US Armed Forces standard issue M1911s with the M9, the military special version of the 92FS. The 92 series comes with many variations, each with distinct names, starting with the operation caliber, operation, and combination of optional items. This particular version is chambered for 9x19mm Parabellum/Luger, which is what the 92 stands for. The FS variant adds an enlarged head to the hammer pin, preventing the rear of the slide from hitting into the firer's face in case of a slide failure.\n The 92/35M BX is a revision of the SX version, which adds new subtle features to the weapon. The recoil has been significantly reduced, allowing the first shot and subsequent shots to be very accurate. The upgraded firing system increases the kinetic force for every bullet that's fired from the weapon, significantly increasing the damage done towards unarmored and armored opponents."
+TacticalText="<Bullet/>Type: Semi-Automatic Pistol\n<Bullet/>Firing Profile: Semi-Auto\n<Bullet/>Action: Open-Slide, Short Recoil Operation\n<Bullet/>Cartridge: 9×19mm Parabellum\n<Bullet/>Origin: Italy\n<Bullet/>Tier: Beam"

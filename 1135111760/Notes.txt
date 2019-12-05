@@ -1,0 +1,12 @@
+Remarks:
+
+HL Hook in XComGameState_Ability.RetainConcealmentOnActivation -> DLCInfo.AbilityRetainConcealmeantOnActivation(EConcealmentRule CurrentConcealmentRule, XComGameStateContext_Ability ActivationContext)
+
+Inject X2SoldierClassTemplate.MinSuperConcealedDistance to soldier class for super concealment
+
+AbilityTemplate.SuperConcealmentLoss = chance to break concealment
+
+EffectState.GetX2Effect().AdjustSuperConcealModifier
+
+
+XComGameState_Effect.DistractionListener
