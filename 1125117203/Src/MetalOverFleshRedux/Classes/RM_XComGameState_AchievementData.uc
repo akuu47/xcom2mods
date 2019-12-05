@@ -1,0 +1,2 @@
+class RM_XComGameState_AchievementData extends XComGameState_BaseObject;
+

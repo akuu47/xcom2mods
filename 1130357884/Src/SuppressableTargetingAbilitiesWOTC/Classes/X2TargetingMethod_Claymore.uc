@@ -1,0 +1,1 @@
+class X2TargetingMethod_Claymore extends X2TargetingMethod_GrenadePerkWeapon;
